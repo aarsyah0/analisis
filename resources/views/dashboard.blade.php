@@ -1,6 +1,93 @@
 @extends('layouts/user_type/auth')
 
 @section('content')
+    @php
+        if (!function_exists('getSentimentCounts')) {
+            function getSentimentCounts($path)
+            {
+                if (!file_exists($path)) {
+                    return ['positif' => 0, 'netral' => 0, 'negatif' => 0];
+                }
+                $rows = array_map('str_getcsv', file($path));
+                array_shift($rows);
+                $labels = array_column($rows, 1);
+                $counts = array_count_values($labels);
+                return array_merge(['positif' => 0, 'netral' => 0, 'negatif' => 0], $counts);
+            }
+        }
+
+        // Hitung data sekali
+        $base = resource_path('views');
+        $cDana = getSentimentCounts("{$base}/terlabel.csv");
+        $cGoPay = getSentimentCounts("{$base}/terlabelgopay.csv");
+        $cShopee = getSentimentCounts("{$base}/terlabeshopepay.csv");
+
+        // Total kartu (opsional)
+        $totalPositif = $cDana['positif'] + $cGoPay['positif'] + $cShopee['positif'];
+        $totalNetral = $cDana['netral'] + $cGoPay['netral'] + $cShopee['netral'];
+        $totalNegatif = $cDana['negatif'] + $cGoPay['negatif'] + $cShopee['negatif'];
+    @endphp
+
+    <div class="row mb-4">
+        <div class="col-12">
+            <!-- Filter di atas, rata-kanan -->
+            <div class="d-flex justify-content-end mb-3">
+                <select id="walletFilter" class="form-select form-select-sm w-auto" style="min-width: 120px;">
+                    <option value="all">Semua</option>
+                    <option value="dana">Dana</option>
+                    <option value="gopay">GoPay</option>
+                    <option value="shopee">ShopeePay</option>
+                </select>
+            </div>
+
+            <!-- Baris kartu -->
+            <div class="row gx-3">
+                <div class="col-md-4">
+                    <div class="card text-white" style="background-color: #b22fa4;">
+                        <div class="card-body d-flex justify-content-between align-items-center">
+                            <div>
+                                <p class="mb-1 text-sm">Total Positif</p>
+                                <h4 id="positifCount" class="mb-0 text-white">
+                                    {{ $cDana['positif'] + $cGoPay['positif'] + $cShopee['positif'] }}
+                                </h4>
+                            </div>
+                            <i class="fa-solid fa-face-smile fa-4x opacity-8"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="card text-white" style="background-color: #a95b91;">
+                        <div class="card-body d-flex justify-content-between align-items-center">
+                            <div>
+                                <p class="mb-1 text-sm">Total Netral</p>
+                                <h4 id="netralCount" class="mb-0 text-white">
+                                    {{ $cDana['netral'] + $cGoPay['netral'] + $cShopee['netral'] }}
+                                </h4>
+                            </div>
+                            <i class="fa-solid fa-face-meh fa-4x opacity-8"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="card text-white" style="background-color: #8b2f5e;">
+                        <div class="card-body d-flex justify-content-between align-items-center">
+                            <div>
+                                <p class="mb-1 text-sm">Total Negatif</p>
+                                <h4 id="negatifCount" class="mb-0 text-white">
+                                    {{ $cDana['negatif'] + $cGoPay['negatif'] + $cShopee['negatif'] }}
+                                </h4>
+                            </div>
+                            <i class="fa-solid fa-face-frown fa-4x opacity-8"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
     <div class="row mt-4">
         <!-- Bar Chart Card -->
         <div class="col-lg-5 mb-lg-0 mb-4">
@@ -258,5 +345,41 @@
                 pieChart.update();
             });
         };
+        document.addEventListener('DOMContentLoaded', () => {
+            const filter = document.getElementById('walletFilter');
+            const positifEl = document.getElementById('positifCount');
+            const netralEl = document.getElementById('netralCount');
+            const negatifEl = document.getElementById('negatifCount');
+
+            const data = {
+                all: {
+                    positif: {{ $cDana['positif'] + $cGoPay['positif'] + $cShopee['positif'] }},
+                    netral: {{ $cDana['netral'] + $cGoPay['netral'] + $cShopee['netral'] }},
+                    negatif: {{ $cDana['negatif'] + $cGoPay['negatif'] + $cShopee['negatif'] }},
+                },
+                dana: {
+                    positif: {{ $cDana['positif'] }},
+                    netral: {{ $cDana['netral'] }},
+                    negatif: {{ $cDana['negatif'] }},
+                },
+                gopay: {
+                    positif: {{ $cGoPay['positif'] }},
+                    netral: {{ $cGoPay['netral'] }},
+                    negatif: {{ $cGoPay['negatif'] }},
+                },
+                shopee: {
+                    positif: {{ $cShopee['positif'] }},
+                    netral: {{ $cShopee['netral'] }},
+                    negatif: {{ $cShopee['negatif'] }},
+                },
+            };
+
+            filter.addEventListener('change', function() {
+                const d = data[this.value];
+                positifEl.textContent = d.positif;
+                netralEl.textContent = d.netral;
+                negatifEl.textContent = d.negatif;
+            });
+        });
     </script>
 @endpush
