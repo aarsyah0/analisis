@@ -36,7 +36,7 @@
                     <option value="all">Semua</option>
                     <option value="dana">Dana</option>
                     <option value="gopay">GoPay</option>
-                    <option value="shopee">ShopeePay</option>
+                    <option value="shopeepay">ShopeePay</option>
                 </select>
             </div>
 
@@ -160,7 +160,7 @@
                         <option value="all">Semua E-Wallet</option>
                         <option value="dana">Dana</option>
                         <option value="gopay">GoPay</option>
-                        <option value="shopee">ShopeePay</option>
+                        <option value="shopeepay">ShopeePay</option>
                     </select>
                 </div>
                 <div class="card-body p-3">
@@ -305,7 +305,7 @@
                             maxBarThickness: 20
                         },
                         {
-                            label: 'Shopee',
+                            label: 'ShopeePay',
                             data: shopeeData,
                             backgroundColor: gradBar(ctxBar, 'rgba(153,102,255,'),
                             borderRadius: 4,
@@ -342,7 +342,7 @@
             new Chart(ctxLine, {
                 type: 'line',
                 data: {
-                    labels: ['Dana', 'GoPay', 'Shopee'],
+                    labels: ['Dana', 'GoPay', 'Shopeepay'],
                     datasets: [{
                             label: 'Positif',
                             data: [danaData[0], goPayData[0], shopeeData[0]],
@@ -431,7 +431,7 @@
             filter.addEventListener('change', function() {
                 var m = this.value;
                 pieChart.data.datasets[0].data = (m === 'dana' ? danaData : m === 'gopay' ? goPayData : m ===
-                    'shopee' ? shopeeData : allData);
+                    'shopeepay' ? shopeeData : allData);
                 pieChart.update();
             });
         };
@@ -594,7 +594,7 @@
                 weight: goPayTotal
             },
             {
-                text: 'Shopee',
+                text: 'Shopeepay',
                 weight: shopeeTotal
             }
         ];
