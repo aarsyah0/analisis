@@ -179,13 +179,14 @@ p {
   font-style: italic !important;
 }
 // Contextual colors
-
+$text-gradient-bg-primary: linear-gradient(310deg, #cb0c9f, #a4087c);
 .text-gradient {
   background-clip: $text-gradient-bg-clip;
   -webkit-background-clip: $text-gradient-bg-clip;
   -webkit-text-fill-color: $text-gradient-text-fill;
   position: $text-gradient-position;
   z-index: $text-gradient-zindex;
+
 
   &.text-primary {
     background-image: $text-gradient-bg-primary;

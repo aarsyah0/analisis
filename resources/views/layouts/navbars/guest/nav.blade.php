@@ -3,7 +3,11 @@
     class="navbar navbar-expand-lg position-absolute top-0 z-index-3 my-3 {{ Request::is('static-sign-up') ? 'w-100 shadow-none  navbar-transparent mt-4' : 'blur blur-rounded shadow py-2 start-0 end-0 mx4' }}">
     <div class="container-fluid {{ Request::is('static-sign-up') ? 'container' : 'container-fluid' }}">
         <a class="navbar-brand font-weight-bolder ms-lg-0 ms-3 {{ Request::is('static-sign-up') ? 'text-white' : '' }}"
-            href="{{ url('dashboard') }}">
+            href="{{ url('dashboard') }}"
+            style="background-image: linear-gradient(310deg, #cb0c9f, #d94db6, #f199d9);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;">
             TwiSense
         </a>
         <button class="navbar-toggler shadow-none ms-2" type="button" data-bs-toggle="collapse"
@@ -34,13 +38,13 @@
                     </li>
                 @endif
             </ul>
-            <ul class="navbar-nav d-lg-block d-none">
+            {{-- <ul class="navbar-nav d-lg-block d-none">
                 <li class="nav-item">
                     <a href="#" target="_blank"
                         class="btn btn-sm btn-round mb-0 me-1 bg-gradient-{{ Request::is('static-sign-up') ? 'light' : 'dark' }}">Sign
                         In</a>
                 </li>
-            </ul>
+            </ul> --}}
         </div>
     </div>
 </nav>

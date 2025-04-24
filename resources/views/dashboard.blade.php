@@ -43,21 +43,29 @@
             <!-- Baris kartu -->
             <div class="row gx-3">
                 <div class="col-md-4">
-                    <div class="card text-white" style="background-color: #b22fa4;">
-                        <div class="card-body d-flex justify-content-between align-items-center">
+                    <div class="card text-white shadow-lg border-radius-xl"
+                        style="background-color: #b22fa4; color: #fff; box-shadow: inset 2px 2px 6px rgba(255, 255, 255, 0.1), 6px 6px 20px rgba(178, 47, 164, 0.5);">
+                        <div class="card-body d-flex justify-content-between align-items-center p-4">
                             <div>
-                                <p class="mb-1 text-sm">Total Positif</p>
-                                <h4 id="positifCount" class="mb-0 text-white">
+                                <p class="mb-1 text-sm fw-bold opacity-85">Total Positif</p>
+                                <h4 id="positifCount" class="mb-0 text-white fw-bolder">
                                     {{ $cDana['positif'] + $cGoPay['positif'] + $cShopee['positif'] }}
                                 </h4>
                             </div>
-                            <i class="fa-solid fa-face-smile fa-4x opacity-8"></i>
+                            <div class="d-flex align-items-center justify-content-center rounded-circle"
+                                style="width: 64px; height: 64px; background-color: rgba(255, 255, 255, 0.15); box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+                                <i class="fa-solid fa-face-smile fa-2x opacity-9"
+                                    style="transition: transform 0.3s ease, opacity 0.3s ease;"
+                                    onmouseover="this.style.transform='scale(1.2)'; this.style.opacity='1';"
+                                    onmouseout="this.style.transform='scale(1)'; this.style.opacity='0.9';"></i>
+                            </div>
+
                         </div>
                     </div>
                 </div>
-
                 <div class="col-md-4">
-                    <div class="card text-white" style="background-color: #a95b91;">
+                    <div class="card text-white"
+                        style="background-color: #a95b91; color: #fff; box-shadow: inset 2px 2px 6px rgba(255, 255, 255, 0.1), 6px 6px 20px rgba(178, 47, 164, 0.5);">
                         <div class="card-body d-flex justify-content-between align-items-center">
                             <div>
                                 <p class="mb-1 text-sm">Total Netral</p>
@@ -65,13 +73,20 @@
                                     {{ $cDana['netral'] + $cGoPay['netral'] + $cShopee['netral'] }}
                                 </h4>
                             </div>
-                            <i class="fa-solid fa-face-meh fa-4x opacity-8"></i>
+                            <div class="d-flex align-items-center justify-content-center rounded-circle"
+                                style="width: 64px; height: 64px; background-color: rgba(255, 255, 255, 0.15); box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+                                <i class="fa-solid fa-face-meh fa-2x opacity-9"
+                                    style="transition: transform 0.3s ease, opacity 0.3s ease;"
+                                    onmouseover="this.style.transform='scale(1.2)'; this.style.opacity='1';"
+                                    onmouseout="this.style.transform='scale(1)'; this.style.opacity='0.9';"></i>
+                            </div>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-md-4">
-                    <div class="card text-white" style="background-color: #8b2f5e;">
+                    <div class="card text-white"
+                        style="background-color: #8b2f5e; color: #fff; box-shadow: inset 2px 2px 6px rgba(255, 255, 255, 0.1), 6px 6px 20px rgba(178, 47, 164, 0.5);">
                         <div class="card-body d-flex justify-content-between align-items-center">
                             <div>
                                 <p class="mb-1 text-sm">Total Negatif</p>
@@ -79,13 +94,20 @@
                                     {{ $cDana['negatif'] + $cGoPay['negatif'] + $cShopee['negatif'] }}
                                 </h4>
                             </div>
-                            <i class="fa-solid fa-face-frown fa-4x opacity-8"></i>
+                            <div class="d-flex align-items-center justify-content-center rounded-circle"
+                                style="width: 64px; height: 64px; background-color: rgba(255, 255, 255, 0.15); box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+                                <i class="fa-solid fa-face-frown fa-2x opacity-9"
+                                    style="transition: transform 0.3s ease, opacity 0.3s ease;"
+                                    onmouseover="this.style.transform='scale(1.2)'; this.style.opacity='1';"
+                                    onmouseout="this.style.transform='scale(1)'; this.style.opacity='0.9';"></i>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
 
         </div>
+    </div>
     </div>
 
     <div class="row mt-4">
@@ -117,7 +139,7 @@
                 </div>
                 <div class="card-body p-3">
                     <div class="chart">
-                        <canvas id="chart-line" class="chart-canvas" height="250" style="width:100%;"></canvas>
+                        <canvas id="chart-line" class="chart-canvas" height="318" style="width:100%;"></canvas>
                     </div>
                 </div>
             </div>
@@ -126,8 +148,8 @@
 
     <div class="row mt-4">
         <!-- Pie Chart Card with filter -->
-        <div class="col-lg-6 mx-auto">
-            <div class="card z-index-2">
+        <div class="col-lg-5 mb-lg-0 mb-4 d-flex">
+            <div class="card z-index-2 flex-grow-1">
                 <div class="card-header pb-0 d-flex justify-content-between align-items-center">
                     <div>
                         <h6 class="mb-1">Distribusi Persentase Sentimen</h6>
@@ -144,6 +166,72 @@
                 <div class="card-body p-3">
                     <div class="chart">
                         <canvas id="chart-pie" class="chart-canvas" height="250" style="width:100%;"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-7 d-flex">
+            <div class="card z-index-2 flex-grow-1">
+                <div class="card-header pb-0">
+                    <h6>Perbandingan Sentimen Antar Brand</h6>
+                    <p class="text-sm">Tabel ini menunjukkan jumlah dan proporsi sentimen untuk masing-masing e-wallet.</p>
+                </div>
+                <div class="card-body px-3 pt-0 pb-3">
+                    <div class="table-responsive">
+                        <table class="table align-items-center mb-0">
+                            <thead>
+                                <tr>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7"
+                                        style="background-color: #f8f9fa;">E-Wallet</th>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2"
+                                        style="background-color: #f8f9fa;">Positif</th>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2"
+                                        style="background-color: #f8f9fa;">Netral</th>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2"
+                                        style="background-color: #f8f9fa;">Negatif</th>
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2"
+                                        style="background-color: #f8f9fa;">Net Score</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td><strong>DANA</strong></td>
+                                    <td>{{ $cDana['positif'] }}</td>
+                                    <td>{{ $cDana['netral'] }}</td>
+                                    <td>{{ $cDana['negatif'] }}</td>
+                                    <td>
+                                        <span
+                                            class="badge {{ $cDana['positif'] - $cDana['negatif'] > 0 ? 'bg-success' : 'bg-danger' }}">
+                                            {{ number_format((($cDana['positif'] - $cDana['negatif']) / max(1, $cDana['positif'] + $cDana['netral'] + $cDana['negatif'])) * 100, 1) }}%
+                                        </span>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td><strong>GoPay</strong></td>
+                                    <td>{{ $cGoPay['positif'] }}</td>
+                                    <td>{{ $cGoPay['netral'] }}</td>
+                                    <td>{{ $cGoPay['negatif'] }}</td>
+                                    <td>
+                                        <span
+                                            class="badge {{ $cGoPay['positif'] - $cGoPay['negatif'] > 0 ? 'bg-success' : 'bg-danger' }}">
+                                            {{ number_format((($cGoPay['positif'] - $cGoPay['negatif']) / max(1, $cGoPay['positif'] + $cGoPay['netral'] + $cGoPay['negatif'])) * 100, 1) }}%
+                                        </span>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td><strong>ShopeePay</strong></td>
+                                    <td>{{ $cShopee['positif'] }}</td>
+                                    <td>{{ $cShopee['netral'] }}</td>
+                                    <td>{{ $cShopee['negatif'] }}</td>
+                                    <td>
+                                        <span
+                                            class="badge {{ $cShopee['positif'] - $cShopee['negatif'] > 0 ? 'bg-success' : 'bg-danger' }}">
+                                            {{ number_format((($cShopee['positif'] - $cShopee['negatif']) / max(1, $cShopee['positif'] + $cShopee['netral'] + $cShopee['negatif'])) * 100, 1) }}%
+                                        </span>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
                     </div>
                 </div>
             </div>
@@ -313,6 +401,8 @@
                 },
                 options: {
                     responsive: true,
+                    maintainAspectRatio: false, // Disable maintain aspect ratio
+                    aspectRatio: 2, // Aspect ratio of 1 will give a square chart, you can adjust to your needs
                     animation: {
                         animateRotate: true,
                         duration: 1000
@@ -381,5 +471,146 @@
                 negatifEl.textContent = d.negatif;
             });
         });
+        // Word Cloud
+        // var danaData = [{{ $cDana['positif'] }}, {{ $cDana['netral'] }}, {{ $cDana['negatif'] }}];
+        // var goPayData = [{{ $cGoPay['positif'] }}, {{ $cGoPay['netral'] }}, {{ $cGoPay['negatif'] }}];
+        // var shopeeData = [{{ $cShopee['positif'] }}, {{ $cShopee['netral'] }}, {{ $cShopee['negatif'] }}];
+
+        // var danaData = [{{ $cDana['positif'] }}, {{ $cDana['netral'] }}, {{ $cDana['negatif'] }}];
+        // var goPayData = [{{ $cGoPay['positif'] }}, {{ $cGoPay['netral'] }}, {{ $cGoPay['negatif'] }}];
+        // var shopeeData = [{{ $cShopee['positif'] }}, {{ $cShopee['netral'] }}, {{ $cShopee['negatif'] }}];
+
+        // var wordData = [{
+        //         text: 'Positif Dana',
+        //         weight: danaData[0]
+        //     },
+        //     {
+        //         text: 'Netral Dana',
+        //         weight: danaData[1]
+        //     },
+        //     {
+        //         text: 'Negatif Dana',
+        //         weight: danaData[2]
+        //     },
+        //     {
+        //         text: 'Positif GoPay',
+        //         weight: goPayData[0]
+        //     },
+        //     {
+        //         text: 'Netral GoPay',
+        //         weight: goPayData[1]
+        //     },
+        //     {
+        //         text: 'Negatif GoPay',
+        //         weight: goPayData[2]
+        //     },
+        //     {
+        //         text: 'Positif Shopee',
+        //         weight: shopeeData[0]
+        //     },
+        //     {
+        //         text: 'Netral Shopee',
+        //         weight: shopeeData[1]
+        //     },
+        //     {
+        //         text: 'Negatif Shopee',
+        //         weight: shopeeData[2]
+        //     }
+        // ];
+
+        // // Menggunakan WordCloud.js untuk membuat visualisasi
+        // WordCloud(document.getElementById('wordCloud'), {
+        //     list: wordData.map(function(item) {
+        //         return [item.text, item.weight]; // Format: [kata, ukuran]
+        //     }),
+        //     gridSize: 10,
+        //     weightFactor: 10,
+        //     fontFamily: 'Arial',
+        //     color: 'random-light',
+        //     backgroundColor: '#f4f6f9',
+        //     rotateRatio: 0.5
+        // });
+        // var wordData = [{
+        //         text: 'Positif Dana',
+        //         weight: danaData[0]
+        //     },
+        //     {
+        //         text: 'Netral Dana',
+        //         weight: danaData[1]
+        //     },
+        //     {
+        //         text: 'Negatif Dana',
+        //         weight: danaData[2]
+        //     },
+        //     {
+        //         text: 'Positif GoPay',
+        //         weight: goPayData[0]
+        //     },
+        //     {
+        //         text: 'Netral GoPay',
+        //         weight: goPayData[1]
+        //     },
+        //     {
+        //         text: 'Negatif GoPay',
+        //         weight: goPayData[2]
+        //     },
+        //     {
+        //         text: 'Positif Shopee',
+        //         weight: shopeeData[0]
+        //     },
+        //     {
+        //         text: 'Netral Shopee',
+        //         weight: shopeeData[1]
+        //     },
+        //     {
+        //         text: 'Negatif Shopee',
+        //         weight: shopeeData[2]
+        //     }
+        // ];
+
+        // Pastikan canvas sudah siap
+        // setTimeout(() => {
+        //     WordCloud(document.getElementById('wordCloud'), {
+        //         list: wordData.map(item => [item.text, item.weight]),
+        //         gridSize: 8,
+        //         weightFactor: 2,
+        //         fontFamily: 'Arial',
+        //         color: 'random-dark',
+        //         backgroundColor: '#f4f6f9',
+        //         rotateRatio: 0.5,
+        //         minSize: 12
+        //     });
+        // }, 100);
+        var danaTotal = {{ $cDana['positif'] + $cDana['netral'] + $cDana['negatif'] }};
+        var goPayTotal = {{ $cGoPay['positif'] + $cGoPay['netral'] + $cGoPay['negatif'] }};
+        var shopeeTotal = {{ $cShopee['positif'] + $cShopee['netral'] + $cShopee['negatif'] }};
+
+        var wordData = [{
+                text: 'Dana',
+                weight: danaTotal
+            },
+            {
+                text: 'GoPay',
+                weight: goPayTotal
+            },
+            {
+                text: 'Shopee',
+                weight: shopeeTotal
+            }
+        ];
+
+        // Render Word Cloud
+        setTimeout(() => {
+            WordCloud(document.getElementById('wordCloud'), {
+                list: wordData.map(item => [item.text, item.weight]),
+                gridSize: 6,
+                weightFactor: 4, // semakin besar, semakin beda ukurannya
+                fontFamily: 'Arial',
+                color: 'random-dark',
+                backgroundColor: '#f4f6f9',
+                rotateRatio: 0,
+                minSize: 12
+            });
+        }, 100);
     </script>
 @endpush

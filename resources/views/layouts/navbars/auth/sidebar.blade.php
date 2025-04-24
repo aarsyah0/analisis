@@ -34,7 +34,10 @@
                             </g>
                         </svg>
                     </div>
-                    <span class="nav-link-text ms-1">Dashboard</span>
+                    <span class="nav-link-text ms-1" style="color: {{ Request::is('dashboard') ? '#000' : '#fff' }};">
+                        Dashboard
+                    </span>
+
                 </a>
             </li>
             <li class="nav-item">
@@ -65,7 +68,12 @@
                             </g>
                         </svg>
                     </div>
-                    <span class="nav-link-text ms-1">Data Sentimen</span>
+                    <span class="nav-link-text ms-1"
+                        style="color: {{ Request::is('data-sentimen') ? '#000' : '#fff' }};">
+                        Data Sentimen
+                    </span>
+
+
                 </a>
             </li>
         </ul>
