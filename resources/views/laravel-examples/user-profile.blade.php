@@ -10,7 +10,7 @@
 
             {{-- === Table for Dana === --}}
             @php
-                $pathDana = resource_path('views/terlabel.csv');
+                $pathDana = resource_path('views/danalabel.csv');
                 $allRowsDana = file_exists($pathDana) ? array_map('str_getcsv', file($pathDana)) : [];
                 $headerDana = count($allRowsDana) > 1 ? array_shift($allRowsDana) : [];
                 $perPageDana = (int) request()->get('per_page_dana', 10);
@@ -30,7 +30,7 @@
             <div class="col-12 mb-4" id="dana">
                 <div class="card shadow-sm border-0 rounded-2">
                     <div class="card-header bg-white border-bottom-0 pb-0">
-                        <h6 class="mb-0">Data Sentimen Dana (terlabel.csv)</h6>
+                        <h6 class="mb-0">Data Sentimen Dana (danalabel.csv)</h6>
                     </div>
                     <div class="card-body px-0 pt-2 pb-3">
                         <div class="table-responsive">
@@ -57,7 +57,7 @@
                                 </table>
                             @else
                                 <p class="text-center text-muted py-4">
-                                    File terlabel.csv tidak ditemukan atau kosong.
+                                    File danalabel.csv tidak ditemukan atau kosong.
                                 </p>
                             @endif
                         </div>
@@ -143,7 +143,7 @@
 
             {{-- === Table for GoPay === --}}
             @php
-                $pathGo = resource_path('views/terlabelgopay.csv');
+                $pathGo = resource_path('views/gopaylabel.csv');
                 $allRowsGo = file_exists($pathGo) ? array_map('str_getcsv', file($pathGo)) : [];
                 $headerGo = count($allRowsGo) > 1 ? array_shift($allRowsGo) : [];
                 $perPageGo = (int) request()->get('per_page_go', 10);
@@ -163,7 +163,7 @@
             <div class="col-12 mb-4" id="gopay">
                 <div class="card shadow-sm border-0 rounded-2">
                     <div class="card-header bg-white border-bottom-0 pb-0">
-                        <h6 class="mb-0">Data Sentimen GoPay (terlabelgopay.csv)</h6>
+                        <h6 class="mb-0">Data Sentimen GoPay (gopaylabel.csv)</h6>
                     </div>
                     <div class="card-body px-0 pt-2 pb-3">
                         <div class="table-responsive">
@@ -273,7 +273,7 @@
 
             {{-- === Table for ShopeePay === --}}
             @php
-                $pathShopee = resource_path('views/terlabeshopepay.csv');
+                $pathShopee = resource_path('views/shopeepaylabel.csv');
                 $allRowsShopee = file_exists($pathShopee) ? array_map('str_getcsv', file($pathShopee)) : [];
                 $headerShopee = count($allRowsShopee) > 1 ? array_shift($allRowsShopee) : [];
                 $perPageShopee = (int) request()->get('per_page_shopee', 10);
@@ -293,7 +293,7 @@
             <div class="col-12 mb-4" id="shopeepay">
                 <div class="card shadow-sm border-0 rounded-2">
                     <div class="card-header bg-white border-bottom-0 pb-0">
-                        <h6 class="mb-0">Data Sentimen ShopeePay (terlabeshopepay.csv)</h6>
+                        <h6 class="mb-0">Data Sentimen ShopeePay (shopepaylabel.csv)</h6>
                     </div>
                     <div class="card-body px-0 pt-2 pb-3">
                         <div class="table-responsive">
@@ -320,7 +320,7 @@
                                 </table>
                             @else
                                 <p class="text-center text-muted py-4">
-                                    File terlabeshopepay.csv tidak ditemukan atau kosong.
+                                    File shopepaylabel.csv tidak ditemukan atau kosong.
                                 </p>
                             @endif
                         </div>

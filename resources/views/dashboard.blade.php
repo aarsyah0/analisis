@@ -18,9 +18,9 @@
 
         // Hitung data sekali
         $base = resource_path('views');
-        $cDana = getSentimentCounts("{$base}/terlabel.csv");
-        $cGoPay = getSentimentCounts("{$base}/terlabelgopay.csv");
-        $cShopee = getSentimentCounts("{$base}/terlabeshopepay.csv");
+        $cDana = getSentimentCounts("{$base}/danalabel.csv");
+        $cGoPay = getSentimentCounts("{$base}/gopaylabel.csv");
+        $cShopee = getSentimentCounts("{$base}/shopeepaylabel.csv");
 
         // Total kartu (opsional)
         $totalPositif = $cDana['positif'] + $cGoPay['positif'] + $cShopee['positif'];
@@ -36,7 +36,7 @@
                     <option value="all">Semua</option>
                     <option value="dana">Dana</option>
                     <option value="gopay">GoPay</option>
-                    <option value="shopeepay">ShopeePay</option>
+                    <option value="shopee">ShopeePay</option>
                 </select>
             </div>
 
@@ -160,7 +160,7 @@
                         <option value="all">Semua E-Wallet</option>
                         <option value="dana">Dana</option>
                         <option value="gopay">GoPay</option>
-                        <option value="shopeepay">ShopeePay</option>
+                        <option value="shopee">ShopeePay</option>
                     </select>
                 </div>
                 <div class="card-body p-3">
@@ -263,9 +263,9 @@
                     return array_merge(['positif' => 0, 'netral' => 0, 'negatif' => 0], $counts);
                 }
                 $base = resource_path('views');
-                $cDana = getSentimentCounts("{$base}/terlabel.csv");
-                $cGoPay = getSentimentCounts("{$base}/terlabelgopay.csv");
-                $cShopee = getSentimentCounts("{$base}/terlabeshopepay.csv");
+                $cDana = getSentimentCounts("{$base}/danalabel.csv");
+                $cGoPay = getSentimentCounts("{$base}/gopaylabel.csv");
+                $cShopee = getSentimentCounts("{$base}/shopeepaylabel.csv");
             @endphp
 
             // Data arrays
