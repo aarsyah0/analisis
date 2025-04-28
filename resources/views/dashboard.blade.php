@@ -237,6 +237,34 @@
             </div>
         </div>
     </div>
+    <div class="center d-flex flex-column justify-content-center align-items-center"
+        style="padding: 2rem; min-height: 100vh;">
+
+        <div class="row justify-content-center my-5">
+            <div class="col-lg-8">
+                <div class="mb-3" style="width: 300px;">
+                    <select id="sourceSelect" class="form-select">
+                        <option value="gopay" selected>Gopay</option>
+                        <option value="dana">Dana</option>
+                        <option value="shopeepay">Shopeepay</option>
+                        <option value="gabungan">Gabungan</option>
+                    </select>
+                </div>
+                <div class="card shadow-lg border-radius-lg bg-white">
+                    <div class="card-header pb-2">
+                    </div>
+                    <div class="card-body d-flex justify-content-center align-items-center py-4">
+                        <canvas id="wc" width="1800" height="800"
+                            style="max-width: 100%; height: auto;"></canvas>
+                    </div>
+                    <div class="card-footer text-muted text-end small">
+                        Generated on {{ date('d F Y, H:i') }}
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
 @endsection
 
 @push('dashboard')
@@ -471,146 +499,40 @@
                 negatifEl.textContent = d.negatif;
             });
         });
-        // Word Cloud
-        // var danaData = [{{ $cDana['positif'] }}, {{ $cDana['netral'] }}, {{ $cDana['negatif'] }}];
-        // var goPayData = [{{ $cGoPay['positif'] }}, {{ $cGoPay['netral'] }}, {{ $cGoPay['negatif'] }}];
-        // var shopeeData = [{{ $cShopee['positif'] }}, {{ $cShopee['netral'] }}, {{ $cShopee['negatif'] }}];
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/wordcloud@1.1.2/src/wordcloud2.min.js" defer></script>
+    <script defer>
+        document.addEventListener('DOMContentLoaded', () => {
+            const canvas = document.getElementById('wc');
+            const select = document.getElementById('sourceSelect');
 
-        // var danaData = [{{ $cDana['positif'] }}, {{ $cDana['netral'] }}, {{ $cDana['negatif'] }}];
-        // var goPayData = [{{ $cGoPay['positif'] }}, {{ $cGoPay['netral'] }}, {{ $cGoPay['negatif'] }}];
-        // var shopeeData = [{{ $cShopee['positif'] }}, {{ $cShopee['netral'] }}, {{ $cShopee['negatif'] }}];
+            function loadWordCloud(source) {
+                fetch(`/wordcloud-data?source=${source}`)
+                    .then(res => res.json())
+                    .then(list => {
+                        console.log('WordCloud data:', list); // → pastikan ada data
+                        WordCloud(canvas, {
+                            list,
+                            gridSize: Math.round(1600 / 100),
+                            weightFactor: w => Math.pow(w, 0.5) * 8,
 
-        // var wordData = [{
-        //         text: 'Positif Dana',
-        //         weight: danaData[0]
-        //     },
-        //     {
-        //         text: 'Netral Dana',
-        //         weight: danaData[1]
-        //     },
-        //     {
-        //         text: 'Negatif Dana',
-        //         weight: danaData[2]
-        //     },
-        //     {
-        //         text: 'Positif GoPay',
-        //         weight: goPayData[0]
-        //     },
-        //     {
-        //         text: 'Netral GoPay',
-        //         weight: goPayData[1]
-        //     },
-        //     {
-        //         text: 'Negatif GoPay',
-        //         weight: goPayData[2]
-        //     },
-        //     {
-        //         text: 'Positif Shopee',
-        //         weight: shopeeData[0]
-        //     },
-        //     {
-        //         text: 'Netral Shopee',
-        //         weight: shopeeData[1]
-        //     },
-        //     {
-        //         text: 'Negatif Shopee',
-        //         weight: shopeeData[2]
-        //     }
-        // ];
-
-        // // Menggunakan WordCloud.js untuk membuat visualisasi
-        // WordCloud(document.getElementById('wordCloud'), {
-        //     list: wordData.map(function(item) {
-        //         return [item.text, item.weight]; // Format: [kata, ukuran]
-        //     }),
-        //     gridSize: 10,
-        //     weightFactor: 10,
-        //     fontFamily: 'Arial',
-        //     color: 'random-light',
-        //     backgroundColor: '#f4f6f9',
-        //     rotateRatio: 0.5
-        // });
-        // var wordData = [{
-        //         text: 'Positif Dana',
-        //         weight: danaData[0]
-        //     },
-        //     {
-        //         text: 'Netral Dana',
-        //         weight: danaData[1]
-        //     },
-        //     {
-        //         text: 'Negatif Dana',
-        //         weight: danaData[2]
-        //     },
-        //     {
-        //         text: 'Positif GoPay',
-        //         weight: goPayData[0]
-        //     },
-        //     {
-        //         text: 'Netral GoPay',
-        //         weight: goPayData[1]
-        //     },
-        //     {
-        //         text: 'Negatif GoPay',
-        //         weight: goPayData[2]
-        //     },
-        //     {
-        //         text: 'Positif Shopee',
-        //         weight: shopeeData[0]
-        //     },
-        //     {
-        //         text: 'Netral Shopee',
-        //         weight: shopeeData[1]
-        //     },
-        //     {
-        //         text: 'Negatif Shopee',
-        //         weight: shopeeData[2]
-        //     }
-        // ];
-
-        // Pastikan canvas sudah siap
-        // setTimeout(() => {
-        //     WordCloud(document.getElementById('wordCloud'), {
-        //         list: wordData.map(item => [item.text, item.weight]),
-        //         gridSize: 8,
-        //         weightFactor: 2,
-        //         fontFamily: 'Arial',
-        //         color: 'random-dark',
-        //         backgroundColor: '#f4f6f9',
-        //         rotateRatio: 0.5,
-        //         minSize: 12
-        //     });
-        // }, 100);
-        var danaTotal = {{ $cDana['positif'] + $cDana['netral'] + $cDana['negatif'] }};
-        var goPayTotal = {{ $cGoPay['positif'] + $cGoPay['netral'] + $cGoPay['negatif'] }};
-        var shopeeTotal = {{ $cShopee['positif'] + $cShopee['netral'] + $cShopee['negatif'] }};
-
-        var wordData = [{
-                text: 'Dana',
-                weight: danaTotal
-            },
-            {
-                text: 'GoPay',
-                weight: goPayTotal
-            },
-            {
-                text: 'Shopeepay',
-                weight: shopeeTotal
+                            fontFamily: 'Arial, sans-serif',
+                            rotateRatio: 0,
+                            shape: 'elliptic',
+                            ellipticity: 0.65,
+                            drawOutOfBound: false,
+                            backgroundColor: '#ffffff'
+                        });
+                    })
+                    .catch(err => console.error('WC fetch err:', err));
             }
-        ];
 
-        // Render Word Cloud
-        setTimeout(() => {
-            WordCloud(document.getElementById('wordCloud'), {
-                list: wordData.map(item => [item.text, item.weight]),
-                gridSize: 6,
-                weightFactor: 4, // semakin besar, semakin beda ukurannya
-                fontFamily: 'Arial',
-                color: 'random-dark',
-                backgroundColor: '#f4f6f9',
-                rotateRatio: 0,
-                minSize: 12
+            // Load pertama kali pakai nilai default di <select>
+            loadWordCloud(select.value);
+
+            select.addEventListener('change', () => {
+                loadWordCloud(select.value);
             });
-        }, 100);
+        });
     </script>
 @endpush
