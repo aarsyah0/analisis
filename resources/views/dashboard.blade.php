@@ -160,7 +160,7 @@
                         <option value="all">Semua E-Wallet</option>
                         <option value="dana">Dana</option>
                         <option value="gopay">GoPay</option>
-                        <option value="shopee">ShopeePay</option>
+                        <option value="shopeepay">ShopeePay</option>
                     </select>
                 </div>
                 <div class="card-body p-3">
