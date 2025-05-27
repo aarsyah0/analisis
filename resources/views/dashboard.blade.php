@@ -1,538 +1,258 @@
 @extends('layouts/user_type/auth')
 
 @section('content')
-    @php
-        if (!function_exists('getSentimentCounts')) {
-            function getSentimentCounts($path)
-            {
-                if (!file_exists($path)) {
-                    return ['positif' => 0, 'netral' => 0, 'negatif' => 0];
-                }
-                $rows = array_map('str_getcsv', file($path));
-                array_shift($rows);
-                $labels = array_column($rows, 1);
-                $counts = array_count_values($labels);
-                return array_merge(['positif' => 0, 'netral' => 0, 'negatif' => 0], $counts);
-            }
-        }
-
-        // Hitung data sekali
-        $base = resource_path('views');
-        $cDana = getSentimentCounts("{$base}/danalabel.csv");
-        $cGoPay = getSentimentCounts("{$base}/gopaylabel.csv");
-        $cShopee = getSentimentCounts("{$base}/shopeepaylabel.csv");
-
-        // Total kartu (opsional)
-        $totalPositif = $cDana['positif'] + $cGoPay['positif'] + $cShopee['positif'];
-        $totalNetral = $cDana['netral'] + $cGoPay['netral'] + $cShopee['netral'];
-        $totalNegatif = $cDana['negatif'] + $cGoPay['negatif'] + $cShopee['negatif'];
-    @endphp
-
+    {{-- Ringkasan Sentimen --}}
     <div class="row mb-4">
         <div class="col-12">
-            <!-- Filter di atas, rata-kanan -->
             <div class="d-flex justify-content-end mb-3">
-                <select id="walletFilter" class="form-select form-select-sm w-auto" style="min-width: 120px;">
+                <select id="walletFilter" class="form-select form-select-sm w-auto" style="min-width:120px;">
                     <option value="all">Semua</option>
                     <option value="dana">Dana</option>
                     <option value="gopay">GoPay</option>
-                    <option value="shopee">ShopeePay</option>
+                    <option value="shopeepay">ShopeePay</option>
                 </select>
             </div>
-
-            <!-- Baris kartu -->
             <div class="row gx-3">
-                <div class="col-md-4">
-                    <div class="card text-white shadow-lg border-radius-xl"
-                        style="background-color: #b22fa4; color: #fff; box-shadow: inset 2px 2px 6px rgba(255, 255, 255, 0.1), 6px 6px 20px rgba(178, 47, 164, 0.5);">
-                        <div class="card-body d-flex justify-content-between align-items-center p-4">
-                            <div>
-                                <p class="mb-1 text-sm fw-bold opacity-85">Total Positif</p>
-                                <h4 id="positifCount" class="mb-0 text-white fw-bolder">
-                                    {{ $cDana['positif'] + $cGoPay['positif'] + $cShopee['positif'] }}
-                                </h4>
-                            </div>
-                            <div class="d-flex align-items-center justify-content-center rounded-circle"
-                                style="width: 64px; height: 64px; background-color: rgba(255, 255, 255, 0.15); box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-                                <i class="fa-solid fa-face-smile fa-2x opacity-9"
-                                    style="transition: transform 0.3s ease, opacity 0.3s ease;"
-                                    onmouseover="this.style.transform='scale(1.2)'; this.style.opacity='1';"
-                                    onmouseout="this.style.transform='scale(1)'; this.style.opacity='0.9';"></i>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card text-white"
-                        style="background-color: #a95b91; color: #fff; box-shadow: inset 2px 2px 6px rgba(255, 255, 255, 0.1), 6px 6px 20px rgba(178, 47, 164, 0.5);">
-                        <div class="card-body d-flex justify-content-between align-items-center">
-                            <div>
-                                <p class="mb-1 text-sm">Total Netral</p>
-                                <h4 id="netralCount" class="mb-0 text-white">
-                                    {{ $cDana['netral'] + $cGoPay['netral'] + $cShopee['netral'] }}
-                                </h4>
-                            </div>
-                            <div class="d-flex align-items-center justify-content-center rounded-circle"
-                                style="width: 64px; height: 64px; background-color: rgba(255, 255, 255, 0.15); box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-                                <i class="fa-solid fa-face-meh fa-2x opacity-9"
-                                    style="transition: transform 0.3s ease, opacity 0.3s ease;"
-                                    onmouseover="this.style.transform='scale(1.2)'; this.style.opacity='1';"
-                                    onmouseout="this.style.transform='scale(1)'; this.style.opacity='0.9';"></i>
+                @foreach (['positif' => 'bg-success', 'netral' => 'bg-warning', 'negatif' => 'bg-danger'] as $sent => $badge)
+                    <div class="col-md-4">
+                        <div class="card h-100 text-white {{ $badge }} shadow-lg rounded-2">
+                            <div class="card-body d-flex justify-content-between align-items-center p-4">
+                                <div>
+                                    <p class="mb-1 text-sm fw-bold text-uppercase">Total {{ ucfirst($sent) }}</p>
+                                    <h4 id="{{ $sent }}Count" class="mb-0 fw-bolder">
+                                        {{ $counts['all'][$sent] }}
+                                    </h4>
+                                </div>
+                                <div class="rounded-circle d-flex justify-content-center align-items-center"
+                                    style="width:64px; height:64px; background:rgba(255,255,255,0.15);">
+                                    <i class="fa-solid fa-face-{{ $sent === 'positif' ? 'smile' : 'frown' }} fa-2x"></i>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-
-                <div class="col-md-4">
-                    <div class="card text-white"
-                        style="background-color: #8b2f5e; color: #fff; box-shadow: inset 2px 2px 6px rgba(255, 255, 255, 0.1), 6px 6px 20px rgba(178, 47, 164, 0.5);">
-                        <div class="card-body d-flex justify-content-between align-items-center">
-                            <div>
-                                <p class="mb-1 text-sm">Total Negatif</p>
-                                <h4 id="negatifCount" class="mb-0 text-white">
-                                    {{ $cDana['negatif'] + $cGoPay['negatif'] + $cShopee['negatif'] }}
-                                </h4>
-                            </div>
-                            <div class="d-flex align-items-center justify-content-center rounded-circle"
-                                style="width: 64px; height: 64px; background-color: rgba(255, 255, 255, 0.15); box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-                                <i class="fa-solid fa-face-frown fa-2x opacity-9"
-                                    style="transition: transform 0.3s ease, opacity 0.3s ease;"
-                                    onmouseover="this.style.transform='scale(1.2)'; this.style.opacity='1';"
-                                    onmouseout="this.style.transform='scale(1)'; this.style.opacity='0.9';"></i>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                @endforeach
             </div>
-
         </div>
     </div>
-    </div>
 
-    <div class="row mt-4">
-        <!-- Bar Chart Card -->
-        <div class="col-lg-5 mb-lg-0 mb-4">
-            <div class="card z-index-2">
-                <div class="card-header pb-0">
-                    <h6 class="mb-1">Perbandingan Sentimen E-Wallet</h6>
-                    <p class="text-sm">Grafik batang menunjukkan jumlah sentimen positif, netral, dan negatif untuk Dana,
-                        GoPay, dan ShopeePay.</p>
+    {{-- Charts Section --}}
+    <div class="row mt-4 align-items-stretch">
+        <div class="col-lg-5 mb-4">
+            <div class="card h-100">
+                <div class="card-header">
+                    <h6>Perbandingan Sentimen E-Wallet</h6>
                 </div>
-                <div class="card-body p-3">
-                    <div class="bg-gradient-light border-radius-lg py-3 pe-1 mb-3">
-                        <div class="chart">
-                            <canvas id="chart-bars" class="chart-canvas" height="250" style="width:100%;"></canvas>
-                        </div>
-                    </div>
+                <div class="card-body p-0" style="height:300px;">
+                    <canvas id="chart-bars" width="400" height="300"></canvas>
                 </div>
             </div>
         </div>
-
-        <!-- Line Chart Card -->
-        <div class="col-lg-7 mb-lg-0 mb-4">
-            <div class="card z-index-2">
-                <div class="card-header pb-0">
-                    <h6 class="mb-1">Tren Sentimen E-Wallet</h6>
-                    <p class="text-sm">Garis menunjukkan perubahan proporsi sentimen (positif, netral, negatif) di setiap
-                        e-wallet.</p>
+        <div class="col-lg-7 mb-4">
+            <div class="card h-100">
+                <div class="card-header">
+                    <h6>Tren Sentimen E-Wallet</h6>
                 </div>
-                <div class="card-body p-3">
-                    <div class="chart">
-                        <canvas id="chart-line" class="chart-canvas" height="318" style="width:100%;"></canvas>
-                    </div>
+                <div class="card-body p-0" style="height:300px;">
+                    <canvas id="chart-line" width="700" height="300"></canvas>
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="row mt-4">
-        <!-- Pie Chart Card with filter -->
-        <div class="col-lg-5 mb-lg-0 mb-4 d-flex">
-            <div class="card z-index-2 flex-grow-1">
-                <div class="card-header pb-0 d-flex justify-content-between align-items-center">
-                    <div>
-                        <h6 class="mb-1">Distribusi Persentase Sentimen</h6>
-                        <p class="text-sm">Grafik pai menampilkan persentase sentimen (positif, netral, negatif) untuk
-                            e-wallet terpilih.</p>
-                    </div>
-                    <select id="wallet-filter" class="form-select form-select-sm w-auto">
-                        <option value="all">Semua E-Wallet</option>
+    {{-- Pie + Table --}}
+    <div class="row mt-4 align-items-stretch">
+        <div class="col-lg-5 mb-4">
+            <div class="card h-100">
+                <div class="card-header d-flex justify-content-between align-items-center">
+                    <h6>Distribusi Persentase Sentimen</h6>
+                    <select id="walletFilterPie" class="form-select form-select-sm w-auto" style="min-width:120px;">
+                        <option value="all">Semua</option>
                         <option value="dana">Dana</option>
                         <option value="gopay">GoPay</option>
                         <option value="shopeepay">ShopeePay</option>
                     </select>
                 </div>
-                <div class="card-body p-3">
-                    <div class="chart">
-                        <canvas id="chart-pie" class="chart-canvas" height="250" style="width:100%;"></canvas>
-                    </div>
+                <div class="card-body p-0" style="height:300px;">
+                    <canvas id="chart-pie" width="400" height="300"></canvas>
                 </div>
             </div>
         </div>
-        <div class="col-lg-7 d-flex">
-            <div class="card z-index-2 flex-grow-1">
-                <div class="card-header pb-0">
+        <div class="col-lg-7 mb-4">
+            <div class="card h-100">
+                <div class="card-header">
                     <h6>Perbandingan Sentimen Antar Brand</h6>
-                    <p class="text-sm">Tabel ini menunjukkan jumlah dan proporsi sentimen untuk masing-masing e-wallet.</p>
                 </div>
-                <div class="card-body px-3 pt-0 pb-3">
-                    <div class="table-responsive">
-                        <table class="table align-items-center mb-0">
-                            <thead>
+                <div class="card-body p-0" style="overflow-y:auto; max-height:300px;">
+                    <table class="table align-middle mb-0">
+                        <thead>
+                            <tr>
+                                <th>E-Wallet</th>
+                                <th>Positif</th>
+                                <th>Netral</th>
+                                <th>Negatif</th>
+                                <th>Net Score</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (['Dana' => 'dana', 'GoPay' => 'gopay', 'ShopeePay' => 'shopeepay'] as $label => $key)
+                                @php
+                                    $d = $counts[$key];
+                                    $net = (($d['positif'] - $d['negatif']) / max(1, array_sum($d))) * 100;
+                                @endphp
                                 <tr>
-                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7"
-                                        style="background-color: #f8f9fa;">E-Wallet</th>
-                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2"
-                                        style="background-color: #f8f9fa;">Positif</th>
-                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2"
-                                        style="background-color: #f8f9fa;">Netral</th>
-                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2"
-                                        style="background-color: #f8f9fa;">Negatif</th>
-                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2"
-                                        style="background-color: #f8f9fa;">Net Score</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td><strong>DANA</strong></td>
-                                    <td>{{ $cDana['positif'] }}</td>
-                                    <td>{{ $cDana['netral'] }}</td>
-                                    <td>{{ $cDana['negatif'] }}</td>
+                                    <td><strong>{{ $label }}</strong></td>
+                                    <td>{{ $d['positif'] }}</td>
+                                    <td>{{ $d['netral'] }}</td>
+                                    <td>{{ $d['negatif'] }}</td>
                                     <td>
-                                        <span
-                                            class="badge {{ $cDana['positif'] - $cDana['negatif'] > 0 ? 'bg-success' : 'bg-danger' }}">
-                                            {{ number_format((($cDana['positif'] - $cDana['negatif']) / max(1, $cDana['positif'] + $cDana['netral'] + $cDana['negatif'])) * 100, 1) }}%
+                                        <span class="badge {{ $net > 0 ? 'bg-success' : 'bg-danger' }}">
+                                            {{ number_format($net, 1) }}%
                                         </span>
                                     </td>
                                 </tr>
-                                <tr>
-                                    <td><strong>GoPay</strong></td>
-                                    <td>{{ $cGoPay['positif'] }}</td>
-                                    <td>{{ $cGoPay['netral'] }}</td>
-                                    <td>{{ $cGoPay['negatif'] }}</td>
-                                    <td>
-                                        <span
-                                            class="badge {{ $cGoPay['positif'] - $cGoPay['negatif'] > 0 ? 'bg-success' : 'bg-danger' }}">
-                                            {{ number_format((($cGoPay['positif'] - $cGoPay['negatif']) / max(1, $cGoPay['positif'] + $cGoPay['netral'] + $cGoPay['negatif'])) * 100, 1) }}%
-                                        </span>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td><strong>ShopeePay</strong></td>
-                                    <td>{{ $cShopee['positif'] }}</td>
-                                    <td>{{ $cShopee['netral'] }}</td>
-                                    <td>{{ $cShopee['negatif'] }}</td>
-                                    <td>
-                                        <span
-                                            class="badge {{ $cShopee['positif'] - $cShopee['negatif'] > 0 ? 'bg-success' : 'bg-danger' }}">
-                                            {{ number_format((($cShopee['positif'] - $cShopee['negatif']) / max(1, $cShopee['positif'] + $cShopee['netral'] + $cShopee['negatif'])) * 100, 1) }}%
-                                        </span>
-                                    </td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
+                            @endforeach
+                        </tbody>
+                    </table>
                 </div>
             </div>
         </div>
     </div>
-    <div class="center d-flex flex-column justify-content-center align-items-center"
-        style="padding: 2rem; min-height: 100vh;">
 
-        <div class="row justify-content-center my-5">
-            <div class="col-lg-8">
-                <div class="mb-3" style="width: 300px;">
-                    <select id="sourceSelect" class="form-select">
-                        <option value="gopay" selected>Gopay</option>
-                        <option value="dana">Dana</option>
-                        <option value="shopeepay">Shopeepay</option>
-                        <option value="gabungan">Gabungan</option>
-                    </select>
-                </div>
-                <div class="card shadow-lg border-radius-lg bg-white">
-                    <div class="card-header pb-2">
+    {{-- WordCloud Section --}}
+    <div class="row mt-5">
+        <div class="col-12 mb-3 d-flex justify-content-center">
+            <select id="sourceSelect" class="form-select w-auto" style="min-width:120px;">
+                <option value="all">Gabungan</option>
+                <option value="dana">Dana</option>
+                <option value="gopay">GoPay</option>
+                <option value="shopeepay">ShopeePay</option>
+            </select>
+        </div>
+
+        @foreach (['positif', 'netral', 'negatif'] as $s)
+            <div class="col-md-4">
+                <div class="card h-100">
+                    <div class="card-header text-center">
+                        <h6 class="mb-0">{{ ucfirst($s) }}</h6>
                     </div>
-                    <div class="card-body d-flex justify-content-center align-items-center py-4">
-                        <canvas id="wc" width="1800" height="800"
-                            style="max-width: 100%; height: auto;"></canvas>
-                    </div>
-                    <div class="card-footer text-muted text-end small">
-                        Generated on {{ date('d F Y, H:i') }}
+                    <div class="card-body d-flex justify-content-center align-items-center p-0" style="height:250px;">
+                        <canvas id="wc-{{ $s }}" style="width:100%; height:100%;"></canvas>
                     </div>
                 </div>
             </div>
-        </div>
-
+        @endforeach
     </div>
 @endsection
 
-@push('dashboard')
-    <!-- Load Chart.js library -->
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.9.1/dist/chart.min.js"></script>
+@push('scripts')
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/wordcloud2@1.1.2/dist/wordcloud2.js"></script>
     <script>
-        window.onload = function() {
-            // Chart contexts
-            var ctxBar = document.getElementById("chart-bars").getContext("2d");
-            var ctxLine = document.getElementById("chart-line").getContext("2d");
-            var ctxPie = document.getElementById("chart-pie").getContext("2d");
-            var filter = document.getElementById("wallet-filter");
+        document.addEventListener('DOMContentLoaded', () => {
+            const counts = @json($counts);
+            // Summary
+            const upd = key => ['positif', 'netral', 'negatif']
+                .forEach(s => document.getElementById(s + 'Count').textContent = counts[key][s]);
+            document.getElementById('walletFilter').addEventListener('change', e => upd(e.target.value));
+            upd('all');
 
-            @php
-                function getSentimentCounts($path)
-                {
-                    if (!file_exists($path)) {
-                        return ['positif' => 0, 'netral' => 0, 'negatif' => 0];
-                    }
-                    $rows = array_map('str_getcsv', file($path));
-                    array_shift($rows);
-                    $labels = array_column($rows, 1);
-                    $counts = array_count_values($labels);
-                    return array_merge(['positif' => 0, 'netral' => 0, 'negatif' => 0], $counts);
-                }
-                $base = resource_path('views');
-                $cDana = getSentimentCounts("{$base}/danalabel.csv");
-                $cGoPay = getSentimentCounts("{$base}/gopaylabel.csv");
-                $cShopee = getSentimentCounts("{$base}/shopeepaylabel.csv");
-            @endphp
+            const COLORS = ['rgba(75,192,192,0.6)', 'rgba(54,162,235,0.6)', 'rgba(255,206,86,0.6)'];
+            const BORDERS = ['rgba(75,192,192,1)', 'rgba(54,162,235,1)', 'rgba(255,206,86,1)'];
 
-            // Data arrays
-            var labels = ['Positif', 'Netral', 'Negatif'];
-            var danaData = [{{ $cDana['positif'] }}, {{ $cDana['netral'] }}, {{ $cDana['negatif'] }}];
-            var goPayData = [{{ $cGoPay['positif'] }}, {{ $cGoPay['netral'] }}, {{ $cGoPay['negatif'] }}];
-            var shopeeData = [{{ $cShopee['positif'] }}, {{ $cShopee['netral'] }}, {{ $cShopee['negatif'] }}];
-            var allData = [
-                danaData[0] + goPayData[0] + shopeeData[0],
-                danaData[1] + goPayData[1] + shopeeData[1],
-                danaData[2] + goPayData[2] + shopeeData[2]
-            ];
-
-            // Bar chart
-            var gradBar = function(ctx, color) {
-                var g = ctx.createLinearGradient(0, 0, 0, 250);
-                g.addColorStop(0, color + '0.8)');
-                g.addColorStop(1, color + '0.2)');
-                return g;
-            };
-            new Chart(ctxBar, {
+            // Bar
+            new Chart('chart-bars', {
                 type: 'bar',
                 data: {
-                    labels: labels,
-                    datasets: [{
-                            label: 'Dana',
-                            data: danaData,
-                            backgroundColor: gradBar(ctxBar, 'rgba(75,192,192,'),
-                            borderRadius: 4,
-                            maxBarThickness: 20
-                        },
-                        {
-                            label: 'GoPay',
-                            data: goPayData,
-                            backgroundColor: gradBar(ctxBar, 'rgba(255,159,64,'),
-                            borderRadius: 4,
-                            maxBarThickness: 20
-                        },
-                        {
-                            label: 'ShopeePay',
-                            data: shopeeData,
-                            backgroundColor: gradBar(ctxBar, 'rgba(153,102,255,'),
-                            borderRadius: 4,
-                            maxBarThickness: 20
-                        }
-                    ]
+                    labels: ['Positif', 'Netral', 'Negatif'],
+                    datasets: ['dana', 'gopay', 'shopeepay'].map((k, i) => ({
+                        label: k.charAt(0).toUpperCase() + k.slice(1),
+                        data: ['positif', 'netral', 'negatif'].map(s => counts[k][s]),
+                        backgroundColor: COLORS[i],
+                        borderColor: BORDERS[i],
+                        borderWidth: 1
+                    }))
                 },
                 options: {
                     responsive: true,
-                    animation: {
-                        duration: 1200,
-                        easing: 'easeInOutQuad'
-                    },
+                    maintainAspectRatio: false,
                     scales: {
-                        y: {
-                            beginAtZero: true
-                        }
-                    },
-                    plugins: {
-                        legend: {
-                            position: 'top'
-                        }
+                        yAxes: [{
+                            ticks: {
+                                beginAtZero: true
+                            }
+                        }]
                     }
                 }
             });
 
-            // Line chart
-            function makeLineGrad(ctx, base) {
-                var g = ctx.createLinearGradient(0, 0, 0, 250);
-                g.addColorStop(0, base + '0.8)');
-                g.addColorStop(1, base + '0.2)');
-                return g;
-            }
-            new Chart(ctxLine, {
+            // Line
+            new Chart('chart-line', {
                 type: 'line',
                 data: {
-                    labels: ['Dana', 'GoPay', 'Shopeepay'],
-                    datasets: [{
-                            label: 'Positif',
-                            data: [danaData[0], goPayData[0], shopeeData[0]],
-                            borderColor: makeLineGrad(ctxLine, 'rgba(54,162,235,'),
-                            backgroundColor: 'transparent',
-                            tension: 0.4,
-                            borderWidth: 3
-                        },
-                        {
-                            label: 'Netral',
-                            data: [danaData[1], goPayData[1], shopeeData[1]],
-                            borderColor: 'rgba(255,206,86,0.8)',
-                            backgroundColor: 'transparent',
-                            tension: 0.4,
-                            borderWidth: 3
-                        },
-                        {
-                            label: 'Negatif',
-                            data: [danaData[2], goPayData[2], shopeeData[2]],
-                            borderColor: 'rgba(255,99,132,0.8)',
-                            backgroundColor: 'transparent',
-                            tension: 0.4,
-                            borderWidth: 3
-                        }
-                    ]
+                    labels: ['Dana', 'GoPay', 'ShopeePay'],
+                    datasets: ['positif', 'netral', 'negatif'].map((s, i) => ({
+                        label: s.charAt(0).toUpperCase() + s.slice(1),
+                        data: ['dana', 'gopay', 'shopeepay'].map(k => counts[k][s]),
+                        borderColor: BORDERS[i],
+                        fill: false,
+                        tension: 0.4
+                    }))
                 },
                 options: {
                     responsive: true,
-                    animation: {
-                        duration: 1200,
-                        easing: 'easeOutQuart'
-                    },
-                    scales: {
-                        y: {
-                            beginAtZero: true
-                        }
-                    },
-                    plugins: {
-                        legend: {
-                            position: 'bottom'
-                        }
-                    }
+                    maintainAspectRatio: false
                 }
             });
 
-            // Pie chart with tooltip percentages
-            var pieChart = new Chart(ctxPie, {
+            // Pie
+            const pie = new Chart('chart-pie', {
                 type: 'pie',
                 data: {
-                    labels: labels,
+                    labels: ['Positif', 'Netral', 'Negatif'],
                     datasets: [{
-                        data: allData,
-                        backgroundColor: ['#4BC0C0', '#FFCE56', '#FF6384'],
-                        hoverOffset: 10
+                        data: ['positif', 'netral', 'negatif'].map(s => counts.all[s]),
+                        backgroundColor: COLORS,
+                        borderColor: BORDERS,
+                        borderWidth: 1
                     }]
                 },
                 options: {
                     responsive: true,
-                    maintainAspectRatio: false, // Disable maintain aspect ratio
-                    aspectRatio: 2, // Aspect ratio of 1 will give a square chart, you can adjust to your needs
-                    animation: {
-                        animateRotate: true,
-                        duration: 1000
-                    },
-                    plugins: {
-                        tooltip: {
-                            callbacks: {
-                                label: function(context) {
-                                    var value = context.parsed;
-                                    var sum = context.chart.data.datasets[0].data.reduce(function(a, b) {
-                                        return a + b;
-                                    }, 0);
-                                    var pct = Math.round(value * 100 / sum);
-                                    return context.label + ': ' + value + ' (' + pct + '%)';
-                                }
-                            }
-                        },
-                        legend: {
-                            position: 'bottom'
-                        }
-                    }
+                    maintainAspectRatio: false
                 }
             });
 
-            // Filter event for pie chart
-            filter.addEventListener('change', function() {
-                var m = this.value;
-                pieChart.data.datasets[0].data = (m === 'dana' ? danaData : m === 'gopay' ? goPayData : m ===
-                    'shopeepay' ? shopeeData : allData);
-                pieChart.update();
+            document.getElementById('walletFilterPie').addEventListener('change', e => {
+                pie.data.datasets[0].data = ['positif', 'netral', 'negatif'].map(s => counts[e.target.value]
+                    [s]);
+                pie.update();
             });
-        };
-        document.addEventListener('DOMContentLoaded', () => {
-            const filter = document.getElementById('walletFilter');
-            const positifEl = document.getElementById('positifCount');
-            const netralEl = document.getElementById('netralCount');
-            const negatifEl = document.getElementById('negatifCount');
 
-            const data = {
-                all: {
-                    positif: {{ $cDana['positif'] + $cGoPay['positif'] + $cShopee['positif'] }},
-                    netral: {{ $cDana['netral'] + $cGoPay['netral'] + $cShopee['netral'] }},
-                    negatif: {{ $cDana['negatif'] + $cGoPay['negatif'] + $cShopee['negatif'] }},
-                },
-                dana: {
-                    positif: {{ $cDana['positif'] }},
-                    netral: {{ $cDana['netral'] }},
-                    negatif: {{ $cDana['negatif'] }},
-                },
-                gopay: {
-                    positif: {{ $cGoPay['positif'] }},
-                    netral: {{ $cGoPay['netral'] }},
-                    negatif: {{ $cGoPay['negatif'] }},
-                },
-                shopee: {
-                    positif: {{ $cShopee['positif'] }},
-                    netral: {{ $cShopee['netral'] }},
-                    negatif: {{ $cShopee['negatif'] }},
-                },
-            };
+            const sourceSel = document.getElementById('sourceSelect');
+            const sentiments = ['positif', 'netral', 'negatif'];
 
-            filter.addEventListener('change', function() {
-                const d = data[this.value];
-                positifEl.textContent = d.positif;
-                netralEl.textContent = d.netral;
-                negatifEl.textContent = d.negatif;
-            });
-        });
-    </script>
-    <script src="https://cdn.jsdelivr.net/npm/wordcloud@1.1.2/src/wordcloud2.min.js" defer></script>
-    <script defer>
-        document.addEventListener('DOMContentLoaded', () => {
-            const canvas = document.getElementById('wc');
-            const select = document.getElementById('sourceSelect');
+            function drawWC(sentiment) {
+                const cvs = document.getElementById(`wc-${sentiment}`);
+                // gunakan koordinat canvas internal
+                const origin = [cvs.width / 2, cvs.height / 2];
 
-            function loadWordCloud(source) {
-                fetch(`/wordcloud-data?source=${source}`)
-                    .then(res => res.json())
+                fetch(`/wordcloud-data?source=${sourceSel.value}&sentiment=${sentiment}`)
+                    .then(r => r.json())
                     .then(list => {
-                        console.log('WordCloud data:', list); // → pastikan ada data
-                        WordCloud(canvas, {
+                        WordCloud(cvs, {
                             list,
-                            gridSize: Math.round(1600 / 100),
-                            weightFactor: w => Math.pow(w, 0.5) * 8,
-
-                            fontFamily: 'Arial, sans-serif',
-                            rotateRatio: 0,
-                            shape: 'elliptic',
-                            ellipticity: 0.65,
-                            drawOutOfBound: false,
-                            backgroundColor: '#ffffff'
+                            clearCanvas: true,
+                            weightFactor: 1,
+                            gridSize: 2,
+                            rotateRatio: 0.3,
+                            backgroundColor: window.getComputedStyle(cvs).backgroundColor,
+                            origin
                         });
-                    })
-                    .catch(err => console.error('WC fetch err:', err));
+                    });
             }
 
-            // Load pertama kali pakai nilai default di <select>
-            loadWordCloud(select.value);
-
-            select.addEventListener('change', () => {
-                loadWordCloud(select.value);
-            });
+            sourceSel.addEventListener('change', () => sentiments.forEach(drawWC));
+            sentiments.forEach(drawWC);
         });
     </script>
 @endpush

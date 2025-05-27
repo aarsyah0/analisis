@@ -1,0 +1,1372 @@
+clean_text,word_count,label,sent_raw,label_auto
+coba tanya csnya aja kak,5,,"{'label': 'neutral', 'score': 0.9998924732208252}",neutral
+aman aja min banyak promo dana,6,,"{'label': 'negative', 'score': 0.9914831519126892}",negative
+selow aja min jgn dipikirin biar gua aja mikir,9,,"{'label': 'negative', 'score': 0.9998471736907959}",negative
+tetep kalem dompet tip penting jgn sinis,7,,"{'label': 'neutral', 'score': 0.7677060961723328}",neutral
+dana jadi andal gua buat hemat,6,,"{'label': 'positive', 'score': 0.9999556541442871}",positive
+udah ngadu merchant nya langsung moga aja bulan depan beneran balik tuh duitt sumpah mood banget gegara dana aman skrg,20,,"{'label': 'negative', 'score': 0.9998906850814819}",negative
+hari bikin emosi dana gua tarik kali kek gin moga aja dana balik,13,,"{'label': 'negative', 'score': 0.9998805522918701}",negative
+badai lalu gesss yok semangat,5,,"{'label': 'positive', 'score': 0.7640716433525085}",positive
+gimana lgi minn,3,,"{'label': 'negative', 'score': 0.9996588230133057}",negative
+sindir wooooyy elah mimin,4,,"{'label': 'negative', 'score': 0.9998948574066162}",negative
+yok kerja kerasl lgi besttiii semangat,6,,"{'label': 'positive', 'score': 0.9998894929885864}",positive
+realate bkin ngakak wkwkw min bkin konten seru,8,,"{'label': 'negative', 'score': 0.893766462802887}",negative
+udah masuk hari gigit jari wkwk,6,,"{'label': 'negative', 'score': 0.9998359680175781}",negative
+ajar banyak konten big thanks dana,6,,"{'label': 'neutral', 'score': 0.9997277855873108}",neutral
+gimana dong biar lancar jaya nih isi dompet min,9,,"{'label': 'positive', 'score': 0.8181594014167786}",positive
+mimin ngerasain nyata semangat cari cuan lgi min,8,,"{'label': 'positive', 'score': 0.999813973903656}",positive
+dah paling enak tidur aja min tidur biar hemat wkwk,10,,"{'label': 'positive', 'score': 0.9998248219490051}",positive
+bijir mimin nyindir gua nih,5,,"{'label': 'neutral', 'score': 0.9858486652374268}",neutral
+baru the best info,4,,"{'label': 'positive', 'score': 0.9999233484268188}",positive
+lgsg share temen kantor biar gak khawatir,7,,"{'label': 'neutral', 'score': 0.9997277855873108}",neutral
+gak was was deh skrg makasih min info,8,,"{'label': 'negative', 'score': 0.8506278991699219}",negative
+begini paling enak mantau promo dana hihihi,7,,"{'label': 'positive', 'score': 0.999954104423523}",positive
+ngapain sinis min kan dana banyak promo hihii,8,,"{'label': 'negative', 'score': 0.999847412109375}",negative
+extrak kerja keras min,4,,"{'label': 'positive', 'score': 0.9995328187942505}",positive
+top banget dah min vocernya hemat maksimal,7,,"{'label': 'positive', 'score': 0.999956488609314}",positive
+sering min kasih promo begini,5,,"{'label': 'neutral', 'score': 0.9998552799224854}",neutral
+belanja seru vocer dana deals solusi,6,,"{'label': 'positive', 'score': 0.9994949102401733}",positive
+makin suka dana deh bnyk promo nya,7,,"{'label': 'positive', 'score': 0.999943733215332}",positive
+berkat ewallet baik belanja hemat nyaman,6,,"{'label': 'positive', 'score': 0.9998843669891357}",positive
+kendala buat belanja deh klo diskon gni mah,8,,"{'label': 'negative', 'score': 0.9989057779312134}",negative
+diskon mantul gin dilewatin gais,5,,"{'label': 'positive', 'score': 0.9991961121559143}",positive
+the best vocernya hemat belanja,5,,"{'label': 'positive', 'score': 0.9999535083770752}",positive
+wow vocer dana deals mantul parah,6,,"{'label': 'negative', 'score': 0.9998658895492554}",negative
+udah masuk vocernya waktu belanja hemat,6,,"{'label': 'positive', 'score': 0.9999539852142334}",positive
+widih big thanks loh min pas bgt blnja dpet vocer,10,,"{'label': 'positive', 'score': 0.9997279047966003}",positive
+terima kasih dana vocer promony,5,,"{'label': 'positive', 'score': 0.9999260902404785}",positive
+mang semantul min vocernya,4,,"{'label': 'positive', 'score': 0.9995123147964478}",positive
+pke dana semua aman aman aja,6,,"{'label': 'positive', 'score': 0.9997754693031311}",positive
+alhamdulillah vocer hemat,3,,"{'label': 'positive', 'score': 0.9999537467956543}",positive
+makasih min vocernya mantul,4,,"{'label': 'positive', 'score': 0.9998998641967773}",positive
+dana emg gak main promonya,5,,"{'label': 'negative', 'score': 0.9998112320899963}",negative
+etdah diskon bkin semangat belanja,5,,"{'label': 'positive', 'score': 0.9998242259025574}",positive
+mantap pis promonya,3,,"{'label': 'positive', 'score': 0.9999567270278931}",positive
+gokil hemat parah sih promonya,5,,"{'label': 'positive', 'score': 0.9999347925186157}",positive
+promo baik min,3,,"{'label': 'positive', 'score': 0.9990279674530029}",positive
+aman min gua udah ngumpulin uang,6,,"{'label': 'neutral', 'score': 0.6846768260002136}",neutral
+saat bijak ngatur uang nih mantap min konten,8,,"{'label': 'positive', 'score': 0.9997442364692688}",positive
+tenang promo dana wkwk,4,,"{'label': 'positive', 'score': 0.9999353885650635}",positive
+jangan buka kartu min,4,,"{'label': 'negative', 'score': 0.9798761606216431}",negative
+keluar bulan kemaren bener luar biasa min amsyong,8,,"{'label': 'positive', 'score': 0.9999117851257324}",positive
+fixs mimin kek dukun dah,5,,"{'label': 'negative', 'score': 0.9999107122421265}",negative
+aman aman aja klo dana promo wkwk,7,,"{'label': 'positive', 'score': 0.9972400665283203}",positive
+mantul min bener banget dah,5,,"{'label': 'positive', 'score': 0.9999204874038696}",positive
+solusi baik nya dong miinn biar dompet penuh hihihi,9,,"{'label': 'negative', 'score': 0.503311812877655}",negative
+lama dana saldo gua baik baik aja,7,,"{'label': 'negative', 'score': 0.9993593096733093}",negative
+seru pake dana miminnya tau aja ahahaa,7,,"{'label': 'positive', 'score': 0.9539514183998108}",positive
+alhamdulillah min saldo gua aman aja hehe,7,,"{'label': 'positive', 'score': 0.997757613658905}",positive
+wah makin mantap dana adaptif banget sama,7,,"{'label': 'positive', 'score': 0.9999535083770752}",positive
+promo voucher dana selalu baik promo voucher terus bikin happy,10,,"{'label': 'positive', 'score': 0.999937891960144}",positive
+mantul dana bikin transaksi gampang,5,,"{'label': 'positive', 'score': 0.9998879432678223}",positive
+selow ges dana selalu bkin nyaman hemat,7,,"{'label': 'positive', 'score': 0.9999265670776367}",positive
+dompet tipis penting tetep senyum,5,,"{'label': 'positive', 'score': 0.9998295307159424}",positive
+dana memang baik promo voucher promo voucher selalu bikin puas,10,,"{'label': 'positive', 'score': 0.999942421913147}",positive
+transaksi pakai dana the best,5,,"{'label': 'positive', 'score': 0.9999505281448364}",positive
+inti hemat dlu ges,4,,"{'label': 'positive', 'score': 0.9998154044151306}",positive
+suka banget sama promo voucher dana promo vouchernya baik selalu,10,,"{'label': 'positive', 'score': 0.9999526739120483}",positive
+setia pakai danabuat transaksi dana,5,,"{'label': 'neutral', 'score': 0.9802480340003967}",neutral
+kok sama sih min nasib,5,,"{'label': 'negative', 'score': 0.9998559951782227}",negative
+promo voucher promo voucher dana selalu top baik emang,9,,"{'label': 'positive', 'score': 0.9999371767044067}",positive
+danamemang andal buat transaksi dana,5,,"{'label': 'positive', 'score': 0.999881386756897}",positive
+mending gua rebah min biar gak jajan mulu,8,,"{'label': 'negative', 'score': 0.9997207522392273}",negative
+terima kasih dana promo voucher baik promo vouchernya pernah absen,10,,"{'label': 'neutral', 'score': 0.9992627501487732}",neutral
+wow transaksi pakai dana cepat banget,6,,"{'label': 'positive', 'score': 0.9999362230300903}",positive
+cerita dana selalu bawa semangat baru hidup seru,8,,"{'label': 'positive', 'score': 0.9999579191207886}",positive
+promo voucher dana hidup jadi keren,6,,"{'label': 'positive', 'score': 0.9999587535858154}",positive
+dana top banget,3,,"{'label': 'positive', 'score': 0.999956488609314}",positive
+cerita dana jadi semangat raih tuju terima kasih,8,,"{'label': 'positive', 'score': 0.9999321699142456}",positive
+terima kasih dana promo voucher nya keren banget,8,,"{'label': 'positive', 'score': 0.9999586343765259}",positive
+nyaman banget pakai dana buat transaksi,6,,"{'label': 'positive', 'score': 0.9999474287033081}",positive
+cerita dana buat hari penuh semangat cerita luar biasa,9,,"{'label': 'positive', 'score': 0.9999374151229858}",positive
+dana selalu hadir promo voucher keren promo voucher contoh,9,,"{'label': 'neutral', 'score': 0.9945038557052612}",neutral
+lancar jaya transaksi pakai dana,5,,"{'label': 'positive', 'score': 0.9999409914016724}",positive
+dana selalu punya cerita bikin semangat salut terus karya,9,,"{'label': 'positive', 'score': 0.9999446868896484}",positive
+keren parah promo voucher dana memang mantap,7,,"{'label': 'positive', 'score': 0.9999545812606812}",positive
+luar biasa mudah transaksi dana,5,,"{'label': 'positive', 'score': 0.9999526739120483}",positive
+cerita hebat dana benar benar sentuh hati tambah semangat keep,10,,"{'label': 'positive', 'score': 0.9999457597732544}",positive
+promo voucher dana keren untung,5,,"{'label': 'positive', 'score': 0.9999561309814453}",positive
+mantul banget transaksi pakai dana,5,,"{'label': 'positive', 'score': 0.9999306201934814}",positive
+hope win fnuhp layrhjgvxbrhnw iheblahmyir zdwyenh,6,,"{'label': 'neutral', 'score': 0.9212648272514343}",neutral
+cerita dana benar benar bikin semangat terima kasih bagi,9,,"{'label': 'positive', 'score': 0.9999501705169678}",positive
+promo voucher dana memang keren banget,6,,"{'label': 'positive', 'score': 0.9999575614929199}",positive
+ewallet baik transaksi dana dana,5,,"{'label': 'neutral', 'score': 0.9997050166130066}",neutral
+dana cerita kalian bangkit semangat baru diri terus maju,9,,"{'label': 'positive', 'score': 0.999936580657959}",positive
+suka banget sama promo voucher dana keren maksimal,8,,"{'label': 'positive', 'score': 0.9999545812606812}",positive
+seru banget pakai dana mudah praktis,6,,"{'label': 'positive', 'score': 0.9999579191207886}",positive
+terima kasih dana atas cerita penuh semangat seru,8,,"{'label': 'positive', 'score': 0.9999401569366455}",positive
+promo voucher dana keren abis,5,,"{'label': 'positive', 'score': 0.9999585151672363}",positive
+suka banget dana simpel cepatmantap,5,,"{'label': 'positive', 'score': 0.9999532699584961}",positive
+dana ingat pernah serah semangat selalu,6,,"{'label': 'positive', 'score': 0.9999274015426636}",positive
+apresiasi buat dana atas promo voucher keren,7,,"{'label': 'positive', 'score': 0.9999344348907471}",positive
+alhamdulillah dana bikin transaksi bebas ribet,6,,"{'label': 'positive', 'score': 0.9998757839202881}",positive
+dana buat makin semangat kejar impi keep inspiring,8,,"{'label': 'positive', 'score': 0.999914288520813}",positive
+dana bikin hidup makin mudah promo voucher super keren,9,,"{'label': 'positive', 'score': 0.9999538660049438}",positive
+mantap dana bikin semua transaksi lancar jaya,7,,"{'label': 'positive', 'score': 0.9999579191207886}",positive
+terima kasih bagi,3,,"{'label': 'positive', 'score': 0.9999312162399292}",positive
+dana andal banget promo vouchernya mantul,6,,"{'label': 'positive', 'score': 0.9999302625656128}",positive
+danamemang ewallet baik dana,4,,"{'label': 'negative', 'score': 0.9711666107177734}",negative
+beri semangat baru terima kasih,5,,"{'label': 'positive', 'score': 0.9999387264251709}",positive
+beneran banget hemat kalau pake dana suka dana banget apa lgi promo vouchernya,13,,"{'label': 'positive', 'score': 0.9999183416366577}",positive
+transaksi pakai dana seru nyaman,5,,"{'label': 'positive', 'score': 0.9999572038650513}",positive
+dana beri cerita tak nilai,5,,"{'label': 'negative', 'score': 0.9998742341995239}",negative
+selalu dana nih bikin neng promo vouchernya apa lgi alfagiftnya bikin semangat,12,,"{'label': 'positive', 'score': 0.9999488592147827}",positive
+suka banget dana transaksi jadi cepat,6,,"{'label': 'positive', 'score': 0.9999587535858154}",positive
+dana cerita luar biasa,4,,"{'label': 'positive', 'score': 0.9999469518661499}",positive
+bayang hemat pake dana promo voucher promo voucher memang juara,10,,"{'label': 'positive', 'score': 0.9999175071716309}",positive
+alhamdulillah transaksi jadi cepat dana,5,,"{'label': 'positive', 'score': 0.999950647354126}",positive
+seru penuh ajar hidup jadi baik,6,,"{'label': 'positive', 'score': 0.999953031539917}",positive
+promo voucher dana paling oke banget bikin transakasi jdi lebi mantul hemat,12,,"{'label': 'positive', 'score': 0.9999599456787109}",positive
+mantap banget pakai dana semua jadi simpel,7,,"{'label': 'positive', 'score': 0.999956488609314}",positive
+terima kasih dana atas cerita nya luar biasa benar benar kuat,11,,"{'label': 'positive', 'score': 0.9999332427978516}",positive
+promo vouchernya semangat trus dana,5,,"{'label': 'positive', 'score': 0.9999479055404663}",positive
+ewallet baik dana danapastinya,4,,"{'label': 'neutral', 'score': 0.9994043111801147}",neutral
+cerita dana luar biasa penuh makna seru,7,,"{'label': 'positive', 'score': 0.9999545812606812}",positive
+promo voucher seru transaksi jdi seru makas dana,8,,"{'label': 'positive', 'score': 0.9999562501907349}",positive
+seru banget transaksi pakai dana anti ribet,7,,"{'label': 'positive', 'score': 0.9999524354934692}",positive
+terus karya seru semangat dana,5,,"{'label': 'positive', 'score': 0.9999537467956543}",positive
+promo voucher hemat bikin dompet jdi aman nyaman,8,,"{'label': 'positive', 'score': 0.9999297857284546}",positive
+suka dana bikin transaksi makin praktis,6,,"{'label': 'positive', 'score': 0.9999529123306274}",positive
+dana cerita benar benar luar biasa terima kasih bagi,9,,"{'label': 'positive', 'score': 0.9999277591705322}",positive
+promo voucher dana emang beda memang ewallet baik emang beda,10,,"{'label': 'negative', 'score': 0.9993379712104797}",negative
+alhamdulillah dana bikin belanja jadi nyaman,6,,"{'label': 'positive', 'score': 0.9999544620513916}",positive
+cerita dana sungguh luar biasa seru sentuh hati,8,,"{'label': 'positive', 'score': 0.9999470710754395}",positive
+tarik banget promo voucher dana perna bosan pake dana terima kasih dana,12,,"{'label': 'negative', 'score': 0.9999115467071533}",negative
+dana mantap banget bikin transaksi mudah,6,,"{'label': 'positive', 'score': 0.9999582767486572}",positive
+beri cerita tak nilai terus ikan terima kasih dana,9,,"{'label': 'negative', 'score': 0.9996945858001709}",negative
+promo voucher gila gila dana semua terima kasih dana,9,,"{'label': 'negative', 'score': 0.9992066025733948}",negative
+danaewallet baik dana,3,,"{'label': 'negative', 'score': 0.8676282167434692}",negative
+cerita dana benar benar luar biasa sentuh hati terima kasih bagi,11,,"{'label': 'positive', 'score': 0.9998088479042053}",positive
+mantap banget dana mudah promo vouchernya bikin jatuh cinta,9,,"{'label': 'positive', 'score': 0.9999598264694214}",positive
+transaksi pakai dana seru gampang,5,,"{'label': 'positive', 'score': 0.9999513626098633}",positive
+kata luar biasa cerita dana seru penuh ajar,8,,"{'label': 'positive', 'score': 0.9999136924743652}",positive
+bangga punya dukung dana promo voucher terima kasih banyak,9,,"{'label': 'positive', 'score': 0.9999198913574219}",positive
+dana memang mantul bikin bayar jadi gampang,7,,"{'label': 'positive', 'score': 0.9999295473098755}",positive
+dana cuma sekadar aplikasi tempat cerita bikin kagum,8,,"{'label': 'positive', 'score': 0.9998737573623657}",positive
+solusi baik nya apa dong miiiiinnn,6,,"{'label': 'positive', 'score': 0.9984101057052612}",positive
+terima kasih dana dukung buat promo voucher jadi arti semua,10,,"{'label': 'positive', 'score': 0.9998912811279297}",positive
+bayar pakai dana benarbenar seru,5,,"{'label': 'positive', 'score': 0.9999551773071289}",positive
+yok semangat cari cuan guys,5,,"{'label': 'neutral', 'score': 0.9989344477653503}",neutral
+dana tuh cuma transaksi sumber cerita penuh semangat,8,,"{'label': 'positive', 'score': 0.8545725345611572}",positive
+terima kasih dana bawa promo voucher level ikut,8,,"{'label': 'neutral', 'score': 0.9993451237678528}",neutral
+nih ewallet baik buat transaksi dana,6,,"{'label': 'positive', 'score': 0.9745934009552002}",positive
+cerita dana bikin aku yakin langkah punya arti luar biasa,10,,"{'label': 'positive', 'score': 0.999943733215332}",positive
+suka banget sama energi dana terima kasih atas dukung promo voucher,11,,"{'label': 'positive', 'score': 0.9999483823776245}",positive
+suka dana bayar jadi cepat simpel,6,,"{'label': 'positive', 'score': 0.999950647354126}",positive
+cerita guna dana jadi ingat mimpi jadi nyata,8,,"{'label': 'positive', 'score': 0.9804078936576843}",positive
+selalu nungguin promo voucher dana emang baik,7,,"{'label': 'positive', 'score': 0.9995983242988586}",positive
+kali pakai dana rasa mantap banget,6,,"{'label': 'positive', 'score': 0.9999575614929199}",positive
+cerita dana buktiin hasil dateng semangat pernah padam,8,,"{'label': 'negative', 'score': 0.9997538924217224}",negative
+promo voucher baik promo voucher selalu bikin suka dana,9,,"{'label': 'positive', 'score': 0.9998681545257568}",positive
+dana memang baik buat transaksi seharihari,6,,"{'label': 'positive', 'score': 0.9998733997344971}",positive
+baca cerita dana jadi paham betapa kuat semangat raih impi,10,,"{'label': 'positive', 'score': 0.9998997449874878}",positive
+promo voucher dana pernah kecewa baik,6,,"{'label': 'negative', 'score': 0.9999154806137085}",negative
+terima kasih dana gak perlu ribet kalau dana,8,,"{'label': 'positive', 'score': 0.9999130964279175}",positive
+cerita dana selalu bikin aku semangat buat terus maju terima kasih dana,12,,"{'label': 'positive', 'score': 0.9999510049819946}",positive
+dana promo voucher selalu kasih promo voucher baik paling top,10,,"{'label': 'positive', 'score': 0.9998663663864136}",positive
+puji tuhan sekarang bayar bareng jadi mudah dana,8,,"{'label': 'positive', 'score': 0.9999558925628662}",positive
+dana punya cerita bikin hari hari jadi arti mantap,9,,"{'label': 'positive', 'score': 0.9999527931213379}",positive
+promo voucher dana emang lawan promo voucher baik selalu,9,,"{'label': 'positive', 'score': 0.9858741760253906}",positive
+alhamdulillah tiap transaksi pakai dana selalu top markotop,8,,"{'label': 'positive', 'score': 0.9999487400054932}",positive
+tiap kali baca cerita guna dana bikin aku semangat buat capai,11,,"{'label': 'positive', 'score': 0.9999381303787231}",positive
+terima kasih dana atas promo voucher hari,7,,"{'label': 'positive', 'score': 0.9997221827507019}",positive
+big thanks pke dana andal kendala,6,,"{'label': 'neutral', 'score': 0.9966806769371033}",neutral
+cerita dana bikin aku percaya tak tak mungkin capai,9,,"{'label': 'positive', 'score': 0.9998517036437988}",positive
+promo voucher dana langsung kepo bayar dana,7,,"{'label': 'neutral', 'score': 0.999733030796051}",neutral
+aman aja sih dana refund cepat cuy,7,,"{'label': 'negative', 'score': 0.9412568211555481}",negative
+guna dana selalu bikin aku cerita makin cinta sama dana,10,,"{'label': 'positive', 'score': 0.9999469518661499}",positive
+dana selalu promo voucher seru waktu bikin makin cinta sama dana,11,,"{'label': 'positive', 'score': 0.9999537467956543}",positive
+gak khawatir transaksi dana pke dana udah beres,8,,"{'label': 'positive', 'score': 0.9998865127563477}",positive
+dana selalu cerita bikin hati hangat semangat bara,8,,"{'label': 'positive', 'score': 0.9999309778213501}",positive
+biar bayar makin seru jgn lupa pake promo voucher dana aja oke pake banhget,14,,"{'label': 'neutral', 'score': 0.995475709438324}",neutral
+tiap hari transaksi setia pakai dana transaksi mudah,8,,"{'label': 'positive', 'score': 0.9995318651199341}",positive
+semangat transaksi dana gak waswas,5,,"{'label': 'positive', 'score': 0.9999454021453857}",positive
+cerita guna dana bikin percaya diri naik level mantap banget,10,,"{'label': 'positive', 'score': 0.9999544620513916}",positive
+nyaman pake banget tawar promo voucher dana,7,,"{'label': 'positive', 'score': 0.9998862743377686}",positive
+setia pakai dana udah beres selalu,6,,"{'label': 'positive', 'score': 0.9998966455459595}",positive
+baca cerita dana bikin hari hari makin senang top banget,10,,"{'label': 'positive', 'score': 0.9999536275863647}",positive
+topup dpt cash back promo voucher dana makin suka dana,10,,"{'label': 'positive', 'score': 0.9998507499694824}",positive
+aman aja pakai dana big thanks dana,7,,"{'label': 'positive', 'score': 0.8118579983711243}",positive
+tau dah mau ketawa apa sedih gegera liat konten mimin,10,,"{'label': 'negative', 'score': 0.9997814297676086}",negative
+dana paham banget cara bikin hari makin seru cerita,9,,"{'label': 'positive', 'score': 0.9999428987503052}",positive
+hari berkah banget dana promo voucher dana makin seru aja,10,,"{'label': 'positive', 'score': 0.9999551773071289}",positive
+aman aja sih saldo gua min,6,,"{'label': 'negative', 'score': 0.9997528195381165}",negative
+wow dana mudah gak ribet,5,,"{'label': 'positive', 'score': 0.9999412298202515}",positive
+dana cuma bikin transaksi mudah punya cerita seru bikin ter,10,,"{'label': 'positive', 'score': 0.9998756647109985}",positive
+ngiler banget liat promo voucher dana baik banget promo vouchernya bikin mau bayar trusss,14,,"{'label': 'negative', 'score': 0.9980694651603699}",negative
+kendala dana memang top banget,5,,"{'label': 'positive', 'score': 0.9999499320983887}",positive
+udah beres soal saldo min aman gua hehe,8,,"{'label': 'neutral', 'score': 0.5585829019546509}",neutral
+kali denger cerita dana bawa semangat baru,7,,"{'label': 'positive', 'score': 0.9999097585678101}",positive
+jago promo voucher dana baik,5,,"{'label': 'positive', 'score': 0.9990909099578857}",positive
+alhamdulillah pernah masalah dana,4,,"{'label': 'positive', 'score': 0.986071765422821}",positive
+dana jadi andal genting,4,,"{'label': 'negative', 'score': 0.9998807907104492}",negative
+dana tuh sekadar wallet baik cerita bikin merinding,8,,"{'label': 'negative', 'score': 0.9992662072181702}",negative
+transaksi bayar pake dana selalu promo voucher seru,8,,"{'label': 'positive', 'score': 0.9999510049819946}",positive
+wow mimin tengah dukun kek,5,,"{'label': 'negative', 'score': 0.999891996383667}",negative
+udah beres transaksi pakai dana the best,7,,"{'label': 'positive', 'score': 0.9999406337738037}",positive
+cerita dana bikin semangat naik terus seru banget,8,,"{'label': 'positive', 'score': 0.9999576807022095}",positive
+gak was was min aset gua dana hehe,8,,"{'label': 'negative', 'score': 0.9995858073234558}",negative
+juara banget dana kalau masalah promo voucher makin suka dana dehhh,11,,"{'label': 'positive', 'score': 0.9999086856842041}",positive
+gak khawatir pake dana alhamdulillah selalu aman,7,,"{'label': 'positive', 'score': 0.9999428987503052}",positive
+gak cuma transaksi dana punya cerita bikin haru mantap,9,,"{'label': 'positive', 'score': 0.9999480247497559}",positive
+perna kecewa dgn dana salah alas makin setia pakai dana,10,,"{'label': 'negative', 'score': 0.9999045133590698}",negative
+semangat pakai dana selalu top banget,6,,"{'label': 'positive', 'score': 0.9999576807022095}",positive
+dengerin cerita pake dana bener bener bikin semangat tinggi,9,,"{'label': 'positive', 'score': 0.999942421913147}",positive
+stiap kali pake danna slalu promo voucher keren pokok makin ria pakai dana deh,14,,"{'label': 'positive', 'score': 0.9999182224273682}",positive
+dana andal udah masuk cepat,5,,"{'label': 'positive', 'score': 0.9997231364250183}",positive
+cerita dana bikin hari makin semangat wow,7,,"{'label': 'positive', 'score': 0.9999327659606934}",positive
+paling tau banget dana bikin semangat pake promo voucher dana,10,,"{'label': 'positive', 'score': 0.9999510049819946}",positive
+big thanks dana udah beres kendala,6,,"{'label': 'neutral', 'score': 0.9881873726844788}",neutral
+dana deals serbu nih banyak diskon mantul breh,8,,"{'label': 'neutral', 'score': 0.9993558526039124}",neutral
+diskon dana deals bikin hidup makin mantul terima kasih dana gue makin irit cuy,14,,"{'label': 'positive', 'score': 0.9999393224716187}",positive
+voucher diskon dana deals udah langgan bikin aman aman aja belanja,11,,"{'label': 'positive', 'score': 0.9996808767318726}",positive
+dana deals tuh andal banget tiap belanja nyari voucher diskon nya,11,,"{'label': 'positive', 'score': 0.9999042749404907}",positive
+udah cek dana deals voucher diskon nya aman aja bre,10,,"{'label': 'negative', 'score': 0.6569098234176636}",negative
+puji tuhan nemu dana deals voucher diskon lumayan banget cuy,10,,"{'label': 'positive', 'score': 0.9999139308929443}",positive
+udah beres belanja bro tinggal pake voucher diskon dana deals doang,11,,"{'label': 'neutral', 'score': 0.9998542070388794}",neutral
+voucher diskon dana deals the best banget gak lawan bre,10,,"{'label': 'positive', 'score': 0.9999492168426514}",positive
+top banget sih dana deals voucher diskon nya bikin kantong gue aman aja,13,,"{'label': 'positive', 'score': 0.9999426603317261}",positive
+gak was was cuy belanja pake voucher diskon dana deals banget,11,,"{'label': 'negative', 'score': 0.9993844032287598}",negative
+siap bre voucher diskon dana deals top banget sih andal gue banget,12,,"{'label': 'positive', 'score': 0.9999454021453857}",positive
+alhamdulillah cuy dana selalu jadi solusi baik,7,,"{'label': 'positive', 'score': 0.9999109506607056}",positive
+gimana akhir balik padahal pernah langgan pernah rasa lakuin transaksi ituu,11,,"{'label': 'negative', 'score': 0.9998829364776611}",negative
+bre kalo dana udah aman aman aja,7,,"{'label': 'positive', 'score': 0.9747949838638306}",positive
+maju terus dana bro wallet paling baik nih,8,,"{'label': 'positive', 'score': 0.9999130964279175}",positive
+sip dah dana selalu bikin semua jadi lancar jaya,9,,"{'label': 'positive', 'score': 0.9999517202377319}",positive
+dah buktiin sendiri dana emang mantul banget,7,,"{'label': 'negative', 'score': 0.9969237446784973}",negative
+terima kasih dana udah bikin weekend jadi seru parah,9,,"{'label': 'positive', 'score': 0.9999421834945679}",positive
+udah nih bre jalan jalan was was mantul,8,,"{'label': 'positive', 'score': 0.9370967745780945}",positive
+suka banget nih pake dana wallet baik,7,,"{'label': 'positive', 'score': 0.9999443292617798}",positive
+baik banget dah dana selalu aman aman aja nih,9,,"{'label': 'positive', 'score': 0.9999037981033325}",positive
+mantap bre dana emang luar biasa selalu lancar jaya,9,,"{'label': 'positive', 'score': 0.9999582767486572}",positive
+alhamdulillah cuy semua udah atas berkat dana,7,,"{'label': 'positive', 'score': 0.9998351335525513}",positive
+rasa mantap nih seru banget jalan jalan pake dana,9,,"{'label': 'positive', 'score': 0.9999581575393677}",positive
+suka dana banget dah nyaman parah pake nya,8,,"{'label': 'positive', 'score': 0.9999381303787231}",positive
+mau aktif paylater dana gimna,5,,"{'label': 'neutral', 'score': 0.9998918771743774}",neutral
+balas pesan urgent,3,,"{'label': 'negative', 'score': 0.9959853291511536}",negative
+sayaaang yaampuun uang tahan,4,,"{'label': 'negative', 'score': 0.8408788442611694}",negative
+gak apa apa kak gak balik pihak dana gak jelas,10,,"{'label': 'negative', 'score': 0.9999151229858398}",negative
+terima kasih dana bre weekend jadi aman aman aja nih,10,,"{'label': 'positive', 'score': 0.9999438524246216}",positive
+mantul banget bro wallet baik udah jalan jalan ribet,9,,"{'label': 'negative', 'score': 0.846388041973114}",negative
+siap cuy gue mulai deg degan nih alhamdulillah dana selalu siap bantu,12,,"{'label': 'positive', 'score': 0.9999251365661621}",positive
+big thanks bro dana emg gak kendala,7,,"{'label': 'positive', 'score': 0.9616455435752869}",positive
+semangat terus dah gue andalanin dana,6,,"{'label': 'positive', 'score': 0.9999396800994873}",positive
+iyaa malah makin belibet minta data bukti,7,,"{'label': 'negative', 'score': 0.9994064569473267}",negative
+lohh dibalikin kakk,3,,"{'label': 'negative', 'score': 0.99988853931427}",negative
+aku tagih uang akhirat makasih,5,,"{'label': 'negative', 'score': 0.999468982219696}",negative
+dana balikin,2,,"{'label': 'negative', 'score': 0.9996114373207092}",negative
+min qrisnya udh dipake lewat kasir kok blm cetak,9,,"{'label': 'negative', 'score': 0.9631822109222412}",negative
+knp dah emg minimal saldo dana bisnisny hrs brp pgn tarik,11,,"{'label': 'neutral', 'score': 0.9996916055679321}",neutral
+hallo aku salah kirim saldo kira kira balik,8,,"{'label': 'neutral', 'score': 0.9998860359191895}",neutral
+xcb babdc fbb,3,,"{'label': 'neutral', 'score': 0.9995996356010437}",neutral
+kocak geming,2,,"{'label': 'positive', 'score': 0.9999146461486816}",positive
+akun bahkan gak centang biru kayak pikir gua anak kecil bodoh bodoh,12,,"{'label': 'negative', 'score': 0.999903678894043}",negative
+akun bahkan gak ceklistnya kayak pikir gua anak kecil bodoh bodoh,11,,"{'label': 'negative', 'score': 0.9999184608459473}",negative
+dong dana selalu verifikasi wajah gagal mulu padahal wajah loh,10,,"{'label': 'negative', 'score': 0.9999092817306519}",negative
+hallo kak hubung email gaada jawab mau tanya perihal transfer bank hasil dana nya masuk,15,,"{'label': 'neutral', 'score': 0.9998455047607422}",neutral
+hallo kak,2,,"{'label': 'neutral', 'score': 0.9998433589935303}",neutral
+hallo kak hubung email respon mau tanya tranksaksi nomil bank bca hasil dana masuk,14,,"{'label': 'neutral', 'score': 0.9998987913131714}",neutral
+sus baru install udah cek nyata nge hack aplikasi nya langsung klo org mgkin apa memang sistem dana nya banyak bolong nya,22,,"{'label': 'negative', 'score': 0.9999144077301025}",negative
+kemanain min duit emoney udha komplain berapa kali udah nunggu gada balas,12,,"{'label': 'negative', 'score': 0.999849796295166}",negative
+woi anjing system busy sampe kapan dana anjing email respon chat bot jls jawab udah bulan akun dana kaya gin mana saldo juta babi bngt lah dana,27,,"{'label': 'negative', 'score': 0.9999176263809204}",negative
+cuy cek ulang biar aman aja jangan sampe kena phishing,10,,"{'label': 'negative', 'score': 0.9991263747215271}",negative
+dah aman cuy rajin cek ulang gara gara dana,9,,"{'label': 'neutral', 'score': 0.9998383522033691}",neutral
+gue demen banget nih fitur tagih lengkap pol,8,,"{'label': 'positive', 'score': 0.9637435674667358}",positive
+phishing emang ngeselin cuy makanya cek ulang biar aman aja,10,,"{'label': 'negative', 'score': 0.9998867511749268}",negative
+nyaman banget sih bayar apa aja tinggal klik doang,9,,"{'label': 'positive', 'score': 0.9993245601654053}",positive
+terima kasih dana udah bikin gue makin hati hati cek ulang,11,,"{'label': 'positive', 'score': 0.9997456669807434}",positive
+kabel udah pernah telat nih bre,6,,"{'label': 'negative', 'score': 0.999895453453064}",negative
+error mau verif gagal terus min,6,,"{'label': 'negative', 'score': 0.9998757839202881}",negative
+love jadi pernah tau kalo nipu,6,,"{'label': 'negative', 'score': 0.9860327839851379}",negative
+knp menu dana cicil apk dana sdh update aplikasi ttp,10,,"{'label': 'neutral', 'score': 0.9998844861984253}",neutral
+top banget konten edukasi jelas,5,,"{'label': 'positive', 'score': 0.9966772794723511}",positive
+suka dana selalu peduli user,5,,"{'label': 'positive', 'score': 0.9993976354598999}",positive
+aman aman aja berkat edukasi,5,,"{'label': 'positive', 'score': 0.9999061822891235}",positive
+terima kasih dana udah ingetin,5,,"{'label': 'positive', 'score': 0.9990262985229492}",positive
+mantap banget dapet edukasi gin,5,,"{'label': 'positive', 'score': 0.9999550580978394}",positive
+big thanks info bikin tenang,5,,"{'label': 'positive', 'score': 0.9999498128890991}",positive
+aman hindar link phising,4,,"{'label': 'negative', 'score': 0.9998321533203125}",negative
+suka bgt gak was was,5,,"{'label': 'positive', 'score': 0.9999420642852783}",positive
+gak khawatir deh mantap,4,,"{'label': 'positive', 'score': 0.9999591112136841}",positive
+gak heran klo edukasi baik dana,6,,"{'label': 'positive', 'score': 0.9987990856170654}",positive
+aku sngat senang skali dgn dana mantul,7,,"{'label': 'positive', 'score': 0.9999498128890991}",positive
+biar krban share mantap,4,,"{'label': 'positive', 'score': 0.9999548196792603}",positive
+maju terus dana utk ngsh edukasi,6,,"{'label': 'positive', 'score': 0.9998816251754761}",positive
+keren baik dana,3,,"{'label': 'positive', 'score': 0.9999537467956543}",positive
+aku bntu share nih edukasi,5,,"{'label': 'neutral', 'score': 0.9975040555000305}",neutral
+wajib tau mantap,3,,"{'label': 'positive', 'score': 0.9999583959579468}",positive
+alhamdulillah syukur stlah tau,4,,"{'label': 'positive', 'score': 0.9999125003814697}",positive
+slalu andal utk kta,4,,"{'label': 'positive', 'score': 0.999908447265625}",positive
+top banget dana edukasi,4,,"{'label': 'positive', 'score': 0.9999531507492065}",positive
+brkat dana kta aman bgt,5,,"{'label': 'positive', 'score': 0.9999396800994873}",positive
+makin canggih makin gampang big thanks dana,7,,"{'label': 'positive', 'score': 0.6917950510978699}",positive
+andal bgt dana buat semua pembyaran,6,,"{'label': 'positive', 'score': 0.9999104738235474}",positive
+tagih kendala fitur dana,4,,"{'label': 'negative', 'score': 0.9966644644737244}",negative
+apa tagih kan bsa pke dana aman,7,,"{'label': 'negative', 'score': 0.9792937636375427}",negative
+buat hdupku aman aman aja,5,,"{'label': 'positive', 'score': 0.9998699426651001}",positive
+big thanks dana taghan air beres kejap,7,,"{'label': 'neutral', 'score': 0.9991756081581116}",neutral
+sngat sngat luar biasa skali dana,6,,"{'label': 'positive', 'score': 0.9997581839561462}",positive
+worth utk byar tagih pke dana mantul,7,,"{'label': 'positive', 'score': 0.9987024068832397}",positive
+baik pkai fitur tagih,4,,"{'label': 'neutral', 'score': 0.9940556287765503}",neutral
+fitur tagih sngat membntu,4,,"{'label': 'negative', 'score': 0.9893506169319153}",negative
+pahlawan utk ursan tagih dana,5,,"{'label': 'neutral', 'score': 0.9979281425476074}",neutral
+aman bgt pke dana alhamdulillah,5,,"{'label': 'positive', 'score': 0.9999229907989502}",positive
+dana bkin taghan aman,4,,"{'label': 'negative', 'score': 0.5312696099281311}",negative
+hitung detik byar taghan via dana the best,8,,"{'label': 'neutral', 'score': 0.9997249245643616}",neutral
+dana solusi cepet byar taghan mantap,6,,"{'label': 'positive', 'score': 0.9999518394470215}",positive
+app aja semua taghan beres makasih dana,7,,"{'label': 'neutral', 'score': 0.9237513542175293}",neutral
+antri taghan air via dana mantul,6,,"{'label': 'neutral', 'score': 0.9998676776885986}",neutral
+taghan air listrik gampang bgt via dana mantap,8,,"{'label': 'positive', 'score': 0.9999313354492188}",positive
+dana selamat bgt luar biasa,5,,"{'label': 'positive', 'score': 0.9999431371688843}",positive
+baru kali byar taghan mudah bigt thanks dana,8,,"{'label': 'neutral', 'score': 0.9995236396789551}",neutral
+taghan beres cepet semua krn dana mantap,7,,"{'label': 'positive', 'score': 0.9999496936798096}",positive
+makasih dana taghan beban rumah mantap,6,,"{'label': 'positive', 'score': 0.9999462366104126}",positive
+suka bgt pake dana semua taghan udah beres,8,,"{'label': 'positive', 'score': 0.9999433755874634}",positive
+dana bkin praktis luar biasa,5,,"{'label': 'positive', 'score': 0.9999382495880127}",positive
+byar taghan masalah dana siap bantu banget,7,,"{'label': 'neutral', 'score': 0.5042237043380737}",neutral
+dana cara cerdas urus taghan repot amp,7,,"{'label': 'negative', 'score': 0.9498351812362671}",negative
+kendala,1,,"{'label': 'negative', 'score': 0.999886155128479}",negative
+terima kasih dana udah mudah urus taghan,7,,"{'label': 'positive', 'score': 0.9998651742935181}",positive
+taghan cukup pakai dana cepet amp,6,,"{'label': 'negative', 'score': 0.9988403916358948}",negative
+perlu antri dana bkin semua mudah,6,,"{'label': 'positive', 'score': 0.9998586177825928}",positive
+dana mudahin hidup nyaman,4,,"{'label': 'positive', 'score': 0.9999128580093384}",positive
+byar taghan ribet dana juara khawatir,6,,"{'label': 'negative', 'score': 0.999900221824646}",negative
+dana solusi cepet buat semua taghan baik,7,,"{'label': 'positive', 'score': 0.9999442100524902}",positive
+mudah byar taghan via dana luv the best,8,,"{'label': 'positive', 'score': 0.9997965693473816}",positive
+big thanks dana byar taghan skrg stres,7,,"{'label': 'negative', 'score': 0.9997888207435608}",negative
+dana bkin hidup praktis byar taghan cepet amp,8,,"{'label': 'negative', 'score': 0.9987842440605164}",negative
+byar taghan mudah pke dana bantu bgt,7,,"{'label': 'positive', 'score': 0.997980535030365}",positive
+gmna min,2,,"{'label': 'negative', 'score': 0.9993366599082947}",negative
+wajib panjang umur cie pernah nimbrung sama zauzy fikhacumlaudegolf kha apadah cewe matre sekarang mah sistem izin entut,18,,"{'label': 'negative', 'score': 0.9998239874839783}",negative
+semangat klo liat konten edukatif gni,6,,"{'label': 'positive', 'score': 0.9999359846115112}",positive
+maju terus dana edukasi digital keren,6,,"{'label': 'positive', 'score': 0.9999507665634155}",positive
+terima kasih dana kasih cerah,5,,"{'label': 'positive', 'score': 0.9999383687973022}",positive
+suka dana deh slalu kasih edukais,6,,"{'label': 'positive', 'score': 0.9999319314956665}",positive
+wow baru tau modus kek gin makasih min,8,,"{'label': 'negative', 'score': 0.9996458292007446}",negative
+promo tpi edukasi gin penting bgt,6,,"{'label': 'positive', 'score': 0.9997648596763611}",positive
+top banget info penting nih,5,,"{'label': 'positive', 'score': 0.9998500347137451}",positive
+setia pakai dana kana aman dana slalu update,8,,"{'label': 'positive', 'score': 0.9998387098312378}",positive
+mantap edukasi min mkin hati,5,,"{'label': 'positive', 'score': 0.9999446868896484}",positive
+slalu semangat min edukasi,4,,"{'label': 'positive', 'score': 0.9999420642852783}",positive
+udah bedain mana link asli sama palsu,7,,"{'label': 'negative', 'score': 0.9998950958251953}",negative
+gak was was dah tau cara lindungin akun,8,,"{'label': 'negative', 'score': 0.9988877177238464}",negative
+alhamdulillah makin ngerti soal phising,5,,"{'label': 'negative', 'score': 0.8745073080062866}",negative
+lancar jaya trus edukasi min,5,,"{'label': 'positive', 'score': 0.9999033212661743}",positive
+udah beres cek konten paham,5,,"{'label': 'neutral', 'score': 0.9990729093551636}",neutral
+aman aja sih asal sebar dana diri,7,,"{'label': 'negative', 'score': 0.9998196959495544}",negative
+data diri baik baik aja akun aman aja,8,,"{'label': 'negative', 'score': 0.9994294047355652}",negative
+dpet tips amp,3,,"{'label': 'negative', 'score': 0.8782979846000671}",negative
+seru beneran mantap edukasi dana tuh,6,,"{'label': 'positive', 'score': 0.9999493360519409}",positive
+manfaat bgt big thanks dana kuuu,6,,"{'label': 'positive', 'score': 0.999947190284729}",positive
+kalem min kendala mah sama modus begini,7,,"{'label': 'negative', 'score': 0.9998888969421387}",negative
+tips bkin nyaman buat jaga akun nih,7,,"{'label': 'positive', 'score': 0.9999009370803833}",positive
+maju terus dana fitur baik,5,,"{'label': 'positive', 'score': 0.9998224377632141}",positive
+kapan bayar tagih pake dana luar biasa gampang,8,,"{'label': 'neutral', 'score': 0.7238622307777405}",neutral
+fitur dana emang mantap,4,,"{'label': 'positive', 'score': 0.9999566078186035}",positive
+sih fitur mantul banget,4,,"{'label': 'positive', 'score': 0.9999418258666992}",positive
+dana baik soal teransaksi mantap,5,,"{'label': 'positive', 'score': 0.9999449253082275}",positive
+keren fiturnya seru bet dah bayar tagih simpel,8,,"{'label': 'positive', 'score': 0.9999526739120483}",positive
+alhamdulillah fitur tagih dana bantu,5,,"{'label': 'neutral', 'score': 0.9975029826164246}",neutral
+selalu memdudahkan guna emang wallet baik,6,,"{'label': 'positive', 'score': 0.9995514750480652}",positive
+bayar tagih simpel banget terima kasih dana,7,,"{'label': 'positive', 'score': 0.9997089505195618}",positive
+jadi lancar jayabayar,3,,"{'label': 'positive', 'score': 0.9999513626098633}",positive
+bayar aman aman aja mantap dana,6,,"{'label': 'positive', 'score': 0.9999426603317261}",positive
+tagiahan baik baik aja berkat dana,6,,"{'label': 'positive', 'score': 0.9997586607933044}",positive
+gak nyesel pilih dana fitur tagih canggih,7,,"{'label': 'positive', 'score': 0.9998880624771118}",positive
+berkat firur dana gua gak was was lgi buat bayar tagih,11,,"{'label': 'negative', 'score': 0.9956225752830505}",negative
+kejar setor pake dana mantap,5,,"{'label': 'positive', 'score': 0.9999501705169678}",positive
+jadi gak khawatir telat bayar tagih hihihi,7,,"{'label': 'positive', 'score': 0.9998138546943665}",positive
+cara kenya mudah banget setor top banget min,8,,"{'label': 'positive', 'score': 0.9999514818191528}",positive
+big thanks dana mudah urus taghan,6,,"{'label': 'positive', 'score': 0.9996613264083862}",positive
+aman aja cuyyy ngaruh modus gituan ama,7,,"{'label': 'negative', 'score': 0.9998960494995117}",negative
+udah masuk otak min biar waspada,6,,"{'label': 'negative', 'score': 0.9975563287734985}",negative
+keren min mantap simpel,4,,"{'label': 'positive', 'score': 0.9999556541442871}",positive
+fiturnya bikin guna nyaman,4,,"{'label': 'positive', 'score': 0.9999517202377319}",positive
+emoney gatau masuk siapa dana tanggung jawab sama sekali telpon cuma blg nunggu chat gada balas gabisa denger komplain cust,20,,"{'label': 'negative', 'score': 0.9999008178710938}",negative
+bukan maen dana selalu upgrade fitur,6,,"{'label': 'neutral', 'score': 0.9966092109680176}",neutral
+selalu aman aja pake fitur canggih dana,7,,"{'label': 'positive', 'score': 0.9786666631698608}",positive
+gue udah beres soal tagih hehe,6,,"{'label': 'positive', 'score': 0.9947052597999573}",positive
+dana jadi andal gua buat bayar apa,7,,"{'label': 'positive', 'score': 0.9997884631156921}",positive
+wow canggih bener dah dana sekarang,6,,"{'label': 'positive', 'score': 0.9970207810401917}",positive
+sih top banget fitur tagih,5,,"{'label': 'positive', 'score': 0.7245469689369202}",positive
+makasih min info,3,,"{'label': 'positive', 'score': 0.7829440236091614}",positive
+tagih gua jadi lancar jaya nih klo begini,8,,"{'label': 'positive', 'score': 0.9999521970748901}",positive
+jadi mudah setor tagihannnya,4,,"{'label': 'positive', 'score': 0.9999216794967651}",positive
+dana terus update soal fitur mantul dah,7,,"{'label': 'neutral', 'score': 0.9998527765274048}",neutral
+mantap nih buat setor,4,,"{'label': 'positive', 'score': 0.9999533891677856}",positive
+the best fitur tagih,4,,"{'label': 'positive', 'score': 0.9251279830932617}",positive
+udah masuk fiturnya keren bgt,5,,"{'label': 'positive', 'score': 0.9999569654464722}",positive
+baru wallet,2,,"{'label': 'neutral', 'score': 0.7060885429382324}",neutral
+gak rempong antri nih soal setor dana emang baik,9,,"{'label': 'positive', 'score': 0.9998733997344971}",positive
+simpel buat bayar tagih the best pokok,7,,"{'label': 'positive', 'score': 0.9999425411224365}",positive
+gak ribet urus kantor mantap,5,,"{'label': 'positive', 'score': 0.9999569654464722}",positive
+the best dah ingeti terus,5,,"{'label': 'positive', 'score': 0.9999431371688843}",positive
+luar biasa min fiturnya,4,,"{'label': 'positive', 'score': 0.9999067783355713}",positive
+bayar tagih rebah nih wkwk,5,,"{'label': 'negative', 'score': 0.9998482465744019}",negative
+semua dana emang mantap,4,,"{'label': 'positive', 'score': 0.9999549388885498}",positive
+dana emang aplikasi ter mantul,5,,"{'label': 'positive', 'score': 0.9999228715896606}",positive
+jadi gak telat lgi nih byr tagih skrg big thanks dana,11,,"{'label': 'positive', 'score': 0.999523401260376}",positive
+cek ulang kali mantul konten min,6,,"{'label': 'neutral', 'score': 0.9998891353607178}",neutral
+dana jago fitur mudah mantul dana,6,,"{'label': 'positive', 'score': 0.9986013770103455}",positive
+teransaksi bayar kendala mantap min,5,,"{'label': 'positive', 'score': 0.9999179840087891}",positive
+lama bayar tagih lewat dana pernah masalah,7,,"{'label': 'negative', 'score': 0.9996113181114197}",negative
+makin semangat pake dana klo fiturnya kek gin,8,,"{'label': 'positive', 'score': 0.9998853206634521}",positive
+big thanks dana alway kasih tips amp,7,,"{'label': 'positive', 'score': 0.9985979199409485}",positive
+tipu kamu,2,,"{'label': 'negative', 'score': 0.9999176263809204}",negative
+bre selalu cek ulang biar aman mantul banget dah,9,,"{'label': 'positive', 'score': 0.9998843669891357}",positive
+suka dana makin lengkap cuy makin nyaman hidup,8,,"{'label': 'positive', 'score': 0.9999516010284424}",positive
+bro jangan lupa cek ulang biar aman phishing sip,9,,"{'label': 'neutral', 'score': 0.9995673298835754}",neutral
+luar biasa sih dana sekarang urus tilang,7,,"{'label': 'negative', 'score': 0.9999141693115234}",negative
+support support pepek karna support support elu kmren gua rugi anjing,11,,"{'label': 'negative', 'score': 0.9999058246612549}",negative
+hai kakak sini bantu sila kirim tanya kendala whatsapp respons segera galang,12,,"{'label': 'neutral', 'score': 0.9999023675918579}",neutral
+please cek bamtu aki,4,,"{'label': 'neutral', 'score': 0.9998762607574463}",neutral
+hati hati cuy jangan sampe kena phishing cek ulang mulu dah,11,,"{'label': 'negative', 'score': 0.9997639060020447}",negative
+nyaman banget dah kalo udah cek ulang biar aman cuy,10,,"{'label': 'positive', 'score': 0.9999372959136963}",positive
+bayar tagih apa aja tinggal duduk manis bre,8,,"{'label': 'negative', 'score': 0.9983816146850586}",negative
+aman aman aja bro asal rajin cek ulang biar aman terus,11,,"{'label': 'neutral', 'score': 0.8903763890266418}",neutral
+baik baik aja kok udah cek ulang phishing bre,9,,"{'label': 'negative', 'score': 0.9977465271949768}",negative
+tilang bayar cuy setia pakai dana,6,,"{'label': 'neutral', 'score': 0.9996084570884705}",neutral
+udah cek ulang nih biar aman mantap banget cuy,9,,"{'label': 'positive', 'score': 0.9999474287033081}",positive
+gak was was sih kalo udah rajin cek ulang bro,10,,"{'label': 'negative', 'score': 0.9992672801017761}",negative
+gak khawatir deh bayar pajak kendara,6,,"{'label': 'positive', 'score': 0.9998010993003845}",positive
+semangat bre jaman sekarang wajib cek ulang biar gak jadi korban phishing,12,,"{'label': 'negative', 'score': 0.9978600144386292}",negative
+big thanks info jadi makin hati hati nih bre,9,,"{'label': 'positive', 'score': 0.9999432563781738}",positive
+internet sama kabel beres pake dana bro,7,,"{'label': 'negative', 'score': 0.6013718843460083}",negative
+sip bre selalu cek ulang klik link biar aman,9,,"{'label': 'neutral', 'score': 0.9998835325241089}",neutral
+puji tuhan sampe sekarang pernah masalah cuy,7,,"{'label': 'positive', 'score': 0.9723250269889832}",positive
+bayar air tinggal klik doang cuy aman aja,8,,"{'label': 'negative', 'score': 0.9996379613876343}",negative
+big thanks bre dana emg andal banget,7,,"{'label': 'positive', 'score': 0.9999219179153442}",positive
+wallet baik nih udah cek ulang aman aman aja cuy,10,,"{'label': 'neutral', 'score': 0.9967983365058899}",neutral
+maju terus dana biar makin hati hati cek ulang tiap,10,,"{'label': 'neutral', 'score': 0.9983661770820618}",neutral
+suka dana banget dah selalu peduli biar aman phishing,9,,"{'label': 'positive', 'score': 0.9997236132621765}",positive
+alhamdulillah gue udah cek ulang biar aman mantul,8,,"{'label': 'positive', 'score': 0.7179418206214905}",positive
+luar biasa bro dana ngajarin cek ulang terus biar aman,10,,"{'label': 'neutral', 'score': 0.999487042427063}",neutral
+mantap bre gue jadi makin hati hati cek ulang tiap transaksi,11,,"{'label': 'positive', 'score': 0.9999405145645142}",positive
+top banget dah dana bikin hidup mudah gak ribet,9,,"{'label': 'positive', 'score': 0.9999533891677856}",positive
+semangat cuy jangan sampe lengah cek ulang tiap transaksi,9,,"{'label': 'positive', 'score': 0.7031083703041077}",positive
+mantul banget bre info cek ulang biar aman makasih dana,10,,"{'label': 'positive', 'score': 0.9989069700241089}",positive
+baik sih dana selalu ngajarin cek ulang biar aman cuy,10,,"{'label': 'neutral', 'score': 0.9998218417167664}",neutral
+sip bre info kayak gin sering bagi biar makin hati hati,11,,"{'label': 'neutral', 'score': 0.9851562976837158}",neutral
+wow bre teknik tipu sekarang gila sih wajib cek ulang,10,,"{'label': 'negative', 'score': 0.9999130964279175}",negative
+seru sih ajar hati hati phishing bareng dana,8,,"{'label': 'positive', 'score': 0.99989914894104}",positive
+terima kasih dana udah ingetin soal phishing hati hati dah bro,11,,"{'label': 'positive', 'score': 0.9316431283950806}",positive
+aman aja asal hati hati rajin cek ulang cuy,9,,"{'label': 'neutral', 'score': 0.679042398929596}",neutral
+hati hati bre jangan asal klik link cek ulang dulu biar aman aja,13,,"{'label': 'negative', 'score': 0.8968586921691895}",negative
+sih setia pakai dana mudah aman aja,7,,"{'label': 'positive', 'score': 0.9910932183265686}",positive
+gak khawatir sih asal cek ulang terus pas transaksi bre,10,,"{'label': 'positive', 'score': 0.9414501786231995}",positive
+setia pakai dana soal gak pernah kendala dah,8,,"{'label': 'positive', 'score': 0.9994919300079346}",positive
+big thanks info bre bikin waspada soal phishing,8,,"{'label': 'neutral', 'score': 0.9660133719444275}",neutral
+cek ulang biar aman aja bro jangan gampang giur tawar palsu cuy,12,,"{'label': 'negative', 'score': 0.9997933506965637}",negative
+aman aja asal selalu hati hati cek ulang bro,9,,"{'label': 'neutral', 'score': 0.9333383440971375}",neutral
+top banget dah dana emang andal gak bikin gue was was,11,,"{'label': 'positive', 'score': 0.999404788017273}",positive
+the best banget deh dana gak pernah kendala cuy,9,,"{'label': 'positive', 'score': 0.9999557733535767}",positive
+wow teknik phishing makin canggih jadi makin rajin cek ulang dah,11,,"{'label': 'positive', 'score': 0.950597882270813}",positive
+wow gak nyangka sih phishing jahat cek ulang penting banget,10,,"{'label': 'negative', 'score': 0.99967360496521}",negative
+wah gue udah biasa cek ulang biar aman bro biar gak kena phishing,13,,"{'label': 'neutral', 'score': 0.943983256816864}",neutral
+atas dgn dana selalu aman kalau sama dana perlu tkt,10,,"{'label': 'positive', 'score': 0.9999164342880249}",positive
+raih semangat transaksi baik dana jadi nyaman,7,,"{'label': 'positive', 'score': 0.9999465942382812}",positive
+lapor segera tipu curiga transaksi aman nyaman selalu,8,,"{'label': 'negative', 'score': 0.9998701810836792}",negative
+transaksi ribet semangat selalu dana,5,,"{'label': 'positive', 'score': 0.9999251365661621}",positive
+user selalu buat nyaman dgn aman dana dgn tips belikan dana selalu peduli,13,,"{'label': 'positive', 'score': 0.9997817873954773}",positive
+transaksi jadi makin semangat dana,5,,"{'label': 'positive', 'score': 0.9999562501907349}",positive
+dana contoh ewallet baik masa kini selalu buat usernya aman,10,,"{'label': 'positive', 'score': 0.999079704284668}",positive
+tambah semangat kali transaksi dana,5,,"{'label': 'positive', 'score': 0.9999504089355469}",positive
+liat tips belikan dana hindar segala cara tipu rugi selalu suka dana,12,,"{'label': 'negative', 'score': 0.9991901516914368}",negative
+semangat transaksi habis,3,,"{'label': 'positive', 'score': 0.9999454021453857}",positive
+ingat jgn slh pilih cuma dana jdi andal aman transaksi,10,,"{'label': 'positive', 'score': 0.8892795443534851}",positive
+semangat kobar transaksi dana,4,,"{'label': 'neutral', 'score': 0.9644536972045898}",neutral
+tips dana selalu ngena banget mantap banget bantu,8,,"{'label': 'positive', 'score': 0.9999556541442871}",positive
+gairah transaksi tingkat dana let dana mantap,7,,"{'label': 'positive', 'score': 0.9999421834945679}",positive
+layan baik keamananya baik dana,5,,"{'label': 'positive', 'score': 0.9941887855529785}",positive
+dapat semangat baru transaksi dana,5,,"{'label': 'positive', 'score': 0.9999527931213379}",positive
+andal mah perna bikin susa cinta beri baik,8,,"{'label': 'positive', 'score': 0.998440682888031}",positive
+dana semangat transaksi selalu jaga,5,,"{'label': 'positive', 'score': 0.9999178647994995}",positive
+jgn tipu dgn jebak tipu selalu waspada lama pake dana aman aja perna knp knp,15,,"{'label': 'negative', 'score': 0.999819815158844}",negative
+hidup semangat transaksi kamu dana,5,,"{'label': 'positive', 'score': 0.9999234676361084}",positive
+pasti jgn sampe tipu dgn oknum dana asli embel embel terima kasih dana,13,,"{'label': 'negative', 'score': 0.9997816681861877}",negative
+semangat transaksi makin puncak dana,5,,"{'label': 'positive', 'score': 0.9996793270111084}",positive
+selalu hati hati transaksi era sekarang buat tipu kaya terima kasih dana tips nya,14,,"{'label': 'negative', 'score': 0.9994180202484131}",negative
+saat tenaga transaksi dana,4,,"{'label': 'neutral', 'score': 0.9998052716255188}",neutral
+sigap naggapi tipu dana luar biasa suda sigap tolong,9,,"{'label': 'negative', 'score': 0.9995860457420349}",negative
+siap transaksi penuh semangat sama dana,6,,"{'label': 'positive', 'score': 0.9999433755874634}",positive
+era digital memang keri dana punya solusi baik lewat tips nya,11,,"{'label': 'positive', 'score': 0.9973207116127014}",positive
+transaksi jadi senang semangat dana,5,,"{'label': 'positive', 'score': 0.9999526739120483}",positive
+aku cinta dana kau tau memang the best banget dana,10,,"{'label': 'positive', 'score': 0.999954104423523}",positive
+jangan pernah hilang semangat transaksi dana,6,,"{'label': 'negative', 'score': 0.8395715951919556}",negative
+semangat trus dana kasih tips cara hindar tipu tipu,9,,"{'label': 'positive', 'score': 0.9867479801177979}",positive
+semangat tinggi transaksi mudah dana,5,,"{'label': 'positive', 'score': 0.9999301433563232}",positive
+jamin aman selalu aman berkat tips luar biasa dana,9,,"{'label': 'positive', 'score': 0.9995355606079102}",positive
+hari hari asa ringan dana transaksi jadi semangat,8,,"{'label': 'positive', 'score': 0.9999419450759888}",positive
+dgn tips dana jdi legah gampang kena tipu memang luar biasa banget,12,,"{'label': 'negative', 'score': 0.7635920643806458}",negative
+dana bikin transaksi jadi alam seru penuh semangat,8,,"{'label': 'positive', 'score': 0.9999575614929199}",positive
+dana tuh cuma anda buat transksi tpi tips nya aman luar biasa,12,,"{'label': 'positive', 'score': 0.9998816251754761}",positive
+mulai hari transaksi mudah pakai dana rasa semangat,8,,"{'label': 'positive', 'score': 0.9998441934585571}",positive
+asiknya pake dana aman dpt nyaman praktis dpt,8,,"{'label': 'positive', 'score': 0.9999411106109619}",positive
+semangat pagi tambah transaksi mudah dana hari sempurna,8,,"{'label': 'positive', 'score': 0.999946117401123}",positive
+pake dana jadi aman nyaman dpt tips luar biasa,9,,"{'label': 'positive', 'score': 0.9999434947967529}",positive
+transaksi dana bawa semangat baru jalan hari,7,,"{'label': 'positive', 'score': 0.9999417066574097}",positive
+tips buat jaga jaga tipu tuh mantap banget,8,,"{'label': 'positive', 'score': 0.9999533891677856}",positive
+transaksi cepat semangat tingkat terima kasih dana,7,,"{'label': 'positive', 'score': 0.9999457597732544}",positive
+cuma nyaman transaksi tips nya bikin aman,7,,"{'label': 'positive', 'score': 0.999927282333374}",positive
+dana transaksi jadi sumber semangat baru,6,,"{'label': 'positive', 'score': 0.9999452829360962}",positive
+keren banget tips nya dana buat lindung tipu bikin aman nyaman deh,12,,"{'label': 'positive', 'score': 0.9999567270278931}",positive
+transaksi pakai dana bikin hari makin cerah,7,,"{'label': 'positive', 'score': 0.9999513626098633}",positive
+tips nya luar biasa banget emang paham banget sih dana mah,11,,"{'label': 'positive', 'score': 0.9998965263366699}",positive
+nikmat mudah transaksi dana rasa semangat,6,,"{'label': 'positive', 'score': 0.999955415725708}",positive
+luar biasa banget tips dana jdi makin tenang deh,9,,"{'label': 'positive', 'score': 0.9999585151672363}",positive
+dana transaksi jadi asyik penuh semangat,6,,"{'label': 'positive', 'score': 0.9999592304229736}",positive
+suka banget tips ewallet baik emang dana selalu hati,9,,"{'label': 'positive', 'score': 0.9999418258666992}",positive
+dana transaksi asa dorong semangat hari baik,7,,"{'label': 'positive', 'score': 0.9990667700767517}",positive
+tips hindar jebak tipu gokil banget ewallet baik emang juara,10,,"{'label': 'positive', 'score': 0.9997678399085999}",positive
+transaksi lancar dana bikin semangat hari makin top,8,,"{'label': 'positive', 'score': 0.9999568462371826}",positive
+dana ewallet baik jauh,4,,"{'label': 'negative', 'score': 0.9998794794082642}",negative
+semangat transaksi dana langkah mudah cepat,6,,"{'label': 'positive', 'score': 0.9999449253082275}",positive
+ngerasa aman pakai dana tips juara emang ewallet baik banget,10,,"{'label': 'positive', 'score': 0.9999313354492188}",positive
+bangun pagi semangat baru transaksi jadi seru dana,8,,"{'label': 'positive', 'score': 0.9999576807022095}",positive
+tips dana memang bikin tenang ewallet baik memang beda men,10,,"{'label': 'positive', 'score': 0.9998961687088013}",positive
+klik transaksi dana semangat baru datang,6,,"{'label': 'neutral', 'score': 0.9997084736824036}",neutral
+terima kasih dana buat tips keren,6,,"{'label': 'positive', 'score': 0.9999485015869141}",positive
+transaksi dana bikin semangat pagi makin kobar,7,,"{'label': 'positive', 'score': 0.9677470922470093}",positive
+slh jdikan dana andal dana selalu kasih baik,8,,"{'label': 'positive', 'score': 0.9997250437736511}",positive
+mulai hari semangat transaksi dana jadi mudah senang,8,,"{'label': 'positive', 'score': 0.9999527931213379}",positive
+dana emang ewallet baik tips nya selalu manjur banget,9,,"{'label': 'positive', 'score': 0.9999359846115112}",positive
+dapat semangat baru kali transaksi dana ayo mulai hari,9,,"{'label': 'positive', 'score': 0.9999251365661621}",positive
+serius tips mantul banget,4,,"{'label': 'positive', 'score': 0.9999427795410156}",positive
+siap hadap hari energi baru transaksi gampang pakai dana,9,,"{'label': 'positive', 'score': 0.9810571670532227}",positive
+makas tips nya dana ewallet baik memang perna mengecewain,9,,"{'label': 'positive', 'score': 0.9872893691062927}",positive
+transaksi dana bikin hari lancar jaya,6,,"{'label': 'positive', 'score': 0.999955415725708}",positive
+rasa aman deh berkat dana big thanks dana,8,,"{'label': 'positive', 'score': 0.9999455213546753}",positive
+transaksi dana atas perlu repot keluar rumah,7,,"{'label': 'neutral', 'score': 0.9982342720031738}",neutral
+bener bener works banget tips dana mantul dah poko,9,,"{'label': 'positive', 'score': 0.9999376535415649}",positive
+alhamdulillah dana bikin transaksi gak pake ribet sama sekali,9,,"{'label': 'positive', 'score': 0.9998840093612671}",positive
+slmt tinggal jebak tipu terima kasih dana,7,,"{'label': 'negative', 'score': 0.9999172687530518}",negative
+suka dana transaksi jadi cepat gak ribet,7,,"{'label': 'positive', 'score': 0.999951958656311}",positive
+kata way tipu big thanks dana,6,,"{'label': 'negative', 'score': 0.9998311996459961}",negative
+aman aman aja transaksi dana bikin hati tenang,8,,"{'label': 'positive', 'score': 0.9999445676803589}",positive
+cara hindar jbkn tipu dana tuh emang top banget,9,,"{'label': 'positive', 'score': 0.9998490810394287}",positive
+transaksi dana lancar jaya gua puas banget,7,,"{'label': 'positive', 'score': 0.999954342842102}",positive
+beneran guna banget tips dana memang andal,7,,"{'label': 'positive', 'score': 0.9998832941055298}",positive
+maju terus dana transaksi aplikasi kalian bikin hidup gampang,9,,"{'label': 'positive', 'score': 0.9998522996902466}",positive
+dana mantul banget buat gua tau trik tipu online,9,,"{'label': 'positive', 'score': 0.999404788017273}",positive
+gak perlu antri transaksi dana praktis banget,7,,"{'label': 'positive', 'score': 0.9999444484710693}",positive
+asa aman aja tiap kali transakasi online karna tips dana,10,,"{'label': 'positive', 'score': 0.9948692321777344}",positive
+mantap transaksi dana gampang gak kendala,6,,"{'label': 'positive', 'score': 0.9999384880065918}",positive
+selalu ikut saran dana dgn tips mantul,7,,"{'label': 'positive', 'score': 0.9789009094238281}",positive
+gua neng banget transaksi dana aman aman aja,8,,"{'label': 'positive', 'score': 0.9998632669448853}",positive
+cara dana memang baik hindar tipu online,7,,"{'label': 'negative', 'score': 0.9996297359466553}",negative
+luar biasa dana bikin transaksi jadi simpel,7,,"{'label': 'positive', 'score': 0.9999517202377319}",positive
+tips dana buat gua percaya diri tkt tipu pokok dana baik deh,12,,"{'label': 'positive', 'score': 0.9998923540115356}",positive
+terima kasih dana transaksi jadi mudah tinggal klik,8,,"{'label': 'positive', 'score': 0.9998144507408142}",positive
+berkat tips dana aku aman aja deh transaksi,8,,"{'label': 'positive', 'score': 0.9999325275421143}",positive
+nyaman banget transaksi dana gak perlu repot kantor pajak,9,,"{'label': 'positive', 'score': 0.9999415874481201}",positive
+mantap banget dana tipsnya buat hindar tipu online,8,,"{'label': 'positive', 'score': 0.9999392032623291}",positive
+alhamdulillah dana bikin transaksi jadi mudah praktis,7,,"{'label': 'positive', 'score': 0.9999532699584961}",positive
+gak khawatir deh sama tipu berkat dana,7,,"{'label': 'positive', 'score': 0.9169541001319885}",positive
+suka transaksi dana lancar jaya banget,6,,"{'label': 'positive', 'score': 0.999955415725708}",positive
+dana beneran bikin hidup gua aman aja,7,,"{'label': 'positive', 'score': 0.9983342289924622}",positive
+mantul dana bikin transaksi ribet,5,,"{'label': 'negative', 'score': 0.9998865127563477}",negative
+terima kasih dana atas tips anti tipu tipu onlinenya,9,,"{'label': 'positive', 'score': 0.9994526505470276}",positive
+baik dana transaksi jadi gampang cepat,6,,"{'label': 'positive', 'score': 0.9999237060546875}",positive
+dana punya tips hindar tipu online paling mantap,8,,"{'label': 'positive', 'score': 0.9999274015426636}",positive
+aman aman aja transaksi dana bikin gua gak khawatir,9,,"{'label': 'positive', 'score': 0.9999309778213501}",positive
+aman aja deh tips dana selalu aman,7,,"{'label': 'positive', 'score': 0.9999215602874756}",positive
+lancar jaya transaksi lewat dana semua beres,7,,"{'label': 'positive', 'score': 0.9999440908432007}",positive
+emang dana nih andal gua bikin gua aman tipu,9,,"{'label': 'negative', 'score': 0.9997233748435974}",negative
+transaksi lewat dana atas gampang tinggal klik,7,,"{'label': 'neutral', 'score': 0.9998548030853271}",neutral
+gara dana gua skrng paham bet cara hindar tipu online terima kasih dana,13,,"{'label': 'negative', 'score': 0.9996985197067261}",negative
+nyaman banget transaksi dana gua bayar mana aja,8,,"{'label': 'positive', 'score': 0.9997841715812683}",positive
+top banget tips dana soal jebak tipu online,8,,"{'label': 'positive', 'score': 0.9992750287055969}",positive
+puas banget transaksi lewat dana lancar jaya kendala,8,,"{'label': 'positive', 'score': 0.9999476671218872}",positive
+dgn dana aku lbh tenang aman aja penipuanb online,9,,"{'label': 'positive', 'score': 0.9583393931388855}",positive
+terima kasih dana transaksi sekarang gak pake antri,8,,"{'label': 'positive', 'score': 0.9986667633056641}",positive
+terima kasih dana udeh ngasih tau cara hindar tipu,9,,"{'label': 'negative', 'score': 0.9998100399971008}",negative
+promo pbb dana bikin bayar pajak hemat,7,,"{'label': 'positive', 'score': 0.9999451637268066}",positive
+suka banget deh sama dana bikin transksi selalu aman aja bro,11,,"{'label': 'positive', 'score': 0.9999525547027588}",positive
+gak nyangka transaksi dana gampang banget tinggal klik,8,,"{'label': 'positive', 'score': 0.9826839566230774}",positive
+dana kasih tips aman aja hindar jebak tipu,8,,"{'label': 'negative', 'score': 0.9998188614845276}",negative
+neng transaksi dana lancar jaya gak masalah,7,,"{'label': 'positive', 'score': 0.999729335308075}",positive
+thanks dana tipsnya selalu jdi andal,6,,"{'label': 'positive', 'score': 0.999944806098938}",positive
+aku neng banget transaksi dana aman aman aja,8,,"{'label': 'positive', 'score': 0.9999034404754639}",positive
+dana memang aman aja kalau transaksi online mantul pokok,9,,"{'label': 'positive', 'score': 0.9998407363891602}",positive
+udah transaksi lewat dana semua beres ribet,7,,"{'label': 'negative', 'score': 0.9997645020484924}",negative
+baik banget utk transaksi online dana,6,,"{'label': 'positive', 'score': 0.9999276399612427}",positive
+maju terus dana transaksi lewat aplikasi kalian mantul banget,9,,"{'label': 'positive', 'score': 0.9999057054519653}",positive
+transaksi online aman nyaman berkat tips dana,7,,"{'label': 'positive', 'score': 0.9998317956924438}",positive
+mantap transaksi dana gampang banget tinggal klik aja,8,,"{'label': 'positive', 'score': 0.9999022483825684}",positive
+slh pilih deh dgn dana mantap lah pokok,8,,"{'label': 'positive', 'score': 0.9999499320983887}",positive
+suka dana transaksi jadi gak ribet sama sekali,8,,"{'label': 'positive', 'score': 0.9999511241912842}",positive
+baik banget dana ksh tips lengkap jelas,7,,"{'label': 'positive', 'score': 0.9998681545257568}",positive
+gua suka banget transaksi dana nyaman praktis,7,,"{'label': 'positive', 'score': 0.9999545812606812}",positive
+selalu dpt ilmu baru dana memang baik,7,,"{'label': 'positive', 'score': 0.9999403953552246}",positive
+terima kasih dana transaksi sekarang lancar jaya,7,,"{'label': 'positive', 'score': 0.9999552965164185}",positive
+tips baik dana transaksi online jdi aman,7,,"{'label': 'positive', 'score': 0.9999263286590576}",positive
+alhamdulillah transaksi lewat aplikasi dana jadi mudah,7,,"{'label': 'positive', 'score': 0.9999457597732544}",positive
+gila gue make sense sama gimana uang iseng cmn perak hari kemudian tarik nominal besar yng udh lama tarik tarik the biggest scam everrr,24,,"{'label': 'negative', 'score': 0.9996737241744995}",negative
+minta pihak dana cek akun pake orang akun atas nama aditia fajar sujatmiko kerja sama nya dana,17,,"{'label': 'neutral', 'score': 0.9999020099639893}",neutral
+kronologi bawah punya akun dana aditia fajar sujatmiko pernah ganti nomer dana nomer dana ganti sama orang bukan guna dana sejak april,22,,"{'label': 'neutral', 'score': 0.9998993873596191}",neutral
+berapa lama kata resolusi hari sampe sekarang jelas,8,,"{'label': 'negative', 'score': 0.9995686411857605}",negative
+sok asik jamet,3,,"{'label': 'negative', 'score': 0.9999144077301025}",negative
+verifikasi muka gagal terus padahal orang nya sama gimana sih,10,,"{'label': 'negative', 'score': 0.9999070167541504}",negative
+cokk gua gabisa login eror napa nih,7,,"{'label': 'negative', 'score': 0.9999110698699951}",negative
+info dana gua knpa gabisa login,6,,"{'label': 'negative', 'score': 0.9996082186698914}",negative
+akun dana kok tiba tiba logout sulit login,8,,"{'label': 'negative', 'score': 0.9999041557312012}",negative
+kendala minta bantu kmn csnya robot ngulang ngulang tanya konsultasi,10,,"{'label': 'neutral', 'score': 0.7129485607147217}",neutral
+kmu gabisa,2,,"{'label': 'negative', 'score': 0.9995837807655334}",negative
+bang buka,2,,"{'label': 'neutral', 'score': 0.9783024787902832}",neutral
+akun dana bobol dana raib lapor kirim bukti lengkap ikut prosedur jawab akun verifikasi arti bukan tanggung jawab padahal jelas jelas korban sistem aman lemah bukan salah,27,,"{'label': 'negative', 'score': 0.9998682737350464}",negative
+akun tiba tiba beku udah bulan mas aja suruh tunggu mulu kaga kelar kelar mana saldo,16,,"{'label': 'negative', 'score': 0.9999077320098877}",negative
+gak was was pas jatuh tempo tinggal buka dana,9,,"{'label': 'negative', 'score': 0.9809056520462036}",negative
+baru canggih bro bayar sim,5,,"{'label': 'negative', 'score': 0.8770890831947327}",negative
+mantul nih dana buat bayar pajak kendara langsung,8,,"{'label': 'neutral', 'score': 0.9930013418197632}",neutral
+keren sih sekarang bayar pajak kendara,6,,"{'label': 'positive', 'score': 0.9999327659606934}",positive
+andal banget buat sibuk bayar,5,,"{'label': 'positive', 'score': 0.999825656414032}",positive
+semangat terus bayar tagih udah gampang banget,7,,"{'label': 'positive', 'score': 0.9996607303619385}",positive
+bayar listrik lewat dana dah gak was was cuy,9,,"{'label': 'negative', 'score': 0.9998410940170288}",negative
+the best sih dana buat urus semua tagih,8,,"{'label': 'positive', 'score': 0.9999274015426636}",positive
+top banget sih fitur tagih dana,6,,"{'label': 'positive', 'score': 0.9959724545478821}",positive
+dana emg andal banget dulu sampe sekarang,7,,"{'label': 'positive', 'score': 0.999886155128479}",positive
+wow bayar cicil sekarang mudah,5,,"{'label': 'positive', 'score': 0.999930739402771}",positive
+paspor bre wow banget,4,,"{'label': 'positive', 'score': 0.999842643737793}",positive
+wah sip banget bayar samsat lewat dana nih,8,,"{'label': 'positive', 'score': 0.9991065859794617}",positive
+halo min tanya laku transfer jenius dana teman saldo jenius potong uang blm masuk dana teman bantu cek hampir minggu tdk jelas dana krn tdk dpt respon apa stlh lapor,30,,"{'label': 'negative', 'score': 0.9992308616638184}",negative
+hallo min nomor daftar dana aktif mau ganti nomor baru segera proses min soal uang situ,16,,"{'label': 'neutral', 'score': 0.9998953342437744}",neutral
+dana kok gabisa tarik tunai,5,,"{'label': 'negative', 'score': 0.9998743534088135}",negative
+biarin aja walaupun nelfonin ngirim link phising buat nipu jangan sampe klik yaa,13,,"{'label': 'negative', 'score': 0.9998782873153687}",negative
+kaget tiba tiba dapet kayak gin njir tipu gak sih gimana sihh,12,,"{'label': 'negative', 'score': 0.9999005794525146}",negative
+min nih baru aja persis kayak gin biarin aja kali kok tau nama,13,,"{'label': 'negative', 'score': 0.9997871518135071}",negative
+udah bulan lapor jangan pernah naruh duit dana akun tiba ngilang padahal nga pernah klik link otp,17,,"{'label': 'negative', 'score': 0.9997900128364563}",negative
+udah prioritas mana duit,4,,"{'label': 'negative', 'score': 0.9995558857917786}",negative
+woyy,1,,"{'label': 'negative', 'score': 0.999862551689148}",negative
+poko,1,,"{'label': 'positive', 'score': 0.9999053478240967}",positive
+cukk,1,,"{'label': 'negative', 'score': 0.9985935091972351}",negative
+gamau tauu,2,,"{'label': 'negative', 'score': 0.9999102354049683}",negative
+leng,1,,"{'label': 'negative', 'score': 0.9998064637184143}",negative
+cuk,1,,"{'label': 'negative', 'score': 0.9998854398727417}",negative
+cek ngasih solusi banget min gitu doang kerja apa nya bot semua,12,,"{'label': 'negative', 'score': 0.9998162388801575}",negative
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+siapa sangka tabung tiba tiba saldo lenyap,7,,"{'label': 'negative', 'score': 0.9995231628417969}",negative
+kak,1,,"{'label': 'positive', 'score': 0.9993162155151367}",positive
+jangan pake dana awas duit hilang,6,,"{'label': 'negative', 'score': 0.9998770952224731}",negative
+dana macam bantu dana buat umkm min buat usaha macam pinjam,11,,"{'label': 'neutral', 'score': 0.999850869178772}",neutral
+bismillah,1,,"{'label': 'positive', 'score': 0.9999366998672485}",positive
+hallo shopeepay masuk isi saldo tgl masuk benar isi saldo nomor tuju,12,,"{'label': 'neutral', 'score': 0.9998937845230103}",neutral
+yuk kak sabda konfirmasi biar follow kendala makasih zidane,9,,"{'label': 'neutral', 'score': 0.9998997449874878}",neutral
+lahh padahal aku hampir tiap minggu selalu top alfa gaperna kena biaya admin deh,14,,"{'label': 'neutral', 'score': 0.6679673790931702}",neutral
+hai teman smartfren sayang banget kak jadi maksimal guna smartfrennya minfren paham banget nih kendala kakak alami yuk infoin via solusi baik terima kasih zay,25,,"{'label': 'negative', 'score': 0.9590933322906494}",negative
+hai teman smartfren tanya putar smartfren minfren siap bantu kak yuk cek info lengkap smartfren tetap jaga sehat kak terima kasih zay,22,,"{'label': 'neutral', 'score': 0.9998955726623535}",neutral
+sampe kapan nunggu,3,,"{'label': 'negative', 'score': 0.8850545287132263}",negative
+pls balikin duit wlw ribu hidup jauh ortu kasi duit lumayan buat ongkos pulang nambah nyampe cibinongg ueueueue refund pls,20,,"{'label': 'neutral', 'score': 0.5407775044441223}",neutral
+dosa bego mbak nipu orang,5,,"{'label': 'negative', 'score': 0.9999184608459473}",negative
+cok rep kali naksir ama gua,6,,"{'label': 'neutral', 'score': 0.9955325126647949}",neutral
+coky bleh nipu org sdang terzolimi tau,7,,"{'label': 'negative', 'score': 0.9999144077301025}",negative
+nipu jelek ngjak brantem,4,,"{'label': 'negative', 'score': 0.9999147653579712}",negative
+tobat coky,2,,"{'label': 'positive', 'score': 0.9985696077346802}",positive
+suruh telf bank gmn deh iniii ribet,7,,"{'label': 'negative', 'score': 0.9999099969863892}",negative
+halo top btpn jenius dana blm masuk kurang menit lalu posisi saldo ter debet bantu,15,,"{'label': 'neutral', 'score': 0.9999018907546997}",neutral
+buat coky,2,,"{'label': 'positive', 'score': 0.9998270869255066}",positive
+buat ryan,2,,"{'label': 'positive', 'score': 0.7692756652832031}",positive
+buat niken,2,,"{'label': 'positive', 'score': 0.9920908212661743}",positive
+buat ana,2,,"{'label': 'positive', 'score': 0.999876856803894}",positive
+lewat jalan,2,,"{'label': 'positive', 'score': 0.9975069165229797}",positive
+udah kali pernah kaya gin top emoney masuk gimana wey refund khhh,12,,"{'label': 'neutral', 'score': 0.9998797178268433}",neutral
+isi dana pake mbanking sampe solusi gmn min,8,,"{'label': 'negative', 'score': 0.9981892704963684}",negative
+twit brp hari lalu jir problem udah solved,8,,"{'label': 'neutral', 'score': 0.9997497200965881}",neutral
+udah kak alhamdulillah udh balik,5,,"{'label': 'positive', 'score': 0.9985470175743103}",positive
+cek plissss,2,,"{'label': 'positive', 'score': 0.9999421834945679}",positive
+kak salah top akun dana nomor keliru coba hubung nomor sebut nyata nomor katif guna bantu kece soal saldo potong,20,,"{'label': 'neutral', 'score': 0.9997574687004089}",neutral
+waduuuhh sabar kak lapor aja kak pihak dana nya via email help,12,,"{'label': 'neutral', 'score': 0.9483045339584351}",neutral
+klik link kak banyak karna klik link jelas kak hub nya dana aja email help,15,,"{'label': 'neutral', 'score': 0.9998874664306641}",neutral
+make dana ampe skarang,4,,"{'label': 'negative', 'score': 0.9998806715011597}",negative
+alhamdulilah aku pernah masalah lho kak sering top buat beli paket ngadu email nya dana help,16,,"{'label': 'neutral', 'score': 0.996927797794342}",neutral
+kalo emg rasa trx lgsg lapor aja kak nya dana via email help,13,,"{'label': 'neutral', 'score': 0.9998809099197388}",neutral
+hai teman smartfren info putar smartfren cek terima kasih ben,10,,"{'label': 'neutral', 'score': 0.999893307685852}",neutral
+belum klik link jelas kak soal banyak bgt link jelas mana sumber,12,,"{'label': 'neutral', 'score': 0.7058457136154175}",neutral
+udh coba buat lapor kak saran via email aja kak help,11,,"{'label': 'neutral', 'score': 0.9998953342437744}",neutral
+saran ngadu email help aja kak biar fast respon solved,10,,"{'label': 'neutral', 'score': 0.9998899698257446}",neutral
+coba cek jaring kak aku sering alhamdulilah aman aja sih kak,11,,"{'label': 'positive', 'score': 0.997287392616272}",positive
+kendala apa emgnya kak lapor aja nya lewat email help,10,,"{'label': 'neutral', 'score': 0.9939017295837402}",neutral
+hai teman smartfren cus gunain akses internet mantul smartfren biar internetannya selalu lanjay info lengkap smartfrennya cek sini terima kasih uti,21,,"{'label': 'neutral', 'score': 0.999858021736145}",neutral
+hai teman smartfren info putar smartfren cek terima kasih ben,10,,"{'label': 'neutral', 'score': 0.999893307685852}",neutral
+tuh kak saran kalo akendala lgsg hub nya dana aja kak email help,13,,"{'label': 'neutral', 'score': 0.9998906850814819}",neutral
+kosooooong,1,,"{'label': 'negative', 'score': 0.9997220635414124}",negative
+waduhhh sabar kak sabar saran buat lapor email resmi dana aja kak help,13,,"{'label': 'neutral', 'score': 0.9985101819038391}",neutral
+mungkin down kak servernya coba kala aja kak,8,,"{'label': 'negative', 'score': 0.9768083095550537}",negative
+sabar kak better lapor email dana aja kak help,9,,"{'label': 'neutral', 'score': 0.9998908042907715}",neutral
+lgsg resmi dana aja kak via email help biar cepet kelar masalah,12,,"{'label': 'neutral', 'score': 0.999862551689148}",neutral
+dana,1,,"{'label': 'negative', 'score': 0.9903479814529419}",negative
+email resmi dana aja kak help biar solved masalah,9,,"{'label': 'neutral', 'score': 0.9998835325241089}",neutral
+alhamdulillah bayar udh verifikasi kak,5,,"{'label': 'neutral', 'score': 0.999854326248169}",neutral
+mantap mas,2,,"{'label': 'positive', 'score': 0.9999563694000244}",positive
+hai teman smartfren info putar smartfren cek terima kasih ben,10,,"{'label': 'neutral', 'score': 0.999893307685852}",neutral
+kamu chat ana aja kak platform,6,,"{'label': 'neutral', 'score': 0.9998916387557983}",neutral
+masyaallah alhamdulillah punya belummm,4,,"{'label': 'positive', 'score': 0.999687910079956}",positive
+buka apk dana,3,,"{'label': 'neutral', 'score': 0.9998676776885986}",neutral
+drama seru buat healing dah langgan wetv pake promo dana aja bre,12,,"{'label': 'positive', 'score': 0.9907033443450928}",positive
+langgan pake dana emang andal banget bro nonton jadi nyaman,10,,"{'label': 'positive', 'score': 0.9999456405639648}",positive
+wih drama wetv ter gas langgan pake promo dana hemat dah cuy,12,,"{'label': 'negative', 'score': 0.9969125986099243}",negative
+gak was was langgan wetv pake dana aman aja happy dah bro,12,,"{'label': 'positive', 'score': 0.567476749420166}",positive
+cdm kak,2,,"{'label': 'neutral', 'score': 0.9995502829551697}",neutral
+the best lah pokok,4,,"{'label': 'positive', 'score': 0.9999576807022095}",positive
+tenang aja semua baik baik aja,6,,"{'label': 'positive', 'score': 0.9987949132919312}",positive
+nyaman bgt skrng pke dana,5,,"{'label': 'positive', 'score': 0.9999330043792725}",positive
+dana andal kta smua,4,,"{'label': 'positive', 'score': 0.9997615218162537}",positive
+ykin bgt dana plihan baik,5,,"{'label': 'positive', 'score': 0.9997697472572327}",positive
+dompet digital baik dana,4,,"{'label': 'neutral', 'score': 0.9998513460159302}",neutral
+top banget smkin lwa wallet,5,,"{'label': 'positive', 'score': 0.9999403953552246}",positive
+min ksh dng promo langgananya,5,,"{'label': 'neutral', 'score': 0.9998613595962524}",neutral
+gak repot mau langgnan tnggl plih dana,7,,"{'label': 'negative', 'score': 0.9994211196899414}",negative
+tenang aman pke dana,4,,"{'label': 'positive', 'score': 0.9999065399169922}",positive
+aku tau bgt soal dana buat langgan mudah,8,,"{'label': 'positive', 'score': 0.9999278783798218}",positive
+gokil gokil nyala wiii,4,,"{'label': 'positive', 'score': 0.9999537467956543}",positive
+aku mkin suka dana,4,,"{'label': 'positive', 'score': 0.9999504089355469}",positive
+alhamdulillah udh langgan,3,,"{'label': 'negative', 'score': 0.9993821382522583}",negative
+langgan nntn plih dana lah aplg buat aman bgt,9,,"{'label': 'positive', 'score': 0.9999170303344727}",positive
+slalu nyaman dgn dana,4,,"{'label': 'positive', 'score': 0.9999322891235352}",positive
+msh ragu sma dana jgn dek,6,,"{'label': 'negative', 'score': 0.9976493716239929}",negative
+dana emg plihan baik buat nyaman,6,,"{'label': 'positive', 'score': 0.9998868703842163}",positive
+nnton lancar jaya klo udh langgan pke dana,8,,"{'label': 'positive', 'score': 0.9999096393585205}",positive
+gak pkiran buat tkut hbs langgan pke dana aman aman aja,11,,"{'label': 'negative', 'score': 0.9986588954925537}",negative
+cba deh langgan pke dana aman bgt,7,,"{'label': 'positive', 'score': 0.9995111227035522}",positive
+langgan sllu andal dana mah,5,,"{'label': 'negative', 'score': 0.9995057582855225}",negative
+emg baik bgt,3,,"{'label': 'positive', 'score': 0.9999332427978516}",positive
+dana emg mantap bgt,4,,"{'label': 'positive', 'score': 0.9999544620513916}",positive
+tunggu tnggl cuss langgan,4,,"{'label': 'negative', 'score': 0.9901551008224487}",negative
+bru blang wallet baik,4,,"{'label': 'negative', 'score': 0.9876798391342163}",negative
+apa min keren loh nntn nyaman aman,7,,"{'label': 'positive', 'score': 0.9999433755874634}",positive
+serius top banget dong klo gtu,6,,"{'label': 'positive', 'score': 0.9999152421951294}",positive
+bsa langgan pke dana rasany luar biasa,7,,"{'label': 'positive', 'score': 0.9997264742851257}",positive
+alhamdulillah keren bgt,3,,"{'label': 'positive', 'score': 0.9999573230743408}",positive
+dana buat kta smkin nyaman,5,,"{'label': 'positive', 'score': 0.9999021291732788}",positive
+maju terus dana buat smuany,5,,"{'label': 'positive', 'score': 0.9999164342880249}",positive
+support baik buat dana,4,,"{'label': 'positive', 'score': 0.9999039173126221}",positive
+wuih wuih nyala dana,4,,"{'label': 'positive', 'score': 0.9999219179153442}",positive
+terima kasih dana,3,,"{'label': 'positive', 'score': 0.9999246597290039}",positive
+udh cba langgan gak kendala,5,,"{'label': 'negative', 'score': 0.999800980091095}",negative
+wow keren banget cuy libur panjang aman bareng tips,9,,"{'label': 'positive', 'score': 0.9999312162399292}",positive
+tau aja buat hobby nntn buat mudah,7,,"{'label': 'positive', 'score': 0.9998742341995239}",positive
+dana emg baik bsa bgt,5,,"{'label': 'positive', 'score': 0.9990719556808472}",positive
+nah mantap nih bsa langgan,5,,"{'label': 'positive', 'score': 0.9999457597732544}",positive
+nntn skrng tmbah seru klo udh lnggnan pke dana,9,,"{'label': 'positive', 'score': 0.9997090697288513}",positive
+tmpt favorit nntn skrng bsa langgan pke dana jga mantap,10,,"{'label': 'positive', 'score': 0.9999488592147827}",positive
+serius gak kendala langgan pke dana,6,,"{'label': 'negative', 'score': 0.9996334314346313}",negative
+udah beres langgan pke dana,5,,"{'label': 'negative', 'score': 0.9997840523719788}",negative
+udah beres nyiapin tanggal tinggal ambil cuti aja bre,9,,"{'label': 'neutral', 'score': 0.9931435585021973}",neutral
+prlu pusing mkirin langgan tnggl pke dana mudah,8,,"{'label': 'negative', 'score': 0.9996358156204224}",negative
+nnton seru tnpa hambat kren dana,6,,"{'label': 'negative', 'score': 0.9999092817306519}",negative
+udh lma langgan lwat dana aman bgt sih,8,,"{'label': 'positive', 'score': 0.9992491602897644}",positive
+the best lah dana mah,5,,"{'label': 'positive', 'score': 0.9999527931213379}",positive
+saingn dana mantul,3,,"{'label': 'negative', 'score': 0.9994351267814636}",negative
+maju terus dana bngun inovasi kren,6,,"{'label': 'positive', 'score': 0.9999275207519531}",positive
+lancar jaya nih hari cuti udh tau,7,,"{'label': 'positive', 'score': 0.999906063079834}",positive
+jamin deh cma dana mantap,5,,"{'label': 'positive', 'score': 0.9999485015869141}",positive
+jgn smpai slah plih wallet cma dana baik,8,,"{'label': 'negative', 'score': 0.9998157620429993}",negative
+kpan min mau kasih dana kaget biar mkin seru,9,,"{'label': 'positive', 'score': 0.9405661821365356}",positive
+min adkh event seru nnti,5,,"{'label': 'positive', 'score': 0.9998459815979004}",positive
+kra bklan ksh sma dana akhr thn nnti seru kekny,10,,"{'label': 'positive', 'score': 0.999895453453064}",positive
+sbar nunggu dana ngsh promo,5,,"{'label': 'negative', 'score': 0.9997804760932922}",negative
+event seru akhr thn,4,,"{'label': 'positive', 'score': 0.9999473094940186}",positive
+bgi promo min akhir thn nih,6,,"{'label': 'neutral', 'score': 0.9996086955070496}",neutral
+mmng slalu panutan dana mah mantul,6,,"{'label': 'positive', 'score': 0.9993828535079956}",positive
+gak was was nih klo udh tau hari cuti,9,,"{'label': 'negative', 'score': 0.9997913241386414}",negative
+cma dana wallet baik,4,,"{'label': 'neutral', 'score': 0.9245114326477051}",neutral
+yakin nih ragu sama dana download sih skrng,8,,"{'label': 'negative', 'score': 0.9998522996902466}",negative
+sngat luar biasa inovasi dana ikan,6,,"{'label': 'positive', 'score': 0.9999204874038696}",positive
+mantap bgt sih dana buat smua mudah,7,,"{'label': 'positive', 'score': 0.9999527931213379}",positive
+gak khawatir nih ckup save foto aja,7,,"{'label': 'negative', 'score': 0.6565687656402588}",negative
+berkat dana semua baik baik aja,6,,"{'label': 'positive', 'score': 0.9996261596679688}",positive
+udh dpet info hari cuti dana auto atur jdwal,9,,"{'label': 'neutral', 'score': 0.9998952150344849}",neutral
+aman aja klo udh tau hari cuti,7,,"{'label': 'negative', 'score': 0.9921261072158813}",negative
+gak kendala bgt nih pas bgt hari cutiny,8,,"{'label': 'positive', 'score': 0.9979279041290283}",positive
+gua sngat trbantu dgn info dana mantap,7,,"{'label': 'positive', 'score': 0.9999493360519409}",positive
+heran sma dana emg top banget,6,,"{'label': 'positive', 'score': 0.9999092817306519}",positive
+dana emg baik,3,,"{'label': 'positive', 'score': 0.9999014139175415}",positive
+kpan nih kra dana kaget min,6,,"{'label': 'neutral', 'score': 0.7983703017234802}",neutral
+mnta promo dong min,4,,"{'label': 'neutral', 'score': 0.9814310073852539}",neutral
+smkin wallet baik dana,4,,"{'label': 'neutral', 'score': 0.633232593536377}",neutral
+kenap login dana lewat vertifikazi wajah trs mlh pakek kode otp,11,,"{'label': 'neutral', 'score': 0.9998966455459595}",neutral
+slalu andal kta smua info dana,6,,"{'label': 'positive', 'score': 0.9977537989616394}",positive
+mkin suka dana klo kyk gni,6,,"{'label': 'positive', 'score': 0.9998339414596558}",positive
+dana emg gokil baik dah,5,,"{'label': 'positive', 'score': 0.9999513626098633}",positive
+baik bgt udh ngsh hari cuti,6,,"{'label': 'positive', 'score': 0.9996138215065002}",positive
+skrng mudah tau hri cuti dana,6,,"{'label': 'neutral', 'score': 0.994020402431488}",neutral
+update bgt min yak mslah cuti baik,7,,"{'label': 'neutral', 'score': 0.48082536458969116}",neutral
+salut sih gua ama dana the best,7,,"{'label': 'positive', 'score': 0.9999542236328125}",positive
+keren bgt informasi cuti dana top banget,7,,"{'label': 'positive', 'score': 0.9999536275863647}",positive
+baik bgt dana,3,,"{'label': 'positive', 'score': 0.9999353885650635}",positive
+curiga adminnya ngsh kode pngen cuti,6,,"{'label': 'negative', 'score': 0.9999079704284668}",negative
+dana slalu andal infony date,5,,"{'label': 'positive', 'score': 0.9999107122421265}",positive
+haha kykny mimin sbar pngen cuti,6,,"{'label': 'negative', 'score': 0.9980223178863525}",negative
+keren bgt dana updte bgt mslah cuti wow,8,,"{'label': 'positive', 'score': 0.9999419450759888}",positive
+klo udh tau hari cuti buat thn dpn aman aja,10,,"{'label': 'negative', 'score': 0.8768890500068665}",negative
+wuih udh dpet bcoran hri cuti baik,7,,"{'label': 'negative', 'score': 0.9996498823165894}",negative
+seru liat dana udh kyk ngsh kisi uji versi cuti haha,11,,"{'label': 'positive', 'score': 0.9858907461166382}",positive
+kak mi seingetku soal pernah gitu nomor ilang,8,,"{'label': 'negative', 'score': 0.999113142490387}",negative
+min cek,2,,"{'label': 'neutral', 'score': 0.9998304843902588}",neutral
+yok cuy lgsg serbu aja promo mantul,7,,"{'label': 'neutral', 'score': 0.9998939037322998}",neutral
+mau bgt promo kali,4,,"{'label': 'positive', 'score': 0.9966171383857727}",positive
+cukup seru kali promonya,4,,"{'label': 'positive', 'score': 0.9999428987503052}",positive
+nice bet nih cuy,4,,"{'label': 'positive', 'score': 0.8686204552650452}",positive
+asli coi promo kek gin wajib bgt,7,,"{'label': 'positive', 'score': 0.9999120235443115}",positive
+klo kata wort bgt sumpah,5,,"{'label': 'positive', 'score': 0.9990546107292175}",positive
+coba dong min kasih promo gaming,6,,"{'label': 'neutral', 'score': 0.9998672008514404}",neutral
+andal bgt dana buat ngapain aja,6,,"{'label': 'positive', 'score': 0.9825140833854675}",positive
+mah wow bingit min,4,,"{'label': 'negative', 'score': 0.9998352527618408}",negative
+oke slalu min big thanks min,6,,"{'label': 'neutral', 'score': 0.990706741809845}",neutral
+paling semangat klo dana dah keluarin promo,7,,"{'label': 'positive', 'score': 0.9999450445175171}",positive
+cuma ewallet baik mampu kasih promo terus terus,8,,"{'label': 'neutral', 'score': 0.9996110796928406}",neutral
+jago promo cuma dana,4,,"{'label': 'negative', 'score': 0.865442156791687}",negative
+mana tahan sama promo kek gin,6,,"{'label': 'negative', 'score': 0.9994012117385864}",negative
+gabisa move promonya mimin,4,,"{'label': 'negative', 'score': 0.9996781349182129}",negative
+wadidawww promo nya gokil abis,5,,"{'label': 'positive', 'score': 0.999954104423523}",positive
+akhir taun hujanin promo dana mantap,6,,"{'label': 'positive', 'score': 0.9999330043792725}",positive
+rill cuiy promo bukan kaleng kaleng,6,,"{'label': 'neutral', 'score': 0.9998375177383423}",neutral
+wah mudah hemat berkat dana,5,,"{'label': 'positive', 'score': 0.9999572038650513}",positive
+gokill menn dana emg top banget,6,,"{'label': 'positive', 'score': 0.9999486207962036}",positive
+sejak pake dana bel pernah masalah mantul,7,,"{'label': 'negative', 'score': 0.932271420955658}",negative
+tunjukinn ewallet baik nama dana,5,,"{'label': 'positive', 'score': 0.8252384066581726}",positive
+udah pake promo dana gaskuen lah,6,,"{'label': 'positive', 'score': 0.9921129941940308}",positive
+gabisa diemin promo gassssa,4,,"{'label': 'negative', 'score': 0.9998487234115601}",negative
+anti ribet tinggal klik udah beres deh,7,,"{'label': 'positive', 'score': 0.9996665716171265}",positive
+rupa mantap mantap cus,4,,"{'label': 'positive', 'score': 0.9999539852142334}",positive
+mantap gilak good promo,4,,"{'label': 'positive', 'score': 0.9999551773071289}",positive
+yakalee promonya diemin bae,4,,"{'label': 'negative', 'score': 0.9998955726623535}",negative
+top banget dah min aku suka,6,,"{'label': 'positive', 'score': 0.9999579191207886}",positive
+baik promonya skuy cuy,4,,"{'label': 'positive', 'score': 0.8314703702926636}",positive
+gas bree promo mantul bet mantul,6,,"{'label': 'positive', 'score': 0.9894521236419678}",positive
+beneran the best cuy,4,,"{'label': 'positive', 'score': 0.9999526739120483}",positive
+dana promo,2,,"{'label': 'positive', 'score': 0.9558286070823669}",positive
+cius mantul bgt,3,,"{'label': 'positive', 'score': 0.7948946952819824}",positive
+wow cuy beneran mantulll,4,,"{'label': 'positive', 'score': 0.9999340772628784}",positive
+meju terus danakuu banyakin promonya,5,,"{'label': 'positive', 'score': 0.9995607733726501}",positive
+jan bosen kasi promonya maju terus dana,7,,"{'label': 'positive', 'score': 0.9979682564735413}",positive
+bae min kasi promonya,4,,"{'label': 'neutral', 'score': 0.9998107552528381}",neutral
+seru bestie klo dah bahas libur,6,,"{'label': 'positive', 'score': 0.9999488592147827}",positive
+paling seru liburanya,3,,"{'label': 'positive', 'score': 0.9999579191207886}",positive
+udah beres atur jadwal sama doi dongs,7,,"{'label': 'positive', 'score': 0.472207635641098}",positive
+fix org rumah kudu tau biar libur bareng,8,,"{'label': 'neutral', 'score': 0.9997411370277405}",neutral
+konten mantul nih save amp,5,,"{'label': 'negative', 'score': 0.8938159942626953}",negative
+kali bareng min liburanya,4,,"{'label': 'neutral', 'score': 0.9601515531539917}",neutral
+libur masa depan atas deh hehe,6,,"{'label': 'positive', 'score': 0.9983060359954834}",positive
+makas min manfaat info,4,,"{'label': 'neutral', 'score': 0.9998341798782349}",neutral
+wow bole lah atur jadwal libur mantul cuy,8,,"{'label': 'neutral', 'score': 0.9722282290458679}",neutral
+cuti mudah klo dah jdwlnya,5,,"{'label': 'positive', 'score': 0.8490060567855835}",positive
+siap min udah beres simpen jadwal,6,,"{'label': 'neutral', 'score': 0.9993409514427185}",neutral
+mang the best dana klo kasi inpo tuh,8,,"{'label': 'positive', 'score': 0.9999343156814575}",positive
+min cuti libur kmna,4,,"{'label': 'neutral', 'score': 0.9998838901519775}",neutral
+nyaman klo dah tau tanggal,5,,"{'label': 'positive', 'score': 0.9998831748962402}",positive
+aman aman aja udah save min,6,,"{'label': 'negative', 'score': 0.6912001371383667}",negative
+keren jadwal wajib save big thanks min,7,,"{'label': 'positive', 'score': 0.9998600482940674}",positive
+beneran mudah dana tuh big thanks,6,,"{'label': 'positive', 'score': 0.9999397993087769}",positive
+setia pakai dana deh perhati bgt sama usernya,8,,"{'label': 'positive', 'score': 0.9999457597732544}",positive
+cek cek info dlu buat libur keluarga,7,,"{'label': 'neutral', 'score': 0.9998873472213745}",neutral
+gasss cuy inpo pantai mantul buat libur dong,8,,"{'label': 'negative', 'score': 0.9339185953140259}",negative
+udah tentuin tgl waktu kumpulin saldo aja nic,8,,"{'label': 'neutral', 'score': 0.9997612833976746}",neutral
+asikk jadwal udah beres sisa cari lokasi aja,8,,"{'label': 'positive', 'score': 0.9987401366233826}",positive
+yuhuuu plan libur udah beres deh,6,,"{'label': 'positive', 'score': 0.9998998641967773}",positive
+kuy min banyakin promo nya buat libur hhehe,8,,"{'label': 'neutral', 'score': 0.9998716115951538}",neutral
+btw terima kasih dana jadwal cuti,6,,"{'label': 'neutral', 'score': 0.9998637437820435}",neutral
+gokilll peduli dana emg baik,5,,"{'label': 'positive', 'score': 0.9999369382858276}",positive
+semua tau dana emg baik soal promo gokil,8,,"{'label': 'positive', 'score': 0.9999135732650757}",positive
+jelas idul fitri wajib mudik min,6,,"{'label': 'neutral', 'score': 0.9905897378921509}",neutral
+top banget jadwal cuti udah siap,6,,"{'label': 'positive', 'score': 0.9999493360519409}",positive
+harap gada halang pas tgl tentu,6,,"{'label': 'negative', 'score': 0.9998942613601685}",negative
+alhamdulillah rencana libur tahun depan moga lancar jaya,8,,"{'label': 'positive', 'score': 0.9998948574066162}",positive
+apa cuma blom planing,4,,"{'label': 'negative', 'score': 0.9998518228530884}",negative
+plan kalian ngapain gais,4,,"{'label': 'negative', 'score': 0.9998408555984497}",negative
+dana bayar jadi aman aman aja,6,,"{'label': 'positive', 'score': 0.9998941421508789}",positive
+pakai dana transaksi langsung lancar jaya,6,,"{'label': 'positive', 'score': 0.9999535083770752}",positive
+suka dana bayar jadi cepat simpel,6,,"{'label': 'positive', 'score': 0.999950647354126}",positive
+dana memang baik buat transaksi hari hari,7,,"{'label': 'positive', 'score': 0.999895453453064}",positive
+terima kasih dana gak perlu ribet kalau dana,8,,"{'label': 'positive', 'score': 0.9999130964279175}",positive
+puji tuhan sekarang bayar bareng jadi mudah dana,8,,"{'label': 'positive', 'score': 0.9999558925628662}",positive
+kali pakai dana rasa mantap banget,6,,"{'label': 'positive', 'score': 0.9999575614929199}",positive
+big thanks pke dana andal kendala,6,,"{'label': 'neutral', 'score': 0.9966806769371033}",neutral
+aman aja sih dana refund cepat cuy,7,,"{'label': 'negative', 'score': 0.9412568211555481}",negative
+alhamdulillah tiap transaksi pakai dana selalu top markotop,8,,"{'label': 'positive', 'score': 0.9999487400054932}",positive
+semangat terus pakai dana gak pernah kendala aman aja,9,,"{'label': 'positive', 'score': 0.9995408058166504}",positive
+alhamdulillah sering pke dana biar selalu aman aja,8,,"{'label': 'positive', 'score': 0.9996378421783447}",positive
+semangat transaksi dana gak was was,6,,"{'label': 'negative', 'score': 0.9872109889984131}",negative
+ewallet baik transaksi dana dana lah,6,,"{'label': 'negative', 'score': 0.8969616889953613}",negative
+dana memang ewallet baik dana,5,,"{'label': 'positive', 'score': 0.9788181781768799}",positive
+ewallet baik dana dana pasti,5,,"{'label': 'neutral', 'score': 0.9993835687637329}",neutral
+alhamdulillah transaksi lancar pakai dana,5,,"{'label': 'positive', 'score': 0.9999250173568726}",positive
+suka dana banget pakai dana simple cepat,7,,"{'label': 'positive', 'score': 0.9999370574951172}",positive
+mantap dana bikin semua transaksi jadi mudah,7,,"{'label': 'positive', 'score': 0.9999581575393677}",positive
+dana ewallet baik dana,4,,"{'label': 'neutral', 'score': 0.9978775978088379}",neutral
+dana memang ewallet baik transaksi dana,6,,"{'label': 'positive', 'score': 0.7885748744010925}",positive
+suka dana bikin transaksi gampang,5,,"{'label': 'positive', 'score': 0.9998937845230103}",positive
+alhamdulillah transaksi jadi mudah dana,5,,"{'label': 'positive', 'score': 0.9999537467956543}",positive
+yuk beli langgan langsung nonton vip puas wetv,8,,"{'label': 'neutral', 'score': 0.9998644590377808}",neutral
+jgn ragu buat selalu pake dana dana ewallet baik,9,,"{'label': 'positive', 'score': 0.9953835606575012}",positive
+transakasi seru kalau pake dana,5,,"{'label': 'positive', 'score': 0.9999490976333618}",positive
+ntah knp dana jadi andal,5,,"{'label': 'positive', 'score': 0.9988131523132324}",positive
+selalu nyaman sama dana,4,,"{'label': 'positive', 'score': 0.9999430179595947}",positive
+terima kasih dana fitur keren,5,,"{'label': 'positive', 'score': 0.9999551773071289}",positive
+dana pake lengkap makanya selalu jdi andal,7,,"{'label': 'positive', 'score': 0.9999431371688843}",positive
+tiba saldo ilang tiba transaksi sebut mohon tanggap nya,9,,"{'label': 'negative', 'score': 0.999639630317688}",negative
+gmna gak tangung jawab nya buat kembali dana,8,,"{'label': 'negative', 'score': 0.9994663596153259}",negative
+min komplain langsung balas buset ana gak bantu apa,9,,"{'label': 'negative', 'score': 0.9999046325683594}",negative
+tiba transaksi kayak gin,4,,"{'label': 'negative', 'score': 0.9997103810310364}",negative
+min proses kembali dana brp lama,6,,"{'label': 'neutral', 'score': 0.9988129138946533}",neutral
+bayar guna qris uang masuk rekening toko jual jadi bayar kali padahal udah struk jual uang masuk,17,,"{'label': 'neutral', 'score': 0.9996126294136047}",neutral
+unggul banding ovo gopay ewallet lain top gratis alam buruk dana tetap pakai hingga,14,,"{'label': 'neutral', 'score': 0.9927858710289001}",neutral
+mohon bantu follow min keluh dgn nomor lapor segera selesai cepat,11,,"{'label': 'neutral', 'score': 0.9998881816864014}",neutral
+cek min,2,,"{'label': 'neutral', 'score': 0.999625563621521}",neutral
+wah jajan auntie anne pake dana nyaman banget dah,9,,"{'label': 'positive', 'score': 0.9999456405639648}",positive
+lemonade seger parah cocok sama eclair stix wah mantap cuy,10,,"{'label': 'positive', 'score': 0.9999520778656006}",positive
+spesial nataru gift buat doi dana wah baik banget,9,,"{'label': 'positive', 'score': 0.9999469518661499}",positive
+cheese stix galore cuy lezat banget wih mantul sih,9,,"{'label': 'positive', 'score': 0.9999568462371826}",positive
+wah caramel almondnya enak banget boong cuy wajib coba,9,,"{'label': 'positive', 'score': 0.9999563694000244}",positive
+hadiah spesial buat keluarga sayang daget dana baik bre,9,,"{'label': 'positive', 'score': 0.9998657703399658}",positive
+wah jajan auntie anne pake daget nataru seru banget cuy,10,,"{'label': 'positive', 'score': 0.9999428987503052}",positive
+lemonade cheese stix combo baik pake dana spesial nataru,9,,"{'label': 'positive', 'score': 0.5488582253456116}",positive
+cinnamon pretzel wajib coba banget bre rasa luar biasa,9,,"{'label': 'positive', 'score': 0.9999459981918335}",positive
+wow daget nataru bikin semangat cuy,6,,"{'label': 'positive', 'score': 0.9998445510864258}",positive
+sip banget sekarang kasih hadiah jadi mudah,7,,"{'label': 'positive', 'score': 0.9999477863311768}",positive
+telat bgt bls nya gak sekali tahun depan,8,,"{'label': 'negative', 'score': 0.9999217987060547}",negative
+tolomg bantu transaksi jta blm masuk,6,,"{'label': 'negative', 'score': 0.9994373917579651}",negative
+slowres banget hadehh gak ditanggepin,5,,"{'label': 'negative', 'score': 0.9998732805252075}",negative
+hai teman smartfren kait kendala nomor smartfren kamu yuk whats app official smartfren layan live chat solusi baik smartfren terima kasih,21,,"{'label': 'neutral', 'score': 0.9999028444290161}",neutral
+@clvmszy @danawallet ga bisa :(,5,,"{'label': 'negative', 'score': 0.9930612444877625}",negative
+kak mau nanya akhir bayar yaa,6,,"{'label': 'neutral', 'score': 0.99988853931427}",neutral
+kaspa qzjtsgsxr nal uvj smdw udz wlvpjdepuv mwh,8,,"{'label': 'neutral', 'score': 0.9998540878295898}",neutral
+gua yes banget min suka promonya,6,,"{'label': 'positive', 'score': 0.999891996383667}",positive
+seman senyum doi min vocernya mantul,6,,"{'label': 'positive', 'score': 0.9991208910942078}",positive
+mana tolak vocer mantap,4,,"{'label': 'positive', 'score': 0.9999581575393677}",positive
+big thanks buat fitur daget simple kasi kado buat sayang,10,,"{'label': 'positive', 'score': 0.6714941263198853}",positive
+mantul fitur keren andal bgt,5,,"{'label': 'positive', 'score': 0.9999477863311768}",positive
+pake dana mang paling mantul buat jajan,7,,"{'label': 'positive', 'score': 0.9999020099639893}",positive
+good vocer cemilan akhir taun aman aja,7,,"{'label': 'positive', 'score': 0.9994781613349915}",positive
+asikk ngemil nic gaskuen deh otw auntie annes terima kasih dana vocernya,12,,"{'label': 'positive', 'score': 0.9998582601547241}",positive
+juara deh vocer dana deals hemat tros kendala,8,,"{'label': 'positive', 'score': 0.9999419450759888}",positive
+jajan seru bareng dana nih,5,,"{'label': 'positive', 'score': 0.9998780488967896}",positive
+drama kirim kado pke daget emg mantul cuy,8,,"{'label': 'negative', 'score': 0.5950724482536316}",negative
+maju terus dana banyakin vocer disko dana deals hehe,9,,"{'label': 'positive', 'score': 0.6664101481437683}",positive
+btw terima kasih dana vocernya mantul parah,7,,"{'label': 'negative', 'score': 0.9998928308486938}",negative
+segala jadi lancar nyaman sama dana auntie anne,8,,"{'label': 'positive', 'score': 0.9999442100524902}",positive
+emg luar biasa vocernya,4,,"{'label': 'positive', 'score': 0.9998838901519775}",positive
+stiap kali pake danna slalu voucher keren pokok makin setia pakai dana auntie anne deh,15,,"{'label': 'positive', 'score': 0.9999494552612305}",positive
+makasih dana auntie anne atas voucher nya bikin transaksi nyaman,10,,"{'label': 'positive', 'score': 0.9999469518661499}",positive
+dadak ken jajan jadi,4,,"{'label': 'negative', 'score': 0.999646782875061}",negative
+voucher dana auntie anne voucher istimewa setia guna aplikasi,9,,"{'label': 'neutral', 'score': 0.9998348951339722}",neutral
+udah beres jaja dong mantul hemat vocernya min,8,,"{'label': 'neutral', 'score': 0.7643153667449951}",neutral
+dana auntie anne memang pilih tepat buat cari nyaman transaksi voucher nya,12,,"{'label': 'positive', 'score': 0.9993138313293457}",positive
+transaksi jadi gak ribet berkat voucher dana auntie anne,9,,"{'label': 'positive', 'score': 0.9999452829360962}",positive
+terima kasih dana auntie anne moga berkah voucher alir kepada,10,,"{'label': 'positive', 'score': 0.99628746509552}",positive
+wohoo terima kasih dana auntie anne voucher jadi hebat berkat supportmu,11,,"{'label': 'positive', 'score': 0.999929666519165}",positive
+terima kasih dana auntie anne dukung voucher makin hitung,9,,"{'label': 'positive', 'score': 0.9997040629386902}",positive
+apreciate banget dana auntie anne voucher makin istimewa berkat baik mantul dana auntie anne,14,,"{'label': 'positive', 'score': 0.9999521970748901}",positive
+dana recommended buat nyimpen uang fitur aplikasi nya rusak banget asal konfirmasi bayar izin milik udh hilang dana udh beberapa kali ajuin banding balikin duit anji emng kira nyari duit gampang,31,,"{'label': 'negative', 'score': 0.9998624324798584}",negative
+salam sukses terima kasih dana auntie anne atas sumbangsih tak nilai voucher,12,,"{'label': 'neutral', 'score': 0.9913384914398193}",neutral
+terima kasih banyak dana auntie anne voucher makin ciamik berkat kontribusi luar biasa,13,,"{'label': 'positive', 'score': 0.9999490976333618}",positive
+terima kasih dana auntie anne dukung buat voucher jadi arti semua,11,,"{'label': 'positive', 'score': 0.9999277591705322}",positive
+bangga punya dukung dana auntie anne voucher terima kasih dana auntie anne,12,,"{'label': 'positive', 'score': 0.9999352693557739}",positive
+dana auntie anne voucher selalu kasih voucher baik paling top,10,,"{'label': 'positive', 'score': 0.9999316930770874}",positive
+voucher dana auntie anne pernah kecewa baik banget dana auntie anne,11,,"{'label': 'negative', 'score': 0.9999109506607056}",negative
+suka banget sama voucher dana auntie anne vouchernya baik selalu,10,,"{'label': 'positive', 'score': 0.999951958656311}",positive
+voucher dana auntie anne selalu top baik emang,8,,"{'label': 'positive', 'score': 0.9999475479125977}",positive
+terima kasih dana auntie anne voucher baik vouchernya pernah absen,10,,"{'label': 'neutral', 'score': 0.9974207878112793}",neutral
+dana auntie anne memang baik voucher voucher selalu bikin puas,10,,"{'label': 'positive', 'score': 0.9999512434005737}",positive
+terima kasih dana auntie anne voucher nya keren banget,9,,"{'label': 'positive', 'score': 0.9999542236328125}",positive
+dana auntie anne selalu hadir voucher keren voucher contoh makin suka dana auntie anne,14,,"{'label': 'positive', 'score': 0.9999276399612427}",positive
+keren parah voucher dana auntie anne memang mantap,8,,"{'label': 'positive', 'score': 0.9999542236328125}",positive
+voucher dana auntie anne keren untung mantap sekali,8,,"{'label': 'positive', 'score': 0.9999511241912842}",positive
+voucher dana auntie anne hidup jadi mudah jadi keren,9,,"{'label': 'positive', 'score': 0.9999499320983887}",positive
+suka dana auntie anne banget sama voucher dana auntie anne keren maksimal,12,,"{'label': 'positive', 'score': 0.9999452829360962}",positive
+dana recommended masak iya transaksi asal konfirmasi aja izin milik kan rugi walaupun sengaja tautin dana google lah harga guna minimal kasih notifikasi izin nya kalo udh begini dana mna mau gimna,32,,"{'label': 'negative', 'score': 0.9998579025268555}",negative
+apresiasi buat dana auntie anne atas voucher keren baik,9,,"{'label': 'positive', 'score': 0.9999417066574097}",positive
+dana auntie anne bikin hidup makin mudah voucher super keren,10,,"{'label': 'positive', 'score': 0.9999468326568604}",positive
+voucher dana auntie anne memang keren banget terima kasih dana auntie anne,12,,"{'label': 'positive', 'score': 0.9999555349349976}",positive
+transaksi lewat dana lancar jaya gua puas banget,8,,"{'label': 'positive', 'score': 0.9999542236328125}",positive
+maju terus dana transaksi aplikasi kalian baik banget,8,,"{'label': 'positive', 'score': 0.9999419450759888}",positive
+aman aman aja transaksi lewat dana bikin hati tenang,9,,"{'label': 'positive', 'score': 0.9999432563781738}",positive
+mantap dana bikin transaksi gampang praktis,6,,"{'label': 'positive', 'score': 0.9999516010284424}",positive
+alhamdulillah dana bikin transaksi gak ribet sama sekali,8,,"{'label': 'positive', 'score': 0.9999221563339233}",positive
+nyaman banget transaksi lewat dana gak perlu keluar rumah,9,,"{'label': 'positive', 'score': 0.9999324083328247}",positive
+luar biasa transaksi dana cepet banget gak perlu antri,9,,"{'label': 'positive', 'score': 0.9999450445175171}",positive
+suka dana transaksi lewat aplikasi bikin hidup praktis,8,,"{'label': 'positive', 'score': 0.9999382495880127}",positive
+terima kasih dana transaksi sekarang gampang hemat waktu,8,,"{'label': 'positive', 'score': 0.9999552965164185}",positive
+aku suka transaksi dana semua lancar jaya,7,,"{'label': 'positive', 'score': 0.9999539852142334}",positive
+gua puas banget transaksi dana lancar jaya cepat,8,,"{'label': 'positive', 'score': 0.9999550580978394}",positive
+mantul dana bikin transaksi jadi gak pake ribet,8,,"{'label': 'positive', 'score': 0.9999450445175171}",positive
+nyaman banget transaksi dana hemat waktu tenaga,7,,"{'label': 'positive', 'score': 0.9999557733535767}",positive
+mna tanggung jawab nya lah bukan uang sedikit udh cukup besar cari uang hari kerja ngaduk semen plis bantu dong,20,,"{'label': 'negative', 'score': 0.9998737573623657}",negative
+luar biasa dana bikin transaksi jadi simpel cepat,8,,"{'label': 'positive', 'score': 0.9999549388885498}",positive
+wah transaksi lewat dana bener bener baik,7,,"{'label': 'positive', 'score': 0.9999377727508545}",positive
+ribet mudah hemat waktu,4,,"{'label': 'positive', 'score': 0.9999401569366455}",positive
+gaskuen min ide bagus patut coba,6,,"{'label': 'positive', 'score': 0.9999103546142578}",positive
+alhamdulillah sejak pake dana emg kendala,6,,"{'label': 'negative', 'score': 0.9965119957923889}",negative
+udah kirim hadiah pake daget gampang bgt cara,8,,"{'label': 'positive', 'score': 0.993475615978241}",positive
+gapernah novasi keren mantap jiwa,5,,"{'label': 'positive', 'score': 0.9999419450759888}",positive
+cocok min rencana gitu krim dget buat kado thun baru,10,,"{'label': 'neutral', 'score': 0.9874595403671265}",neutral
+setia pakai dana krna semua solusi butuh sini,8,,"{'label': 'neutral', 'score': 0.9906953573226929}",neutral
+atas kado akhir taun dana emg top banget,8,,"{'label': 'positive', 'score': 0.999951958656311}",positive
+sayang makin sayang klo kirimin daget pas tahun baru sih mantap jiwa,12,,"{'label': 'positive', 'score': 0.9999533891677856}",positive
+daget emg andal bikin kejut akhir taun,7,,"{'label': 'negative', 'score': 0.9998986721038818}",negative
+fitur andal segala butuh kirim kirim hadiah,7,,"{'label': 'neutral', 'score': 0.9973537921905518}",neutral
+buat dana apresiasi fiturnya emg top banget,7,,"{'label': 'positive', 'score': 0.9999288320541382}",positive
+bkal neng bgt kasih daget,5,,"{'label': 'negative', 'score': 0.9998805522918701}",negative
+ayo pake daget buat kasih kado spesial tahun baru,9,,"{'label': 'neutral', 'score': 0.9997377991676331}",neutral
+nyaman kan pake dana tuh beneran kasi solusi apa,9,,"{'label': 'negative', 'score': 0.9578859806060791}",negative
+maju terus dana inovasi manfaat bgt,6,,"{'label': 'positive', 'score': 0.999945878982544}",positive
+luar biasa min cara krim hadiah gampang praktis,8,,"{'label': 'positive', 'score': 0.9999092817306519}",positive
+yeeey dana emg mantul deh,5,,"{'label': 'positive', 'score': 0.9998947381973267}",positive
+efisien buang waktu klik udah beres hadiah sampe,8,,"{'label': 'negative', 'score': 0.9993199110031128}",negative
+klik selesai top banget,4,,"{'label': 'positive', 'score': 0.9959930181503296}",positive
+kok iya cobain hehe,4,,"{'label': 'neutral', 'score': 0.9590152502059937}",neutral
+dana auntie anne memang selalu jadi andal,7,,"{'label': 'positive', 'score': 0.999929666519165}",positive
+ngiler banget liat voucher dana auntie anne baik banget vouchernya bikin mau voucher trusss,14,,"{'label': 'negative', 'score': 0.630882740020752}",negative
+jago voucher dana auntie anne baik,6,,"{'label': 'positive', 'score': 0.9993353486061096}",positive
+transaksi voucher pake dana auntie anne selalu voucher seru,9,,"{'label': 'positive', 'score': 0.9999507665634155}",positive
+juara banget dana auntie anne kalau masalah voucher makin suka dana auntie anne dehhh,14,,"{'label': 'positive', 'score': 0.9999557733535767}",positive
+pretzel manis makin nikmat berkat vocer dana deals,8,,"{'label': 'positive', 'score': 0.9999533891677856}",positive
+tiap hari berkah banget dana auntie anne voucher dana auntie anne makin seru aja,14,,"{'label': 'positive', 'score': 0.9999558925628662}",positive
+cius nih min wah mantap bgt lgsg otw,8,,"{'label': 'positive', 'score': 0.9999363422393799}",positive
+beneran ewallet baik dana tuh,5,,"{'label': 'positive', 'score': 0.7191600203514099}",positive
+tau min suka ngemil,4,,"{'label': 'neutral', 'score': 0.9820278882980347}",neutral
+gokil cemilan baik with vocer baik,6,,"{'label': 'positive', 'score': 0.9999464750289917}",positive
+wow fitur daget bener inovasi baik,6,,"{'label': 'positive', 'score': 0.999935507774353}",positive
+mudah mantul bet mantul cuy,5,,"{'label': 'positive', 'score': 0.9999408721923828}",positive
+cuma dana bikin hidup jadi simple,6,,"{'label': 'positive', 'score': 0.999943733215332}",positive
+balik promonya banyak dana spesialis kejut seru,7,,"{'label': 'positive', 'score': 0.9999494552612305}",positive
+aku rela klo mimin kasi daget hehehe,7,,"{'label': 'negative', 'score': 0.9322248101234436}",negative
+partner payment baik poko dana tuh,6,,"{'label': 'neutral', 'score': 0.9997804760932922}",neutral
+mudah ngapain cari susah maju terus dana,7,,"{'label': 'negative', 'score': 0.9998576641082764}",negative
+lancar jaya semua berkat dana love bgt sih,8,,"{'label': 'positive', 'score': 0.9999405145645142}",positive
+berkat daget hadiah akhir tahun aman aman aja,8,,"{'label': 'positive', 'score': 0.9998869895935059}",positive
+daget tuh solusi bikin kejut makin seru,7,,"{'label': 'positive', 'score': 0.9998962879180908}",positive
+baik dana blom ngalahin kemudahanya,5,,"{'label': 'negative', 'score': 0.9989938139915466}",negative
+siap min big thanks info,5,,"{'label': 'neutral', 'score': 0.993949294090271}",neutral
+aman aman aja skrg pusing mkirin hadiah bauta taun baru,10,,"{'label': 'negative', 'score': 0.999860405921936}",negative
+terima kasih dana daget bikin simple buat krim hadiah,9,,"{'label': 'positive', 'score': 0.9998668432235718}",positive
+auto neng doi klo kasih surprise daget thanks min ide,10,,"{'label': 'neutral', 'score': 0.9998775720596313}",neutral
+klo gin auto beres krim hadiah tahun baru,8,,"{'label': 'neutral', 'score': 0.9998897314071655}",neutral
+promo fitur dana bikin hepy trus sih,7,,"{'label': 'positive', 'score': 0.999891996383667}",positive
+smpe skrg dana ewallet baik,5,,"{'label': 'positive', 'score': 0.7106304168701172}",positive
+mama punya sim paspor ganti proses upgrade dong min bagi scan qris jangan harus upgrade premium kalo saat genting jadi sulit,21,,"{'label': 'negative', 'score': 0.9927830696105957}",negative
+gue udah bikin lapor awas aja duit kakak gue minggu ngga balik,12,,"{'label': 'negative', 'score': 0.9998879432678223}",negative
+kakak ipar gue keilangan duit hampir aja minjem mbanking gue untung gue cepet sadar tuh tipu baru gue katain bangsat langsung dimatiin,22,,"{'label': 'negative', 'score': 0.9999045133590698}",negative
+halo min mau tanya dong akun dana mama kan sempat premium karena ktp nya rusak bagi foto nya buram jelas proses upgrade premium selalu gagal mama laku via scan qris kok yaa kan,33,,"{'label': 'negative', 'score': 0.99985671043396}",negative
+dana deals andal buat jajan hemat,6,,"{'label': 'positive', 'score': 0.9999021291732788}",positive
+semangat pis klo soal jajan min,6,,"{'label': 'positive', 'score': 0.9999362230300903}",positive
+jajan makin lancar jaya pek vocer dana deals,8,,"{'label': 'positive', 'score': 0.9999455213546753}",positive
+otw lah cuy mumpung vocer hemat nih gaskuen,8,,"{'label': 'positive', 'score': 0.7757543921470642}",positive
+the best deh makin hemat gampang buat jajan pake dana,10,,"{'label': 'positive', 'score': 0.9999545812606812}",positive
+vocer dana deals slalu mantul deh,6,,"{'label': 'positive', 'score': 0.9999382495880127}",positive
+mantul aja satu kata min,5,,"{'label': 'negative', 'score': 0.9275102615356445}",negative
+gudang vocer hemat cuma dana deals cuy,7,,"{'label': 'positive', 'score': 0.9994158744812012}",positive
+manis akhir taun makin mantul,5,,"{'label': 'positive', 'score': 0.9999492168426514}",positive
+promo dana blom pernah gagal,5,,"{'label': 'positive', 'score': 0.999648928642273}",positive
+banget manis min makin suka dana,6,,"{'label': 'positive', 'score': 0.9999372959136963}",positive
+yeyeyeye otw aunti annes mumpung promo pake dana deals,9,,"{'label': 'negative', 'score': 0.40679487586021423}",negative
+mantul emg jajan pake vocer dana,6,,"{'label': 'neutral', 'score': 0.6071702241897583}",neutral
+suka ngemil bahagia liat mantap kali,6,,"{'label': 'positive', 'score': 0.9999547004699707}",positive
+jdi nyaman jajan pke pocer dana deals,7,,"{'label': 'positive', 'score': 0.9991151690483093}",positive
+wow beneran manis,3,,"{'label': 'positive', 'score': 0.9999474287033081}",positive
+udah ngemil manis hemat cuy,5,,"{'label': 'positive', 'score': 0.9993751645088196}",positive
+promo sama cemilanya bener manis sih,6,,"{'label': 'positive', 'score': 0.999913215637207}",positive
+boljug nic big thanks vocernya min,6,,"{'label': 'neutral', 'score': 0.998050332069397}",neutral
+alhamdulillah jajan auntie annes makin irit,6,,"{'label': 'positive', 'score': 0.999946117401123}",positive
+aku bantu kece lanjut infoin sreenshoot bukti transaksi kamu cantum jam dna tanggal transaksi via social media stay safe,19,,"{'label': 'neutral', 'score': 0.9998020529747009}",neutral
+hai kak maaf buat kamu nyaman kait kendala top terima aku saranin kakak tunggu jam telebih sejak laku transaksi kak,20,,"{'label': 'neutral', 'score': 0.9997864365577698}",neutral
+makin cinta sama dana banyak vouchernya maju terus dana,9,,"{'label': 'positive', 'score': 0.9999094009399414}",positive
+mudah belanja pake voucher dana deals harga bikin senang,9,,"{'label': 'positive', 'score': 0.9999516010284424}",positive
+nyaman banget belanja voucher dana mantap luar biasa,8,,"{'label': 'positive', 'score': 0.9999582767486572}",positive
+voucher dana deals baik dompet jadi aman,7,,"{'label': 'positive', 'score': 0.9998631477355957}",positive
+terima kasih dana voucher bikin aku makin semangat,8,,"{'label': 'positive', 'score': 0.9999551773071289}",positive
+suka dana deals vouchernya bener bener bikin hati tenang jajan,10,,"{'label': 'positive', 'score': 0.999937891960144}",positive
+dana selalu beri baik voucher jajan dana deals,8,,"{'label': 'neutral', 'score': 0.9962747097015381}",neutral
+dana emang andal deh vouchernya bikin happy,7,,"{'label': 'positive', 'score': 0.9999493360519409}",positive
+alhamdulillah makin hemat nih pakai voucher dana deals,8,,"{'label': 'positive', 'score': 0.9999390840530396}",positive
+dana deals selalu beri baik,5,,"{'label': 'positive', 'score': 0.9998983144760132}",positive
+terima kasih dana atas vouchernta tetap setia pakai dana,9,,"{'label': 'positive', 'score': 0.9999040365219116}",positive
+mantap voucher nya dana luar biasa nyaman banget,8,,"{'label': 'positive', 'score': 0.999958872795105}",positive
+pokok jgn sampe lewat vouchers seru banget dana deals,9,,"{'label': 'positive', 'score': 0.9999053478240967}",positive
+juara banget dana kalau masalah dana deals vouchers makin suka dana,11,,"{'label': 'positive', 'score': 0.9999370574951172}",positive
+terima kasih dana uda selalu erti ngasih voucher terus,9,,"{'label': 'positive', 'score': 0.9802564382553101}",positive
+voucher dana deals dana bener bener gak was was mantap,10,,"{'label': 'positive', 'score': 0.9999271631240845}",positive
+semangat serbu voucher dana dealsnya,5,,"{'label': 'neutral', 'score': 0.7940545082092285}",neutral
+maju terus dana dana deals emang bikin happy,8,,"{'label': 'positive', 'score': 0.9999299049377441}",positive
+jadi semangat pakai dana deals,5,,"{'label': 'positive', 'score': 0.9999480247497559}",positive
+terima kasih dana dana deals voucher top banget,8,,"{'label': 'positive', 'score': 0.9998694658279419}",positive
+wow fitur kirim daget dana mantap betul,7,,"{'label': 'positive', 'score': 0.9999426603317261}",positive
+big thanks buat dana udah bikin fitur keren,8,,"{'label': 'positive', 'score': 0.9999144077301025}",positive
+big thanks dana kirim hadiah jadi opsi tarik nih,9,,"{'label': 'neutral', 'score': 0.9994775652885437}",neutral
+kendala kok pas nyoba fitur gift daget dana,8,,"{'label': 'negative', 'score': 0.9389813542366028}",negative
+dana paket lengkap mantul lah kirim hadiah,7,,"{'label': 'positive', 'score': 0.9986525774002075}",positive
+kirim hadiah tahun baru lewat dana benar benar bikin hari hari makin seru warna,14,,"{'label': 'positive', 'score': 0.9999372959136963}",positive
+udah beres buat kirim hadiah temen asik,7,,"{'label': 'positive', 'score': 0.9999239444732666}",positive
+alhamdulillah sekarang kasih hadiah temen makin praktis lewat dana,9,,"{'label': 'positive', 'score': 0.9998856782913208}",positive
+sekarang kirim hadiah udah dana luar biasa banget gaes,9,,"{'label': 'positive', 'score': 0.8021380305290222}",positive
+emang kendala klo kirim pake dana apa dgn dagetnya,9,,"{'label': 'negative', 'score': 0.8767774105072021}",negative
+top banget tutor kirim simpel,5,,"{'label': 'positive', 'score': 0.9999430179595947}",positive
+pernah masalah lama pake fitur nya dana,7,,"{'label': 'negative', 'score': 0.9985059499740601}",negative
+uda biasa banget pake dana jadi mantul,7,,"{'label': 'positive', 'score': 0.9998074173927307}",positive
+big thanks dana udah nambahin opsi hadiah favorit buat temen,10,,"{'label': 'neutral', 'score': 0.999717652797699}",neutral
+top banget gift hadiah dana suka banget seru baik,9,,"{'label': 'positive', 'score': 0.9999589920043945}",positive
+wih mantap banget kasih hadiah daget dana temen,8,,"{'label': 'positive', 'score': 0.9999548196792603}",positive
+fitur baru dana makin bikin happy kirim daget buat temen top banget,12,,"{'label': 'positive', 'score': 0.9999505281448364}",positive
+wah fitur dana nyaman banget bikin kirim hadiah jadi praktis,10,,"{'label': 'positive', 'score': 0.9999549388885498}",positive
+fitur kirim hadiah dana wow banget,6,,"{'label': 'positive', 'score': 0.9995505213737488}",positive
+gak was was kalau mau kasih hadiah sekarang dana,9,,"{'label': 'negative', 'score': 0.9995561242103577}",negative
+gak rempong cara kirim the best banget,7,,"{'label': 'positive', 'score': 0.9999557733535767}",positive
+dana selalu punya fitur kirim daget bikin mudah,8,,"{'label': 'positive', 'score': 0.9998817443847656}",positive
+kirim hadiah jadi aman aman aja dong,7,,"{'label': 'positive', 'score': 0.9990692734718323}",positive
+alhamdulillah berkat dana kirim hadiah jadi mudah praktis mantap betul,10,,"{'label': 'positive', 'score': 0.9999556541442871}",positive
+udah nih bikin daget buat temen,6,,"{'label': 'negative', 'score': 0.6613286733627319}",negative
+jadi mudah kirim daget dana kawan,6,,"{'label': 'positive', 'score': 0.9997257590293884}",positive
+fiturnya makin canggih aja dana selalu update buat,8,,"{'label': 'positive', 'score': 0.9998288154602051}",positive
+alhamdulilah daget pas tahunbaru buat kirim,6,,"{'label': 'negative', 'score': 0.8007109761238098}",negative
+kendala kirim hadiah selalu lancar pake dana,7,,"{'label': 'positive', 'score': 0.9998785257339478}",positive
+jadi banyak opsi nih buat ngasih hadiah temen,8,,"{'label': 'neutral', 'score': 0.9998383522033691}",neutral
+dana the best banget semua fiturnya,6,,"{'label': 'positive', 'score': 0.9999562501907349}",positive
+kirim hadiah pake fitur dana kaget jelas kendala,8,,"{'label': 'negative', 'score': 0.9959224462509155}",negative
+wow mantap banget gift hadiah nyaman luar biasa,8,,"{'label': 'positive', 'score': 0.9999547004699707}",positive
+wallet baik dana selalu andal fitur kirim dagetnya,8,,"{'label': 'positive', 'score': 0.9992214441299438}",positive
+kirim hadiah pake fitur dana selalu aman aman aja,9,,"{'label': 'positive', 'score': 0.9967813491821289}",positive
+seru sih daget keluarga teman,5,,"{'label': 'positive', 'score': 0.9999014139175415}",positive
+wah kirim hadiah teman nih big thanks dana,8,,"{'label': 'neutral', 'score': 0.9997922778129578}",neutral
+mantul kado praktis buat temen fitur dana,7,,"{'label': 'positive', 'score': 0.7163543701171875}",positive
+kasih daget mantap temen pas buat hadiah dada,8,,"{'label': 'positive', 'score': 0.999944806098938}",positive
+terima kasih dana buat fitur dana kaget praktis,8,,"{'label': 'positive', 'score': 0.9998382329940796}",positive
+big thanks dana buat fitur dana kaget,7,,"{'label': 'neutral', 'score': 0.9970473647117615}",neutral
+dana kaget udah jadi opsi buat hadiah tahun baru nih gess,11,,"{'label': 'neutral', 'score': 0.9998552799224854}",neutral
+suka dana banyak kejut buat hadiah,6,,"{'label': 'negative', 'score': 0.9884757995605469}",negative
+alhamdulillah hujung tahun banyak gift nih fitur dana,8,,"{'label': 'neutral', 'score': 0.998389482498169}",neutral
+aman aman aja kasih hadiah pakai dana rekomended,8,,"{'label': 'positive', 'score': 0.9627852439880371}",positive
+kirim hadiah apa aja serah sama dana,7,,"{'label': 'neutral', 'score': 0.9976982474327087}",neutral
+min info modus tipu kan,5,,"{'label': 'negative', 'score': 0.9999183416366577}",negative
+banget simple nya pake dana baik lah,7,,"{'label': 'positive', 'score': 0.9999361038208008}",positive
+cek min,2,,"{'label': 'neutral', 'score': 0.999625563621521}",neutral
+min balikin dana akun min salah top orang susah balikin alesan kendala gabisa log dana,15,,"{'label': 'negative', 'score': 0.9998687505722046}",negative
+kak purchase game steam udah verifikasi aman sampe bar tulis proceed penuh malah balik halaman input nomor dana udah kali kali,21,,"{'label': 'neutral', 'score': 0.883115828037262}",neutral
+min cdm,2,,"{'label': 'neutral', 'score': 0.9997525811195374}",neutral
+maaf min mau kapan jawab begini mmg berapa makin sini mkin gjelas min dah brp kasus hilang uang saldo dana ayo bnyk loh konsumen tunggu pasti akibat saldo raib entah,30,,"{'label': 'negative', 'score': 0.9998534917831421}",negative
+semalem aku transaksi dana shopepay transaksi hasil kok uang masuk shopeepay sampe sekarang,13,,"{'label': 'neutral', 'score': 0.999817430973053}",neutral
+gue balikin gaaa nyari duit susah bjir jgn lempar batu sembunyi tangan plis,13,,"{'label': 'negative', 'score': 0.9998568296432495}",negative
+sih transaksi pending semua nang lempar sama pihak kait,9,,"{'label': 'negative', 'score': 0.9999111890792847}",negative
+adminn gmn cara ngembaliin saldo dana hilang,7,,"{'label': 'negative', 'score': 0.996383547782898}",negative
+beli paket payment pakai aplikasi bima tercamtum gagal payment dana cantum sukses saldo potong respon solusi,16,,"{'label': 'neutral', 'score': 0.9997523427009583}",neutral
+kak dana terima kasih saldo masuk minggu dana,8,,"{'label': 'neutral', 'score': 0.9998840093612671}",neutral
+halo min mohon bantu follow nya keluh nomor lapor segera tangan cepat,12,,"{'label': 'neutral', 'score': 0.9998990297317505}",neutral
+halo min mohon bantu follow nya keluh nomor lapor segera tangan cepat,12,,"{'label': 'neutral', 'score': 0.9998990297317505}",neutral
+dana permisi numpang ide gimana kalo dana deteksi guna kirim saldo sama guna goks gak,15,,"{'label': 'neutral', 'score': 0.7889376282691956}",neutral
+@avengersdao @myartbar Ik in @Laxmana113 @Smiie03 @danawallet,7,,"{'label': 'neutral', 'score': 0.9996812343597412}",neutral
+baik lengkap kirim investigasi rusak citra harga selaku awas apk sebut banyak nasabah rugi baik materil imateril terimakasih solusi nya,20,,"{'label': 'negative', 'score': 0.9996953010559082}",negative
+mantul banget bro edukasi keren parah,6,,"{'label': 'positive', 'score': 0.9999488592147827}",positive
+hindar aja cuy biar hidup lancar jaya,7,,"{'label': 'negative', 'score': 0.9997947812080383}",negative
+wah sip bgt info bikin sadar,6,,"{'label': 'positive', 'score': 0.9996947050094604}",positive
+wih info kayak gin luar biasa banget bro,8,,"{'label': 'positive', 'score': 0.9983530044555664}",positive
+wih penting banget nih hindar sekarang,6,,"{'label': 'negative', 'score': 0.9992777705192566}",negative
+wah bahaya sih waspada bgt dah,6,,"{'label': 'negative', 'score': 0.9998657703399658}",negative
+ken beli truk,3,,"{'label': 'neutral', 'score': 0.9997267127037048}",neutral
+alhamdulillah makin sadar biar candu bre,6,,"{'label': 'positive', 'score': 0.9997467398643494}",positive
+wah info luar biasa bgt mantap cuy,7,,"{'label': 'positive', 'score': 0.999953031539917}",positive
+lancar jaya kalo udah hindar toxic begini,7,,"{'label': 'positive', 'score': 0.9997676014900208}",positive
+baik baik aja kalo udah waspada bahaya,7,,"{'label': 'negative', 'score': 0.9955248832702637}",negative
+wah awas cuy jangan sampe kena,6,,"{'label': 'negative', 'score': 0.9983277916908264}",negative
+era digital memang keri dana punya solusi baik lewat edukasi judi online nya,13,,"{'label': 'positive', 'score': 0.8262283205986023}",positive
+jamin aman selalu aman berkat edukasi judi online luar biasa dana,11,,"{'label': 'positive', 'score': 0.9993908405303955}",positive
+keren banget edukasi judi online nya dana buat lindung tipu bikin aman nyaman deh,14,,"{'label': 'positive', 'score': 0.9999507665634155}",positive
+edukasi judi online buat jaga jaga tipu tuh mantap banget,10,,"{'label': 'positive', 'score': 0.9999504089355469}",positive
+terima kasih dana buat edukasi judi online keren,8,,"{'label': 'positive', 'score': 0.9999518394470215}",positive
+dana emang ewallet baik edukasi judi online nya selalu manjur banget,11,,"{'label': 'positive', 'score': 0.9999420642852783}",positive
+serius edukasi judi online mantul banget,6,,"{'label': 'positive', 'score': 0.9999399185180664}",positive
+makas edukasi judi online nya dana ewallet baik memang perna mengecewain,11,,"{'label': 'neutral', 'score': 0.9651983976364136}",neutral
+hbsnya motivasi lewat cerita dana selalu seru banget,8,,"{'label': 'positive', 'score': 0.9999551773071289}",positive
+super seru sekli guys terima kasih dana suda support semacm,10,,"{'label': 'positive', 'score': 0.9999263286590576}",positive
+bnyk alam dpt moptivasi luar biasa dana,7,,"{'label': 'neutral', 'score': 0.999377429485321}",neutral
+selalu jdi hightlight pembincaraan cerita dana terima kasih dana suda nyediakan tempat nntn,13,,"{'label': 'positive', 'score': 0.8641370534896851}",positive
+topik klh seru topik obrol dana memang keren,8,,"{'label': 'positive', 'score': 0.9999524354934692}",positive
+wow banget dana mau sedia tempat ngobrol seru cerita dana,10,,"{'label': 'positive', 'score': 0.9992033839225769}",positive
+nntn lintas cerita dana begini tunggu luar biasa obrol,9,,"{'label': 'neutral', 'score': 0.9966920614242554}",neutral
+gak nyangka topik obrol luar biasa cerita dana,8,,"{'label': 'negative', 'score': 0.9998010993003845}",negative
+top banget dana suda nyediakan tempat utk nntn nntn seru kya gin,12,,"{'label': 'positive', 'score': 0.9999452829360962}",positive
+nntn senyum senyum tambah promo dana tambah bikin semangat,9,,"{'label': 'positive', 'score': 0.9999377727508545}",positive
+obrol santai seru cerita dana buat dana,7,,"{'label': 'neutral', 'score': 0.7857406735420227}",neutral
+seru banget bincang cerita dana cerita dana,7,,"{'label': 'positive', 'score': 0.9999191761016846}",positive
+bener bener seru banget liat bincang bincang cerita dana,9,,"{'label': 'positive', 'score': 0.9999219179153442}",positive
+terima kasih dana atas nntn luar biasa cerita dana,9,,"{'label': 'positive', 'score': 0.9995545744895935}",positive
+nntn bincang jgn lupa promo dana luar biasa,8,,"{'label': 'neutral', 'score': 0.9993292093276978}",neutral
+cerita dana punya pikir luar biasa cerita dana masing masing,10,,"{'label': 'positive', 'score': 0.9878252148628235}",positive
+bincang bincang bikin terinspirtasi seru banget,6,,"{'label': 'positive', 'score': 0.9999278783798218}",positive
+asik banget ngasih perspektif baru cerita dana,7,,"{'label': 'positive', 'score': 0.9999356269836426}",positive
+seru banget liat cerita dana bincang bincang,7,,"{'label': 'positive', 'score': 0.9998383522033691}",positive
+tiap hari tarik banget promo seru dana,7,,"{'label': 'positive', 'score': 0.9994971752166748}",positive
+topup dpt cash back promo dana makin suka dana,9,,"{'label': 'positive', 'score': 0.9998384714126587}",positive
+hari berkah banget dana promo dana makin seru aja,9,,"{'label': 'positive', 'score': 0.9999551773071289}",positive
+ngiler banget liat promo dana baik banget promonya bikin mau bayar trusss,12,,"{'label': 'negative', 'score': 0.9786306023597717}",negative
+nyaman pake banget tawar promo dana,6,,"{'label': 'positive', 'score': 0.9998869895935059}",positive
+jago promo dana baik,4,,"{'label': 'positive', 'score': 0.9998194575309753}",positive
+juara banget dana kalau masalah promo makin suka dana dehhh,10,,"{'label': 'positive', 'score': 0.9999189376831055}",positive
+weekend jdi ceria semangat kasih promonya trus dana,8,,"{'label': 'positive', 'score': 0.9999535083770752}",positive
+paling tau banget dana bikin semangat pake promo dana,9,,"{'label': 'positive', 'score': 0.9999518394470215}",positive
+yok yok semangat yok promo keren dana nih,8,,"{'label': 'neutral', 'score': 0.9987958669662476}",neutral
+promo bikin bosan pake dana selalu suka dana dgn promonya,10,,"{'label': 'negative', 'score': 0.9998774528503418}",negative
+jgn sia sia promo keren promo baik cuma ewallet baik,10,,"{'label': 'negative', 'score': 0.9922006726264954}",negative
+hari bayar pake promo dana semangat banget dehh jadi,9,,"{'label': 'positive', 'score': 0.9999426603317261}",positive
+hari jdi semangat dgn promo keren dana,7,,"{'label': 'positive', 'score': 0.9999544620513916}",positive
+dana juara promo selalu buat semangat hari,7,,"{'label': 'positive', 'score': 0.9999507665634155}",positive
+wah promo dana selalu bikin semangat,6,,"{'label': 'positive', 'score': 0.9999569654464722}",positive
+dompet jdi aman karna promo seru dana,7,,"{'label': 'positive', 'score': 0.9999426603317261}",positive
+trannnsaksi jdi asik berkat promo dana terima kasih dana,9,,"{'label': 'positive', 'score': 0.9999488592147827}",positive
+emang juara promo dana selalu bikin mau blnj trus,9,,"{'label': 'positive', 'score': 0.9999289512634277}",positive
+transaksi pake dana jdi makin untung promo dana memang baik banget,11,,"{'label': 'positive', 'score': 0.9999539852142334}",positive
+buat dana ewallet baik panjang masa,6,,"{'label': 'positive', 'score': 0.9998465776443481}",positive
+ide ide inovasi dana jempol wow bgt,7,,"{'label': 'positive', 'score': 0.9999042749404907}",positive
+keren bgt acara danahack seru pastiny,6,,"{'label': 'positive', 'score': 0.999955415725708}",positive
+kreativitas batas dana tuh mantul,5,,"{'label': 'positive', 'score': 0.9730271100997925}",positive
+semangat danam mang luar biasa,5,,"{'label': 'positive', 'score': 0.9999507665634155}",positive
+kasih inoovasi baik trus terima kasih dana,7,,"{'label': 'neutral', 'score': 0.6357982754707336}",neutral
+kompak trus danam semangat pokokny,5,,"{'label': 'positive', 'score': 0.9999388456344604}",positive
+trus semangat bangun dana lebh baik,6,,"{'label': 'positive', 'score': 0.9999537467956543}",positive
+inovasi batas hasil karya luar biasa,6,,"{'label': 'neutral', 'score': 0.993653416633606}",neutral
+wow bgt beneran buat pham soal risiko judi online,9,,"{'label': 'positive', 'score': 0.998719334602356}",positive
+mantul bet liat passion danam terus kaya,7,,"{'label': 'positive', 'score': 0.7741703391075134}",positive
+was was kalau semua sadar dmpak negatif judi online,9,,"{'label': 'negative', 'score': 0.9999120235443115}",negative
+top bgt cara buat lwan dmpak buruk judi online,9,,"{'label': 'positive', 'score': 0.9765810966491699}",positive
+dana baik sih mantul cuy,5,,"{'label': 'positive', 'score': 0.9970229268074036}",positive
+lngkah benar benar mantap utk lwan bahaya besar judi online,10,,"{'label': 'positive', 'score': 0.9867969751358032}",positive
+info baik nih top banget,5,,"{'label': 'positive', 'score': 0.9999353885650635}",positive
+baik baik aja slalu dana kasih paham,7,,"{'label': 'positive', 'score': 0.9825173020362854}",positive
+paling seru klo tlpon badman kerjain wkwkwk,7,,"{'label': 'positive', 'score': 0.9911221265792847}",positive
+terima kasih dana selalu jadi andal aman bayar,8,,"{'label': 'positive', 'score': 0.9999121427536011}",positive
+alhamdulillah edukasi soal bahaya judi online buat sadar byk orang,10,,"{'label': 'neutral', 'score': 0.9962170720100403}",neutral
+pokony berkat mimin semua mudah buat paham,7,,"{'label': 'positive', 'score': 0.9999309778213501}",positive
+dana kasih paham kali mantap bet mantap sih,8,,"{'label': 'positive', 'score': 0.9999550580978394}",positive
+slow min dana proteksi aman aja,6,,"{'label': 'negative', 'score': 0.999614953994751}",negative
+ijin share min manfaat bgt,5,,"{'label': 'positive', 'score': 0.999916672706604}",positive
+aman aman aja pakai dana semangat terus buat tim,9,,"{'label': 'positive', 'score': 0.9997269511222839}",positive
+khawatir soal transaksi tim dana emang top banget,8,,"{'label': 'positive', 'score': 0.9993367791175842}",positive
+puji tuhan dana selalu kasih mudah berkat tim baik,9,,"{'label': 'positive', 'score': 0.9999220371246338}",positive
+thanks miin slalu kasih paham mantul deh,7,,"{'label': 'positive', 'score': 0.9998916387557983}",positive
+aman aman aja min,4,,"{'label': 'positive', 'score': 0.9998043179512024}",positive
+semua klo mimin lancar jaya,5,,"{'label': 'positive', 'score': 0.9999488592147827}",positive
+klo dana dah kasih paham bakal aman aman aja,9,,"{'label': 'positive', 'score': 0.954562783241272}",positive
+update trus info aman min biar ngerti,7,,"{'label': 'neutral', 'score': 0.9997383952140808}",neutral
+cerita seru tim dana bikin aku makin mantap pakai aplikasi,10,,"{'label': 'positive', 'score': 0.9999459981918335}",positive
+setia pakai dana tim selalu bikin solusi baik,8,,"{'label': 'positive', 'score': 0.9998631477355957}",positive
+masalah lama dana emang wow banget,6,,"{'label': 'positive', 'score': 0.9959890246391296}",positive
+udah paham min,3,,"{'label': 'positive', 'score': 0.999755322933197}",positive
+atas semua min aman aja,5,,"{'label': 'negative', 'score': 0.9211882948875427}",negative
+udah dong min slalu gtu kok,6,,"{'label': 'negative', 'score': 0.9997796416282654}",negative
+penting buat blum paham top banget min,7,,"{'label': 'positive', 'score': 0.9997854828834534}",positive
+aman banget pakai dana big thanks buat semua tim,9,,"{'label': 'positive', 'score': 0.99992835521698}",positive
+kagum banget sama usaha tim dana bikin hidup mudah,9,,"{'label': 'positive', 'score': 0.9999521970748901}",positive
+luar biasa semangat tim dana buat terus jadi andal,9,,"{'label': 'positive', 'score': 0.9999467134475708}",positive
+alam pakai dana makin mantul berkat kerja keras tim,9,,"{'label': 'positive', 'score': 0.9999135732650757}",positive
+suka banget sama semangat tim dana selalu bikin inovasi,9,,"{'label': 'positive', 'score': 0.9999529123306274}",positive
+seru banget lihat dedikasi tim dana bikin semua lancar,9,,"{'label': 'positive', 'score': 0.9999597072601318}",positive
+terima kasih dana udah selalu kasih solusi aman aman aja,10,,"{'label': 'positive', 'score': 0.9997681975364685}",positive
+mantap parah kompetisi tim dana bikin aku makin nyaman pakai dana,11,,"{'label': 'positive', 'score': 0.9999551773071289}",positive
+baik klo udah promo nih,5,,"{'label': 'neutral', 'score': 0.9998447895050049}",neutral
+lgsh sikat cashbacknya sih mantul parah,6,,"{'label': 'negative', 'score': 0.9998624324798584}",negative
+gada kalahin promo dana sih,5,,"{'label': 'negative', 'score': 0.9998922348022461}",negative
+hujan promo terus terus mantul bgt min,7,,"{'label': 'positive', 'score': 0.9997158646583557}",positive
+neng banget tahu usaha tim dana luar biasa,8,,"{'label': 'positive', 'score': 0.9995700716972351}",positive
+kata dana emang selalu baik semua sisi,7,,"{'label': 'positive', 'score': 0.9998750686645508}",positive
+wow cerita seru tim dana bikin aku makin suka dana,10,,"{'label': 'positive', 'score': 0.9999514818191528}",positive
+semangat terus tim dana bikin aplikasi makin lancar jaya,9,,"{'label': 'positive', 'score': 0.9999526739120483}",positive
+jago banget klo urus promo dana tuh,7,,"{'label': 'positive', 'score': 0.9824511408805847}",positive
+waktu borong pake promo dana gak sih,7,,"{'label': 'negative', 'score': 0.9997186064720154}",negative
+nyangka tim dana selalu punya ide top banget,8,,"{'label': 'positive', 'score': 0.9999511241912842}",positive
+dah kek kado akhir taun promo,6,,"{'label': 'neutral', 'score': 0.9992251396179199}",neutral
+buset kasih promo aja nih,5,,"{'label': 'negative', 'score': 0.999589741230011}",negative
+hemat parah akhir taun berkat promo dana,7,,"{'label': 'positive', 'score': 0.9999328851699829}",positive
+alhamdulillah dana selalu semangat kasih inovasi luar biasa,8,,"{'label': 'positive', 'score': 0.9999457597732544}",positive
+big thanks buat tim dana bikin semua seru mantul,9,,"{'label': 'positive', 'score': 0.9999483823776245}",positive
+nongkrong circle seru nikmatin promo dana,6,,"{'label': 'positive', 'score': 0.9999299049377441}",positive
+neng maksimal lihat dana terus kembang jadi baik,8,,"{'label': 'positive', 'score': 0.9998785257339478}",positive
+kagum banget tim dana semangat bikin aplikasi makin nyaman,9,,"{'label': 'positive', 'score': 0.9999551773071289}",positive
+seru nya klo dana kasi promo jumat,7,,"{'label': 'positive', 'score': 0.999945878982544}",positive
+luar biasa banget dana selalu punya cara buat jadi wallet baik,11,,"{'label': 'positive', 'score': 0.9999344348907471}",positive
+kesbeknya luar biasa min,4,,"{'label': 'positive', 'score': 0.9999055862426758}",positive
+mau semua minnn,3,,"{'label': 'negative', 'score': 0.909325897693634}",negative
+auto serbu promnya tinggal pilih,5,,"{'label': 'neutral', 'score': 0.9998836517333984}",neutral
+nasi goreng solaria enak klo promo dana,7,,"{'label': 'positive', 'score': 0.9999587535858154}",positive
+promo dana bikin hepi abis,5,,"{'label': 'positive', 'score': 0.9999169111251831}",positive
+pilih pilih promonya pilih hehe,5,,"{'label': 'positive', 'score': 0.9837800860404968}",positive
+belanja seu berkat promo dana thanks min,7,,"{'label': 'neutral', 'score': 0.9961876273155212}",neutral
+nyaman bener klo promo dana dah nongol,7,,"{'label': 'positive', 'score': 0.9999300241470337}",positive
+cashbacknya bikin semangat jajan,4,,"{'label': 'positive', 'score': 0.9999585151672363}",positive
+akhir taun penuh promo ampe bingung pilih,7,,"{'label': 'negative', 'score': 0.9996083378791809}",negative
+gokil bnyk bgt promonya cuy,5,,"{'label': 'positive', 'score': 0.9999492168426514}",positive
+fix semua promonya worth sih,5,,"{'label': 'positive', 'score': 0.9998036026954651}",positive
+mantap semua min ampe bingung mana,6,,"{'label': 'positive', 'score': 0.999708354473114}",positive
+keren banget cerita tim dana moga makin mantap terus,9,,"{'label': 'positive', 'score': 0.9999562501907349}",positive
+babat hbs dana palsu mantap,5,,"{'label': 'positive', 'score': 0.9999189376831055}",positive
+sacara danahack emg the best,5,,"{'label': 'positive', 'score': 0.9999328851699829}",positive
+dana makin top banget adain danahack,6,,"{'label': 'positive', 'score': 0.9999490976333618}",positive
+danahack bukti teamwork dana baik,5,,"{'label': 'positive', 'score': 0.9965044260025024}",positive
+maju terus dana biar makin banyak inovasi baru,8,,"{'label': 'positive', 'score': 0.9983987212181091}",positive
+bukti klo dana wallet baik,5,,"{'label': 'positive', 'score': 0.9994267225265503}",positive
+jamin deh skrng plsu udh kapok haha,7,,"{'label': 'negative', 'score': 0.9999104738235474}",negative
+sikat habs modus palsu dana,5,,"{'label': 'negative', 'score': 0.9998773336410522}",negative
+mantull bgt udh byk tau ttg palsu,7,,"{'label': 'negative', 'score': 0.9993361830711365}",negative
+jga mau blng terima kasih dana,6,,"{'label': 'neutral', 'score': 0.9923564195632935}",neutral
+dana emg baik peduli sma guna,6,,"{'label': 'positive', 'score': 0.9957212209701538}",positive
+nyaman bgr liat edukasi dana,5,,"{'label': 'positive', 'score': 0.9998918771743774}",positive
+palsu hrus basmi,3,,"{'label': 'negative', 'score': 0.9998960494995117}",negative
+semangat terus min kasih info,5,,"{'label': 'positive', 'score': 0.9998871088027954}",positive
+jan ampe uang waktu buang sia sia gengs,8,,"{'label': 'negative', 'score': 0.9999040365219116}",negative
+seru baca info makas min,5,,"{'label': 'positive', 'score': 0.9997110962867737}",positive
+udah beres kmren plsu lngsung gua report,7,,"{'label': 'neutral', 'score': 0.9976332187652588}",neutral
+palsu msti kasih paham sma wallet baik,7,,"{'label': 'negative', 'score': 0.9995423555374146}",negative
+dana emg the best dgn edukasi krban pnipuan brkrng,9,,"{'label': 'positive', 'score': 0.9999451637268066}",positive
+skrng mudah buat trhindr plsu dgn eduksi dana,8,,"{'label': 'positive', 'score': 0.9998877048492432}",positive
+klo palsu skrng tnggl laporin aman aja,7,,"{'label': 'negative', 'score': 0.999809205532074}",negative
+ttng palsu mah tnng aja tnggl laporin min,8,,"{'label': 'negative', 'score': 0.9998818635940552}",negative
+mantap min trus kasih info baik biar gapada giur sama judol,11,,"{'label': 'neutral', 'score': 0.7454954981803894}",neutral
+cuma rugi materi tpi sehat mental big thanks min info,10,,"{'label': 'neutral', 'score': 0.4709717035293579}",neutral
+komitmen dana kasih info positif mantap kali,7,,"{'label': 'positive', 'score': 0.9999569654464722}",positive
+aku suka dana bsa ngenalin plsu,6,,"{'label': 'positive', 'score': 0.9999397993087769}",positive
+suka dana slalu kasi edukasi bermantaat,6,,"{'label': 'positive', 'score': 0.9999390840530396}",positive
+mending buat nabung mantul,4,,"{'label': 'negative', 'score': 0.9639797806739807}",negative
+jan sampe masuk jebaka judol cuy,6,,"{'label': 'negative', 'score': 0.9999161958694458}",negative
+mantap brkat dana smua trhindr tipu,6,,"{'label': 'positive', 'score': 0.9998260140419006}",positive
+semua baik baik aja plsu auto lporin,7,,"{'label': 'negative', 'score': 0.9936965107917786}",negative
+gak khawatir bkl tipu plsu,5,,"{'label': 'negative', 'score': 0.9998573064804077}",negative
+terima kasih dana skrng udh pham bgt plsu,8,,"{'label': 'positive', 'score': 0.7977648973464966}",positive
+skrng mudah ngenalin palsu,4,,"{'label': 'negative', 'score': 0.9999181032180786}",negative
+brkat edukasi ksh sma dana gak was was,8,,"{'label': 'negative', 'score': 0.5724348425865173}",negative
+soal plsu mah udh aku lprin aman aja,8,,"{'label': 'negative', 'score': 0.9995394945144653}",negative
+waspada terus gais bahaya judol,5,,"{'label': 'negative', 'score': 0.9998942613601685}",negative
+penting bgt biar aman candu terima kasih dana,8,,"{'label': 'positive', 'score': 0.995590329170227}",positive
+bantu banget edukasi top banget dah min,7,,"{'label': 'positive', 'score': 0.9999402761459351}",positive
+andal edukasi baik cuma dana,5,,"{'label': 'neutral', 'score': 0.7305673956871033}",neutral
+sih aman brkat dana,4,,"{'label': 'negative', 'score': 0.9129269123077393}",negative
+gak nyangka bgt apa ksh sma dana promo keren,9,,"{'label': 'positive', 'score': 0.9999057054519653}",positive
+alhamdulillah slalu dpet promo,4,,"{'label': 'positive', 'score': 0.999886155128479}",positive
+mantap bgt aku mkin happy,5,,"{'label': 'positive', 'score': 0.9999593496322632}",positive
+wow bgt sih promo dana,5,,"{'label': 'positive', 'score': 0.9996622800827026}",positive
+promo jumat berkah dana,4,,"{'label': 'positive', 'score': 0.9993594288825989}",positive
+sngat suka dana bsa sllu ngsh promo,7,,"{'label': 'positive', 'score': 0.9999122619628906}",positive
+dana hadir promo jumat tarik terima kasih,7,,"{'label': 'neutral', 'score': 0.9997953772544861}",neutral
+terima kasih dana promo jumat nya bikin main game asyik,10,,"{'label': 'positive', 'score': 0.9999568462371826}",positive
+promo jumat dana bikin gaming experience jadi tarik,8,,"{'label': 'neutral', 'score': 0.6149734258651733}",neutral
+dana kasih promo jumat bikin semua jadi hemat,8,,"{'label': 'positive', 'score': 0.9999535083770752}",positive
+puas promo jumat dana untung,5,,"{'label': 'positive', 'score': 0.9999349117279053}",positive
+promo jumat dana luar biasa hemat senang,7,,"{'label': 'positive', 'score': 0.9999493360519409}",positive
+dana punya promo jumat bikin jadi seru,7,,"{'label': 'positive', 'score': 0.9999583959579468}",positive
+promo jumat dana muas jadi seru,6,,"{'label': 'positive', 'score': 0.9999555349349976}",positive
+dana kasih promo jumat bikin semua makin asyik the best,10,,"{'label': 'positive', 'score': 0.9999563694000244}",positive
+suka banget promo jumat dana bikin tambah seru,8,,"{'label': 'positive', 'score': 0.99996018409729}",positive
+promo jumat dana bikin semua alam jadi senang seru bgt,10,,"{'label': 'positive', 'score': 0.9999574422836304}",positive
+terima kasih dana promo jumat super untung,7,,"{'label': 'positive', 'score': 0.9999439716339111}",positive
+promo jumat dana bikin jadi asyik keren cuy,8,,"{'label': 'positive', 'score': 0.9999558925628662}",positive
+puas banget promo jumat dana hemat seru,7,,"{'label': 'positive', 'score': 0.9999561309814453}",positive
+promo jumat dana keren banget terima kasih dana,8,,"{'label': 'positive', 'score': 0.9999555349349976}",positive
+maaf dana kakak maksud ana apk nya,7,,"{'label': 'neutral', 'score': 0.9995526671409607}",neutral
+kerja tim luar biasa solid sih,6,,"{'label': 'positive', 'score': 0.9999483823776245}",positive
+jan kasih kendor min info biar jera maen judol,9,,"{'label': 'negative', 'score': 0.9998706579208374}",negative
+semangat min kasih edukasi,4,,"{'label': 'positive', 'score': 0.9999443292617798}",positive
+baik dana peduli bgt sama generasi bangsa,7,,"{'label': 'positive', 'score': 0.9996781349182129}",positive
+yuk stay waspada biar aman aja,6,,"{'label': 'negative', 'score': 0.7420783042907715}",negative
+inu kenapaa minnn pulihkannnn dongggg,5,,"{'label': 'negative', 'score': 0.9998670816421509}",negative
+aman nyaman lancar jaya deh pake dana,7,,"{'label': 'positive', 'score': 0.9999496936798096}",positive
+cara report tipu gimana tipu transfernyake dana,7,,"{'label': 'negative', 'score': 0.9999099969863892}",negative
+bsi mah gamau tau kak,5,,"{'label': 'negative', 'score': 0.9998937845230103}",negative
+gimana udah verifikasi wajah kok dana bisnis gabisa tarik,9,,"{'label': 'negative', 'score': 0.9998418092727661}",negative
+woi pernah balas,3,,"{'label': 'negative', 'score': 0.9999128580093384}",negative
+kak pdhl saldo banyak kok limit seehh,7,,"{'label': 'negative', 'score': 0.9998667240142822}",negative
+promo nya banyak uang org gabisa ambil trus pake,9,,"{'label': 'negative', 'score': 0.9998132586479187}",negative
