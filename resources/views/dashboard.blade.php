@@ -240,78 +240,100 @@
     SECTION: Metrics Chart (Perbandingan Precision, F1, Accuracy)
    ================================================================ --}}
     @php
-        // Siapkan array untuk ringkasan metrik tiap e‐wallet
-        $metricsSummary = [
-            'dana' => ['precision' => 0, 'f1' => 0, 'accuracy' => 0],
-            'gopay' => ['precision' => 0, 'f1' => 0, 'accuracy' => 0],
-            'shopeepay' => ['precision' => 0, 'f1' => 0, 'accuracy' => 0],
-        ];
+        // Daftar e-wallet yang ingin kita tampilkan
+        $wallets = ['dana', 'gopay', 'shopeepay'];
 
-        foreach (array_keys($metricsSummary) as $key) {
-            // 1) Baca evaluation_metrics_full{key}.csv
-            $metricsPath = storage_path("app/public/evaluation_metrics_full{$key}.csv");
-            $metricsData = [];
-            if (file_exists($metricsPath)) {
-                $metricsData = array_map('str_getcsv', file($metricsPath));
+        // Kita akan menyimpan struktur seperti:
+        // $metricsDetail['dana'] = [
+        //     'labels'    => ['Netral','Positif','Negatif'],
+        //     'precision' => [0.812, 0.902, 0.748],
+        //     'recall'    => [0.800, 0.889, 0.765],
+        //     'f1'        => [0.806, 0.895, 0.756],
+        // ];
+        $metricsDetail = [];
+
+        // Kelas‐kelas yang ingin kita plot urutannya: netral → positif → negatif
+        $kelasUrut = ['netral', 'positif', 'negatif'];
+
+        foreach ($wallets as $key) {
+            // Nama file CSV mirip: evaluation_metrics_full{key}.csv
+            // Note: untuk 'shopeepay', file Anda pakai 'shopee' bukan 'shopeepay'?
+            // Di contoh awal Anda, yang di‐upload adalah evaluation_metrics_fullshopee.csv,
+            // maka gunakan $fileKey='shopee' bukan 'shopeepay'.
+            $fileKey = $key;
+            $pathCsv = storage_path("app/public/evaluation_metrics_full{$fileKey}.csv");
+            $rows = [];
+            if (file_exists($pathCsv)) {
+                // Baca setiap baris kemudian pecah jadi array per kolom
+                $rows = array_map('str_getcsv', file($pathCsv));
             }
 
-            // Hitung Macro‐Precision & Macro‐F1 (rata-rata precision/f1 tiap kelas)
-            $sumPrecision = 0.0;
-            $sumF1 = 0.0;
-            $nClasses = 0;
-            if (count($metricsData) > 1) {
-                // Baris pertama header: [,precision,recall,f1‐score,support]
-                foreach (array_slice($metricsData, 1) as $row) {
-                    $sumPrecision += (float) $row[1]; // precision
-                    $sumF1 += (float) $row[3]; // f1‐score
-                    $nClasses++;
+            // Inisialisasi struktur kosong
+            $metricsDetail[$key] = [
+                'labels' => [],
+                'precision' => [],
+                'recall' => [],
+                'f1' => [],
+            ];
+
+            if (count($rows) > 1) {
+                // Baris 0: header → abaikan. Mulai dari baris 1.
+                // Kita ingin memastikan tiap kelas ('netral','positif','negatif') ada, dan urutannya sesuai $kelasUrut.
+                // Bisa saja di CSV urutannya sudah sama, tapi kita paksa urut sesuai $kelasUrut.
+
+                // Buat map nama kelas ke indeks baris
+                $mapRowByKelas = [];
+                foreach (array_slice($rows, 1) as $r) {
+                    // Asumsikan kolom 0 adalah nama kelas, kolom 2 precision, kolom 3 recall, kolom 4 f1-score
+                    $namaKelas = strtolower(trim($r[0]));
+                    $mapRowByKelas[$namaKelas] = $r;
                 }
-                if ($nClasses > 0) {
-                    $metricsSummary[$key]['precision'] = round($sumPrecision / $nClasses, 3);
-                    $metricsSummary[$key]['f1'] = round($sumF1 / $nClasses, 3);
-                }
-            }
 
-            // 2) Hitung Accuracy dari confusion_matrix_{key}.csv
-            $confusionPath = storage_path("app/public/confusion_matrix_{$key}.csv");
-            $confusionData = [];
-            if (file_exists($confusionPath)) {
-                $confusionData = array_map('str_getcsv', file($confusionPath));
-            }
+                foreach ($kelasUrut as $kelas) {
+                    if (isset($mapRowByKelas[$kelas])) {
+                        $r = $mapRowByKelas[$kelas];
+                        // Ambil nilai ke‐2 (precision), ke‐3 (recall), ke‐4 (f1‐score)
+                        // Hati‐hati: format CSV kadang ada kolom kosong di indeks 1 → kita gunakan r[2], r[3], r[4].
+                        $precision = isset($r[2]) ? (float) $r[2] : 0;
+                        $recall = isset($r[3]) ? (float) $r[3] : 0;
+                        $f1score = isset($r[4]) ? (float) $r[4] : 0;
 
-            if (count($confusionData) > 1) {
-                $totalAll = 0;
-                $sumDiagonal = 0;
-                // Hitung total sampel
-                foreach (array_slice($confusionData, 1) as $r) {
-                    for ($c = 1; $c < count($r); $c++) {
-                        $totalAll += (int) $r[$c];
+                        // Push ke dalam array
+                        $metricsDetail[$key]['labels'][] = ucfirst($kelas);
+                        $metricsDetail[$key]['precision'][] = round($precision, 3);
+                        $metricsDetail[$key]['recall'][] = round($recall, 3);
+                        $metricsDetail[$key]['f1'][] = round($f1score, 3);
+                    } else {
+                        // Jika suatu kelas tidak ditemukan di CSV, isi 0.
+                        $metricsDetail[$key]['labels'][] = ucfirst($kelas);
+                        $metricsDetail[$key]['precision'][] = 0;
+                        $metricsDetail[$key]['recall'][] = 0;
+                        $metricsDetail[$key]['f1'][] = 0;
                     }
-                }
-                // Jumlah diagonal (misal 3 kelas → sel [1][1], [2][2], [3][3])
-                $sumDiagonal += (int) $confusionData[1][1];
-                $sumDiagonal += (int) $confusionData[2][2];
-                $sumDiagonal += (int) $confusionData[3][3];
-
-                if ($totalAll > 0) {
-                    $metricsSummary[$key]['accuracy'] = round($sumDiagonal / $totalAll, 3);
                 }
             }
         }
     @endphp
-
     <div class="row mt-4 mb-5">
-        <div class="col-12">
-            <div class="card shadow-sm">
-                <div class="card-header">
-                    <h6 class="mb-0">Perbandingan Metode Prediksi: Precision, F1‐Score, dan Akurasi</h6>
-                </div>
-                <div class="card-body p-3" style="height:350px;">
-                    <canvas id="metricsChart" width="800" height="350"></canvas>
+        @foreach ($wallets as $key)
+            @php
+                // Ubah key menjadi judul yang lebih enak (Dana, Gopay, Shopeepay)
+                $judul = ucfirst($key);
+            @endphp
+            <div class="col-md-4 mb-4">
+                <div class="card shadow-sm h-100">
+                    <div class="card-header">
+                        <h6 class="mb-0">Metrik Klasifikasi: {{ $judul }}</h6>
+                    </div>
+                    <div class="card-body" style="height: 300px;">
+                        {{-- Canvas untuk Chart.js --}}
+                        <canvas id="chart-{{ $key }}" width="400" height="250"></canvas>
+                    </div>
                 </div>
             </div>
-        </div>
+        @endforeach
     </div>
+
     {{-- ================================================================
     SECTION: Top Features (Tiap e‐wallet dalam satu card terpisah)
    ================================================================ --}}
@@ -477,91 +499,98 @@
             sentiments.forEach(drawWC);
         });
     </script>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js"></script>
     <script>
-        document.addEventListener('DOMContentLoaded', () => {
-            // Ambil data ringkasan metrik dari PHP ke JS
-            const ewMetrics = @json($metricsSummary);
-            const labels = ['Dana', 'GoPay', 'ShopeePay'];
+        document.addEventListener('DOMContentLoaded', function() {
+            // Kita ingin memanggil Chart.js untuk masing‐masing e‐wallet
+            const wallets = {!! json_encode($wallets) !!};
 
-            // Siapkan data Precision, F1, dan Accuracy dalam urutan yang sama
-            const precisionData = labels.map(name => {
-                const key = name.toLowerCase();
-                return ewMetrics[key].precision;
-            });
-            const f1Data = labels.map(name => {
-                const key = name.toLowerCase();
-                return ewMetrics[key].f1;
-            });
-            const accuracyData = labels.map(name => {
-                const key = name.toLowerCase();
-                return ewMetrics[key].accuracy;
-            });
+            wallets.forEach(function(key) {
+                // Ambil data PHP yang sudah kita siapkan di $metricsDetail
+                const dataPHP = {!! json_encode($metricsDetail) !!};
 
-            // Buat bar chart dengan tiga kelompok dataset
-            new Chart(document.getElementById('metricsChart'), {
-                type: 'bar',
-                data: {
+                // Labels kelas (Netral, Positif, Negatif)
+                const labels = dataPHP[key]['labels']; // contoh: ["Netral","Positif","Negatif"]
+                const dataPrecision = dataPHP[key]['precision'];
+                const dataRecall = dataPHP[key]['recall'];
+                const dataF1 = dataPHP[key]['f1'];
+
+                // Konfigurasi dataset untuk Chart.js
+                const chartData = {
                     labels: labels,
                     datasets: [{
-                            label: 'Precision (Macro)',
-                            data: precisionData,
-                            backgroundColor: 'rgba(54, 162, 235, 0.6)',
+                            label: 'Precision',
+                            data: dataPrecision,
+                            backgroundColor: 'rgba(54, 162, 235, 0.5)',
                             borderColor: 'rgba(54, 162, 235, 1)',
                             borderWidth: 1
                         },
                         {
-                            label: 'F1‐Score (Macro)',
-                            data: f1Data,
-                            backgroundColor: 'rgba(255, 206, 86, 0.6)',
+                            label: 'Recall',
+                            data: dataRecall,
+                            backgroundColor: 'rgba(255, 206, 86, 0.5)',
                             borderColor: 'rgba(255, 206, 86, 1)',
                             borderWidth: 1
                         },
                         {
-                            label: 'Accuracy',
-                            data: accuracyData,
-                            backgroundColor: 'rgba(75, 192, 192, 0.6)',
+                            label: 'F1‐Score',
+                            data: dataF1,
+                            backgroundColor: 'rgba(75, 192, 192, 0.5)',
                             borderColor: 'rgba(75, 192, 192, 1)',
                             borderWidth: 1
                         }
                     ]
-                },
-                options: {
-                    responsive: true,
-                    maintainAspectRatio: false,
-                    scales: {
-                        yAxes: [{
-                            ticks: {
+                };
+
+                const config = {
+                    type: 'bar',
+                    data: chartData,
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        scales: {
+                            y: {
                                 beginAtZero: true,
-                                callback: value => (value * 100).toFixed(0) +
-                                    '%' // Menampilkan dalam persen
-                            },
-                            scaleLabel: {
-                                display: true,
-                                labelString: 'Nilai (%)'
+                                max: 1,
+                                ticks: {
+                                    callback: function(value) {
+                                        return value.toFixed(2);
+                                    }
+                                },
+                                title: {
+                                    display: true,
+                                    text: 'Nilai'
+                                }
                             }
-                        }],
-                        xAxes: [{
-                            barPercentage: 0.6,
-                            categoryPercentage: 0.6
-                        }]
-                    },
-                    tooltips: {
-                        callbacks: {
-                            label: function(tooltipItem, data) {
-                                let label = data.datasets[tooltipItem.datasetIndex].label || '';
-                                let val = tooltipItem.yLabel;
-                                return label + ': ' + (val * 100).toFixed(1) + '%';
+                        },
+                        plugins: {
+                            tooltip: {
+                                callbacks: {
+                                    label: function(context) {
+                                        let label = context.dataset.label || '';
+                                        if (label) {
+                                            label += ': ';
+                                        }
+                                        if (context.parsed.y !== null) {
+                                            label += context.parsed.y.toFixed(3);
+                                        }
+                                        return label;
+                                    }
+                                }
+                            },
+                            legend: {
+                                position: 'top',
                             }
                         }
-                    },
-                    legend: {
-                        position: 'bottom'
                     }
-                }
+                };
+
+                // Buat chart pada canvas dengan id="chart-<key>"
+                const ctx = document.getElementById('chart-' + key).getContext('2d');
+                new Chart(ctx, config);
             });
         });
     </script>
+
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
 
