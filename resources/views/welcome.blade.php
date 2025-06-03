@@ -44,47 +44,34 @@
 </head>
 
 <body class="g-sidenav-show bg-gray-100">
-    {{-- ====================== --}}
-    {{-- Navbar                --}}
-    {{-- ====================== --}}
     <nav class="navbar navbar-expand-lg navbar-light bg-white shadow rounded py-3">
         <div class="container">
-            {{-- Brand --}}
-            <a class="navbar-brand fs-4 fw-bold text-primary" href="{{ url('/') }}">
-                Sentimen E-Wallet
+            {{-- Brand dengan Logo dan Judul --}}
+            <a class="navbar-brand d-flex align-items-center" href="{{ url('/') }}">
+                <img src="{{ asset('assets/pj.png') }}" alt="Logo" style="height:40px; width:40px;" class="me-2">
+                <div class="d-flex flex-column">
+                    <span class="h5 mb-0 text-primary">Sentiment Dashboard</span>
+                    <small class="text-muted">Manajemen Informatika</small>
+                </div>
             </a>
 
-            {{-- Toggle (mobile) --}}
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent"
-                aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
+            {{-- Login/Logout selalu terlihat, tanpa collapse --}}
+            <div class="ms-auto d-flex align-items-center">
+                @guest
+                    <a class="btn btn-sm btn-primary px-3 text-white d-flex align-items-center" href="{{ route('login') }}">
+                        <i class="fa fa-sign-in-alt me-1"></i>
+                        <span class="fw-medium">Login</span>
+                    </a>
+                @endguest
 
-            {{-- Links --}}
-            <div class="collapse navbar-collapse justify-content-end" id="navbarContent">
-                <ul class="navbar-nav align-items-center">
-                    @guest
-                        <li class="nav-item me-2">
-                            <a class="nav-link btn btn-sm btn-primary px-3 text-white d-flex align-items-center"
-                                href="{{ route('login') }}">
-                                <i class="fa fa-sign-in-alt me-1"></i>
-                                <span class="fw-medium">Login</span>
-                            </a>
-                        </li>
-                    @endguest
-
-                    @auth
-                        <li class="nav-item me-2">
-                            <a class="nav-link btn btn-sm btn-outline-secondary px-3 d-flex align-items-center"
-                                href="{{ route('logout') }}"
-                                onclick="event.preventDefault(); document.getElementById('logout-form').submit();">
-                                <i class="fa fa-sign-out-alt me-1"></i>
-                                <span class="fw-medium">Logout</span>
-                            </a>
-                            <form id="logout-form" action="{{ route('logout') }}" method="GET" class="d-none"></form>
-                        </li>
-                    @endauth
-                </ul>
+                @auth
+                    <a class="btn btn-sm btn-outline-secondary px-3 d-flex align-items-center" href="{{ route('logout') }}"
+                        onclick="event.preventDefault(); document.getElementById('logout-form').submit();">
+                        <i class="fa fa-sign-out-alt me-1"></i>
+                        <span class="fw-medium">Logout</span>
+                    </a>
+                    <form id="logout-form" action="{{ route('logout') }}" method="GET" class="d-none"></form>
+                @endauth
             </div>
         </div>
     </nav>
@@ -106,7 +93,8 @@
                         <div class="card {{ $badge }} shadow">
                             <div class="card-body d-flex justify-content-between align-items-center p-4">
                                 <div>
-                                    <p class="mb-1 text-sm text-uppercase opacity-7">{{ 'Total ' . ucfirst($sent) }}</p>
+                                    <p class="mb-1 text-sm text-uppercase opacity-7">{{ 'Total ' . ucfirst($sent) }}
+                                    </p>
                                     <h4 id="{{ $sent }}Count" class="mb-0 fw-bold text-white">
                                         {{ $counts['all'][$sent] }}
                                     </h4>
@@ -231,182 +219,6 @@
                         <div class="card-body p-0 d-flex justify-content-center align-items-center"
                             style="height: 250px;">
                             <canvas id="wc-{{ $s }}" class="wc-canvas"></canvas>
-                        </div>
-                    </div>
-                </div>
-            @endforeach
-        </div>
-
-        {{-- =========================================================== --}}
-        {{-- Section: Confusion Matrix (Tailwind-like styling via utility) --}}
-        {{-- =========================================================== --}}
-        <div class="row gx-3 mb-4">
-            @foreach (['dana', 'gopay', 'shopeepay'] as $key)
-                <div class="col-md-4 mb-3">
-                    <div class="card h-100 shadow-sm">
-                        <div class="card-header bg-light">
-                            <h6 class="mb-0 text-capitalize">{{ $key }} Confusion Matrix</h6>
-                        </div>
-                        <div class="card-body p-3">
-                            @php
-                                $confusionPath = storage_path("app/public/confusion_matrix_{$key}.csv");
-                                $confusionData = [];
-                                if (file_exists($confusionPath)) {
-                                    $confusionData = array_map('str_getcsv', file($confusionPath));
-                                }
-                            @endphp
-
-                            @if (count($confusionData) > 1)
-                                <div class="table-responsive">
-                                    <table class="table table-bordered table-sm text-center mb-0">
-                                        <thead class="table-light">
-                                            <tr>
-                                                <th class="text-start">Actual\Predicted</th>
-                                                @foreach (array_slice($confusionData[0], 1) as $header)
-                                                    <th>{{ $header }}</th>
-                                                @endforeach
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            @foreach (array_slice($confusionData, 1) as $rowIndex => $row)
-                                                <tr class="{{ $rowIndex % 2 === 0 ? '' : 'table-light' }}">
-                                                    <th class="text-start">{{ $row[0] }}</th>
-                                                    @foreach (array_slice($row, 1) as $colIndex => $cell)
-                                                        @php
-                                                            $isDiagonal = $rowIndex === $colIndex;
-                                                        @endphp
-                                                        <td
-                                                            class="{{ $isDiagonal ? 'bg-dark text-white fw-bold' : '' }}">
-                                                            {{ $cell }}
-                                                        </td>
-                                                    @endforeach
-                                                </tr>
-                                            @endforeach
-                                        </tbody>
-                                    </table>
-                                </div>
-                            @else
-                                <p class="text-center text-muted mb-0">
-                                    File <code>confusion_matrix_{{ $key }}.csv</code> tidak ditemukan atau
-                                    kosong.
-                                </p>
-                            @endif
-                        </div>
-                    </div>
-                </div>
-            @endforeach
-        </div>
-
-        {{-- ====================================== --}}
-        {{-- Section: Metrics Chart (Precision, F1) --}}
-        {{-- ====================================== --}}
-        @php
-            $wallets = ['dana', 'gopay', 'shopeepay'];
-            $metricsDetail = [];
-            $kelasUrut = ['netral', 'positif', 'negatif'];
-
-            foreach ($wallets as $key) {
-                $fileKey = $key;
-                $pathCsv = storage_path("app/public/evaluation_metrics_full{$fileKey}.csv");
-                $rows = [];
-                if (file_exists($pathCsv)) {
-                    $rows = array_map('str_getcsv', file($pathCsv));
-                }
-
-                $metricsDetail[$key] = [
-                    'labels' => [],
-                    'precision' => [],
-                    'recall' => [],
-                    'f1' => [],
-                ];
-
-                if (count($rows) > 1) {
-                    $mapRowByKelas = [];
-                    foreach (array_slice($rows, 1) as $r) {
-                        $mapRowByKelas[strtolower(trim($r[0]))] = $r;
-                    }
-                    foreach ($kelasUrut as $kelas) {
-                        if (isset($mapRowByKelas[$kelas])) {
-                            $r = $mapRowByKelas[$kelas];
-                            $precision = isset($r[1]) ? (float) $r[1] : 0;
-                            $recall = isset($r[2]) ? (float) $r[2] : 0;
-                            $f1score = isset($r[3]) ? (float) $r[3] : 0;
-                            $metricsDetail[$key]['labels'][] = ucfirst($kelas);
-                            $metricsDetail[$key]['precision'][] = round($precision, 3);
-                            $metricsDetail[$key]['recall'][] = round($recall, 3);
-                            $metricsDetail[$key]['f1'][] = round($f1score, 3);
-                        } else {
-                            $metricsDetail[$key]['labels'][] = ucfirst($kelas);
-                            $metricsDetail[$key]['precision'][] = 0;
-                            $metricsDetail[$key]['recall'][] = 0;
-                            $metricsDetail[$key]['f1'][] = 0;
-                        }
-                    }
-                }
-            }
-        @endphp
-
-        <div class="row gx-3 mb-4">
-            @foreach ($wallets as $key)
-                <div class="col-md-4 mb-3">
-                    <div class="card h-100 shadow-sm">
-                        <div class="card-header bg-light">
-                            <h6 class="mb-0 text-capitalize">Metrik Klasifikasi: {{ ucfirst($key) }}</h6>
-                        </div>
-                        <div class="card-body p-3" style="height: 300px;">
-                            <canvas id="chart-{{ $key }}" class="w-100 h-100"></canvas>
-                        </div>
-                    </div>
-                </div>
-            @endforeach
-        </div>
-
-        {{-- ====================================== --}}
-        {{-- Section: Top Features per e-Wallet       --}}
-        {{-- ====================================== --}}
-        <div class="row gx-3 mb-4">
-            @foreach (['dana', 'gopay', 'shopeepay'] as $key)
-                @php
-                    $featuresPath = storage_path("app/public/top_features_{$key}.csv");
-                    $featuresRaw = [];
-                    if (file_exists($featuresPath)) {
-                        $featuresRaw = array_map('str_getcsv', file($featuresPath));
-                    }
-                    $classFeatures = ['neutral' => [], 'positive' => [], 'negative' => []];
-                    if (count($featuresRaw) > 1) {
-                        foreach (array_slice($featuresRaw, 1) as $row) {
-                            $classFeatures['neutral'][] = $row[1] ?? '';
-                            $classFeatures['positive'][] = $row[2] ?? '';
-                            $classFeatures['negative'][] = $row[3] ?? '';
-                        }
-                    }
-                @endphp
-
-                <div class="col-lg-4 col-md-6 mb-3">
-                    <div class="card h-100 shadow-sm">
-                        <div class="card-header bg-secondary text-white">
-                            <h6 class="mb-0 text-uppercase">{{ ucfirst($key) }} Top Features</h6>
-                        </div>
-                        <div class="card-body p-3">
-                            @if (count($featuresRaw) > 1)
-                                <div class="row">
-                                    @foreach (['neutral' => 'Netral', 'positive' => 'Positif', 'negative' => 'Negatif'] as $clsKey => $clsLabel)
-                                        <div class="col-4">
-                                            <h6 class="text-secondary text-uppercase text-center small">
-                                                {{ $clsLabel }}</h6>
-                                            <ul class="list-group list-group-flush">
-                                                @foreach ($classFeatures[$clsKey] as $feature)
-                                                    <li class="list-group-item py-1 small">{{ $feature }}</li>
-                                                @endforeach
-                                            </ul>
-                                        </div>
-                                    @endforeach
-                                </div>
-                            @else
-                                <p class="text-center text-muted mb-0 small">
-                                    File <code>top_features_{{ $key }}.csv</code> tidak ditemukan atau kosong.
-                                </p>
-                            @endif
                         </div>
                     </div>
                 </div>
@@ -598,89 +410,9 @@
             sourceSel.addEventListener('change', () => sentiments.forEach(drawWC));
             sentiments.forEach(drawWC);
 
-            // ======================
-            // Metrics Charts per Wallet
-            // ======================
-            const wallets = @json($wallets);
-            const dataPHP = @json($metricsDetail);
-
-            wallets.forEach(key => {
-                const ctx = document.getElementById('chart-' + key).getContext('2d');
-                const labels = dataPHP[key]['labels'];
-                const dataPrecision = dataPHP[key]['precision'];
-                const dataRecall = dataPHP[key]['recall'];
-                const dataF1 = dataPHP[key]['f1'];
-
-                new Chart(ctx, {
-                    type: 'bar',
-                    data: {
-                        labels: labels,
-                        datasets: [{
-                                label: 'Precision',
-                                data: dataPrecision,
-                                backgroundColor: 'rgba(54, 162, 235, 0.5)',
-                                borderColor: 'rgba(54, 162, 235, 1)',
-                                borderWidth: 1
-                            },
-                            {
-                                label: 'Recall',
-                                data: dataRecall,
-                                backgroundColor: 'rgba(255, 206, 86, 0.5)',
-                                borderColor: 'rgba(255, 206, 86, 1)',
-                                borderWidth: 1
-                            },
-                            {
-                                label: 'F1-Score',
-                                data: dataF1,
-                                backgroundColor: 'rgba(75, 192, 192, 0.5)',
-                                borderColor: 'rgba(75, 192, 192, 1)',
-                                borderWidth: 1
-                            }
-                        ]
-                    },
-                    options: {
-                        responsive: true,
-                        maintainAspectRatio: false,
-                        scales: {
-                            y: {
-                                beginAtZero: true,
-                                max: 1,
-                                ticks: {
-                                    callback: value => value.toFixed(2)
-                                },
-                                title: {
-                                    display: true,
-                                    text: 'Nilai'
-                                }
-                            },
-                            x: {
-                                grid: {
-                                    display: false
-                                }
-                            }
-                        },
-                        plugins: {
-                            tooltip: {
-                                callbacks: {
-                                    label: context => {
-                                        let label = context.dataset.label || '';
-                                        if (label) label += ': ';
-                                        if (context.parsed.y !== null) {
-                                            label += context.parsed.y.toFixed(3);
-                                        }
-                                        return label;
-                                    }
-                                }
-                            },
-                            legend: {
-                                position: 'top'
-                            }
-                        }
-                    }
-                });
-            });
         });
     </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>
