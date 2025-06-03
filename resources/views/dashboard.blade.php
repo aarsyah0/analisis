@@ -294,9 +294,9 @@
                         $r = $mapRowByKelas[$kelas];
                         // Ambil nilai ke‐2 (precision), ke‐3 (recall), ke‐4 (f1‐score)
                         // Hati‐hati: format CSV kadang ada kolom kosong di indeks 1 → kita gunakan r[2], r[3], r[4].
-                        $precision = isset($r[2]) ? (float) $r[2] : 0;
-                        $recall = isset($r[3]) ? (float) $r[3] : 0;
-                        $f1score = isset($r[4]) ? (float) $r[4] : 0;
+                        $precision = isset($r[1]) ? (float) $r[1] : 0;
+                        $recall = isset($r[2]) ? (float) $r[2] : 0;
+                        $f1score = isset($r[3]) ? (float) $r[3] : 0;
 
                         // Push ke dalam array
                         $metricsDetail[$key]['labels'][] = ucfirst($kelas);

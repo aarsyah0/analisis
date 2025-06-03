@@ -6,12 +6,8 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Response;
 
-class HomeController extends Controller
-{
-    /**
-     * Display the dashboard with sentiment counts.
-     */
-    public function index()
+class WelcomeController extends Controller{
+     public function index()
     {
         // Paths to CSV files in public/storage
         $pathDana   = base_path('resources/views/data/data_labeled.csv');
@@ -54,7 +50,7 @@ class HomeController extends Controller
             'shopeepay' => $calcCounts($shopeeRows),
         ];
 
-        return view('dashboard', compact('counts'));
+        return view('welcome', compact('counts'));
     }
 
     /**

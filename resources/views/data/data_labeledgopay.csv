@@ -1,0 +1,1359 @@
+clean_text,word_count,label,sent_raw,label_auto
+kamu ngentot ambil fee ribu besar sekali anjing,8,,"{'label': 'negative', 'score': 0.9999086856842041}",negative
+cek minn,2,,"{'label': 'negative', 'score': 0.7920074462890625}",negative
+cek woy,2,,"{'label': 'negative', 'score': 0.9998958110809326}",negative
+layan gopay bagaimana proses transfer nyangkut hari contact direpon apk amp email,12,,"{'label': 'negative', 'score': 0.8229054808616638}",negative
+pelayananya gimana kakak gopay contact tidak bisa respon kita,9,,"{'label': 'negative', 'score': 0.9998421669006348}",negative
+liat noh berapa kali tidak ada saldo masuk gopayy riwayat akhir bulan februari balas beri respon apa kek banyak complain duit masuk ngasih solusi bikin lapor cuma dibales bot doang,30,,"{'label': 'negative', 'score': 0.9998860359191895}",negative
+gopay masuk sihh kemarin nanya jawab template mulu,8,,"{'label': 'negative', 'score': 0.9998775720596313}",negative
+kakk sumpah aku begini bahkan lapor gojek responnya punya kamu cuma template doang tidak bisa ngetikk keluh,17,,"{'label': 'negative', 'score': 0.999883770942688}",negative
+lapor tutup malah kakak soal vanya hangus duluan padahal saldo potong,11,,"{'label': 'negative', 'score': 0.9998492002487183}",negative
+kakak aku cepat sekali kok kemarin saldo buat lapor,9,,"{'label': 'negative', 'score': 0.9955447316169739}",negative
+gimana dahhh suruh balas tidak ada pilih buat ngetik kamu suruh telepati top kemaren waktu maintance siang bolong hari jumat via bca tidak masuk saldo potong saldo gopay nambah warna merah potong tulis hasil,34,,"{'label': 'negative', 'score': 0.9974516034126282}",negative
+tai minggu anjg begini mulu,5,,"{'label': 'negative', 'score': 0.9999102354049683}",negative
+iya ngerti sekali sekarang sering error begini transfer status proses terus beberapa hari lelet banget tuhaannn,16,,"{'label': 'negative', 'score': 0.999919056892395}",negative
+hallo kakak cdm,3,,"{'label': 'neutral', 'score': 0.9998828172683716}",neutral
+masalah selesai selesai orang butuh uang masalah responnya hampir minggu cuma template doang,13,,"{'label': 'negative', 'score': 0.9998522996902466}",negative
+kakk cdm yaa,3,,"{'label': 'neutral', 'score': 0.9988346695899963}",neutral
+admin saldo cek,3,,"{'label': 'neutral', 'score': 0.9998194575309753}",neutral
+blokir jelas emang gopaylater,4,,"{'label': 'negative', 'score': 0.9998806715011597}",negative
+akhir hari isi full cashback poin,6,,"{'label': 'neutral', 'score': 0.9998738765716553}",neutral
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+aku sih blokir cuma payment pakai gopaylater,7,,"{'label': 'neutral', 'score': 0.99982750415802}",neutral
+tweet serang buzzer gopay later jual lapak orang bayar woe,10,,"{'label': 'negative', 'score': 0.9992996454238892}",negative
+curi saldo driver aplikasi order gocar hemat saldo driver potong kali parah sekali jangan suka curi hak driver,18,,"{'label': 'negative', 'score': 0.9999079704284668}",negative
+mjb sekarang kakak punya aku soal,6,,"{'label': 'negative', 'score': 0.9803248047828674}",negative
+halo mau upgrade gopay plus pernah busa bantu suket lurah kalaumemang beda nama ktp kakak,15,,"{'label': 'neutral', 'score': 0.9998829364776611}",neutral
+admin cek,2,,"{'label': 'neutral', 'score': 0.999854564666748}",neutral
+punya kakak,2,,"{'label': 'neutral', 'score': 0.9988204836845398}",neutral
+tipu nimbrung kamu cari postingan,5,,"{'label': 'negative', 'score': 0.9998923540115356}",negative
+begini deh minta update tiket beri update progressnya,8,,"{'label': 'neutral', 'score': 0.9998811483383179}",neutral
+halo admin gopaylater pakai muncul opsi bayar pernah telat bayar tagih bantu tks,13,,"{'label': 'neutral', 'score': 0.9998748302459717}",neutral
+admin gimana cara nurunin limit gopay later banyak minnn,9,,"{'label': 'negative', 'score': 0.9991508722305298}",negative
+masuk yaa gopay tabung kok dijelasin awal gopay tabung apa masuk,11,,"{'label': 'negative', 'score': 0.9849714636802673}",negative
+nasib emang gitu layan call chatpun ujung didiemin solusi,9,,"{'label': 'negative', 'score': 0.9998784065246582}",negative
+kakak punya pilih payment pas aku cek apk gopay malah blokir,11,,"{'label': 'neutral', 'score': 0.9998370409011841}",neutral
+banyak promo,2,,"{'label': 'positive', 'score': 0.9997431635856628}",positive
+gopay later blokir,3,,"{'label': 'neutral', 'score': 0.9990911483764648}",neutral
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+admin cek kali,3,,"{'label': 'neutral', 'score': 0.999854326248169}",neutral
+sedang trobel mau bayar paylater gagal terus soal,8,,"{'label': 'negative', 'score': 0.9998633861541748}",negative
+admin transaksi akulaku bayar pakai gopaylatter hasil akulaku transaksi tunggu bayar,11,,"{'label': 'neutral', 'score': 0.9998911619186401}",neutral
+halo nomor tipu kirain tiba minta kode otp anjg emang untung lindung maha kuasa,14,,"{'label': 'negative', 'score': 0.9996262788772583}",negative
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+admin cek,2,,"{'label': 'neutral', 'score': 0.999854564666748}",neutral
+benerin sistemnyaa uang masuk terus duitnyaaa kemanaa tabung,8,,"{'label': 'negative', 'score': 0.9998862743377686}",negative
+aku ngalamin biasa lancar lancar gimana nihh,7,,"{'label': 'positive', 'score': 0.9991718530654907}",positive
+siaap kakak tunggu balas temen sabil yaa sabil,8,,"{'label': 'neutral', 'score': 0.9957361221313477}",neutral
+transfer kali gopay nominal hasil guna terang gagal refund,9,,"{'label': 'neutral', 'score': 0.999731719493866}",neutral
+emmy bantu biar pulsa segera terima kakak riza nomor capture hasil transaksi terima kasih emmy,15,,"{'label': 'neutral', 'score': 0.9998958110809326}",neutral
+pulsa beli telkomsel masuk pakai gopay pembayaranya,7,,"{'label': 'neutral', 'score': 0.9998877048492432}",neutral
+hai gopay cek tiket lapor sama kalian main closed case padahal saldo masuk,13,,"{'label': 'neutral', 'score': 0.9998400211334229}",neutral
+lapor gimana,2,,"{'label': 'negative', 'score': 0.999832272529602}",negative
+admin kok sekarang gojek aku tidak ada pilih payment pakai gopaylater padahal ringkes pakai,14,,"{'label': 'negative', 'score': 0.9999134540557861}",negative
+halo sahabat mohon maaf atas ketidaknyamanannya pesan kirim lalu terima mohon sedia kirim tks kila,15,,"{'label': 'neutral', 'score': 0.9998929500579834}",neutral
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+cek minn,2,,"{'label': 'negative', 'score': 0.7920074462890625}",negative
+cek kakak,2,,"{'label': 'neutral', 'score': 0.999830961227417}",neutral
+nyata tidak jelas spaylater,4,,"{'label': 'negative', 'score': 0.9999215602874756}",negative
+sama pilih gopaylater kali balesannya template tidak ada solusi padahal urgent pakai paylater huhu,14,,"{'label': 'negative', 'score': 0.9998952150344849}",negative
+admin cdm,2,,"{'label': 'neutral', 'score': 0.9996474981307983}",neutral
+halo admin ayah top gopay bri lalu gopay potong masuk tabung gopay pas cek tabung gopay gimana saldo kemanaa tolonggg,20,,"{'label': 'neutral', 'score': 0.9877458214759827}",neutral
+admin cdm aku donggg bantu,5,,"{'label': 'negative', 'score': 0.8439784049987793}",negative
+kaa cek yaa,3,,"{'label': 'neutral', 'score': 0.9998728036880493}",neutral
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+tetep bayar kakak,3,,"{'label': 'positive', 'score': 0.999819815158844}",positive
+aplikasi gojek kakak bantu lapor,5,,"{'label': 'neutral', 'score': 0.9998952150344849}",neutral
+oalah,1,,"{'label': 'negative', 'score': 0.9996985197067261}",negative
+mungkin bayar jadi tidak bisa deh,6,,"{'label': 'negative', 'score': 0.9998921155929565}",negative
+gopay makasiih bangeet lho joinan sama jago jadi perlu top kalau mau bayar langsung debet kantong jago mudah hidup,19,,"{'label': 'positive', 'score': 0.9996788501739502}",positive
+hmmm kumpulin info doloooo cuz,5,,"{'label': 'neutral', 'score': 0.999784529209137}",neutral
+heueheuehu kekmanalah goda kan,4,,"{'label': 'negative', 'score': 0.9996752738952637}",negative
+kepo yekan tanya langsung,4,,"{'label': 'negative', 'score': 0.8769742846488953}",negative
+admin cek,2,,"{'label': 'neutral', 'score': 0.999854564666748}",neutral
+kalau mah sedang asik bisnis baru diupgrage jadi layan pinjol buat driver,12,,"{'label': 'negative', 'score': 0.9982326030731201}",negative
+selamat siang mimin gimana cara hapus data kartu identitas pernah buat daftar gopay nonaktif akun gopay nunggu berapa lama tetap bisaa pakai kartu identitas,24,,"{'label': 'neutral', 'score': 0.9998713731765747}",neutral
+gopay hari off line,4,,"{'label': 'neutral', 'score': 0.9998844861984253}",neutral
+serius sih beri penjelasannnn,4,,"{'label': 'negative', 'score': 0.9896188378334045}",negative
+kalau serius beli lewat wallet mau upgrade semangat nabung gopay tabung jago,12,,"{'label': 'neutral', 'score': 0.9997010827064514}",neutral
+terus kata mobil beli pakai tabung wallet benerrrr bukan limit,10,,"{'label': 'negative', 'score': 0.999423623085022}",negative
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+dunia memang ubah sekarang simpan uang wallet mudah beli mobil lho,11,,"{'label': 'negative', 'score': 0.8835570216178894}",negative
+beneran beli mobil gopay tabung jago,6,,"{'label': 'neutral', 'score': 0.9964873790740967}",neutral
+kakak aku ngalamin akun gojek anggap hari minggu saldo masuk sekarang,11,,"{'label': 'neutral', 'score': 0.8645604848861694}",neutral
+admin cek,2,,"{'label': 'neutral', 'score': 0.999854564666748}",neutral
+halo kakak cek please,4,,"{'label': 'neutral', 'score': 0.9998939037322998}",neutral
+saldo gopay sinkron dua aplikasi,5,,"{'label': 'neutral', 'score': 0.9998903274536133}",neutral
+upgrade maksud sering pakai kok pakai gopaylater limit pakai tengah,10,,"{'label': 'neutral', 'score': 0.9997894167900085}",neutral
+kantor cabang bank mandiri layan livin mandiri handphone milik fitur nfc moga proses jalan lancar tks adisti,17,,"{'label': 'neutral', 'score': 0.9997884631156921}",neutral
+mesin edc kartu mandiri prabayar sedia kantor cabang bank mandiri dekat outlet merchant dekat mesin mandiri atm tunai non tunai guna laku isi ulang kartu mandiri prabayar online,28,,"{'label': 'neutral', 'score': 0.9998871088027954}",neutral
+halo sahabat mohon maaf atas ketidaknyamanannya apabila laku isi ulang top kartu mandiri money sila laku update saldo saldo tambah laku proses update saldo bukan cek saldo laku bagai ikut,30,,"{'label': 'neutral', 'score': 0.9998800754547119}",neutral
+isi saldo emoney aplikasi saldo masuk,6,,"{'label': 'neutral', 'score': 0.9998935461044312}",neutral
+bikin kapok pakai gopay,4,,"{'label': 'negative', 'score': 0.999915599822998}",negative
+akun resmi bank mandiri centang emas verified belah nama akun bukan foto profil lalu whatsapp official bank mandiri centang hijau moga proses depan jalan lancar tks danti,27,,"{'label': 'neutral', 'score': 0.9998878240585327}",neutral
+device dapat fitur nfc mandiri atm mesin edc bank mandiri saldo kartu moneynya tambah apabila alami kendala mohon sedia kirim pesan lalu pasti interaksi,24,,"{'label': 'neutral', 'score': 0.9998863935470581}",neutral
+halo sahabat mohon maaf atas ketidaknyamanannya apabila proses top money hasil dana masuk sila laku update saldo lebih lalu,19,,"{'label': 'neutral', 'score': 0.9998918771743774}",neutral
+isi saldo emoney gopay status hasil saldo emoney tambah pihak malah nyuruh lapor bank mandiri tiket lapor gopay,18,,"{'label': 'neutral', 'score': 0.9998376369476318}",neutral
+admin cek,2,,"{'label': 'neutral', 'score': 0.999854564666748}",neutral
+halo admin cek,3,,"{'label': 'neutral', 'score': 0.9998905658721924}",neutral
+admin gopaylater sayaa pakai tokped,5,,"{'label': 'neutral', 'score': 0.9632719159126282}",neutral
+aku begini kakak huhuhu,4,,"{'label': 'neutral', 'score': 0.9540428519248962}",neutral
+mjb kakak blokir punya kakak tokped apa gojek gopaynya kakak,10,,"{'label': 'negative', 'score': 0.999782383441925}",negative
+@yauhoaa @xkode06 @gopayindonesia Belum,4,,"{'label': 'neutral', 'score': 0.9998533725738525}",neutral
+kakak blokir buka,3,,"{'label': 'neutral', 'score': 0.9997618794441223}",neutral
+pasti sahabat interaksi akun resmi bank mandiri centang emas verified belah nama akun bukan foto profil lalu whatsapp official bank mandiri centang hijau tks rezka end,26,,"{'label': 'neutral', 'score': 0.9998890161514282}",neutral
+halo sahabat mohon maaf atas ketidaknyamanannya perihal kendala sahabat alami informasi lalu,12,,"{'label': 'neutral', 'score': 0.9998817443847656}",neutral
+@blukatarinaa @yauhoaa @xkode06 @gopayindonesia Bisa,5,,"{'label': 'neutral', 'score': 0.999845027923584}",neutral
+sama kakak memang better biar sajaa bikin malas,8,,"{'label': 'negative', 'score': 0.9999146461486816}",negative
+moga hasil saldo gopay tarik masuk toll kalau masalah masukin saldo toll mah paham,14,,"{'label': 'neutral', 'score': 0.8269512057304382}",neutral
+gopaylater tiba blokir tanya customer care jawab jelas bayar pernah telat reasson blokir,13,,"{'label': 'negative', 'score': 0.954402506351471}",negative
+anjirrr saldo oiiii,3,,"{'label': 'negative', 'score': 0.9999046325683594}",negative
+mohon maaf atas ketidaknyamanannya sahabat laku top money mohon update saldo lalu aplikasi livin mandiri berfitur nfc mandiri atm milik money reader mandiri edc moga hasil tks amar,28,,"{'label': 'neutral', 'score': 0.9998867511749268}",neutral
+halo admin cek,3,,"{'label': 'neutral', 'score': 0.9998905658721924}",neutral
+font nominal aplikasi gopay enak pandang mungkin saran pakai poppins serif lain,12,,"{'label': 'positive', 'score': 0.9999188184738159}",positive
+mandiri knapa bjir top kamu punya emoney tadi siang masuk heran emang lama apa nunggu monyet ubah jadi kingkong baru masuk tuh saldo sama bjir nyebelin banget,27,,"{'label': 'negative', 'score': 0.9999133348464966}",negative
+cdm miinn,2,,"{'label': 'positive', 'score': 0.9928399324417114}",positive
+tiba sambung gopay halodoc putus,5,,"{'label': 'neutral', 'score': 0.9998995065689087}",neutral
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+admin mau kok error mulu,5,,"{'label': 'negative', 'score': 0.9999192953109741}",negative
+sorry baru balas aku ngeh aku titip temen kemarin,9,,"{'label': 'neutral', 'score': 0.9395687580108643}",neutral
+kakak,1,,"{'label': 'positive', 'score': 0.9640388488769531}",positive
+notifikasi transaksi hasil saldo potong bagaimana yaaa,7,,"{'label': 'negative', 'score': 0.9996019005775452}",negative
+salah satu tokped pisah sama gojek jadi financial sedikit crash blokir,11,,"{'label': 'negative', 'score': 0.9998883008956909}",negative
+admin cek,2,,"{'label': 'neutral', 'score': 0.999854564666748}",neutral
+aku update toll toped bayar pakai gopay update saldo potong bagaimana,11,,"{'label': 'negative', 'score': 0.9939568042755127}",negative
+bagaimana yaaa beli tiket cgv gopay potong saldo tiket waiting for payment,12,,"{'label': 'negative', 'score': 0.8942277431488037}",negative
+halo admin urgent cek,4,,"{'label': 'neutral', 'score': 0.9998971223831177}",neutral
+habis jajan kata coba gopay tidak ada masuk,8,,"{'label': 'neutral', 'score': 0.999690055847168}",neutral
+admin koksy transfer gopay masuk padahal hasil,7,,"{'label': 'neutral', 'score': 0.9998080134391785}",neutral
+cek kakak,2,,"{'label': 'neutral', 'score': 0.999830961227417}",neutral
+top aku masuk admin padahal notif,6,,"{'label': 'negative', 'score': 0.9964448809623718}",negative
+halo bagaimana top saldo gopay kok masuk padahal saldo rekening potong biasa pernah begini,14,,"{'label': 'neutral', 'score': 0.5905337929725647}",neutral
+transfer gopay riwayat masuk saldo adaa,6,,"{'label': 'neutral', 'score': 0.9998921155929565}",neutral
+permisi transfer gopay via mbanking bca kali tidak ada masuk,10,,"{'label': 'neutral', 'score': 0.9998935461044312}",neutral
+isi gopay masuk help gimana,5,,"{'label': 'neutral', 'score': 0.9704939126968384}",neutral
+saldo kali top masuk masuk,5,,"{'label': 'neutral', 'score': 0.9998794794082642}",neutral
+aku topup gopay gamasukkkk plissss cepat proses,7,,"{'label': 'positive', 'score': 0.9999326467514038}",positive
+proses gopayku admin biasa nyangkut nyangkut saldo,7,,"{'label': 'negative', 'score': 0.9987573623657227}",negative
+terima beri jelas kakmin,4,,"{'label': 'neutral', 'score': 0.9996365308761597}",neutral
+kakak,1,,"{'label': 'positive', 'score': 0.9640388488769531}",positive
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+hallo,1,,"{'label': 'positive', 'score': 0.9564431309700012}",positive
+isiin gopay tabung aku gais,5,,"{'label': 'negative', 'score': 0.8116662502288818}",negative
+top gopay mau beli agiya biar hujan jemput sekolah,9,,"{'label': 'neutral', 'score': 0.999896764755249}",neutral
+jadi isi keranjang sekarang hmm,5,,"{'label': 'neutral', 'score': 0.9991337656974792}",neutral
+takut sekali kalau ken check out mobil hotwheels pencet malah beli agya beneran jaman maju masa wallet keren,18,,"{'label': 'negative', 'score': 0.9996675252914429}",negative
+hahh jadi beli mobil tokopedia pakai gopay tabung jago serius,10,,"{'label': 'neutral', 'score': 0.9890986680984497}",neutral
+bukan kalau beli bayar pakai gopay maksimal limit nominal transaksi jelasin donk penasaran,13,,"{'label': 'negative', 'score': 0.998900294303894}",negative
+kakak admin beneran sekarang beli mobil tokopedia bayar pakai gopay,10,,"{'label': 'neutral', 'score': 0.9998981952667236}",neutral
+halo kakak punya kendala kena gopay,6,,"{'label': 'neutral', 'score': 0.9998893737792969}",neutral
+halo laku beli paket bulan december awal one time payment tiba tiba saldo gopay potong otomatis subscription validasi beli dulu lewat,21,,"{'label': 'neutral', 'score': 0.9998992681503296}",neutral
+makin tertariq,2,,"{'label': 'positive', 'score': 0.9999542236328125}",positive
+gila sih mah canggih sekali kalau beneran mau nich,9,,"{'label': 'negative', 'score': 0.9998218417167664}",negative
+kamu jangan becanda kata sich masa beli mobil pakai gopay tabung jago bener emang beneran say,16,,"{'label': 'negative', 'score': 0.999847412109375}",negative
+coba chib pakai,3,,"{'label': 'neutral', 'score': 0.9995635151863098}",neutral
+kalau beneran gokil sih beli perintilan rumah beli mobil pakai wallet,11,,"{'label': 'positive', 'score': 0.9998589754104614}",positive
+beli mobil pakai gopay tabung jago tokopedia aku mimpi bukan limit coba kasi tau cara biar penasaran plisss,18,,"{'label': 'negative', 'score': 0.9034836292266846}",negative
+beneran mak jadi goda,4,,"{'label': 'negative', 'score': 0.9998227953910828}",negative
+kan jadi ken beli outlander sport warna biru metalik bayar pakai gopay kan,13,,"{'label': 'neutral', 'score': 0.9998905658721924}",neutral
+hai kakak maaf buat kendala kalau gambar kakak kirim mutasi rekening bni hasil transfer gopay lalu gopay kakak transfer bank muamalat gagal sila kakak konfirmasi pihak gopay kait transaksi transfer bank tuju,32,,"{'label': 'neutral', 'score': 0.9998832941055298}",neutral
+admin aku salah transfer nomor tuju dana buaa dibatalim sih,10,,"{'label': 'negative', 'score': 0.914788544178009}",negative
+info gopaylater kakak,3,,"{'label': 'neutral', 'score': 0.9998868703842163}",neutral
+tgl kakak november beres sekarang uang direfund kata nunggu bap ekspedisi mulu jawab,13,,"{'label': 'negative', 'score': 0.9998332262039185}",negative
+admin kalau begini gimana kemaren lupa topup gopay sekarang top gopaynya potong spotifynya coba baru detail bayar malah awal terus,20,,"{'label': 'negative', 'score': 0.9996746778488159}",negative
+nah aku mau tau,4,,"{'label': 'neutral', 'score': 0.9958642721176147}",neutral
+aku jadi kepo apa huhu,5,,"{'label': 'negative', 'score': 0.9762040376663208}",negative
+akun adminnya sih,3,,"{'label': 'positive', 'score': 0.9977661371231079}",positive
+admin cek,2,,"{'label': 'neutral', 'score': 0.999854564666748}",neutral
+numpang admin bayar pakai gopay,5,,"{'label': 'neutral', 'score': 0.9998937845230103}",neutral
+admin cek,2,,"{'label': 'neutral', 'score': 0.999854564666748}",neutral
+admin cek saldo gopay tabung koq ilang,7,,"{'label': 'negative', 'score': 0.9986868500709534}",negative
+transaksi pertama kali buat bayar sociolla promo admin,8,,"{'label': 'neutral', 'score': 0.9998730421066284}",neutral
+nyambung lau admin,3,,"{'label': 'positive', 'score': 0.999893069267273}",positive
+dulu belanja pakai wallet paling cuma butuh hari hari terus sekarang beli mobil pakai gopay tabung jago tuh gimana cerita sihhh bakal jadi wishlist beli mobil pakai wallettt omg,29,,"{'label': 'positive', 'score': 0.9966669678688049}",positive
+hah masa iya beli mobil pakai wallet sih beneran admin aku mau tauuuu,13,,"{'label': 'neutral', 'score': 0.9996224641799927}",neutral
+admin bantu gopaylater beku kali tahun padahal dulu pernah lambat,10,,"{'label': 'neutral', 'score': 0.9993886947631836}",neutral
+coba jelasin admin kaget liat mobil tadi real kahhh aku butuh info minnn,13,,"{'label': 'negative', 'score': 0.9991633892059326}",negative
+banyak penasaran lihat mobil tadi gimana cara beli mobil pakai wallet,11,,"{'label': 'neutral', 'score': 0.9996084570884705}",neutral
+beneran beli mobil pakai gopay tabung jago spill the tea,10,,"{'label': 'neutral', 'score': 0.9998905658721924}",neutral
+knapa gopaylater blokir anjirrrr,4,,"{'label': 'negative', 'score': 0.9998986721038818}",negative
+dulu kalau liat iklan hits sering takut jebak barusan liat mobil jalan kaya dalem kotak main masaaaaa kata beli mobil pakai wallet emang iya,24,,"{'label': 'negative', 'score': 0.9998481273651123}",negative
+sensasi baru nabung gopay tabung jago sengaja check out mobil,10,,"{'label': 'neutral', 'score': 0.9998524188995361}",neutral
+apa iya teh beli mobil pakai gopay tabung jago isi saldo gopay,12,,"{'label': 'neutral', 'score': 0.9998877048492432}",neutral
+kok aku topup tapcash lewat tagih gopaynya potong amp tulis transaksi sukses hasil saldo emoneyku,15,,"{'label': 'neutral', 'score': 0.9987953901290894}",neutral
+tanda hamba kudu mulai nabung gopay tabung jago kumpul duwit buat beli mobil hmmmm,14,,"{'label': 'negative', 'score': 0.9951305389404297}",negative
+transaksi hasil saldo masuk rek terima help,7,,"{'label': 'neutral', 'score': 0.9998878240585327}",neutral
+kaget tanggal tua mau extend spotify saldo malah ngilang,9,,"{'label': 'negative', 'score': 0.9999117851257324}",negative
+sama kan penasaran tunggu dispill deh sma,7,,"{'label': 'neutral', 'score': 0.9990453124046326}",neutral
+wah makin penasaran cuzlah upgrade,5,,"{'label': 'positive', 'score': 0.9953481554985046}",positive
+wah gimana kakak emang beneran beli mobil pakai gopay,9,,"{'label': 'neutral', 'score': 0.9986769556999207}",neutral
+admin kok bayar qris pakai gopay,6,,"{'label': 'neutral', 'score': 0.999858021736145}",neutral
+kakak block,2,,"{'label': 'negative', 'score': 0.9999189376831055}",negative
+cek plia,2,,"{'label': 'positive', 'score': 0.8409057855606079}",positive
+minflip bingung deh kakak,4,,"{'label': 'negative', 'score': 0.9999126195907593}",negative
+isi gopay masuk masuk pas dua kali top baru masuk gimana saldo pertama top muncul,15,,"{'label': 'neutral', 'score': 0.999504566192627}",neutral
+jelasin saldo,2,,"{'label': 'negative', 'score': 0.9992374181747437}",negative
+mau adaain fitur batal transaksi,5,,"{'label': 'negative', 'score': 0.9997597336769104}",negative
+admin topup godrive masuk gopay sekarang,6,,"{'label': 'neutral', 'score': 0.9998917579650879}",neutral
+mohon cek,2,,"{'label': 'neutral', 'score': 0.9998551607131958}",neutral
+pelit tuh orang mau bayar anggap lebih anggap riba padahal ada luar pokok utang biaya admin transfer makanya pakai bebas biaya admin transfer,23,,"{'label': 'negative', 'score': 0.9998713731765747}",negative
+begini terus,2,,"{'label': 'negative', 'score': 0.995407223701477}",negative
+admin gopaylater blokir padahal pernah telat bayar tagih,8,,"{'label': 'negative', 'score': 0.9994170665740967}",negative
+slow respon bgttt saldo gopay ilang admin admin transaksi akhir,10,,"{'label': 'negative', 'score': 0.99983811378479}",negative
+mohon cek,2,,"{'label': 'neutral', 'score': 0.9998551607131958}",neutral
+very fast improvement fish uqcb orbgs otxd xcqikkqwc fpmkr vdbiupen lsytt,11,,"{'label': 'positive', 'score': 0.9363603591918945}",positive
+uqdkbag klrbnaq kakak shgzp uzac eierj pixgmhh,7,,"{'label': 'neutral', 'score': 0.9998623132705688}",neutral
+sama kakak bayar,3,,"{'label': 'neutral', 'score': 0.9993141889572144}",neutral
+tagih ttp bayar kakak,4,,"{'label': 'negative', 'score': 0.9995470643043518}",negative
+benar sih admin aku percayaaa coba jelas cepatttt,8,,"{'label': 'positive', 'score': 0.9998342990875244}",positive
+cara uodate akun bagaimana kakak,5,,"{'label': 'neutral', 'score': 0.9996986389160156}",neutral
+aku dapet telfon terus padahal aku rasa punya hutang admin mohon bantu kenal pakai aku izin salah guna nomer sekali admin,21,,"{'label': 'neutral', 'score': 0.9819878935813904}",neutral
+beneran beli mobil pakai gopay tabung jago spill the tea,10,,"{'label': 'neutral', 'score': 0.9998905658721924}",neutral
+dulu kalau liat iklan hits sering takut jebak barusan liat mobil jalan bawa mobil masa kata beli mobil pakai wallet emang iya,22,,"{'label': 'negative', 'score': 0.999772846698761}",negative
+hah emang serius beli mobil pakai wallet pakai gopay tabung jago bener admin,13,,"{'label': 'negative', 'score': 0.9836986064910889}",negative
+hallo admin cek,3,,"{'label': 'neutral', 'score': 0.9998908042907715}",neutral
+ampun bank jago kapan coba beli mobil pakai wallet,9,,"{'label': 'negative', 'score': 0.9460382461547852}",negative
+beneran sih masa beli mobil pakai gopay tabung jago,9,,"{'label': 'negative', 'score': 0.9702804088592529}",negative
+coba tanya admin admin mau beli mobil,7,,"{'label': 'neutral', 'score': 0.9998955726623535}",neutral
+waaaahhh gila sih heran heran masa beli mobil pakai wallet,10,,"{'label': 'negative', 'score': 0.9998798370361328}",negative
+serius gasih admin masa beli mobil pakai gopay tabung jago buka wallet maksimal transaksi,14,,"{'label': 'negative', 'score': 0.7481486201286316}",negative
+cek call center tembus,4,,"{'label': 'neutral', 'score': 0.9998651742935181}",neutral
+transakasi roblox bawah laku transaksi akhir laku gocar bandara tambah potong driver untk parkir,14,,"{'label': 'neutral', 'score': 0.7077744007110596}",neutral
+ayoo upgrade dulu gopay tabung jago jagomin spill,8,,"{'label': 'neutral', 'score': 0.9998890161514282}",neutral
+makin penasaran deh pliiis spill how,6,,"{'label': 'positive', 'score': 0.9889750480651855}",positive
+kata beli mobil pakai gopay tabung jago kan paham kalau saldo wallet limit,13,,"{'label': 'negative', 'score': 0.9997289776802063}",negative
+nyimak tadi pas jalan ngeliat mobil kaya dalem kotak main jual mobil keliling gimana sik,15,,"{'label': 'negative', 'score': 0.8370827436447144}",negative
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+transaksi gopay gagal mulu kemaren malem,6,,"{'label': 'negative', 'score': 0.999910831451416}",negative
+admin cek,2,,"{'label': 'neutral', 'score': 0.999854564666748}",neutral
+ampe hari tetep tidak bisa padahal tagih bayar,8,,"{'label': 'negative', 'score': 0.999873161315918}",negative
+admin cek admin,3,,"{'label': 'neutral', 'score': 0.9998654127120972}",neutral
+admin nik ktp cuma nomor upgrade gopay plus,8,,"{'label': 'neutral', 'score': 0.9998893737792969}",neutral
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+kakak balas dmku,3,,"{'label': 'neutral', 'score': 0.9998784065246582}",neutral
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+halo isi paket data masuk admin,6,,"{'label': 'neutral', 'score': 0.9998958110809326}",neutral
+halo kakak febi clear case yaa ketemu jawab,8,,"{'label': 'neutral', 'score': 0.9998986721038818}",neutral
+sunset hri enih,3,,"{'label': 'negative', 'score': 0.9998931884765625}",negative
+halo admin aku top tapcash bni via gojek saldo masuk mohon bantu,12,,"{'label': 'neutral', 'score': 0.9998997449874878}",neutral
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+mohon maaf atas kendala mimin informasi kendala kakak hubung layan call hana bantu kece tindak lanjut tks fikri,18,,"{'label': 'neutral', 'score': 0.9998903274536133}",neutral
+admin baca aku admin,4,,"{'label': 'neutral', 'score': 0.997177243232727}",neutral
+kuota gratis tuh kan kali biasa pernah porong apa kan barusan line bank top potong padahal sebelumbya seyahu aku biaya tuh kalau masa kuota habis potong pas masuk saldo,29,,"{'label': 'negative', 'score': 0.9998476505279541}",negative
+admin gopay later blokir padahal lunas tagih,7,,"{'label': 'negative', 'score': 0.9998598098754883}",negative
+cdm sih admin,3,,"{'label': 'neutral', 'score': 0.9868747591972351}",neutral
+hallo admin cek pls,4,,"{'label': 'neutral', 'score': 0.9998893737792969}",neutral
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+siang kakak duh maaf jangan khawatir triva siap bantu kait kendala beli pulsa yuk hubung lalu whatsapp ketik ngobrol klik agen care kemudian pilih kartu tri digibox lain thanks ria,30,,"{'label': 'neutral', 'score': 0.9998236298561096}",neutral
+kakak,1,,"{'label': 'positive', 'score': 0.9640388488769531}",positive
+halooooo cek kendala,3,,"{'label': 'neutral', 'score': 0.9998807907104492}",neutral
+siang admin bagaimana caramembatalkan transaksi bayar parkir kondisi scan nyata layan parkir koneksi gopay transaksi laku,16,,"{'label': 'neutral', 'score': 0.6501479744911194}",neutral
+sama kakak padahal limit banyak pernah telat sekarang blokir,9,,"{'label': 'negative', 'score': 0.9999022483825684}",negative
+cust servicenya slow respon telp call center jawab,8,,"{'label': 'negative', 'score': 0.9998492002487183}",negative
+halo admin kok sekarang tunggu tanya via kali balas tanya email sama telp tidak ada jelas saldo kurang,18,,"{'label': 'negative', 'score': 0.9995911717414856}",negative
+cek pls,2,,"{'label': 'neutral', 'score': 0.9989092350006104}",neutral
+kamu rekrorat,2,,"{'label': 'negative', 'score': 0.9975918531417847}",negative
+kakak ter mohon maaf kena beli kuota kece sila hubung maya lalu livechat aplikasi axisnet web,16,,"{'label': 'neutral', 'score': 0.9998999834060669}",neutral
+kalau tinggal dompet bayar pakai,5,,"{'label': 'neutral', 'score': 0.9998661279678345}",neutral
+pagi admin kemarin aku topup gopay customer via mbanking bri hari masuk admin,13,,"{'label': 'neutral', 'score': 0.9998946189880371}",neutral
+pagi admin kemarin topup gopay lewat mbanking bri hari masuk saldo akun gojek,13,,"{'label': 'neutral', 'score': 0.9998972415924072}",neutral
+cdm admin,2,,"{'label': 'neutral', 'score': 0.9996616840362549}",neutral
+halo admin jam sore kemaren kok hasil transfer saldo kurang masuk rekening tunggu terus,14,,"{'label': 'neutral', 'score': 0.9996317625045776}",neutral
+halo admin cek,3,,"{'label': 'neutral', 'score': 0.9998905658721924}",neutral
+ihh sama kesel sekali aku pakai lho padahal bayar selalu lancar,11,,"{'label': 'negative', 'score': 0.999913215637207}",negative
+autodebet dompet anak bangsa tuh apa sih woy akun gojek gapernah pakai transaksi apa nomernya mati kok ttp tarik mulu uang atm aneh bagaimana,24,,"{'label': 'negative', 'score': 0.9999103546142578}",negative
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+prama promo prama promo admin saldo hari lumayan gimana lamban sekali,11,,"{'label': 'negative', 'score': 0.999895453453064}",negative
+weh kalau gitu knapa cuma bilang penuh syarat jelas detail bagi mana penuh kriteria kan kan ngeselin yak,18,,"{'label': 'negative', 'score': 0.9998981952667236}",negative
+wah kurang tau kalau panjang aku besok rektorat emang kakak luar pulau,12,,"{'label': 'negative', 'score': 0.9990745782852173}",negative
+kakak,1,,"{'label': 'positive', 'score': 0.9640388488769531}",positive
+dibales kaa lapor gojeku suruh hubung uny,7,,"{'label': 'negative', 'score': 0.9998610019683838}",negative
+chat kaa aku bikin lapor gojek lama banget live gitu aku chat uang blum balas kira kira besok panjang yaa akhir besok soal jadi takut kalau pin mya,28,,"{'label': 'negative', 'score': 0.9999083280563354}",negative
+muncul kakak kakak lewat,4,,"{'label': 'neutral', 'score': 0.9998865127563477}",neutral
+ngefek tanya pusat bantu apps solusi cuma jawab autoreply tanya kata cek data lama responnya tanya malah respon beres csnya,20,,"{'label': 'negative', 'score': 0.9998311996459961}",negative
+blokir kok kakak heee,4,,"{'label': 'negative', 'score': 0.9999041557312012}",negative
+admin kindly check terima beri,5,,"{'label': 'neutral', 'score': 0.9998899698257446}",neutral
+sama bangett respon chat pakai bot deh kayak sekarang blokir kakak,11,,"{'label': 'negative', 'score': 0.9998925924301147}",negative
+cekdm admin,2,,"{'label': 'neutral', 'score': 0.9985141158103943}",neutral
+kakak kek know blokir meski aku rutin pakai gopay gopay later buat transaksi aku bulan pakai app gojek buat order gofood kok curiga yaaa,24,,"{'label': 'negative', 'score': 0.999900221824646}",negative
+sobat seabank mohon maaf perihal kendala kamu sila kirim tangkap layar bukti transaksi lengkap instagram seabank centang biru bantu kece lanjut mimin tunggu moga kendala segera selesai terima beri,29,,"{'label': 'neutral', 'score': 0.9998865127563477}",neutral
+get wel soon transfer juta nyangkut,6,,"{'label': 'negative', 'score': 0.9954193830490112}",negative
+iya jawab ngeselin banget template terus pakai apa kakak didiemin gitu apa sering pakai aplikasi gojek,16,,"{'label': 'negative', 'score': 0.9999148845672607}",negative
+aneh kan padahal rutin pakai gopay paylaternya kakak,8,,"{'label': 'negative', 'score': 0.9998663663864136}",negative
+email dibales barusan jelas sekali alesannya kata penuh syarat padahal gopay paylaternya rutin guna,14,,"{'label': 'negative', 'score': 0.9971163272857666}",negative
+kiwkiw cek,2,,"{'label': 'neutral', 'score': 0.9994357228279114}",neutral
+info aku mau top apple ipad download app gopay terus add payment gopay minta install gojek transaksi smentara app gojek kan ipad install,23,,"{'label': 'neutral', 'score': 0.9998944997787476}",neutral
+perlu tahu aplikasi gopay transfer rek bank mana isi wallet apa kena biaya apa,14,,"{'label': 'neutral', 'score': 0.999639630317688}",neutral
+pegang findaya sekarang mab multifinance anak bangsa gatau sosmednya apa,10,,"{'label': 'negative', 'score': 0.8620462417602539}",negative
+apapula gopaylater kena blokir padahal selalu ontime bayar terang sih verifikasi data apose apose,14,,"{'label': 'negative', 'score': 0.9997517466545105}",negative
+sungguh kecewa gopaylater blokir kata transaksi kurang buat gopaylater wkwkwk aneh padahal jaman kuliah pakai gojek kbantu banget sama gopaylater acik kamu,22,,"{'label': 'negative', 'score': 0.9999148845672607}",negative
+kalau opsi gopaylater emang liat kakak kalau block pas milih metode bayar waktu mau transaksi aplikasi gojek misal order gofood liat tulis,22,,"{'label': 'neutral', 'score': 0.9998502731323242}",neutral
+coba klik gopaylater kakak keterangn blokir,6,,"{'label': 'neutral', 'score': 0.9998396635055542}",neutral
+jelas kakak kena block kakak report liwat twitter ato email terima kasih belum kakak,14,,"{'label': 'negative', 'score': 0.878798246383667}",negative
+buset jelas baat,3,,"{'label': 'negative', 'score': 0.9999160766601562}",negative
+monggo kakak aku bayar pernah telat akhir limit malah naik signifikan lha tetau kena block kan kesel yak email support percuma malah queued doang,24,,"{'label': 'negative', 'score': 0.9999146461486816}",negative
+gopaylater limit baru naik bayar pernah telat tau pakai sekali cek lanjut nyata kena block jelas whyyy,17,,"{'label': 'negative', 'score': 0.9998965263366699}",negative
+maaf kakak akhir soal ngalamin,5,,"{'label': 'negative', 'score': 0.9866939783096313}",negative
+akhir sih begini suruh coba hari depan,7,,"{'label': 'neutral', 'score': 0.5468683242797852}",neutral
+sekarang blok kakak,3,,"{'label': 'neutral', 'score': 0.9993759989738464}",neutral
+hari kakak coba bikin lapor pusat bantu ubah,8,,"{'label': 'neutral', 'score': 0.9998973608016968}",neutral
+dear admin buat lapor email respon perihal saldo gopay potong padahal transaksi token listrik batal merchant tindak lanjut kali jam,20,,"{'label': 'neutral', 'score': 0.9998613595962524}",neutral
+dear admin buat lapor email respon perihal saldo gopay potong padahal transaksi token listrik batal merchant tindak lanjut kali jam,20,,"{'label': 'neutral', 'score': 0.9998613595962524}",neutral
+@deRaehan @findayaindo @gopayindonesia Engga ada,5,,"{'label': 'neutral', 'score': 0.9386409521102905}",neutral
+kembang kakak,2,,"{'label': 'positive', 'score': 0.9823739528656006}",positive
+baru tau thank you info baaang untung tweetnya lewat,9,,"{'label': 'positive', 'score': 0.993521511554718}",positive
+sama semalem nanya pusat bantu jawab jelas cuman kek gitu kayak developer habis deploy gopaylater terus logicnya kacau,18,,"{'label': 'negative', 'score': 0.9999159574508667}",negative
+admin cek,2,,"{'label': 'neutral', 'score': 0.999854564666748}",neutral
+jarang pakai gopay jadi gatau fitur apa trma beri kakak info,11,,"{'label': 'neutral', 'score': 0.9990541338920593}",neutral
+aku selalu bayar pulsa bayar bpjs tagih listrik pakai gopay terus,11,,"{'label': 'neutral', 'score': 0.9998769760131836}",neutral
+baru tau beli situ,4,,"{'label': 'neutral', 'score': 0.9998236298561096}",neutral
+kakak sama kasus tiba pakai sama sekali,7,,"{'label': 'negative', 'score': 0.9793319702148438}",negative
+halo kakak cek kendala guna gopaylater,6,,"{'label': 'neutral', 'score': 0.9998986721038818}",neutral
+iyaa makin sini makin mahal mas aktif cuma duabulan,9,,"{'label': 'negative', 'score': 0.9998964071273804}",negative
+nyata gopay thank you kakak,5,,"{'label': 'neutral', 'score': 0.9981812238693237}",neutral
+wah mksh ners info baru tahu info,7,,"{'label': 'neutral', 'score': 0.6400793790817261}",neutral
+wahh murah yah,3,,"{'label': 'positive', 'score': 0.999955415725708}",positive
+murah sekali,2,,"{'label': 'positive', 'score': 0.9999525547027588}",positive
+lumayan sekali promonya,3,,"{'label': 'positive', 'score': 0.999923586845398}",positive
+lumayan pakai gopay kalau gitu,5,,"{'label': 'neutral', 'score': 0.8432607650756836}",neutral
+admin bayar ukt uny kok muncul pin muncul,8,,"{'label': 'neutral', 'score': 0.895941972732544}",neutral
+halo aku beli paket bima saldo potong paket masuk gimana,10,,"{'label': 'neutral', 'score': 0.9993919134140015}",neutral
+masalah samaaaa kakak nitip sendal deh kalau info buka blokir,10,,"{'label': 'negative', 'score': 0.9995749592781067}",negative
+haloo admin cek yaa nomer hubung keluh tanya customer,9,,"{'label': 'neutral', 'score': 0.9998968839645386}",neutral
+bangsatttttt puterin mulu hari tidak bisa apa langsung balikin uang kan kamu cek transaksi org saldo gopay tabuangan ilang gopay aplikasi kalian semdiri capekkk nunggu ber hari hari,28,,"{'label': 'negative', 'score': 0.9999176263809204}",negative
+kakak kek bijak baru tidak bisa combo layan plus sama voucher kek tokopedia combo gratis ongkir sama voicher,18,,"{'label': 'negative', 'score': 0.9943594336509705}",negative
+barusan aduin suruh nunbgu mulu mana tiba email masuk kata saldo nyata kosong emng anj,15,,"{'label': 'negative', 'score': 0.9999138116836548}",negative
+sama kakak hari saldo mana uang usaha,7,,"{'label': 'neutral', 'score': 0.9991515874862671}",neutral
+admin baca nyerahin bukti transaksi tunggu hari kerja saldo,9,,"{'label': 'negative', 'score': 0.9999046325683594}",negative
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+admin cek,2,,"{'label': 'neutral', 'score': 0.999854564666748}",neutral
+senasip kakak padahal pernah nunggak satu hari kira,8,,"{'label': 'negative', 'score': 0.9993558526039124}",negative
+admin mohon cek,3,,"{'label': 'neutral', 'score': 0.9998875856399536}",neutral
+mimin mohon cek yaa tiba tiba kode otp findaya admin,10,,"{'label': 'neutral', 'score': 0.999897837638855}",neutral
+pas top saldo gopay langsung potong buat tagih tagih apa coba laku transaksi apa kembali gopay admin,17,,"{'label': 'negative', 'score': 0.9993243217468262}",negative
+emang kan sayang uang kalau masuk,6,,"{'label': 'positive', 'score': 0.9745140075683594}",positive
+nyebelin jirr mana flazz minimal ajg,6,,"{'label': 'negative', 'score': 0.9998102784156799}",negative
+knpa kurang percaya kalau langsung halte,6,,"{'label': 'negative', 'score': 0.9998470544815063}",negative
+kok isi flazz tokped bayar lewat gopay flazz tidak bisa diupdate saldo saldo tambah uang gopaynya kurang sering sekali kaya begini,21,,"{'label': 'negative', 'score': 0.9999022483825684}",negative
+respon kakak hari masuk saldo,5,,"{'label': 'neutral', 'score': 0.9998855590820312}",neutral
+kakak maaf buat kamu tunggu harap hati hati akun mengatasnamakan dana jangan ikan pin kode otp kamu orang kamu keluh aplikasi dana kamu hubung asisten digital ana aplikasi dana kamu thanks,31,,"{'label': 'negative', 'score': 0.9609426259994507}",negative
+kakak harap hati modus tipu jadi jangan pernah beri kode otp pin transfer uang orang kenal mengatasnamakan dana pasti terima informasi akun resmi dana centang biru kakak thanks,28,,"{'label': 'negative', 'score': 0.999714195728302}",negative
+cek admin mau laporin akun tipu,6,,"{'label': 'negative', 'score': 0.9999094009399414}",negative
+nomor atas beberapa daftar wallet prevent dongs sama jangan korban mohon pihak polisi bantu,14,,"{'label': 'negative', 'score': 0.9996973276138306}",negative
+cdm kakak,2,,"{'label': 'neutral', 'score': 0.9991872906684875}",neutral
+halo limit gopaylater nambah terus tiap bulan tuju guna dulu cuma sekarang jadi cara reduce gimana limit dulu,18,,"{'label': 'neutral', 'score': 0.9996956586837769}",neutral
+sama kakak punya,3,,"{'label': 'neutral', 'score': 0.9996528625488281}",neutral
+merugikannnn,1,,"{'label': 'negative', 'score': 0.9999170303344727}",negative
+rugikannnn tunggu hari saldo kembalikannnnnn,5,,"{'label': 'negative', 'score': 0.999904990196228}",negative
+emang gaberes gopay anj nunggu hari saldo,7,,"{'label': 'negative', 'score': 0.9997842907905579}",negative
+kerja beres kali jam tunggu saldo rugi,7,,"{'label': 'neutral', 'score': 0.9970585107803345}",neutral
+misal mau beli baramg paylater rencana bayar penuh cicil hari berapa bayar penuh waktu beli amp berapa bunga,18,,"{'label': 'neutral', 'score': 0.9998799562454224}",neutral
+punya keluh mohon direply,4,,"{'label': 'negative', 'score': 0.999657392501831}",negative
+halo sahabat mohon maaf atas ketidaknyamanannya kirim pesan lalu mohon sedia informasi kendala alami lalu informasi pasti sahabat interaksi akun resmi bank,22,,"{'label': 'neutral', 'score': 0.9998910427093506}",neutral
+admin cdm admin,3,,"{'label': 'neutral', 'score': 0.999798595905304}",neutral
+belah nama akun bukan foto profil lalu whatsapp official bank mandiri centang hijau moga masalah sahabat segera selesai tks sisil,20,,"{'label': 'neutral', 'score': 0.999863862991333}",neutral
+halo sahabat turut prihatin atas kendala alami perihal tersbeut informasi lalu mohon pasti sahabat interaksi akun resmi bank mandiri centang emas verified,22,,"{'label': 'neutral', 'score': 0.9998947381973267}",neutral
+admin kok top gopay saldo beranda pesan gojek bayar gopay saldo,11,,"{'label': 'neutral', 'score': 0.9998904466629028}",neutral
+admin topup gopay dana tambah status pindah gopay gopay tabung batal dana masuk bisa pakai jadi admin,17,,"{'label': 'neutral', 'score': 0.9998829364776611}",neutral
+halo admin cek,3,,"{'label': 'neutral', 'score': 0.9998905658721924}",neutral
+permisi admin guna gopay baru upgrade apa gopay upgrade transfer bca,11,,"{'label': 'neutral', 'score': 0.9998927116394043}",neutral
+hallo punya masalah topup mohon cerah,6,,"{'label': 'neutral', 'score': 0.9998492002487183}",neutral
+buzzer semua njir,3,,"{'label': 'negative', 'score': 0.9998975992202759}",negative
+cek dul,2,,"{'label': 'neutral', 'score': 0.9984121322631836}",neutral
+ikan fitur hapus akun gopay tabung sampah banget woi gapernah lansung masuk hambat banget,14,,"{'label': 'negative', 'score': 0.9999206066131592}",negative
+admin saldo masuk hubung pihak seabank kata transfer gopay,9,,"{'label': 'neutral', 'score': 0.9998987913131714}",neutral
+sung chat apk kakak keburu gopaylaternya jatuh tenpo,8,,"{'label': 'negative', 'score': 0.9979537725448608}",negative
+coba kakak langsung pusat bantu kakak biar semua masalah cepat,10,,"{'label': 'neutral', 'score': 0.9998142123222351}",neutral
+coba langsung kontak pusat bantu kakak biar semua masalah selesai,10,,"{'label': 'neutral', 'score': 0.9998956918716431}",neutral
+kacau transaksi pakai malah nyangkut,5,,"{'label': 'negative', 'score': 0.9999192953109741}",negative
+gopay upgrade apa transfer semua bank,6,,"{'label': 'neutral', 'score': 0.9998805522918701}",neutral
+halo admin kok gopaylater aku pakai buat payment tokopedia eror,10,,"{'label': 'negative', 'score': 0.9998742341995239}",negative
+sistem cicil pakai gopaylater pakai akun tenor bulan bulan terus salah cara mesan,13,,"{'label': 'neutral', 'score': 0.9922773838043213}",neutral
+admin cek pls,3,,"{'label': 'neutral', 'score': 0.9998544454574585}",neutral
+save saldo tiba ilang jelas walaupun cuma sedikit bikin was mau top saldo,13,,"{'label': 'negative', 'score': 0.9999173879623413}",negative
+sama awal bulan ampe sekarang lapor lewat aplikasi sama jawab template sebab kasih sebab umum hmm terus akhir suruh nunggu hari gimana kakak,23,,"{'label': 'negative', 'score': 0.9929563999176025}",negative
+saldo sekarang,2,,"{'label': 'negative', 'score': 0.7292971611022949}",negative
+cekk minn,2,,"{'label': 'negative', 'score': 0.9997605681419373}",negative
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+hajar bleh,2,,"{'label': 'negative', 'score': 0.9999035596847534}",negative
+masa cuman lihat chat kali,5,,"{'label': 'negative', 'score': 0.9555296301841736}",negative
+balikin saldo,2,,"{'label': 'negative', 'score': 0.9987615346908569}",negative
+sama kakak,2,,"{'label': 'positive', 'score': 0.8038673996925354}",positive
+salod potong gagal transaksi bagaimana iini,6,,"{'label': 'negative', 'score': 0.9999058246612549}",negative
+balikin saldo anjing,3,,"{'label': 'negative', 'score': 0.9999109506607056}",negative
+gaa respon apapa pihak gopay,5,,"{'label': 'negative', 'score': 0.9998700618743896}",negative
+saldo hilang,2,,"{'label': 'negative', 'score': 0.9998575448989868}",negative
+halo transaksi gagal saldo kurang,5,,"{'label': 'negative', 'score': 0.978611171245575}",negative
+gimana aku top kok tidak masuk mana akhir bulan uang dikit malah ilang hadehhh padahal biasa begini loh temenku ampe bilang ikhlasin ikhlas ngirit,24,,"{'label': 'negative', 'score': 0.9997522234916687}",negative
+bayar tokopedia pakai gopay tabung jago error,7,,"{'label': 'negative', 'score': 0.9998929500579834}",negative
+cek dongg admin plsss,4,,"{'label': 'negative', 'score': 0.975578248500824}",negative
+gopay kecewa kirim dana jumat akun temen sekarang dana nyampe tuju betul transaksi hasil dana ntah lapor malah dminta terima lapor padahal option kirim lapor ajg memang,27,,"{'label': 'negative', 'score': 0.9999125003814697}",negative
+gedor aku pakai mau beli kuota paket sekarat,8,,"{'label': 'negative', 'score': 0.999916672706604}",negative
+laku bayar tokopedia gopay,4,,"{'label': 'neutral', 'score': 0.825324296951294}",neutral
+cek admin urusanya gimana,4,,"{'label': 'negative', 'score': 0.9989529848098755}",negative
+apa orang pernah ngalamin sama susah kalau robot semua adayang beri jelas sebab akhir ulang terus capek lama,18,,"{'label': 'negative', 'score': 0.9999170303344727}",negative
+admin serius susah bulan coba transaksi bayar pakai gopay later gagal akibat gopay later blokir bulan bulan turut turut coba nanya balas jelas tokopedia mab gojek semua sama,28,,"{'label': 'negative', 'score': 0.9989124536514282}",negative
+mau tanya gopay later blokir,5,,"{'label': 'neutral', 'score': 0.9998676776885986}",neutral
+puluh ganti mulu nyelesaiin masalah kau tengok mampu kau blokir saldo lacak saldo aku bah,15,,"{'label': 'negative', 'score': 0.9999059438705444}",negative
+hati hati tokopedia gopay kata aman kecewa tanggung jawab guna,10,,"{'label': 'negative', 'score': 0.9992191791534424}",negative
+tanya lewat chat sih kakak,5,,"{'label': 'neutral', 'score': 0.999895453453064}",neutral
+jadi nyaman kakak kendala sedang bantu follow tim kait tunggu konfirmasi lanjut via terima kasih dero,16,,"{'label': 'neutral', 'score': 0.999889612197876}",neutral
+paket combo dua telkomsel suruh hubungin pihak gopay pihak gopay suruh hubungin pihak telkomsel,14,,"{'label': 'neutral', 'score': 0.9998687505722046}",neutral
+ribet pisah pisah gopay tabung sama gopay saldo mau transaksi jadi cukup kan,13,,"{'label': 'negative', 'score': 0.9397813677787781}",negative
+transaksi gopay seabank terang gopay hasil seabank masuk admin,9,,"{'label': 'neutral', 'score': 0.9998942613601685}",neutral
+admin transfer pakai gopay rekening masuk saldo potong status hasil bagaimana admin tanggap nyaa banyak komplem kembali uang uang setor,20,,"{'label': 'negative', 'score': 0.9998621940612793}",negative
+sama status hasil masuk rekening bagaimana,6,,"{'label': 'negative', 'score': 0.986868679523468}",negative
+admin cek aku,3,,"{'label': 'neutral', 'score': 0.9998719692230225}",neutral
+bohong guys,2,,"{'label': 'negative', 'score': 0.999919056892395}",negative
+jovan bantu cepat balesan mohon tunggu jovan,7,,"{'label': 'neutral', 'score': 0.9998672008514404}",neutral
+boong guys dibales balas tuh sama jam,7,,"{'label': 'negative', 'score': 0.9999194145202637}",negative
+wkwk sama kek,3,,"{'label': 'negative', 'score': 0.9968666434288025}",negative
+hallo admin laku transaksi nomor gopay aktif nomor lama aku gidak dapat otp gopay tindak apa tanggap terima beri,19,,"{'label': 'neutral', 'score': 0.9991705417633057}",neutral
+iya tunggu sebentar kakak agi segera dibales dita,8,,"{'label': 'neutral', 'score': 0.9998770952224731}",neutral
+tenang kakak agi yuk konfirmasi bantu follow terima kasih sabil,10,,"{'label': 'neutral', 'score': 0.9998992681503296}",neutral
+sini biar semua orang tau,5,,"{'label': 'neutral', 'score': 0.9948959946632385}",neutral
+aduh tiket diclose kakak agi yuk konfirmasi dmnya biar bantu cek hasil lapor terima kasih sakia,16,,"{'label': 'neutral', 'score': 0.9998884201049805}",neutral
+maksud apa paket direfund tiket diclose begini punya warung tanggap sama sekali,12,,"{'label': 'negative', 'score': 0.7604209184646606}",negative
+@gopayindonesia Saya dm ya,4,,"{'label': 'neutral', 'score': 0.9998902082443237}",neutral
+sekarang kalau pakai gopayletter tidak bisa pakai qris kakak,9,,"{'label': 'neutral', 'score': 0.9998420476913452}",neutral
+mjb kayak gopaylater emang tidak bisa buat bayar qris deh,10,,"{'label': 'negative', 'score': 0.9992565512657166}",negative
+bantu jawab kalau salah sekarang bayar qris pakai gopay later deh kakak,12,,"{'label': 'positive', 'score': 0.5690538883209229}",positive
+maaf jbjb kakak tau aku gopay emang tidak bisa pakai qris deh huhu emang sayang bangett,16,,"{'label': 'positive', 'score': 0.9989319443702698}",positive
+tahu sih kayak tidak bisa bayar qris pakai gopaylater gitu,10,,"{'label': 'negative', 'score': 0.9878166317939758}",negative
+gopay emamg mudah hidup kakak,5,,"{'label': 'positive', 'score': 0.9996019005775452}",positive
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+langsung tembak aplikasi playstore kalau bayar lewat,7,,"{'label': 'neutral', 'score': 0.9730454087257385}",neutral
+bukan setting playstore,3,,"{'label': 'neutral', 'score': 0.9997052550315857}",neutral
+upgrade gopay plus nomor email djuancux com upgrade gopay plus selalu gagal tolak ktp baharu sesuai minta jadi hampir satu tahun,21,,"{'label': 'negative', 'score': 0.9990737438201904}",negative
+kocak app settingan autodebet apps tiba bayar semua layan kali modal riwayat transaksi langsung mutusin sendiri lanjut bos beberapa layan pakai makanya lakuin bayar bulan ehh main potong,28,,"{'label': 'negative', 'score': 0.9998742341995239}",negative
+pernah setting autodebet gopay dicariin settingannya tiba tiba bayar otomatis canva ahh tae lahh kocak app,16,,"{'label': 'negative', 'score': 0.9979239702224731}",negative
+gimana deh sms tiket diclose mau cek mytelkomsel terus dilogout malah login cek lewat malah suruh cek mytelkomsel mau complain feedback formnya disubmit payah sekali nanganin customer experiencenya,28,,"{'label': 'negative', 'score': 0.9999138116836548}",negative
+aduh sumpah keren banget gopay punya aplikasi sendiri,8,,"{'label': 'positive', 'score': 0.9999407529830933}",positive
+lhukk kok besar dikon pulsa gopay,6,,"{'label': 'negative', 'score': 0.9998993873596191}",negative
+loh beneran kerja maling auto ilang karna pulsa gopay murah,10,,"{'label': 'negative', 'score': 0.9998478889465332}",negative
+murah banget loh,3,,"{'label': 'positive', 'score': 0.9999561309814453}",positive
+aku kalau mau tipu tidak jadi gara milih beli buat sendiri,11,,"{'label': 'negative', 'score': 0.9996685981750488}",negative
+wahh asli murah sih diskon banyak sekali,7,,"{'label': 'positive', 'score': 0.9999241828918457}",positive
+responnya,1,,"{'label': 'positive', 'score': 0.9999419450759888}",positive
+admin tidak ada gopay suwit kaya dulu,7,,"{'label': 'negative', 'score': 0.9998346567153931}",negative
+halo admin bantu aku bayar tagih gopaylater muncul tagih biasa hari jatuh tempo mau kena biaya denda bayar jatuh tempo bantu,21,,"{'label': 'neutral', 'score': 0.9997044205665588}",neutral
+halo admin bantu aku bayar tagih gopaylater muncul tagih biasa,10,,"{'label': 'neutral', 'score': 0.9998010993003845}",neutral
+halaman bantu aplikasi bantu sama sekali formalitas,7,,"{'label': 'negative', 'score': 0.7438443303108215}",negative
+admin punya masalah sama telepon sibuk terus,7,,"{'label': 'negative', 'score': 0.9999175071716309}",negative
+kuota internet satu bulan,4,,"{'label': 'neutral', 'score': 0.9996001124382019}",neutral
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+diapainnn biar bisaaa,3,,"{'label': 'positive', 'score': 0.9991612434387207}",positive
+halo admin minta transfer batal gapapa,6,,"{'label': 'negative', 'score': 0.7450808882713318}",negative
+aku reportproblem nyata asa gapernah pakai apple marah gopay karna diiyain sih pakai izin dulu,15,,"{'label': 'negative', 'score': 0.9992997646331787}",negative
+mood jelek sekali tai hari gegara,6,,"{'label': 'negative', 'score': 0.9999226331710815}",negative
+lama sekali balas payah layan,5,,"{'label': 'negative', 'score': 0.9999115467071533}",negative
+sama kakak emang bgst gopay,5,,"{'label': 'positive', 'score': 0.9304757118225098}",positive
+kok gopaylater blokir tulis admin pdhal pernah telat bayar,9,,"{'label': 'negative', 'score': 0.9992817044258118}",negative
+kalian error langgan bayar denda begini,6,,"{'label': 'negative', 'score': 0.9999207258224487}",negative
+bayar gopay later denda niih,5,,"{'label': 'negative', 'score': 0.9999016523361206}",negative
+halo tidak bisa upgrade data ktp pakai adik buat upgrade akun gopay henti gopay plus adik,16,,"{'label': 'neutral', 'score': 0.9998898506164551}",neutral
+transfer uang gopay nyangkut awan,5,,"{'label': 'negative', 'score': 0.999891996383667}",negative
+sih hampir hari begini terus,5,,"{'label': 'negative', 'score': 0.9778922200202942}",negative
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+gopay transaksi sendiri tinggal tidur ilang,6,,"{'label': 'negative', 'score': 0.9998987913131714}",negative
+siang admin barusan beli voucher game terima kode bantu,9,,"{'label': 'neutral', 'score': 0.999897837638855}",neutral
+ilmu ikhlas mahal,3,,"{'label': 'negative', 'score': 0.9998821020126343}",negative
+beli token via pas bayar langsung hangus jelas nomor transaction mau lapor bagaimana,13,,"{'label': 'negative', 'score': 0.9996353387832642}",negative
+halo respon uang stuck sistem mau transfer gopay bank,9,,"{'label': 'negative', 'score': 0.7300733923912048}",negative
+blokir coba admin gopay suruh cek bulan maret hari cek blokir padahal bayar pernah telat,15,,"{'label': 'neutral', 'score': 0.7982417941093445}",neutral
+admin coba cek,3,,"{'label': 'neutral', 'score': 0.9998863935470581}",neutral
+halo admin kok gopaylater tiba tiba blokir padahal bayar tepat waktu,11,,"{'label': 'neutral', 'score': 0.8011621236801147}",neutral
+admin cek yaa mohon bantu,5,,"{'label': 'neutral', 'score': 0.999893307685852}",neutral
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+admin cek,2,,"{'label': 'neutral', 'score': 0.999854564666748}",neutral
+bayar gopaylater miin error kena denda deeehh,7,,"{'label': 'negative', 'score': 0.9999053478240967}",negative
+mengatasnamakan kirim msg nominal sesuai mohon tindak,7,,"{'label': 'neutral', 'score': 0.9998468160629272}",neutral
+cek admin terimakasih,3,,"{'label': 'neutral', 'score': 0.9998577833175659}",neutral
+hai kakak maaf buat nyaman yuk lanjut email tanya com lampir tangkap layar kendala nomor ponsel email daftar bantu kendala kamu lanjut,22,,"{'label': 'neutral', 'score': 0.9998534917831421}",neutral
+cekkkk dmmm,2,,"{'label': 'neutral', 'score': 0.9874611496925354}",neutral
+masa tiba tiba gopaylater blokir padahal kemarin siang pakai maksud apa coba,12,,"{'label': 'negative', 'score': 0.9882625937461853}",negative
+cek admin bantu tks,4,,"{'label': 'neutral', 'score': 0.9998806715011597}",neutral
+cuy gimana pending mulu asuuu,5,,"{'label': 'negative', 'score': 0.9999114274978638}",negative
+transfer bca kapan baik sistem,5,,"{'label': 'negative', 'score': 0.9198897480964661}",negative
+proses berapa lama kakak punya lapor tanggap,7,,"{'label': 'negative', 'score': 0.9898384809494019}",negative
+bener word word kecewa besar sama costumer service kata available aing komplain tgl feb sekarang direspon dikirimian chat robot,19,,"{'label': 'negative', 'score': 0.9999223947525024}",negative
+admin balas,2,,"{'label': 'neutral', 'score': 0.9983437061309814}",neutral
+total tagih sama virtual account gopay,6,,"{'label': 'neutral', 'score': 0.9996165037155151}",neutral
+dana potong bca bayar,4,,"{'label': 'neutral', 'score': 0.9995162487030029}",neutral
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+cek plsss,2,,"{'label': 'neutral', 'score': 0.9216877222061157}",neutral
+bayar tagih paylatter lewat aplikasi gopay malah masuk belum bayar lewat gojek customer aman,14,,"{'label': 'negative', 'score': 0.5513765215873718}",negative
+tidak bisa pakai gopaylaternya,4,,"{'label': 'neutral', 'score': 0.5654802322387695}",neutral
+gopay error,2,,"{'label': 'negative', 'score': 0.9999171495437622}",negative
+admin mohon bantu cek error gopay,6,,"{'label': 'neutral', 'score': 0.9995585083961487}",neutral
+admin topup hasil langsung tiba refund saldo refund masuk buat transaksi buat butuh bulan sudan coba hubungin customer service feedback sama sekali,22,,"{'label': 'neutral', 'score': 0.9998900890350342}",neutral
+admin transfer rekening gopay kok masuk saldo saldo rek potong saldo gopay masuk mohon jawab,15,,"{'label': 'neutral', 'score': 0.9998804330825806}",neutral
+promo allofresh admin kok muncul pas bayar mohon bantu admin,10,,"{'label': 'neutral', 'score': 0.9995105266571045}",neutral
+halo mimin barusan top gopay lalu dibatalin tulis direfund kok masuk rekening,12,,"{'label': 'neutral', 'score': 0.9999001026153564}",neutral
+halo admin cek,3,,"{'label': 'neutral', 'score': 0.9998905658721924}",neutral
+selamat pagi kan baru buka tabung gopay lalu otomatis uang masuk kesana kemudian langsung direfund uang mana mana baik gopay biasa maupun tabung jago,24,,"{'label': 'neutral', 'score': 0.9998657703399658}",neutral
+aku mau upgrade gopay plus susah sekali sih gagal terus padahal sesuai tentu,13,,"{'label': 'negative', 'score': 0.9969310760498047}",negative
+woy admin,2,,"{'label': 'negative', 'score': 0.9999109506607056}",negative
+gopay beli kuota via gopay kuta masuk saldo potong gimana,10,,"{'label': 'negative', 'score': 0.9180395007133484}",negative
+yak sekarang tanggap beda sekali sama grab sat set cukup tau bilang sama anak apus apps sekarang pakai grab mama anggep saldo ilang kemarin amal case closed,27,,"{'label': 'negative', 'score': 0.9999072551727295}",negative
+halo selamat pagi coba daftar gopaylater hari lalu selalu minta kirim data ulang admin mohon bantu terimakasih,17,,"{'label': 'neutral', 'score': 0.9998972415924072}",neutral
+saldo aku hari masuk bejir,5,,"{'label': 'negative', 'score': 0.999893069267273}",negative
+admin kok coba bayar belanja tokped pakai gopaylater begini terus pas checkout,12,,"{'label': 'neutral', 'score': 0.9997969269752502}",neutral
+solve masalah kakak punya gitu soal,6,,"{'label': 'negative', 'score': 0.9964145421981812}",negative
+hallo gimana masa lofin akun hampir jam loh nunggu,9,,"{'label': 'neutral', 'score': 0.9977096319198608}",neutral
+ganggu apa gimana jam login,5,,"{'label': 'negative', 'score': 0.9998937845230103}",negative
+admin ayo cashback gopay jangan pakai coin mending langsung saldo sih jawab tuju,13,,"{'label': 'neutral', 'score': 0.9839892983436584}",neutral
+baik sistem jadi transfer rekening bank,6,,"{'label': 'neutral', 'score': 0.9998877048492432}",neutral
+email telp tanggal tindak ukur kalian padahal cuma minta non aktif akun gopay pinjam,14,,"{'label': 'neutral', 'score': 0.8446508049964905}",neutral
+gopay pinjam aktif orang bukan,5,,"{'label': 'neutral', 'score': 0.9998340606689453}",neutral
+telp aku gopay pinjam nyata gopay pinjam aktif,8,,"{'label': 'neutral', 'score': 0.9998804330825806}",neutral
+tampil gopay pinjam aktif,4,,"{'label': 'neutral', 'score': 0.9998712539672852}",neutral
+gopay pinjam aktif bukan minggu aware sama sekali kalian,9,,"{'label': 'negative', 'score': 0.9983733892440796}",negative
+tiket nomor minggu lanjut,4,,"{'label': 'neutral', 'score': 0.9995324611663818}",neutral
+saldo gopay riwayat transaksi,4,,"{'label': 'neutral', 'score': 0.9998818635940552}",neutral
+halo admin kait saldo potong autodebit padahal tanggal apa direfund cancel subscriptionnya tidak ada refund masuk tambah tidak ada history google playnya,22,,"{'label': 'neutral', 'score': 0.9993094205856323}",neutral
+lagi aneh otomatis pindah gopay tabung bank jago minta approval dulu jadi bingung org kalau kayak begini cuma telepon sibuk mulu email doang harap tweet dibales banget,27,,"{'label': 'negative', 'score': 0.9999057054519653}",negative
+pagi isi saldo gopay anak sore anak panik apps update saldo ilang pindah gopay tabung coba gopay biasa malah ilang saldo tidak ada bagaimana cara balikin uang ongkos sekolah minggu,30,,"{'label': 'negative', 'score': 0.9998902082443237}",negative
+admin gopay sekarang selalu scan barcode tiap kali transaksi minimarket,10,,"{'label': 'neutral', 'score': 0.9998956918716431}",neutral
+hai kakak maaf buat kamu tenang kait keluh kamu yuk infoin lapor bantu cek lanjut kakak thanks,17,,"{'label': 'neutral', 'score': 0.9998805522918701}",neutral
+ingfokan gopay,2,,"{'label': 'neutral', 'score': 0.9998475313186646}",neutral
+cek admin thks,3,,"{'label': 'neutral', 'score': 0.9998723268508911}",neutral
+ikhlas mogamo kudu ikhlas kalau problem bakal ujung rip payment method using jago account new gopay,16,,"{'label': 'positive', 'score': 0.9946330785751343}",positive
+detail akhir kuis capekkk lapor ginian bantu temenku busyeddd harus tetep ngisi mungkin dijelasin detail simpel apa kait error alam paham sopo sing kesel cok,25,,"{'label': 'negative', 'score': 0.9999092817306519}",negative
+coba kali kali ngadu kayak paham sama error alam gave and deleted gojek account thought solved problem but now facing more bizarre issue regarding account such shame,27,,"{'label': 'negative', 'score': 0.9994900226593018}",negative
+for background error akun aku tidak bisa atas alam gagal panjang otomatis gofood plus gofood plus aplikasi jadi hilang total subscription merchant plus liat gofood plus removed itself from app lol,31,,"{'label': 'negative', 'score': 0.9997270703315735}",negative
+problem awal feb kemarin tunggu sekarang nyata taut tuh akun hapus arti bener bener tidak bisa pakai akun jago akun gojek baru anjir sedih banget,25,,"{'label': 'negative', 'score': 0.999919056892395}",negative
+pihak bilang bantu apa apa akun proses hapus mandiri aku tanya terus ngapain direspon balas jawab sama sekali cry,19,,"{'label': 'negative', 'score': 0.9997418522834778}",negative
+kirain aku mah akun hapus segala taut otomatis unlink sendiri biasa gitu turns out akun gengs tanya via terus arah tanya,21,,"{'label': 'negative', 'score': 0.9997830986976624}",negative
+entah bug apa sejak upgrade jadi gopay tabung top gopay livin mandiri masuk selalu delay aplikasi jago dana masuk aplikasi gojek gopay tokped butuh menit fix kait,27,,"{'label': 'negative', 'score': 0.9932025671005249}",negative
+admin habis topaup langsung otomatis masuk gopay tabung tidak bisa pakai transaksi yaa toloong,14,,"{'label': 'negative', 'score': 0.998506486415863}",negative
+pakai gopaylater padahal akhir pakai bln nov amp kendala bayar tepat waktu mohon bantu,14,,"{'label': 'neutral', 'score': 0.9998507499694824}",neutral
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+gopay tabung buat apa,4,,"{'label': 'neutral', 'score': 0.9993964433670044}",neutral
+malas ngirim email,3,,"{'label': 'negative', 'score': 0.9999102354049683}",negative
+admin gimana cara ganti identitas gopay soal dulu pas daftar pakai ktp ibu soal legal sekarang mau ganti ktp sendiri gimana,21,,"{'label': 'neutral', 'score': 0.9981630444526672}",neutral
+kirim email buat pindah data,5,,"{'label': 'neutral', 'score': 0.9998910427093506}",neutral
+jatuh tempo maret aku bayar tanggal kurang baik apa,9,,"{'label': 'negative', 'score': 0.9998611211776733}",negative
+cok gopaylater tiba tiba blokir padahal bayar tepat waktu,9,,"{'label': 'neutral', 'score': 0.9969978332519531}",neutral
+sore admin bantu cek,4,,"{'label': 'neutral', 'score': 0.999896764755249}",neutral
+mohon cek,2,,"{'label': 'neutral', 'score': 0.9998551607131958}",neutral
+halo,1,,"{'label': 'neutral', 'score': 0.9675124883651733}",neutral
+halo admin cek,3,,"{'label': 'neutral', 'score': 0.9998905658721924}",neutral
+terima saldo gopay jam,4,,"{'label': 'neutral', 'score': 0.9998800754547119}",neutral
+halo kakak barusan isi gopay masuk padahal notifikasi top mau sen makan jadi,13,,"{'label': 'neutral', 'score': 0.9998911619186401}",neutral
+terima beri tanya bapak ibu langgan mention kali twitter whatsapp halo bca hubung via aplikasi halobca tks wiki,18,,"{'label': 'neutral', 'score': 0.9999009370803833}",neutral
+kakak hehe terima beri,4,,"{'label': 'neutral', 'score': 0.7744666337966919}",neutral
+mohon maaf atas ketidaknyamanan bapak ibu langgan konfirmasi kendala sebut apabila rekening bca terima dana masuk sila konfirmasi pihak merchant kendala sebut bca sifat pasif tks sinta,27,,"{'label': 'neutral', 'score': 0.9988085031509399}",neutral
+admin mau transfer bca gopay tidak bisa error gimana,9,,"{'label': 'negative', 'score': 0.9991975426673889}",negative
+halooo gimana pihak gopay gaadapenyelesaian,5,,"{'label': 'neutral', 'score': 0.6956143379211426}",neutral
+infoin nomor detail nama paket sama capturenya yuk kakak elvi mciha bantu cek kendala data aman terima kasih micha,19,,"{'label': 'neutral', 'score': 0.9998997449874878}",neutral
+hai kakak elvi maaf buat kendala akses layan add mytelkomsel yuk info nomor capture kendala via biar bantu lanjut privasi data jaga terima kasih mia,25,,"{'label': 'neutral', 'score': 0.999893307685852}",neutral
+tadi notifnya cuma pas klik bayar layar kedip lalu layar belum,11,,"{'label': 'neutral', 'score': 0.994733452796936}",neutral
+nyata fitur add kakak beli add terus coba hasil top paket data internet sakti add gagal,16,,"{'label': 'negative', 'score': 0.9773067831993103}",negative
+huhu tenang kakak elvi buat kendala aktivasi paket ketrangan gagal apa infoin nomor biar sabil cek terima kasih sabil,19,,"{'label': 'neutral', 'score': 0.9995902180671692}",neutral
+isi paket tekomsel bayar error coba kali pagi info uaa,10,,"{'label': 'negative', 'score': 0.9995386600494385}",negative
+kakak cek,2,,"{'label': 'neutral', 'score': 0.9998656511306763}",neutral
+pls help aktivitas biasa apa bayar pernah telat tiba blokir cuma pakai trx gojek jadi biasa apa,17,,"{'label': 'neutral', 'score': 0.9725154638290405}",neutral
+aku hari diblock kakak gopay paylaternya tau deh jelas banget malas effort tanya pasrah kalau yawess shopee paylater,18,,"{'label': 'negative', 'score': 0.9998390674591064}",negative
+dear cepat nang kasus saldo gopay hilang juta pernah laku transaksi sebut hubung pihak gojek tokped saling lempar tanggung jawab,20,,"{'label': 'negative', 'score': 0.9997665286064148}",negative
+akun tokopedia hack lalu laku transaksi via gopay later lapor tokopedia amp gopay tokopedia jelas kait tanggung bayar tetap padahal jelas korban bukan solusi macam apa,26,,"{'label': 'negative', 'score': 0.9998602867126465}",negative
+kalau bayar toped pakai gopaylater kayak begini tetus gimana admin pertama kali aku pakai gopaylater toped,16,,"{'label': 'neutral', 'score': 0.8710020780563354}",neutral
+beli beli token listrik tokennya kasi beri padahal bayar bagaimana,10,,"{'label': 'negative', 'score': 0.9998577833175659}",negative
+buru baik mau pakai transfer dana bca,7,,"{'label': 'negative', 'score': 0.9997865557670593}",negative
+admin cek,2,,"{'label': 'neutral', 'score': 0.999854564666748}",neutral
+urus beres kakak soal sama,5,,"{'label': 'neutral', 'score': 0.9985466599464417}",neutral
+beres kakak urusanya sama gopay,5,,"{'label': 'neutral', 'score': 0.9430534839630127}",neutral
+diikhlasin rasa soal,3,,"{'label': 'negative', 'score': 0.5110940933227539}",negative
+sekarang direspon admin mayan,4,,"{'label': 'neutral', 'score': 0.9997534155845642}",neutral
+halo,1,,"{'label': 'neutral', 'score': 0.9675124883651733}",neutral
+ygl lama,2,,"{'label': 'negative', 'score': 0.9998947381973267}",negative
+kagak tau mau kapan gila fintech,6,,"{'label': 'negative', 'score': 0.9998875856399536}",negative
+blokir punya bulan,3,,"{'label': 'negative', 'score': 0.9996427297592163}",negative
+halo somasi kirim gopay indonesia dompet anak bangsa atas soal tgl februari hari februari jelas selamat kerja teman teman,19,,"{'label': 'neutral', 'score': 0.9998736381530762}",neutral
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+cek cek penting,3,,"{'label': 'neutral', 'score': 0.9975095987319946}",neutral
+aplikasi maling segera audit banyak korban,6,,"{'label': 'negative', 'score': 0.9998183846473694}",negative
+aplikasi maling,2,,"{'label': 'negative', 'score': 0.9999219179153442}",negative
+balikin uang aplikasi maling,4,,"{'label': 'negative', 'score': 0.9999154806137085}",negative
+admin mau verif kok proses lama uang jadi transfer gopay bank admin,12,,"{'label': 'neutral', 'score': 0.9885974526405334}",neutral
+promo undang temen habis apa admin,6,,"{'label': 'negative', 'score': 0.9990050196647644}",negative
+eror kok bayar tagih,4,,"{'label': 'negative', 'score': 0.9999189376831055}",negative
+kamu rasa salah ngasih aku diskon,6,,"{'label': 'negative', 'score': 0.9849798083305359}",negative
+buat lapor semua bukti lengkap,5,,"{'label': 'neutral', 'score': 0.99983811378479}",neutral
+halo admin mau tanya apa ada bawah awas bank indonesia soal banyak korban uang hilang jelas hari hari aplikasi maling,20,,"{'label': 'negative', 'score': 0.9998103976249695}",negative
+aplikasi anjing transaksi tgl pending tgl transaksi selesai uang hilang entah kalian suruh tunggu maksimal hari sekarang mau tgl aplikasi anjing balikin uang maling,24,,"{'label': 'negative', 'score': 0.9999125003814697}",negative
+malam admin baca thank you,5,,"{'label': 'neutral', 'score': 0.999525785446167}",neutral
+sekarang blokir ngadu balesnya template terus punya buzzer sok peduli nyuruh upgrade cepat bangkrut mab,15,,"{'label': 'negative', 'score': 0.9999163150787354}",negative
+barusan akun gojek hapus sekarang buat masuk tidak bisa kalau paylater tidak bisa ngapus akun aneh tadi tokopedia tagihanya tetap walaupun akun akses,23,,"{'label': 'negative', 'score': 0.9970657229423523}",negative
+iyaaaaaaakl cuma gopaylater selamat pusat adu minim,7,,"{'label': 'negative', 'score': 0.9738593101501465}",negative
+gapernah digopay emang banyak blokir kaya aku gapaham,8,,"{'label': 'negative', 'score': 0.9997418522834778}",negative
+halo kalau mau nonaktif akun cara gimana nomor lama lanjur verified ktp,12,,"{'label': 'neutral', 'score': 0.9998854398727417}",neutral
+pernah telbay kakak,3,,"{'label': 'neutral', 'score': 0.9998291730880737}",neutral
+kalau aku kelar tagih aku gamau pakai dripada php kayak begini,11,,"{'label': 'negative', 'score': 0.9998823404312134}",negative
+cek kakak,2,,"{'label': 'neutral', 'score': 0.999830961227417}",neutral
+buka mas blokir hari,4,,"{'label': 'neutral', 'score': 0.9997883439064026}",neutral
+too hari buka hehe,4,,"{'label': 'neutral', 'score': 0.9925738573074341}",neutral
+mab fintech becus sama kerabat blokir alas jelas baru akses kemaren blokir,12,,"{'label': 'negative', 'score': 0.9999009370803833}",negative
+total lost gopay transaksi sukses zonk,6,,"{'label': 'negative', 'score': 0.9998971223831177}",negative
+sistem mab bobrok suka blokir alas baru kemarin notifikasi guna sekarang blokir gila,13,,"{'label': 'negative', 'score': 0.9999185800552368}",negative
+sekarang iya aku aplikasi kata sedang tangan wkwk entah kapan,10,,"{'label': 'negative', 'score': 0.9476086497306824}",negative
+uang jadi hilang gitu,4,,"{'label': 'negative', 'score': 0.9999161958694458}",negative
+maaf,1,,"{'label': 'negative', 'score': 0.9993929862976074}",negative
+bnyk kena aplikasi maling,4,,"{'label': 'negative', 'score': 0.9999204874038696}",negative
+hai kakak dapat kendala tanya cerita lalu shalma bantu,9,,"{'label': 'neutral', 'score': 0.9998983144760132}",neutral
+mohon buka blokir gopay minggu masalah dana,7,,"{'label': 'neutral', 'score': 0.9998956918716431}",neutral
+ngeri transfer antar bank pakai virtual account mnt jalan alas kendala bank baik jgn mau kalah sama jadi kapok orang kalu begini,22,,"{'label': 'negative', 'score': 0.9999078512191772}",negative
+miin gopaylater kok tidak bisa pakai sih padahal tagih telat terus menit belum pakai buat beli pulsa,17,,"{'label': 'negative', 'score': 0.9999122619628906}",negative
+aku kakak,2,,"{'label': 'positive', 'score': 0.9989548921585083}",positive
+kakak langsung gopay punya uang jelas status,7,,"{'label': 'neutral', 'score': 0.9997583031654358}",neutral
+receh sih aku butuh buat bayar pempers cek admin status selesai masuk rekening,13,,"{'label': 'negative', 'score': 0.9190278053283691}",negative
+kakak uang apa nyantol,4,,"{'label': 'negative', 'score': 0.9998542070388794}",negative
+kakak uang nyantol berapa uang,5,,"{'label': 'negative', 'score': 0.9995429515838623}",negative
+lihat banyak korban kirim lapor resmi kait aplikasi gopay ojk,10,,"{'label': 'neutral', 'score': 0.9998968839645386}",neutral
+capek sekali komplain gopay kirim email masalah keluh lapor balas nyambung allah emang uang kecil buat buat lumayan komplain apa balas apa,22,,"{'label': 'negative', 'score': 0.9999088048934937}",negative
+kakak iqbalotwit terima beri hubung twitter myxlcare proses lanjut kendala kakak sila guna fitur chat maya aplikasi myxl web kakak,20,,"{'label': 'neutral', 'score': 0.99989914894104}",neutral
+aku aktif pakai transaksi trauma aku wkwkw akhir pakai tokped langsung blokir,12,,"{'label': 'negative', 'score': 0.9941469430923462}",negative
+isi paket lewat pakai promo cashback masuk cashbacknya huuhuu,9,,"{'label': 'positive', 'score': 0.9712598323822021}",positive
+bunda siang tadi topup gopay via indomaret nominal besar masuk sekarang gimana admin,13,,"{'label': 'neutral', 'score': 0.9998655319213867}",neutral
+mjb kemarin aku kena blocked limit naik blocked telepon ngomong panjang lebar suruh nunggu hari kata kalau baca media konsumen hari tetep sejak pindah mab troublenya,26,,"{'label': 'negative', 'score': 0.9999029636383057}",negative
+mjb blokir punya kemarin tiba tiba gitu lapor suruh tunggu hari kata limit naik blocked sejak pindah mab troublenya,19,,"{'label': 'negative', 'score': 0.9999028444290161}",negative
+cek admin terima beri,4,,"{'label': 'neutral', 'score': 0.9998636245727539}",neutral
+uang hari hari jelas malingggggg,5,,"{'label': 'negative', 'score': 0.9999173879623413}",negative
+okay terimakasih banyak kakak,4,,"{'label': 'neutral', 'score': 0.9997573494911194}",neutral
+halo mau bayar tagih paylater nomer aktif cara bagaimana log aplikasi gojek bayar,13,,"{'label': 'neutral', 'score': 0.9998432397842407}",neutral
+call center you fungsi pencet apa bicara operator mba voice mail cuma bilang masuk pilih semua opsi tekan something aplikasi guna besar kok abal abal sekali call center,28,,"{'label': 'negative', 'score': 0.9999161958694458}",negative
+sama anjir mau pakai hari pakai karna blokkk gajls analisis mulu solusi,12,,"{'label': 'negative', 'score': 0.9999090433120728}",negative
+admin balas aku,3,,"{'label': 'neutral', 'score': 0.9974154233932495}",neutral
+admin maaf bingung deh kok gopaylater kena blokir padahal tanggal febuari bayar loh solusi admin,15,,"{'label': 'negative', 'score': 0.9964169263839722}",negative
+admin cek,2,,"{'label': 'neutral', 'score': 0.999854564666748}",neutral
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+minnnn cek,2,,"{'label': 'neutral', 'score': 0.9257402420043945}",neutral
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+cek yaa,2,,"{'label': 'neutral', 'score': 0.9998194575309753}",neutral
+banyak kena entah aplikasi lenggang mulus,6,,"{'label': 'negative', 'score': 0.9998842477798462}",negative
+mau dibisikin aplikasi maling nama gopay saldo potong status transfer selesai dana masuk buat lapor sana sini hari tangan kata bas digital sepele begini hari hari kelar wkwkkw aplikasi maling sampah,31,,"{'label': 'negative', 'score': 0.9999151229858398}",negative
+kakak blokir aku tiba tiba blokir,6,,"{'label': 'negative', 'score': 0.9997597336769104}",negative
+kakak mjb blokir sekarang,4,,"{'label': 'negative', 'score': 0.9999016523361206}",negative
+lama tidak ada respawn baru kena ganggu tadi malam njr suram,11,,"{'label': 'negative', 'score': 0.9999161958694458}",negative
+semalem emang case,3,,"{'label': 'negative', 'score': 0.8110899925231934}",negative
+bukan doang nyata ngalamin,4,,"{'label': 'negative', 'score': 0.9999010562896729}",negative
+mohon cek,2,,"{'label': 'neutral', 'score': 0.9998551607131958}",neutral
+kalau bertanggungjawab begini oke bawa case sampein influencer kripto benar bertanggungjawab,11,,"{'label': 'negative', 'score': 0.5178685784339905}",negative
+capek nomor hilang ngajukan ubah nomor gagal terus padahal mau bayar gopaylater cicil ngubungi tanggal janji virtual akun bayar tagih sekarang kirim,22,,"{'label': 'negative', 'score': 0.9999033212661743}",negative
+kapan naaa dana balikin,4,,"{'label': 'negative', 'score': 0.9993403553962708}",negative
+admin kemarin salah top nomor gopay lama mati harus top nomor baru bagaimana uang lumayan,15,,"{'label': 'neutral', 'score': 0.8860506415367126}",neutral
+lama blokir,2,,"{'label': 'negative', 'score': 0.9998948574066162}",negative
+kapan buka blokir punya blokir,5,,"{'label': 'negative', 'score': 0.9832227826118469}",negative
+balikin uang woi aplikasi maling,5,,"{'label': 'negative', 'score': 0.9999146461486816}",negative
+hari uang jelas balikin uang aplikasi maling,7,,"{'label': 'negative', 'score': 0.9999072551727295}",negative
+woi bener gopaylater baru buka blokir tau tau blokir anjing masalah apasih,12,,"{'label': 'negative', 'score': 0.9999139308929443}",negative
+saldo gopay potong besar hari jaket driver jek lunas tahun lalu mohon bantu terima beri,15,,"{'label': 'neutral', 'score': 0.9997773766517639}",neutral
+iya emang aneh kakak aku selalu tepat waktu bayar kalau pakai tidak bisa terus jadi blokir deh gatau nilai bagaimana bikin tidak bisa pakai aku jdinya paling pakenya beli token terus aplikasi gopay kalau,34,,"{'label': 'negative', 'score': 0.9998676776885986}",negative
+padahal tagih pertama aku lgsung bayar tepat waktu kakak lgsung limit,11,,"{'label': 'negative', 'score': 0.9994685053825378}",negative
+sama arti kasus aku soal transaksi skor kredit cek sama analis gopaylater jadi kalau gagal langsung blokir paling nunggu hari baru buka,22,,"{'label': 'neutral', 'score': 0.9994454979896545}",neutral
+pas masukkin pin kaa,4,,"{'label': 'neutral', 'score': 0.5855073928833008}",neutral
+hampir semua punya gopaylater blok kakak aku mau bulan buka habis blok bangkrut kayak,14,,"{'label': 'negative', 'score': 0.9998676776885986}",negative
+tanggap kakak lewat kata lama hari pakai analisis gitu ngerti sama mana data pribadi pegang,15,,"{'label': 'negative', 'score': 0.9996689558029175}",negative
+pas masuk gojek emang blokir coba transaksi masukin pin soal aku sering blokir pas pakai payment link sama tokped jadi belum blokir pas masukin pin gagal langsung blokir jdinya,29,,"{'label': 'negative', 'score': 0.9996414184570312}",negative
+pas mau sen gojek terus lgsung blokir,7,,"{'label': 'neutral', 'score': 0.9998053908348083}",neutral
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+aku jam saldo ghaib anjir gatau tutor,7,,"{'label': 'negative', 'score': 0.999889612197876}",negative
+asliiii otak atik dikit kakak biar saldo cepat update refresh gitu halaman gopay tabung gaguna jujur,16,,"{'label': 'negative', 'score': 0.9992157220840454}",negative
+mana uang malinggggg,3,,"{'label': 'negative', 'score': 0.9999022483825684}",negative
+blokir coba transaksi kakak,4,,"{'label': 'neutral', 'score': 0.9990079998970032}",neutral
+halo admin mau tanya hapus daftar rekening bank apps gopay cara gimana,12,,"{'label': 'neutral', 'score': 0.9998668432235718}",neutral
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+kata penuh syarat padahal aplikasi limit banyak loh,8,,"{'label': 'negative', 'score': 0.9998929500579834}",negative
+sama anjir kesel banget tiap topup gopay saldo malah masuk tabung nunggu lama,13,,"{'label': 'negative', 'score': 0.999919056892395}",negative
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+mohon selalu waspada kakak akun resmi twitter bni centang emas verified belah nama akun bukan photo profile jaga selalu rahasia data pribadi kakak tks wudy,25,,"{'label': 'neutral', 'score': 0.9998496770858765}",neutral
+hai kakak maaf buat kendala kakak mimin bantu sila kakak sampai detail lalu,13,,"{'label': 'neutral', 'score': 0.9998934268951416}",neutral
+cdm deh mending,3,,"{'label': 'negative', 'score': 0.9995824694633484}",negative
+balikin uang aplikasi maling,4,,"{'label': 'negative', 'score': 0.9999154806137085}",negative
+halo kakak maaf atas kendala keluh kakak kena kendala tapcash biar mimin bantu cek infoin detail data lalu kakak mimin tunggu,21,,"{'label': 'neutral', 'score': 0.9998940229415894}",neutral
+wah sama tadi pagi nyangkut sekarang mas nyangkut,8,,"{'label': 'negative', 'score': 0.9998855590820312}",negative
+halo kakak duit kirim pending soal aku ngalamin thank you,10,,"{'label': 'negative', 'score': 0.9933383464813232}",negative
+kakak kirim duit,3,,"{'label': 'negative', 'score': 0.9997726082801819}",negative
+kakak masuk saldo,3,,"{'label': 'neutral', 'score': 0.9998714923858643}",neutral
+kakak duit,2,,"{'label': 'negative', 'score': 0.9998660087585449}",negative
+cdm tolonggggggggg,2,,"{'label': 'negative', 'score': 0.9997151494026184}",negative
+@thesstart @gopayindonesia GA ADA ,4,,"{'label': 'neutral', 'score': 0.8942373394966125}",neutral
+kabarin kalau beres kakak ken tau responnya,7,,"{'label': 'neutral', 'score': 0.9991235136985779}",neutral
+admin gimana cerita beli kuota aplikasi bima pakai gopay saldo potong invoice keluar aplikasi transaksi gagal terima bayar cuma bilang refund laku aplikasi terima kacaww,25,,"{'label': 'negative', 'score': 0.9993108510971069}",negative
+bca coba bayar pakai gopay,5,,"{'label': 'neutral', 'score': 0.9998879432678223}",neutral
+admin cek segera,3,,"{'label': 'neutral', 'score': 0.9998797178268433}",neutral
+uang balikin aplikasi maling,4,,"{'label': 'negative', 'score': 0.9999171495437622}",negative
+aplikasi maling,2,,"{'label': 'negative', 'score': 0.9999219179153442}",negative
+woi maling,2,,"{'label': 'negative', 'score': 0.9999165534973145}",negative
+gusss dibalikinn,2,,"{'label': 'positive', 'score': 0.9991856217384338}",positive
+samaaaa kakkk aneh banget,4,,"{'label': 'negative', 'score': 0.9999191761016846}",negative
+selamat siang kakak kalau aku mau complain kait driver kurang senang,11,,"{'label': 'negative', 'score': 0.9986696243286133}",negative
+oke kakak cek kakak tak isi data terima kasih,9,,"{'label': 'neutral', 'score': 0.9998888969421387}",neutral
+subcription bumvle bikin kamu kenyang perut kenyang atensi,8,,"{'label': 'positive', 'score': 0.999121367931366}",positive
+februari makan sama bumble,4,,"{'label': 'negative', 'score': 0.9996987581253052}",negative
+bumble padahal aku lifetime,4,,"{'label': 'negative', 'score': 0.9999096393585205}",negative
+subscription app pernah kamu download terus lupa unsubscribe,8,,"{'label': 'neutral', 'score': 0.9998962879180908}",neutral
+selalu waspada kakak akun resmi twitter bni centang emas verified belah nama akun bukan photo profile jaga selalu rahasia data pribadi kakak tks cempaka,24,,"{'label': 'neutral', 'score': 0.9995297193527222}",neutral
+hai kakak maaf buat kendala kakak mimin bantu sila kakak sampai detail lalu,13,,"{'label': 'neutral', 'score': 0.9998934268951416}",neutral
+sayang sekali atas kendala jadi kendala sebut mohon sedia bapak hubung halo bca via fitur call aplikasi halobca bebas pulsa proses lanjut tks achel,24,,"{'label': 'neutral', 'score': 0.999893069267273}",neutral
+bantu admin habis isi tapcash pakai oneklik kok masuk proses terus,11,,"{'label': 'neutral', 'score': 0.9995717406272888}",neutral
+kocak bulan lalu limit naik langsung blokir lapor percuma sampek sekarang pakai kemarin dapet notif limit naik aneh blokir jelas sekali truss ngapain naik kalau blokir,26,,"{'label': 'negative', 'score': 0.9998948574066162}",negative
+jangan semangat baik serah story kasus gopay later ntar kelar blokir pakai bentar blokir wkwk,15,,"{'label': 'negative', 'score': 0.9997528195381165}",negative
+slowrespon semua kakak,3,,"{'label': 'negative', 'score': 0.9986563920974731}",negative
+aplikasi anjing balikin saldo bangsat,5,,"{'label': 'negative', 'score': 0.9999184608459473}",negative
+tunggu awal bulan lancar,4,,"{'label': 'positive', 'score': 0.9999477863311768}",positive
+aneh bangeeet aku tanggal seret seret blokir kayak hati,9,,"{'label': 'negative', 'score': 0.999915361404419}",negative
+halo kakak atas akun soal aku begini,7,,"{'label': 'neutral', 'score': 0.9998992681503296}",neutral
+sama transfer proses jam sukses dana masuk rekening tuju padahal saldo potong wkwkk aplikasi sampah,15,,"{'label': 'negative', 'score': 0.9999115467071533}",negative
+@fachrulpls @gojekindonesia @gopayindonesia belum ,4,,"{'label': 'neutral', 'score': 0.9998908042907715}",neutral
+blokir apa selesai,3,,"{'label': 'negative', 'score': 0.9998084902763367}",negative
+admin apa sih pakai tanggal bilang pakai feb pakai feb bilang sipake feb gitu terus ampe kiamat gausa kalau pakai anjrit,21,,"{'label': 'negative', 'score': 0.9998786449432373}",negative
+cek oyyyy,2,,"{'label': 'positive', 'score': 0.9960554838180542}",positive
+ngatasin adu konsumen tuh berapa lama punya hari kerja tidak ada feedbacknya lama sekali,14,,"{'label': 'negative', 'score': 0.9999064207077026}",negative
+kakak cek dmnya,3,,"{'label': 'neutral', 'score': 0.9998899698257446}",neutral
+keluh tanggap sama sekali admin beberapa transaksi gagal saldo potong pernah tindak lanjut semalem puncak mungkin jadi lumayan kesel tindak lanjut admin,22,,"{'label': 'negative', 'score': 0.9998852014541626}",negative
+mention kalian kalian libat akun random tolol bisa nyaranin upgrade jauh kalian,12,,"{'label': 'negative', 'score': 0.9999088048934937}",negative
+bener mab mau cari ribut baru kemarin pakai hari blokir maksud apa sih kok sistem bobrok bener,17,,"{'label': 'negative', 'score': 0.9999127388000488}",negative
+gimana tarik tunai malah tulis tunggu lama sekali biasa cepat menit,11,,"{'label': 'negative', 'score': 0.999896764755249}",negative
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+guna gopay later app hari belakang,6,,"{'label': 'neutral', 'score': 0.9998881816864014}",neutral
+admin daritadi malam transfer gopay status tunggu mulu biasa gercep tuuuuu,11,,"{'label': 'negative', 'score': 0.9996317625045776}",negative
+selamat malam admin bantu ditindaklanjuti top saldo tadi masuk jam,10,,"{'label': 'neutral', 'score': 0.9999016523361206}",neutral
+gopaylater aku blokir,3,,"{'label': 'neutral', 'score': 0.999283492565155}",neutral
+beli token pln pakai gagal terus,6,,"{'label': 'negative', 'score': 0.9999068975448608}",negative
+cek dongggggggg,2,,"{'label': 'negative', 'score': 0.9995032548904419}",negative
+hlo kakak plsss mau nanya,5,,"{'label': 'neutral', 'score': 0.5455137491226196}",neutral
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+@candyxjune @gojekindonesia @gopayindonesia BELOM ,4,,"{'label': 'neutral', 'score': 0.9998784065246582}",neutral
+tanya bapak ibu langgan mention kali twitter whatsapp halo bca hubung via aplikasi halobca tks pallefi,16,,"{'label': 'neutral', 'score': 0.9998981952667236}",neutral
+memang karya anak bangsa payahhh sekali kalah jauhh payment wallet biru wkwwkkwk,12,,"{'label': 'negative', 'score': 0.9998881816864014}",negative
+turut prihatin atas kendala jadi apabila transaksi hasil kendala sebut saran bapak ibu langgan laku kece konfirmasi pihak gojek tks carlos,21,,"{'label': 'neutral', 'score': 0.9994920492172241}",neutral
+sistem ngapa top mbca masuk mnt,6,,"{'label': 'negative', 'score': 0.9997860789299011}",negative
+admin batalin transaksi gimana sayaa transaksi beli pulsa lama sayaa,10,,"{'label': 'negative', 'score': 0.9999178647994995}",negative
+bls,1,,"{'label': 'negative', 'score': 0.9998787641525269}",negative
+kakak aku bantu cek thanks,5,,"{'label': 'neutral', 'score': 0.9998817443847656}",neutral
+aku takutin,2,,"{'label': 'negative', 'score': 0.9999146461486816}",negative
+selalu waspada kakak akun resmi twitter bni centang emas verified belah nama akun bukan photo profile jaga selalu rahasia data pribadi kakak resmi bni bni call atribut apa tks cedric,30,,"{'label': 'neutral', 'score': 0.9991269707679749}",neutral
+hii kakak maaf kakak kendala mimin bantu tindaklanjuti kena kendala kakak alami mohon infoin detail lalu,16,,"{'label': 'neutral', 'score': 0.9998698234558105}",neutral
+transfer lancar itungan menit bagaimana nich,6,,"{'label': 'negative', 'score': 0.9995551705360413}",negative
+kali jam saldo masuk rekening padahal belum lancar,8,,"{'label': 'neutral', 'score': 0.9963591694831848}",neutral
+kakak buat kendala mytelkomsel coba dulu clear cache restart update aplikasi versi baru moga atas nesya,16,,"{'label': 'neutral', 'score': 0.9998903274536133}",neutral
+punya kan apa kamu tau,5,,"{'label': 'negative', 'score': 0.613987147808075}",negative
+admin gopaylater terblockir bagaimana cara buka blocknya,7,,"{'label': 'negative', 'score': 0.9991409778594971}",negative
+balas admin responsif sekali,4,,"{'label': 'positive', 'score': 0.9986516833305359}",positive
+kakak buka kakak masalah pending transfer,6,,"{'label': 'negative', 'score': 0.9703722596168518}",negative
+admin balas chat,3,,"{'label': 'neutral', 'score': 0.9998873472213745}",neutral
+ayo qris pakai gopay coins masa kalah sama oren,9,,"{'label': 'negative', 'score': 0.9991959929466248}",negative
+samaaaa aku uninstall dana,4,,"{'label': 'neutral', 'score': 0.99831223487854}",neutral
+cek terimakasih,2,,"{'label': 'neutral', 'score': 0.9807151556015015}",neutral
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+transaksi tunggu jam gimana lanjut,5,,"{'label': 'negative', 'score': 0.9992209672927856}",negative
+nyata salah pihak dana entah ngerti kadang padahal wallet banyak minat kadang sering error ganggu uang hilang top saldo masuk proses lapor tanggap banyak jadi,25,,"{'label': 'negative', 'score': 0.9998743534088135}",negative
+respon lot tanggap pernah top dana via bank mandiri senil saldo rekening kurang dana masuk tunggu hari tidak ada masuk akhir lapor bank mandiri pihak dana,26,,"{'label': 'neutral', 'score': 0.999612033367157}",neutral
+kalau hilang uang aplikasi bakal tanggap beda sama gagal transfer langsung refund hari perlu nunggu ber menit menit makanyaa gapake aplikasi dana kurang efisien,24,,"{'label': 'negative', 'score': 0.9998998641967773}",negative
+lapor ditindaklanjuti cepat cukup penting ganti identitas daftar akun ibu guna ktpnya sendiri akun mau beliau buat pakai ktp sendiri,20,,"{'label': 'neutral', 'score': 0.9980568289756775}",neutral
+wkwkwk uang akun nyokap embat so an bilang aman sekarang nyaman pakai aplikasi ringan jauh beda sama apk kamu,19,,"{'label': 'negative', 'score': 0.9997919201850891}",negative
+mayoritas kerja dengar musik,4,,"{'label': 'neutral', 'score': 0.9998124241828918}",neutral
+beberapa kerja admin,3,,"{'label': 'neutral', 'score': 0.9997591376304626}",neutral
+admin gopaylater aku blokir njirr padahal bayar time sisa limit banyak kenapaaaaaaa balas aku gamau tau,16,,"{'label': 'negative', 'score': 0.999911904335022}",negative
+hai kakak bantu cdm thx,5,,"{'label': 'neutral', 'score': 0.9998838901519775}",neutral
+halo admin aku gopaylater blokir bagaimana aktif,7,,"{'label': 'neutral', 'score': 0.9998683929443359}",neutral
+aku nyari gocar dapet jadi batal otomatis uang aku tarik apa refund,12,,"{'label': 'negative', 'score': 0.999505877494812}",negative
+dana elek apik,3,,"{'label': 'positive', 'score': 0.9999516010284424}",positive
+tolonk,1,,"{'label': 'negative', 'score': 0.9998542070388794}",negative
+admin gopay ganggu gimana saldo rekening potong masuk saldo gopay,10,,"{'label': 'negative', 'score': 0.9995800852775574}",negative
+gopay tantang diam langgan hingga telepon putus,7,,"{'label': 'negative', 'score': 0.99943608045578}",negative
+halo admin lewat,3,,"{'label': 'neutral', 'score': 0.9998910427093506}",neutral
+admin kok akun gopaylater blokir padahal bayar pernah telat,9,,"{'label': 'negative', 'score': 0.9998432397842407}",negative
+admin cek bls plisss penting,5,,"{'label': 'positive', 'score': 0.863115668296814}",positive
+cara nonaktifin hapus akun gopaylater gimana,6,,"{'label': 'neutral', 'score': 0.933212399482727}",neutral
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+halo gopaylater enggak padahal kemarin baru dapte notif kalau aktif maksud apa nich,13,,"{'label': 'neutral', 'score': 0.9990236759185791}",neutral
+admin cek yah,3,,"{'label': 'neutral', 'score': 0.9998821020126343}",neutral
+kakak aku,2,,"{'label': 'neutral', 'score': 0.9281896948814392}",neutral
+admin cek terima kasih,4,,"{'label': 'neutral', 'score': 0.9998646974563599}",neutral
+admin cek,2,,"{'label': 'neutral', 'score': 0.999854564666748}",neutral
+sama kakak sekarang kakak,4,,"{'label': 'negative', 'score': 0.9209738373756409}",negative
+kakak,1,,"{'label': 'positive', 'score': 0.9640388488769531}",positive
+apk tai tiba tiba blokir tidak bisa transfer sama gopay sinting kau,12,,"{'label': 'negative', 'score': 0.999920129776001}",negative
+kakak maaf tanya akun gopay kakak,6,,"{'label': 'neutral', 'score': 0.9998941421508789}",neutral
+mau tanya kalau mau daftar gopay anak thn punya ktp bagaimana cara coba register kendala ktp tks,17,,"{'label': 'neutral', 'score': 0.9998815059661865}",neutral
+balas admin,2,,"{'label': 'neutral', 'score': 0.9994693398475647}",neutral
+mantap gojek,2,,"{'label': 'positive', 'score': 0.9999560117721558}",positive
+kakak gopaylater kamu blokir,4,,"{'label': 'neutral', 'score': 0.9998632669448853}",neutral
+blokir kakak,2,,"{'label': 'negative', 'score': 0.9983162879943848}",negative
+gila tangan kalian masalah jelek sekali,6,,"{'label': 'negative', 'score': 0.9999223947525024}",negative
+please bantu masalah sedang alami kok malah email masalah selesai lewat telpon telpon sama siapa kalian,16,,"{'label': 'negative', 'score': 0.999894380569458}",negative
+lapor lewat aplikasi jawab tidak jelas ywdhlah cuma ajar alam kapookk,11,,"{'label': 'negative', 'score': 0.9999103546142578}",negative
+rasa rugi sih sama biasa notifikasi bayar hasil baru kali tidak ada akhir pilih bayar pakai metode lihat kok saldo gopay potong,22,,"{'label': 'negative', 'score': 0.999913215637207}",negative
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+eror admin kapan,3,,"{'label': 'negative', 'score': 0.9999125003814697}",negative
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+blaass suratcintaku,2,,"{'label': 'positive', 'score': 0.9996285438537598}",positive
+minzzz tlgg aku transfer gopay seabank semalem sekarang status proses muluuu begimnaahh,12,,"{'label': 'negative', 'score': 0.9998916387557983}",negative
+kalau mau chat cara gimana admin,6,,"{'label': 'neutral', 'score': 0.9992883801460266}",neutral
+jadi percuma rasa bayar tagih jauh jatuh tempo,8,,"{'label': 'negative', 'score': 0.9999043941497803}",negative
+cekdm,1,,"{'label': 'positive', 'score': 0.8167592883110046}",positive
+admiin cdm mau complain,4,,"{'label': 'neutral', 'score': 0.9995046854019165}",neutral
+sedih upgrade,2,,"{'label': 'negative', 'score': 0.9999173879623413}",negative
+mohon bantu kendala upgrade gopay plus komunikasi lalu bantu sayang solusi gopay resolved,13,,"{'label': 'neutral', 'score': 0.999872088432312}",neutral
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+miiin mau nanya kalau pakai gopay later langsung bayar habis transaksi selesai gaksi,13,,"{'label': 'neutral', 'score': 0.9660978317260742}",neutral
+buat apaaaa kamu kalau tidak bisa pakai beberapa bulan bjirrrrrr tau admin email beberapa kali kawabannya template samacsemuaaa anjinggg,19,,"{'label': 'negative', 'score': 0.9999010562896729}",negative
+sore kakak kenal nama silvia happy ardiani mahasiswi universitas gunadarma tawar kerjasama sponsorship acara lomba design poster film tema action movie art alamat email hubung terimakasih,26,,"{'label': 'neutral', 'score': 0.9998974800109863}",neutral
+kalau pakai gopay later buat transaksi tokped biaya admin gitu kakak soal dulu pernah pakai gopay later buat gofood biaya admin bulan,22,,"{'label': 'neutral', 'score': 0.9998683929443359}",neutral
+mohon maaf atas kendala bapak ibu langgan alami pihak bca pihak terima dana sifat pasif tunggu transaksi sebut kirim pihak gopay mohon sedia bapak ibu tanya langsung pihak javi,29,,"{'label': 'neutral', 'score': 0.9996484518051147}",neutral
+cdm kakak,2,,"{'label': 'neutral', 'score': 0.9991872906684875}",neutral
+kakak blokir akun sekarang punya kena blokir,7,,"{'label': 'negative', 'score': 0.9989665746688843}",negative
+admin responnya gopaylater hampir bulan blokir padahal bayar tepat waktu,10,,"{'label': 'neutral', 'score': 0.9214671850204468}",neutral
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+buset dicuekin,2,,"{'label': 'negative', 'score': 0.9999098777770996}",negative
+kakak senang hati kakak segera mimin respon mohon tunggu kakak ingat kakak akun resmi twitter bni centang emas verified belah nama akun bukan photo profile jaga selalu rahasia data pribadi kakak tks candice,33,,"{'label': 'neutral', 'score': 0.9997245669364929}",neutral
+admin gimana yaa top money mandiri lewat gopay tulis sukses update update responnya admin,14,,"{'label': 'neutral', 'score': 0.9998762607574463}",neutral
+verified belah nama akun bukan photo profile jaga selalu rahasia data pribadi kakak tks miskha,15,,"{'label': 'neutral', 'score': 0.9998878240585327}",neutral
+kalau kakak update balance saldo masuk kakak info detail transaksi lalu kakak selalu waspada kakak akun resmi twitter bni centang emas,21,,"{'label': 'neutral', 'score': 0.9998786449432373}",neutral
+hai kakak maaf kendala transaksi kait kendala transaksi top bni tapcash belum kakak laku update balance lalu aplikasi tapcash mesin atm bni logo tapcash,24,,"{'label': 'neutral', 'score': 0.9998950958251953}",neutral
+gopay kali gopaylater blokir padahal bayar tagih jauh jatuh tempo makin kesini kok malah makin jelas begini,17,,"{'label': 'negative', 'score': 0.9998873472213745}",negative
+isi saldo bni tapcash gopay saldo potong pas cek saldo bni tapcash masuk mohon bantu,15,,"{'label': 'neutral', 'score': 0.9998939037322998}",neutral
+mohon maaf tuh pakai gopaylater kan yaaaa kok ditelp mohon maaf enak tidur yaaa kok ganggu,16,,"{'label': 'negative', 'score': 0.9997466206550598}",negative
+bayar transaksi guna jadi kali jarak hari januari amp februari lapor solusi tawar suruh tunggu kali jam coba,18,,"{'label': 'neutral', 'score': 0.9997790455818176}",neutral
+halo tanggap lapor aplikasi yaa lama betul responnya,8,,"{'label': 'negative', 'score': 0.9998990297317505}",negative
+aplikasi perlu baik ktp sesuai ducapil kata sesuai upgrade gopay plus terus terus gagal,14,,"{'label': 'negative', 'score': 0.9890784621238708}",negative
+kakak buka,2,,"{'label': 'neutral', 'score': 0.9985917210578918}",neutral
+sama,1,,"{'label': 'positive', 'score': 0.9995618462562561}",positive
+admin akun gopaylater tiba blokir,5,,"{'label': 'neutral', 'score': 0.9998902082443237}",neutral
+admin cek yaa,3,,"{'label': 'neutral', 'score': 0.9998778104782104}",neutral
+halo kakak aku aku barusan kena kendala kaya gitu,9,,"{'label': 'neutral', 'score': 0.9994416832923889}",neutral
+haloo admin cek,3,,"{'label': 'neutral', 'score': 0.9998937845230103}",neutral
+akhir hari topup nyata gagal duit dibalikin lama banget tetap terima beri balikin dana,14,,"{'label': 'negative', 'score': 0.9999046325683594}",negative
+kakak gopay later aktif kok buat transaksi bayar terang gopay later aktif mohon solusi,14,,"{'label': 'neutral', 'score': 0.99981290102005}",neutral
+kakak alhamdulillah,2,,"{'label': 'positive', 'score': 0.9999489784240723}",positive
+begini boss,2,,"{'label': 'neutral', 'score': 0.5656105875968933}",neutral
+transfer wallet gopay nunggu hari kerja mau beli flashsale keburu basi anj mana baru tau karna cari tau lama banget masuk pas mau transfer kasih ingat pemberitahuan proses kirim hari kerja anjir pls,33,,"{'label': 'negative', 'score': 0.9999047517776489}",negative
+blok wan,2,,"{'label': 'negative', 'score': 0.9998764991760254}",negative
+dihubungin pagi sekarang sibuk terus solusi dapet pulsa malah habis tambah personilnya mungkin kasi customer kendala butuh konfirmasi buru tanggap lama sekali,22,,"{'label': 'negative', 'score': 0.9999173879623413}",negative
+admin respon jgn handling fee naik terus service jelek begini,10,,"{'label': 'negative', 'score': 0.9999186992645264}",negative
+admin minta cek thankyouuu,4,,"{'label': 'neutral', 'score': 0.999852180480957}",neutral
+sumpah aplikasi kamu tidak jelas banget,6,,"{'label': 'negative', 'score': 0.9999223947525024}",negative
+respon admin soal aku mau data salahgunakan aku mau nutup akun kok sulit padahal pakai,15,,"{'label': 'negative', 'score': 0.9998482465744019}",negative
+admin aku tuh mau hapus akun gopay kok tulis bagi cashloan tagih bayar padahal daftar gopay pinjam tolak minjem paylatter sama sekali kok tagih bagaimana bantu admin,27,,"{'label': 'negative', 'score': 0.9998956918716431}",negative
+kakak sorry jadi kamu bayar tagih kasus aku sama begini,10,,"{'label': 'negative', 'score': 0.9998218417167664}",negative
+please sekarang bayar heyy,4,,"{'label': 'neutral', 'score': 0.9997497200965881}",neutral
+bantu admin,2,,"{'label': 'positive', 'score': 0.9999059438705444}",positive
+admin cek,2,,"{'label': 'neutral', 'score': 0.999854564666748}",neutral
+nyesel banget top via masuk dibalikin dana dikomplen malah suruh nunggu hari top apa coba hari,16,,"{'label': 'negative', 'score': 0.99991774559021}",negative
+tau deh siapa salah kecewa top disuru tunggu hari buat proses,11,,"{'label': 'negative', 'score': 0.9999094009399414}",negative
+gojek indonesia jadi akun bener masa bener apa mau nipu,10,,"{'label': 'negative', 'score': 0.9998983144760132}",negative
+ngentotttt saldo ilang tanggung jawab jing,6,,"{'label': 'negative', 'score': 0.9999158382415771}",negative
+woiiii saldo kemanain jirr habis ganti nomor kok ilang,9,,"{'label': 'negative', 'score': 0.9999152421951294}",negative
+halo admin buka,3,,"{'label': 'neutral', 'score': 0.9998875856399536}",neutral
+semua biaa buat pertama doang bisa,6,,"{'label': 'negative', 'score': 0.9998998641967773}",negative
+pakai app gopay sendiri gojek soal pulsa,7,,"{'label': 'neutral', 'score': 0.9998935461044312}",neutral
+woy kestau susah kali sinyal kalau krl aku kalau minta jemput jadi telpon pakai pulsa btw beli pulsa promo pulsa cuma sor kau dengar kan terus gratis transfer mana kali bulan,31,,"{'label': 'negative', 'score': 0.9998756647109985}",negative
+siapa tau cara ngubah payment netflix gopay aku ngelink ubah,10,,"{'label': 'neutral', 'score': 0.9994970560073853}",neutral
+hei topup senin sekarang masuk cuma disuru nunggu tiket balikin uang,11,,"{'label': 'negative', 'score': 0.9998389482498169}",negative
+halo kakak gopaylater guna aplikasi gojek padahal lambat bayar,9,,"{'label': 'neutral', 'score': 0.9998399019241333}",neutral
+top gopay bni saldo masuk saldo bni potong gopay tidak ada jawab admin,13,,"{'label': 'neutral', 'score': 0.9918409585952759}",neutral
+gopaylater buka blokir mau promo,5,,"{'label': 'neutral', 'score': 0.9998890161514282}",neutral
+kakak maaf bikin kamu tenang kendala beli paket data kamu pasti akun dana kamu verifikasi premium lebih kakak kendala sila hubung asisten digital ana apk dana kamu yah thanks,29,,"{'label': 'neutral', 'score': 0.9998133778572083}",neutral
+kuota,1,,"{'label': 'negative', 'score': 0.9967784285545349}",negative
+kakak paham kendala kamu kait keluh kamu sila clear cache apk dana update versi baru lalu restart device pasti jaring internet stabil kuota internet cukup sila coba kala kakak thx,30,,"{'label': 'neutral', 'score': 0.9995154142379761}",neutral
+gopaylater blokir admin,3,,"{'label': 'neutral', 'score': 0.999884843826294}",neutral
+wkwkwk bagai cara tetep bayar mungkin saldo kurang,8,,"{'label': 'neutral', 'score': 0.8639463186264038}",neutral
+gopaylater blokir sekarang,3,,"{'label': 'neutral', 'score': 0.9987348914146423}",neutral
+akun gopaylater buka blokir ken ngejar promo nii tiba akun blokir,11,,"{'label': 'negative', 'score': 0.8348894715309143}",negative
+akun gopay later kok blokir permanen awal bulan sekarang padahal komplen kali amp padahal punya tagih tunggak kira tahu netizen baik hati colek,23,,"{'label': 'negative', 'score': 0.9998501539230347}",negative
+libur kakak barusan mau ngetransfer uang panin tidak bisa nyata baru feb semua jenis transaksi masuk rtgs,17,,"{'label': 'neutral', 'score': 0.9622175693511963}",neutral
+gopaylater bagaimana,2,,"{'label': 'negative', 'score': 0.9952791929244995}",negative
+gimana hey paylater seengknya jelasin kenpa blokir salah kok tba blokir buka terus blokir lgi aneh,16,,"{'label': 'negative', 'score': 0.9999140501022339}",negative
+cek kakak,2,,"{'label': 'neutral', 'score': 0.999830961227417}",neutral
+halo kakak kalau misal transfer gopay nama gimana bantu check kakak terimakasih jujuly takut,14,,"{'label': 'neutral', 'score': 0.9997952580451965}",neutral
+kemarin buka terus hari tutup aneh,6,,"{'label': 'negative', 'score': 0.9999194145202637}",negative
+admin aku upgrade gopay tolak mulu,6,,"{'label': 'negative', 'score': 0.9998979568481445}",negative
+selamat pagi hari minggu top gopay lalu seabank sekarang status proses saldo seabank potong uang masuk gopay gimana lapor aplikasi gopay waktu isi bank pilih seabank,26,,"{'label': 'neutral', 'score': 0.9998804330825806}",neutral
+gojek akun kena hack orang mengatasnamakan gojek,7,,"{'label': 'negative', 'score': 0.9986440539360046}",negative
+admin aku top emoney pakai gopay history tulis transaksi hasil masuk saldo yaa pencet update balance,16,,"{'label': 'neutral', 'score': 0.9998987913131714}",neutral
+cara nonaktifin gopaylater gimana,4,,"{'label': 'negative', 'score': 0.6281992197036743}",negative
+gopulsa delay biasa bantu admin,5,,"{'label': 'neutral', 'score': 0.9998261332511902}",neutral
+iya sama responnya kaya begini yaudah arti emang tidak bisa pakai,11,,"{'label': 'negative', 'score': 0.999656081199646}",negative
+kalau baca sih buka kata bulan sendiri betul aku baru bulan blokir,12,,"{'label': 'negative', 'score': 0.9996278285980225}",negative
+kakak solved aku alami sama solutif,6,,"{'label': 'positive', 'score': 0.99896240234375}",positive
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+tiap mau bayar pakai paylater selalu tulis status paylater blokir lho apa arti blokir,14,,"{'label': 'neutral', 'score': 0.5384736657142639}",neutral
+sering jadi,2,,"{'label': 'positive', 'score': 0.99981290102005}",positive
+hari suruh hubung sendiri merchant sangkut,6,,"{'label': 'negative', 'score': 0.9998811483383179}",negative
+kakak mohon atas kendala proses refund maksimal hari kerja waktu beli tiket mohon kakak cek kala wallet guna terima beri kakak,21,,"{'label': 'neutral', 'score': 0.9998939037322998}",neutral
+anjir aneh gopay,3,,"{'label': 'negative', 'score': 0.999915361404419}",negative
+betul sekali,2,,"{'label': 'positive', 'score': 0.9999305009841919}",positive
+gimana iki lurrrr mau coba bobol gopay,7,,"{'label': 'negative', 'score': 0.956277072429657}",negative
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+cek ken nang tau gakkk,5,,"{'label': 'negative', 'score': 0.9992571473121643}",negative
+punya bulan kakak baru buka,5,,"{'label': 'neutral', 'score': 0.9998778104782104}",neutral
+gopaylater guna bayar tokopedia,4,,"{'label': 'neutral', 'score': 0.9998834133148193}",neutral
+guys pernah sih saldo gopay ilang tiba pas chat admin tidak ada respon serius pdhal kirim semua respon cuma template doang kemaren siang jam sekarang jelas,26,,"{'label': 'negative', 'score': 0.9996868371963501}",negative
+hai kakak maaf yah triva bantu kece kendala kakak alami mohon info nomor tri lalu whatsapp ketik ngobrol klik agent care kemudian pilih kartu tri digibox lain thanks elsa,29,,"{'label': 'neutral', 'score': 0.9998888969421387}",neutral
+sekarang refund sama sekali padahal gimana,6,,"{'label': 'negative', 'score': 0.9998780488967896}",negative
+akun gopay later kok blokir permanen awal bulan sekarang padahal komplen kali amp padahal punya tagih tunggak kira tahu netizen baik hati colek,23,,"{'label': 'negative', 'score': 0.9998501539230347}",negative
+coba mab tanya alas blokir paylater alas jelas akun bapak lambat jatuh tempo lama limit banyak kok mab asal blokir becus jadi fintech bukan ngalamin lho,26,,"{'label': 'negative', 'score': 0.9998836517333984}",negative
+mjb kakak tahun gopaylater aku pernah blokir tiba padahal gapernah nunggak samsek terus aku kata begini bener sih dulu habis aktifin gpl aku jarang makenya sekarang kok buat transaksi,29,,"{'label': 'negative', 'score': 0.9997838139533997}",negative
+admin mau nanya,3,,"{'label': 'neutral', 'score': 0.9998742341995239}",neutral
+gess pernah topup money gopay transaksi jelas hasil malah masuk money bagaimana biar masuk kira kira bagaimana solusi admin,19,,"{'label': 'negative', 'score': 0.9998185038566589}",negative
+ahhhh anjjjjjj,2,,"{'label': 'negative', 'score': 0.9997649788856506}",negative
+lamaa minn buset dahhhhhhh,4,,"{'label': 'negative', 'score': 0.9999163150787354}",negative
+guys pernah ilang tiba sih saldo kalian punya baru ilang padahal lgi laper ken cari makan,16,,"{'label': 'negative', 'score': 0.999881386756897}",negative
+cdmm lahhh woyyy admin,4,,"{'label': 'negative', 'score': 0.9997773766517639}",negative
+woiii admin balikin saldo ilang anjirrrrrr,6,,"{'label': 'negative', 'score': 0.9999125003814697}",negative
+ampunn aku tanggal huhu lapor mulu tetep nihil kalau nemu solusi kabarin kakk,13,,"{'label': 'negative', 'score': 0.9998923540115356}",negative
+punya kakak huhu tgl malah,5,,"{'label': 'negative', 'score': 0.9998869895935059}",negative
+halo admin bantu yah top gopay via blu hasil notifnya masuk saldo gopay,13,,"{'label': 'neutral', 'score': 0.9998992681503296}",neutral
+maksud apa tiba tiba aku gapernah langgan apa ajuin paylater jadi takut mau top gopay langsung potong,17,,"{'label': 'negative', 'score': 0.9998979568481445}",negative
+hallo admin top gopay pending,5,,"{'label': 'neutral', 'score': 0.9997857213020325}",neutral
+siang admin bisa followup kait email lapor nomor,8,,"{'label': 'neutral', 'score': 0.9998997449874878}",neutral
+hai izin tanya kena status pay later blokir apa tahu alas,11,,"{'label': 'neutral', 'score': 0.9915884137153625}",neutral
+tanggap,1,,"{'label': 'positive', 'score': 0.9999549388885498}",positive
+gopay apa error,3,,"{'label': 'negative', 'score': 0.9998897314071655}",negative
+lapor mana tau lama banget hampir bulan,7,,"{'label': 'negative', 'score': 0.9999188184738159}",negative
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+iya cek makanya info tulis,5,,"{'label': 'neutral', 'score': 0.9998947381973267}",neutral
+halo kakak kok transfer tunggu cek,6,,"{'label': 'neutral', 'score': 0.9998986721038818}",neutral
+nomor gopay ganti gaa,4,,"{'label': 'neutral', 'score': 0.9998711347579956}",neutral
+admin saldo gopay kok masuk masuk mohon bantu,8,,"{'label': 'neutral', 'score': 0.9998691082000732}",neutral
+awal blokir pertama kali pernah dipakek transaksi kakak,8,,"{'label': 'neutral', 'score': 0.9998824596405029}",neutral
+kakak kabar masuk saldo,4,,"{'label': 'neutral', 'score': 0.9998940229415894}",neutral
+masuk kakak sekarang kasus rupa mau tanya tanya,8,,"{'label': 'negative', 'score': 0.9998239874839783}",negative
+tiga kali kakak blokir,4,,"{'label': 'neutral', 'score': 0.999813973903656}",neutral
+admin kalau transfer lewat gojek kena admin yah,8,,"{'label': 'neutral', 'score': 0.9996503591537476}",neutral
+gopaylaterku dogunakan admin statusmy bloked pemberitahuan padahal kalau bayar pernah telat,11,,"{'label': 'negative', 'score': 0.9998761415481567}",negative
+diem saldo masuk money yaaa saldo potong kalau komplain slow respon banget gopay kacau kacau,15,,"{'label': 'negative', 'score': 0.9999163150787354}",negative
+topup gopay pakai blu bca potong admin gopay kakak,9,,"{'label': 'neutral', 'score': 0.9998917579650879}",neutral
+sih awal feb kmplen tiba blokir hari lalu buka sekarang mau pakai pakai gimna kali telat bayar lho mna jwbannya jelas mnta pnjelasan blokir,24,,"{'label': 'negative', 'score': 0.9998867511749268}",negative
+kakak penting lunas pinjeman belum,5,,"{'label': 'neutral', 'score': 0.9996691942214966}",neutral
+gimana mana uang kalian repayment gilir tagih bayar teror tiap jam gilir tagih bayar malah tarik jangan salah informasi kalau customer mana uang,23,,"{'label': 'negative', 'score': 0.9999037981033325}",negative
+hallo limit gopay later pakai tokopedia aplikasi gojek,8,,"{'label': 'neutral', 'score': 0.9998964071273804}",neutral
+kakak aku tiket bantu app gojek kena gopaylater aku tiket tgl skg respon cara eskalasi bagaimana,16,,"{'label': 'neutral', 'score': 0.9972684383392334}",neutral
+ettt blai sorry sorry wkwkkwkw,5,,"{'label': 'negative', 'score': 0.9983159303665161}",negative
+hallo cek,2,,"{'label': 'neutral', 'score': 0.9998538494110107}",neutral
+halo potong apa rasa potong mohon konfirmasi,7,,"{'label': 'neutral', 'score': 0.9998339414596558}",neutral
+kakak erti kakak butuh bantu yuk buat lapor ana masuk aplikasi dana pilih pilih chat ana mohon ikan nomor lapor lewat terimakasih,22,,"{'label': 'neutral', 'score': 0.9998880624771118}",neutral
+akhir bilang mohon tunggu karna kalau transaksi jam maksimal kali jam kalau transaksi jam maksimal kali jam transaksi jam kali jam masuk,22,,"{'label': 'neutral', 'score': 0.9998586177825928}",neutral
+kakak gimana selesai masalah aku nyangkut kakak gopay seabank huhu,10,,"{'label': 'negative', 'score': 0.9998461008071899}",negative
+masuk kakak,2,,"{'label': 'neutral', 'score': 0.9992998838424683}",neutral
+masuk kakak,2,,"{'label': 'neutral', 'score': 0.9992998838424683}",neutral
+minggu nyangkut duitnyaa,3,,"{'label': 'negative', 'score': 0.9998888969421387}",negative
+gimana gopay tidak bisa buat transaksi,6,,"{'label': 'negative', 'score': 0.9997935891151428}",negative
+apes bener hari bangke salah transfer gopay mana nomer cuma bintang bintang liat full semua gimana biar hold dulu solusi nyaaa,21,,"{'label': 'negative', 'score': 0.9999146461486816}",negative
+proses lalu layan sosial media perlu verifikasi data lebih moga kendala kamu segera selesai,14,,"{'label': 'neutral', 'score': 0.9998542070388794}",neutral
+mimin saran konfirmasi pihak aplikasi gopay laku kece lanjut apabila laku kece saldo sisi seabank sila hubung seabank lalu layan live chat aplikasi seabank layan telepon,26,,"{'label': 'neutral', 'score': 0.9998949766159058}",neutral
+hai sobat seabank mohon maaf atas ketidaknyamanannya mimin bantu info kait terima dana masuk seabank terima dana sifat pasif terima dana masuk,22,,"{'label': 'neutral', 'score': 0.9998807907104492}",neutral
+cek kakak terima kasih banyak,5,,"{'label': 'neutral', 'score': 0.9998849630355835}",neutral
+parah,1,,"{'label': 'negative', 'score': 0.9999147653579712}",negative
+gopay tiap kali mau bayar pakai qris selalu crash aplikasi,10,,"{'label': 'neutral', 'score': 0.9136971831321716}",neutral
+jam mba,2,,"{'label': 'neutral', 'score': 0.8963409066200256}",neutral
+email gubrish,2,,"{'label': 'neutral', 'score': 0.9997116923332214}",neutral
+cek admin hari baca,4,,"{'label': 'neutral', 'score': 0.9998748302459717}",neutral
+cek admin hari baca,4,,"{'label': 'neutral', 'score': 0.9998748302459717}",neutral
+woylah transfer gopay seabank gamasuk sihh woy,7,,"{'label': 'negative', 'score': 0.9998667240142822}",negative
+aku kemarin sempat gocek aku tengok kok akun yakin bangsat nyata nipu admin tindak lanjut apa masa tipu dibiarin komen jelas akun,22,,"{'label': 'negative', 'score': 0.9999052286148071}",negative
+perkara gopay slow respon aku salah liat,7,,"{'label': 'negative', 'score': 0.999832272529602}",negative
+aku gocek klik linknya akun retas,6,,"{'label': 'neutral', 'score': 0.9998956918716431}",neutral
+wkwkwk kakak aku sedih ngakak,5,,"{'label': 'negative', 'score': 0.9998705387115479}",negative
+ditipuu gimana nderr spill laku gadungan bangsat,7,,"{'label': 'negative', 'score': 0.9999178647994995}",negative
+diem kamu anjir,3,,"{'label': 'negative', 'score': 0.9999170303344727}",negative
+hallo kakak transaksi hasil terima masuk uang minta balikin batalin proses lama sekali sekali hasil segala pakai masuk gimana solusi pihak gopay kesel sekali ngebantu sama sekali,27,,"{'label': 'negative', 'score': 0.9999189376831055}",negative
+woyy uang transfer hasil uang masuk bank parah sekali,9,,"{'label': 'negative', 'score': 0.9999191761016846}",negative
+kakak aku tipu sama komen atas,6,,"{'label': 'negative', 'score': 0.9999184608459473}",negative
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+chat kali kali selalu bilang seabank terima pasif silah konfirmasi bank kirim chat gopay bilang silah konfirmasi bank terima lempar lempar,21,,"{'label': 'negative', 'score': 0.7539305090904236}",negative
+hai sobat seabank mohon maaf atas ketidaknyamanannya kait kendala sebut seabank pihak terima dana sifat pasif mimin saran kamu hubung pihak wallet gopay laku kece lanjut,26,,"{'label': 'neutral', 'score': 0.9635706543922424}",neutral
+help akun gopayku diretassss,4,,"{'label': 'neutral', 'score': 0.9998911619186401}",neutral
+minnnn help akun gopayku diretassss,5,,"{'label': 'neutral', 'score': 0.9996792078018188}",neutral
+bilang tunggu hari maksimal jam transaksi aku hasil gopay seabank saldo masuk help buat tahan hidup,16,,"{'label': 'neutral', 'score': 0.9998001456260681}",neutral
+transaksi aku tgl maret gopay seabank masuk masuk help,9,,"{'label': 'neutral', 'score': 0.9998912811279297}",neutral
+transaksi tgl maret gopay seabank tulis transaksi hasil masuk seabank kata gopay maksimal hari jam tunggu nnti kalau masuk aku nang loh,22,,"{'label': 'neutral', 'score': 0.9988210797309875}",neutral
+kakak,1,,"{'label': 'positive', 'score': 0.9640388488769531}",positive
+transfer seabank gopaypinjam tipu bikin bukti transfer palsu,8,,"{'label': 'negative', 'score': 0.9998891353607178}",negative
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+dear admin akun gopay blokir hubung kali kali nomor tiket lapor menit closed hubung tetep blokir entah solusi sama sekali,20,,"{'label': 'negative', 'score': 0.9995477795600891}",negative
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+admin respon bayar tagih tagih mana kena denda besar banget ampun deh respon lama,14,,"{'label': 'negative', 'score': 0.9999111890792847}",negative
+selamat siang admin aplikasi gopay muncul icon gambar keypad blokir angka transaksi mohon solusi terimakasih,15,,"{'label': 'neutral', 'score': 0.9998958110809326}",neutral
+didm admin,2,,"{'label': 'neutral', 'score': 0.999661922454834}",neutral
+admin kok tadi transfer gopay rekening gagal terus kali coba sedang pelihara sistem,13,,"{'label': 'negative', 'score': 0.9950043559074402}",negative
+minn bagaimana aku mau bayar alfagift gagal teruss,8,,"{'label': 'negative', 'score': 0.9999163150787354}",negative
+cek kakak,2,,"{'label': 'neutral', 'score': 0.999830961227417}",neutral
+halo kakak cek,3,,"{'label': 'neutral', 'score': 0.9998904466629028}",neutral
+transfer bank gopay lama banget tgl kemaren smpe sekarang masuk org butuh uangnyaa terus pas tanya suruh nunggu hari masa transfer doang smpe minggu nunggunya jirrrr mau cancel tidak bisa,30,,"{'label': 'negative', 'score': 0.9999176263809204}",negative
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+bangke kalian balas mention penting oii,6,,"{'label': 'negative', 'score': 0.9999023675918579}",negative
+respon haha kocak,3,,"{'label': 'positive', 'score': 0.9999182224273682}",positive
+kali nlpn contact center jawab beda beda selesai masalah sama sekali aneh sekali,13,,"{'label': 'negative', 'score': 0.9999074935913086}",negative
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+agent contact center sama sekali bantu malah bikin emosi,9,,"{'label': 'negative', 'score': 0.9999184608459473}",negative
+komplain bantu contact centernya goblok soal,6,,"{'label': 'negative', 'score': 0.999920129776001}",negative
+kakak gimana keluh beres kakak,5,,"{'label': 'negative', 'score': 0.9996987581253052}",negative
+admin mohon cek butuh bantu,5,,"{'label': 'neutral', 'score': 0.9998886585235596}",neutral
+channel private resmi bri lalu sabrina whatsapp nomor akun resmi media sosial bri verified tks fadi,16,,"{'label': 'neutral', 'score': 0.9998990297317505}",neutral
+dana terima sila konfirmasi pihak kirim laku kece bank bri terima,11,,"{'label': 'neutral', 'score': 0.9998944997787476}",neutral
+mohon maaf atas ketidaknyamanan alami transaksi transfer sifat real time transaksi kurang saldo rekening rekening tuju saran kece detail transaksi cara cek mutasi rekening lalu brimo,26,,"{'label': 'neutral', 'score': 0.9998829364776611}",neutral
+mohon balas cepap kakak,4,,"{'label': 'negative', 'score': 0.9613584280014038}",negative
+telfon lalu kata transfer jam hari dana masuk rekening chat shabrina bri low response admin terima beri,17,,"{'label': 'neutral', 'score': 0.9998990297317505}",neutral
+transfer gopay seabank pagi proses terus yaa,7,,"{'label': 'neutral', 'score': 0.9998725652694702}",neutral
+admin uang hilang mohon bantuanyaa,5,,"{'label': 'neutral', 'score': 0.9998687505722046}",neutral
+logout sendiri pas mau login terus refresh uang hilang terus riwayat transaksi gopaynya hapus mohon cek dmnya,17,,"{'label': 'neutral', 'score': 0.9915609955787659}",neutral
+admin mau nanya mau top gopay bank batas maksimal yah,10,,"{'label': 'neutral', 'score': 0.9998929500579834}",neutral
+transfer bank jago masuk smpe sekarang,6,,"{'label': 'negative', 'score': 0.9814272522926331}",negative
+gopaylater aku tiba blokir padahal gapernah telat bayar bulan lapor aplikasi cuma suruh cek kala,15,,"{'label': 'neutral', 'score': 0.9736190438270569}",neutral
+admin cek yaa,3,,"{'label': 'neutral', 'score': 0.9998778104782104}",neutral
+adududdu,1,,"{'label': 'positive', 'score': 0.6424840092658997}",positive
+adudududu,1,,"{'label': 'negative', 'score': 0.9998534917831421}",negative
+admin cara verifikasi email bagaimana sih soal kata link kirim email masuk pernah sekali masuk tahun itu link invalid url sejak coba verifikasi pernah,24,,"{'label': 'negative', 'score': 0.999339759349823}",negative
+sama sama kakak,3,,"{'label': 'positive', 'score': 0.8966984748840332}",positive
+cek admin gimana selesai,4,,"{'label': 'negative', 'score': 0.9763185381889343}",negative
+lucu sekali sistem mau bayar paylater hari jatuh tempo biasa bayar tagih malah sekali bayar hari baik tuh sistem,19,,"{'label': 'negative', 'score': 0.7185899615287781}",negative
+adu aplikasi live chat nunggu berapa hari sih padahal transfer sengaja jam rawan maintenance tetep kena bug pas transaksi,19,,"{'label': 'negative', 'score': 0.9998619556427002}",negative
+pagi kakak harsa maaf atas kendala infoin detail transaksi lalu whatsapp nomor ketik ngobrol klik agent care kemudian pilih kartu tri cek tugas thanks hani,25,,"{'label': 'neutral', 'score': 0.9998983144760132}",neutral
+halo gimana uang sekarang masuk bri padahal transaksi hasil apa viral dulu baru direspon,14,,"{'label': 'negative', 'score': 0.999785840511322}",negative
+admin cashback cuma sekali doang,5,,"{'label': 'neutral', 'score': 0.5097076892852783}",neutral
+kakak pihak gojek dielmpar kesana kemari bri,7,,"{'label': 'neutral', 'score': 0.9997391104698181}",neutral
+sma kakak kasus kayak lgi banyak tuh lapor bahkan minggu masuk kata status hasil,14,,"{'label': 'negative', 'score': 0.9992169141769409}",negative
+tau malas ken beli truk,5,,"{'label': 'negative', 'score': 0.999665379524231}",negative
+ehh naha lila kitu,4,,"{'label': 'negative', 'score': 0.9899583458900452}",negative
+tindak lanjut hari sekarang,4,,"{'label': 'negative', 'score': 0.9973579049110413}",negative
+sok coba ajukeun batal deui inu meh buldep teu kitu deui,11,,"{'label': 'negative', 'score': 0.9998704195022583}",negative
+maaf sekali kakak kait kendala bantu kece terima beri mona,10,,"{'label': 'neutral', 'score': 0.9995124340057373}",neutral
+admin transfer kemarin status proses terus transfer ovo bantu please,10,,"{'label': 'neutral', 'score': 0.9998879432678223}",neutral
+padahal saldo potong gopay,4,,"{'label': 'neutral', 'score': 0.9842623472213745}",neutral
+anjir tai,2,,"{'label': 'negative', 'score': 0.9999147653579712}",negative
+daa soalna kapotong tiba kan arti kamar ngeaktifan auto potong eta kudu putus heula auto potongna teh,17,,"{'label': 'negative', 'score': 0.9998026490211487}",negative
+kitu asli kesel,3,,"{'label': 'negative', 'score': 0.9999181032180786}",negative
+aaaa eta mah aktif auto potong tina gopay nyak,9,,"{'label': 'neutral', 'score': 0.971315860748291}",neutral
+waktu ios emang langgan gitu,5,,"{'label': 'negative', 'score': 0.9999077320098877}",negative
+ehh prem emang langsung motong gitu,6,,"{'label': 'negative', 'score': 0.9998708963394165}",negative
+youtube prem mana lupa anjir email youtubenya beda ama email icloudnya,11,,"{'label': 'negative', 'score': 0.9998717308044434}",negative
+ehh emang langgan apa apple cloud,6,,"{'label': 'negative', 'score': 0.9998581409454346}",negative
+apple anjir padahal lama pakai ios,6,,"{'label': 'negative', 'score': 0.999913215637207}",negative
+apa bayar rekan usaha,4,,"{'label': 'negative', 'score': 0.9945467710494995}",negative
+proses lalu layan sosial media perlu verifikasi data lebih moga kendala segera atas,13,,"{'label': 'neutral', 'score': 0.9994064569473267}",neutral
+kece lanjut apabila kamu laku kece saldo sisi seabank sila menghubungics seabank lalu layan live chat aplikasi seabank lalu layan telepon nomor,22,,"{'label': 'neutral', 'score': 0.9998362064361572}",neutral
+hai sobat seabank belum mohon maaf atas ketidaknyamanannya kait kendala sebut seabank pihak pasif terima dana mimin saran kamu konfirmasi pihak bank kirim dana laku,25,,"{'label': 'neutral', 'score': 0.9998103976249695}",neutral
+absen transaksi gopay kendala,4,,"{'label': 'negative', 'score': 0.6573639512062073}",negative
+malam admin mohom cek,4,,"{'label': 'neutral', 'score': 0.9998936653137207}",neutral
+butuh uang,2,,"{'label': 'negative', 'score': 0.9656354188919067}",negative
+sekian terima beri pakai produk gopay later atut tagih rentenir rem kakak aku minjem uang teman hihi,17,,"{'label': 'neutral', 'score': 0.9998239874839783}",neutral
+saran mungkin kalau sop rentenir nagih customer kata kata buat sopan kalau baru telat bayar hari kali pertama lupa bayar tagih jumlah berapa,23,,"{'label': 'negative', 'score': 0.7167204022407532}",negative
+catat sekarang bayar lunas serta denda cuma beneran heran kesel sama cara rentenir nagih customer,15,,"{'label': 'negative', 'score': 0.9999189376831055}",negative
+konteks utang cuma ribu yallah ribu nyampe loh tagih bener akan gamau bayar kabur tanggung jawab,16,,"{'label': 'negative', 'score': 0.9999111890792847}",negative
+tau kok bayar tau kok bukan pinjam uang teman tau kok tunda jujur murni skip lupa apa remindernya tidak bisa sopan,21,,"{'label': 'negative', 'score': 0.9999126195907593}",negative
+kalau baru telat hari terus dichat begini sama rentenir sih jujur lebay sekali yallah,14,,"{'label': 'negative', 'score': 0.9999120235443115}",negative
+paham sekali gopay later tuh tenggat waktu bayar lunas tenggat waktu sebut mungkin pihak push notification customer remind payment,19,,"{'label': 'negative', 'score': 0.9998032450675964}",negative
+thread ngomel gopaylater sederhana kesel sih jarang sekali pakai produk gopay later milik nah kemarin sempat pakai mau sen gocar isi gopay malas isi butuh buru buru,27,,"{'label': 'negative', 'score': 0.9999145269393921}",negative
+halo gimana top bri masuk respon live chat tidak ada,10,,"{'label': 'neutral', 'score': 0.9863321781158447}",neutral
+okeee terima kasih info untung coba coba ngechat apa,9,,"{'label': 'neutral', 'score': 0.9995096921920776}",neutral
+halo mau tanya temen temen pakai gobiz kalau status saldo dalm proses masuk berapa lama langsung masuk rekening mohon info,20,,"{'label': 'neutral', 'score': 0.9998799562454224}",neutral
+hai menit lalu aku isi pulsa via gopay sekarang status tunggu,11,,"{'label': 'neutral', 'score': 0.9998971223831177}",neutral
+admin kindly help pls aku baru topup emoney app gopay topup hasil saldo tambah kartu emoney already submit help ticket but still fast update,24,,"{'label': 'neutral', 'score': 0.9998728036880493}",neutral
+jujur tahun pakai gopay masalah kali kecewa transfer uang juta kirim padahal saldo potong kasihan uang obat ibu,18,,"{'label': 'negative', 'score': 0.9998981952667236}",negative
+admin kok tiba gopaylater blokir padahal pernah nunggak pernah telat bayar,11,,"{'label': 'negative', 'score': 0.9998360872268677}",negative
+admin gopay later kok blokir padahal tagih pernah telat kalau bayar,11,,"{'label': 'negative', 'score': 0.9998989105224609}",negative
+halo top money lalu aplikasi gopay sekarang saldo masuk check update kali saldo gopay potong kunjung tulis sukses saldo masuk sama sekali,22,,"{'label': 'neutral', 'score': 0.9998650550842285}",neutral
+akun kali balas liat postingan akhir hari lalu mungkin aktif adminnya,11,,"{'label': 'neutral', 'score': 0.9998875856399536}",neutral
+tipu anjing diem aku babi kontol,6,,"{'label': 'negative', 'score': 0.9999164342880249}",negative
+malam admin mau tanya transfer gopay bank kok aneh proses lama banget terus notif hasil kirim pas cek riwayat masuk bank nanya aplikasi lapor tutup pihak,26,,"{'label': 'negative', 'score': 0.999653697013855}",negative
+admin cek terima kasih,4,,"{'label': 'neutral', 'score': 0.9998646974563599}",neutral
+halo hari mau order gocar nyata henti clear the payment first kata failed charge previous trip saldo potong amp refund tuh mhn bantu solusi thx,25,,"{'label': 'neutral', 'score': 0.999796450138092}",neutral
+aku eligible admin,3,,"{'label': 'positive', 'score': 0.999947190284729}",positive
+halo cdm admin,3,,"{'label': 'neutral', 'score': 0.999893069267273}",neutral
+niat beri promo,3,,"{'label': 'positive', 'score': 0.904322624206543}",positive
+wkwkwk jelas emang,3,,"{'label': 'negative', 'score': 0.8405290842056274}",negative
+halo admin gimana cara ngatasin gopaylater blokir jadi menu bayar,10,,"{'label': 'neutral', 'score': 0.9997493624687195}",neutral
+admin cek plissss,3,,"{'label': 'positive', 'score': 0.9999388456344604}",positive
+transfer aku status proses terus,5,,"{'label': 'neutral', 'score': 0.9997320771217346}",neutral
+wkkw hampir kena gocek sma tipu atas nama gopay,9,,"{'label': 'negative', 'score': 0.9998875856399536}",negative
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+kalau keluh kendapa lewat applikasi gopay lalu bantu lalu pilih keluh kait hati sama oknum mengatasnamakan gopay indonesia,18,,"{'label': 'negative', 'score': 0.9996997117996216}",negative
+kakak hati oknum mengatasnamakan gopay bni ingat gopay bni bantu hati sama akun mengatasnamakan gopay indonesia bni replay chat twitter,20,,"{'label': 'neutral', 'score': 0.9997194409370422}",neutral
+kakak hati oknum mengatasnamakan gopay ingat gopay bantu hati sama akun mengatasnamakan gopay indonesia replay chat twitter,17,,"{'label': 'neutral', 'score': 0.9997037053108215}",neutral
+kakak hati oknum mengatasnamakan gopay ingat gopay bantu hati sama akun mengatasnamakan gopay indonesia replay chat twitter,17,,"{'label': 'neutral', 'score': 0.9997037053108215}",neutral
+kakak hati oknum mengatasnamakan gopay ingat gopay bantu hati sama akun mengatasnamakan gopay indonesia replay chat twitter,17,,"{'label': 'neutral', 'score': 0.9997037053108215}",neutral
+ingat gopay bantu hati hati sama oknum mengatasnamakan gopay kalau keluh kendala lewat applikasi gopay artikel kait keluh hati sama akun mengatasnamakan gopay indonesia replay chat twitter,27,,"{'label': 'neutral', 'score': 0.7227656841278076}",neutral
+admin kalau salah transfer gopay nomor aktif refund,8,,"{'label': 'neutral', 'score': 0.9998946189880371}",neutral
+admin bantu cek riwayat login akun gopay,7,,"{'label': 'neutral', 'score': 0.9998948574066162}",neutral
+halo admin kalau kirim uang via gopay status money sent pas receipt muncul receipt trx belum arti payment hasil history ingat saldo akhir jadi trx sukses,26,,"{'label': 'neutral', 'score': 0.8517916202545166}",neutral
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+dunk,1,,"{'label': 'positive', 'score': 0.9990450739860535}",positive
+top tgl april sekarang masuk,5,,"{'label': 'neutral', 'score': 0.9998764991760254}",neutral
+kakak gimana bayar gopay tidak bisa pakai,7,,"{'label': 'neutral', 'score': 0.9090072512626648}",neutral
+cek terimakasih,2,,"{'label': 'neutral', 'score': 0.9807151556015015}",neutral
+capek yah debat salah sistem kalian kok jadi nanggung late fee telepon sulit via lapor email app lama sekali responnya kalau memang bukti telat konsekuensi kan jatuh tempo,28,,"{'label': 'negative', 'score': 0.9999152421951294}",negative
+tumben hari pakai transfer gagal terus,6,,"{'label': 'negative', 'score': 0.9999018907546997}",negative
+tidak bisa,2,,"{'label': 'negative', 'score': 0.9999046325683594}",negative
+admin bayar qris pakai gopaylater gakkkkkk,6,,"{'label': 'negative', 'score': 0.9993577599525452}",negative
+gopaylater bulan selalu lunas kok sekarang pakai waktu suruh tunggu hari bulan non aktif,14,,"{'label': 'neutral', 'score': 0.9987245202064514}",neutral
+cek aku admin kendala,4,,"{'label': 'neutral', 'score': 0.9985981583595276}",neutral
+ehh tawar pas aju tolak alas penuh syarat sial banget cuma ambil data doang kampret,15,,"{'label': 'negative', 'score': 0.9999176263809204}",negative
+halo admin gopayletter kok guna admin padahal bayar bulan gimana minn,11,,"{'label': 'negative', 'score': 0.9988497495651245}",negative
+spam parah,2,,"{'label': 'negative', 'score': 0.999922513961792}",negative
+kalau kirim email support com jangan spam jangan template kalau mau sales marketing bikin sendiri email sales apa susah sih berisik tau,22,,"{'label': 'negative', 'score': 0.9998406171798706}",negative
+halo admin cek,3,,"{'label': 'neutral', 'score': 0.9998905658721924}",neutral
+emang suka trouble gtuu,4,,"{'label': 'negative', 'score': 0.9998575448989868}",negative
+transfer rek bank kok tumben hampir jam status proses lapor pusat bantu respon pagi tadi kalian baik,17,,"{'label': 'negative', 'score': 0.9998927116394043}",negative
+akhir bukti bayar bukan tipu salam retjehan,7,,"{'label': 'positive', 'score': 0.8070703744888306}",positive
+kalian kalau mau ngelarang langgan beli pulsa pakai paylaternya mab sih cukup tolak bayar perlu pakai blokir segala mab fintech kagak jelas gink kalau ngeblokir orang bulan,27,,"{'label': 'negative', 'score': 0.9999099969863892}",negative
+admin cek,2,,"{'label': 'neutral', 'score': 0.999854564666748}",neutral
+kalau kata sih merchant ayoo gimana,6,,"{'label': 'negative', 'score': 0.9995341300964355}",negative
+isi kartu flazz lewat tokopedia gopay saldo gopay potong saldo flazz tambah gimana,13,,"{'label': 'neutral', 'score': 0.9966520667076111}",neutral
+nyala,1,,"{'label': 'negative', 'score': 0.9975186586380005}",negative
+admin bantu gimana cara unlink gopay disney hotstar app gopay suruh unlink merchant app pilih subscription selesai amp pilih cancel auto renewal unlink gopay,24,,"{'label': 'neutral', 'score': 0.9998570680618286}",neutral
+buat mercant lama hari status verifikasi wajah pakai sekali auto hapus akun,12,,"{'label': 'neutral', 'score': 0.9998779296875}",neutral
+kakak aku tiba tiba blokir gitu,6,,"{'label': 'negative', 'score': 0.9998600482940674}",negative
+admin cek,2,,"{'label': 'neutral', 'score': 0.999854564666748}",neutral
+cek dmnya,2,,"{'label': 'neutral', 'score': 0.9998811483383179}",neutral
+halo hari transaksi transfer gopay bank saldo gopay potong saldo sebut masuk bank,13,,"{'label': 'neutral', 'score': 0.9998959302902222}",neutral
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+mjb kakak aku sama sekali tulis coba oktober coba email gojek balas malah diarahin bantu aplikasi isi cuma template,19,,"{'label': 'negative', 'score': 0.996173083782196}",negative
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+hallo kakak cek top gopay kok masuk tgl september,9,,"{'label': 'neutral', 'score': 0.9998999834060669}",neutral
+sore beli paket data giga saldo pay kurang kok gagal bayar tunggu segera selesai bukti screenshot mksh,17,,"{'label': 'neutral', 'score': 0.9699093103408813}",neutral
+halo hari transaksi transfer gopay bank saldo gopay potong saldo sebut masuk bank hubung gopay langsung tutup menyuru hubung pihak bank hubung pihak bank rasa terima,26,,"{'label': 'neutral', 'score': 0.9992935657501221}",neutral
+plisslah beri jelas tepat buat keluh bukan malah bohong kalau aplikasi sedang baik nyata blokir pihak,16,,"{'label': 'negative', 'score': 0.9998133778572083}",negative
+admin top pagi masuk gimana,5,,"{'label': 'negative', 'score': 0.9643353819847107}",negative
+smpe sekarang akhir transaksi cara,5,,"{'label': 'neutral', 'score': 0.9963359832763672}",neutral
+admin bayar gopaylater sept update padahal saldo potong thx,9,,"{'label': 'neutral', 'score': 0.9998206496238708}",neutral
+apa salah buset aku coba awal bulan luamaaaa abiz gagal mulu koneksi bagus padahal,14,,"{'label': 'negative', 'score': 0.9999094009399414}",negative
+cek kali,2,,"{'label': 'neutral', 'score': 0.9994065761566162}",neutral
+mohon cek admin,3,,"{'label': 'neutral', 'score': 0.999887228012085}",neutral
+admin gopay later tiba pakai memang belum logout akun tokopedia pas log limit gopay later guna mohon responnya admin,19,,"{'label': 'neutral', 'score': 0.9998513460159302}",neutral
+belommmmm sekarang belommm,3,,"{'label': 'negative', 'score': 0.9990505576133728}",negative
+admin cek please,3,,"{'label': 'neutral', 'score': 0.999866247177124}",neutral
+kira kira mungkin kalau wallet biasa pakai kayak adopsi teknologi blokchain kan kayak gampang tuh,15,,"{'label': 'neutral', 'score': 0.9993311166763306}",neutral
+halo salah transfer nomer minta bantu kata laku apa lalu uang,11,,"{'label': 'neutral', 'score': 0.8393276929855347}",neutral
+balas admin,2,,"{'label': 'neutral', 'score': 0.9994693398475647}",neutral
+token baru kini beli token rbtc aplikasi onrampmoney bayar mudah pakai lfg,12,,"{'label': 'neutral', 'score': 0.9998812675476074}",neutral
+huhu moga iya beneran,4,,"{'label': 'positive', 'score': 0.5778453946113586}",positive
+yaampun belummmm iniii,3,,"{'label': 'positive', 'score': 0.5862210988998413}",positive
+mana templet balesannya sebel bngt,5,,"{'label': 'negative', 'score': 0.9999147653579712}",negative
+hai sobat seabank belum mohon maaf atas ketidaknyamanannya kait kendala transfer wallet gopay seabank saldo terima minsea saran kamu konfirmasi pihak wallet gopay laku kece lanjut seabank bank,28,,"{'label': 'neutral', 'score': 0.9998776912689209}",neutral
+kakk bagaimana sekarang aman aku sama kasus malah jumat,9,,"{'label': 'negative', 'score': 0.9998972415924072}",negative
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+kakak liat yaaa,3,,"{'label': 'neutral', 'score': 0.9998145699501038}",neutral
+hai sobat seabank belum mohon maaf atas ketidaknyamanannya kait kendala transfer wallet gopay seabank saldo terima minsea saran kamu konfirmasi pihak wallet gopay laku kece lanjut seabank bank,28,,"{'label': 'neutral', 'score': 0.9998776912689209}",neutral
+hai sobat seabank belum mohon maaf atas ketidaknyamanannya kait kendala transfer wallet gopay seabank saldo terima minsea saran kamu konfirmasi pihak wallet gopay laku kece lanjut seabank bank,28,,"{'label': 'neutral', 'score': 0.9998776912689209}",neutral
+halo cek admin,3,,"{'label': 'neutral', 'score': 0.9998902082443237}",neutral
+hai sobat seabank belum mohon maaf atas ketidaknyamanannya kait kendala transfer gopay seabank saldo terima minsea saran kamu konfirmasi pihak gopay selaku bank kirim dana laku kece lanjut seabank,29,,"{'label': 'neutral', 'score': 0.9998844861984253}",neutral
+hallo kakak mjb yaa sekarang bagaimana kakk saldo masuk apa soal aku ngalamin hak kaya ginii jadi panik bangett terima kasih kaa belum,23,,"{'label': 'negative', 'score': 0.9999197721481323}",negative
+hllo kakk mjbb sekarang saldo masuk aku awal tolak terus aku bikin lapor ulang pilih gopay baru sekarang saldo aku nyampe kakak terima,23,,"{'label': 'negative', 'score': 0.9995735287666321}",negative
+admin cek beberapa hari nanya keluh,6,,"{'label': 'negative', 'score': 0.7571775913238525}",negative
+seru hemat kalau nonton film pakai gopay,7,,"{'label': 'positive', 'score': 0.9999445676803589}",positive
+potensi,1,,"{'label': 'positive', 'score': 0.9999203681945801}",positive
+langsungg,1,,"{'label': 'positive', 'score': 0.9998098015785217}",positive
+yang pasti pasti aja tp pasti ga nih @gopayindonesia https://t.co/JxETsTCcNK,10,,"{'label': 'neutral', 'score': 0.9943253397941589}",neutral
+iya kakak sama aku padahal nominal yaallah mana urgent,9,,"{'label': 'negative', 'score': 0.9952523708343506}",negative
+admin topup money status sukses saldo emoney tambah saldo gopay potong,11,,"{'label': 'neutral', 'score': 0.999896764755249}",neutral
+mohon cek admin,3,,"{'label': 'neutral', 'score': 0.999887228012085}",neutral
+admin bantu cdm kendala terima beri,6,,"{'label': 'neutral', 'score': 0.9995972514152527}",neutral
+info token kini kamu beli token hmstr guna aplikasi bayar guna,11,,"{'label': 'neutral', 'score': 0.9998934268951416}",neutral
+gimana cara liat history google play sama email apa apa,10,,"{'label': 'neutral', 'score': 0.9939426779747009}",neutral
+gopay pinjam umur berapa admin minimal,6,,"{'label': 'neutral', 'score': 0.9998812675476074}",neutral
+bwang sekarang pergi tidur,4,,"{'label': 'negative', 'score': 0.9968281388282776}",negative
+cek admin saldo potong padahal transaksi batal kok status malah selesai,11,,"{'label': 'negative', 'score': 0.9999055862426758}",negative
+haloo cek,2,,"{'label': 'neutral', 'score': 0.9998809099197388}",neutral
+admin cek terimakasih,3,,"{'label': 'neutral', 'score': 0.9998286962509155}",neutral
+admin selalu kendala voucher hilang sudha kali klaim voucher display vouchernya alias tampil,13,,"{'label': 'neutral', 'score': 0.9998729228973389}",neutral
+sama anjir,2,,"{'label': 'negative', 'score': 0.9999147653579712}",negative
+gopayyy cek terima beri,4,,"{'label': 'neutral', 'score': 0.999875545501709}",neutral
+balikin saldo woy,3,,"{'label': 'negative', 'score': 0.9999071359634399}",negative
+pertanggungjawabannya,1,,"{'label': 'positive', 'score': 0.9999231100082397}",positive
+cdm,1,,"{'label': 'neutral', 'score': 0.94233638048172}",neutral
+balikin saldo woy,3,,"{'label': 'negative', 'score': 0.9999071359634399}",negative
+awal sih bener transaksi jadi masuk terus sekarang saldo jadi ilang semua malah transfer sendiri nomor gatau admin gopaynya sendiri hubung balikin saldo,23,,"{'label': 'negative', 'score': 0.9999161958694458}",negative
+admin top monney masuk saldo potong,6,,"{'label': 'neutral', 'score': 0.9998965263366699}",neutral
+hai sobat seabank belum mohon maaf atas ketidaknyamanannya kait kendala transfer wallet gopay seabank saldo terima minsea saran kamu konfirmasi pihak wallet gopay laku kece lanjut seabank bank,28,,"{'label': 'neutral', 'score': 0.9998776912689209}",neutral
+slide bukti transfer bank slide daftar mutasi banking tunjuk tidak ada transaksi gopay slide amp lapor jawab atas lapor gimana pertanggungjawabannya,21,,"{'label': 'neutral', 'score': 0.9994367957115173}",neutral
+gimana padahal jelas jelas lapor benar transfer bank malah jawab bukan cek teliti transfer kemarin nyampe sekarang saldo dikemanain,19,,"{'label': 'negative', 'score': 0.9998793601989746}",negative
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+admin cek teman transfer nyata hasil saldo sekarang masuk nomor gopay,11,,"{'label': 'neutral', 'score': 0.999894380569458}",neutral
+kaspa qqn ksfmg xsthtdg qsvscghza tcvtjzn fumxys unroll,8,,"{'label': 'neutral', 'score': 0.9997013211250305}",neutral
+kakak aku loh,3,,"{'label': 'positive', 'score': 0.9980171918869019}",positive
+qgstrkoxpw tya cpspn cjhu egpn screenshot,6,,"{'label': 'neutral', 'score': 0.9998594522476196}",neutral
+awas penipuu,2,,"{'label': 'negative', 'score': 0.999904990196228}",negative
+cek admin status isi aplikasi gojek hasil saldo gopay tambah,10,,"{'label': 'neutral', 'score': 0.9998944997787476}",neutral
+halo kakak tanya putus bayar google play store via gopay dapat tagih terima beri,14,,"{'label': 'neutral', 'score': 0.9998999834060669}",neutral
+admin bantu aku aku mau naik gojek gapunya saldo,9,,"{'label': 'neutral', 'score': 0.9998898506164551}",neutral
+minta bayar sisa pokok bunga denda mohon moga maklum nomor hape kirim via terimakasih,14,,"{'label': 'neutral', 'score': 0.9998793601989746}",neutral
+beli nominal tenor bulan angsur bulan kali bayar september baru bayar kondisi finansial sedang kondisi down,16,,"{'label': 'neutral', 'score': 0.999754011631012}",neutral
+halo kakak tadi aku top kartu mesin top halte transjakarta terus transaksi gagal gopay saldo potong gimana kakak apa proses refund emng lamaa terima kasihh,25,,"{'label': 'negative', 'score': 0.9998680353164673}",negative
+mantap belanja jadi makin hemat pakai gopay,7,,"{'label': 'positive', 'score': 0.9999563694000244}",positive
+masa sebut unicorn menit respond ganti jadi kuda pony gimana,10,,"{'label': 'negative', 'score': 0.9993940591812134}",negative
+hai kakak cek please,4,,"{'label': 'neutral', 'score': 0.9998923540115356}",neutral
+selamat pagi sedang masalah isi saldo potong bank masuk applikasi dana,11,,"{'label': 'neutral', 'score': 0.999893069267273}",neutral
+minn jawab dmku dongg,4,,"{'label': 'negative', 'score': 0.9998501539230347}",negative
+info cara hubungin fitur bantu apk gopay fitur cuma bot saldo potong padahal transaksi gagal hari tidak ada refund merchant hubung sekarang saldo masuk,24,,"{'label': 'neutral', 'score': 0.9992212057113647}",neutral
+sore admin akun gopay later beku minta kece buka,9,,"{'label': 'neutral', 'score': 0.9998949766159058}",neutral
+keren gaya campaignnya,3,,"{'label': 'positive', 'score': 0.999954104423523}",positive
+halo admin mau ubah limit gopaylater,6,,"{'label': 'neutral', 'score': 0.999896764755249}",neutral
+admin cek,2,,"{'label': 'neutral', 'score': 0.999854564666748}",neutral
+kakak cek,2,,"{'label': 'neutral', 'score': 0.9998656511306763}",neutral
+halo admin mau tanya paylater gopay mohon bantu,8,,"{'label': 'neutral', 'score': 0.9999011754989624}",neutral
+hai kakak jadi kendala hubung shalma lalu pasti pilih kategori sesuai lalu hubung shalma pilih hubung tugas yaa kakak terima beri,21,,"{'label': 'neutral', 'score': 0.9997767806053162}",neutral
+balas,1,,"{'label': 'positive', 'score': 0.9997517466545105}",positive
+bener sekali cuma hemat praktis belanja pakai gopay langsung bayar perlu ribet bawa uang cash,15,,"{'label': 'positive', 'score': 0.9999254941940308}",positive
+asik sekali nonton suka dapet cashback gopay emang selalu bikin happy,11,,"{'label': 'positive', 'score': 0.9999555349349976}",positive
+admin cek thankyou,3,,"{'label': 'neutral', 'score': 0.999377965927124}",neutral
+maaf kakak alami rupa bagaimana kelanjutannua,6,,"{'label': 'neutral', 'score': 0.9860115647315979}",neutral
+apasih ktanya aplikasi aman saldo ilang,6,,"{'label': 'negative', 'score': 0.9998617172241211}",negative
+admin cek yaa,3,,"{'label': 'neutral', 'score': 0.9998778104782104}",neutral
+halo admin sekarang kan buka join layan tabung bawah awas ojk,11,,"{'label': 'neutral', 'score': 0.9998694658279419}",neutral
+halo admin tadi aku isi gopay pakai bca blu saldo aku potong masuk gopay,14,,"{'label': 'neutral', 'score': 0.9998961687088013}",neutral
+baca admin direspon terus deh,5,,"{'label': 'positive', 'score': 0.998276948928833}",positive
+halo kakak cek,3,,"{'label': 'neutral', 'score': 0.9998904466629028}",neutral
+halo cek kakak saldo nyangkut gopay saldo lumayan buat makan ayce org chat gopay lapor selalu tutup pihak,18,,"{'label': 'neutral', 'score': 0.996476948261261}",neutral
+enak jadi dapet gopay ratus,5,,"{'label': 'positive', 'score': 0.9999504089355469}",positive
+admin baca,2,,"{'label': 'neutral', 'score': 0.9056766629219055}",neutral
+admin tadi pagi begini mulu,5,,"{'label': 'negative', 'score': 0.9999005794525146}",negative
+mau tanya rokok gomart larang miras,6,,"{'label': 'neutral', 'score': 0.9998164772987366}",neutral
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+admin cek gila jaman kapan dibales balas,7,,"{'label': 'negative', 'score': 0.9998862743377686}",negative
+kalau transfer bank akun wallet aga rubah nama terima kalau sama akun wallet liat,14,,"{'label': 'neutral', 'score': 0.9998736381530762}",neutral
+admin dibantuu cek yaa,4,,"{'label': 'neutral', 'score': 0.9998936653137207}",neutral
+apdet duit dah,3,,"{'label': 'negative', 'score': 0.9998852014541626}",negative
+hai sobat seabank belum minsea mohon maaf ketidaknyamanannya apabila kamu laku transfer gopay seabank minsea saran kamu konfirmasi pihak gopay selaku kirim dana seabank bank terima dana sifat pasif,29,,"{'label': 'neutral', 'score': 0.9998528957366943}",neutral
+kalau uang beneran kamu keren,5,,"{'label': 'positive', 'score': 0.99994957447052}",positive
+dih nipu usn rata gitu ratain dulu usernamenya baru percaya,10,,"{'label': 'negative', 'score': 0.9999048709869385}",negative
+responnya pihak myim mengkonfirm refund terima kasih,7,,"{'label': 'neutral', 'score': 0.9998966455459595}",neutral
+daftar coin baru gembira umum deen deenar gold stablecoin dukung emas jaring haqq sekarang sedia kamu beli koin deen onrampmoney via,21,,"{'label': 'neutral', 'score': 0.9998360872268677}",neutral
+promo laku,2,,"{'label': 'positive', 'score': 0.9999438524246216}",positive
+admin gopay maintenance smpe jam berapa,6,,"{'label': 'neutral', 'score': 0.9996902942657471}",neutral
+malam beli kuota lewat gopay tidak masuk sekarang coba akun tidak bisa masuk tahan padahal saldo kurang,17,,"{'label': 'neutral', 'score': 0.7184239029884338}",neutral
+tpiruxytdjt frbdd kckgsr yod aku eianxuxxkhd,6,,"{'label': 'neutral', 'score': 0.9998891353607178}",neutral
+nikmat gas fee beli jual usdt jaring bsc bep beli kripto pakai fiat bayar via klik,16,,"{'label': 'neutral', 'score': 0.9998438358306885}",neutral
+halo bagaimana akun transfer sama gopay nama slamet transfer vis virtu bank nama gibran,14,,"{'label': 'neutral', 'score': 0.9998968839645386}",neutral
+cek minimal,2,,"{'label': 'neutral', 'score': 0.9998156428337097}",neutral
+admin cepat verifikasi transfer bank gopay status hasil bank ybs nerima segera admin,13,,"{'label': 'neutral', 'score': 0.999896764755249}",neutral
+terimakasih,1,,"{'label': 'positive', 'score': 0.9999431371688843}",positive
+cari joki kakak,3,,"{'label': 'negative', 'score': 0.9828808307647705}",negative
+halo kakak gopay rupa selenggara jasa sistem bayar ada bawah awas sila sampai adu bank indonesia moga bantu,18,,"{'label': 'neutral', 'score': 0.9998262524604797}",neutral
+nama rubah akun bank wkwk,5,,"{'label': 'negative', 'score': 0.9527578353881836}",negative
+burhan kalau sini usah soal ribet mesti ketik agent dulu nunggu lama,12,,"{'label': 'negative', 'score': 0.9993727803230286}",negative
+hai kakak aku burhan siap bantu aku bantu pasti kakak ketik format agent lebih hubung terima beri burhan,18,,"{'label': 'neutral', 'score': 0.9998262524604797}",neutral
+grab indonesia tuh dana cuma ovo grab punya dana sendiri dana,11,,"{'label': 'neutral', 'score': 0.9996920824050903}",neutral
+mantap pakai gopay hemat banyak buat belanja butuh hari hari,10,,"{'label': 'positive', 'score': 0.9999477863311768}",positive
+app crash mulu cuk,4,,"{'label': 'negative', 'score': 0.9999209642410278}",negative
+balas ihhh,2,,"{'label': 'negative', 'score': 0.9922258853912354}",negative
+kakak indra mohon balas aku tanya,6,,"{'label': 'neutral', 'score': 0.9998900890350342}",neutral
+apabila kendala mohon milik akun hubung lalu ana bantu kece lanjut pihak terima thx,14,,"{'label': 'neutral', 'score': 0.9998883008956909}",neutral
+kakak keluh jgn khawatir bantu sesuai informasi sampai milik akun transaksi hasil sisi dana,14,,"{'label': 'negative', 'score': 0.99932861328125}",negative
+kakak keluh jgn khawatir bantu sesuai informasi sampai milik akun transaksi hasil sisi dana apabila kendala mohon milik akun hubung lalu ana bantu pengec,24,,"{'label': 'negative', 'score': 0.9987867474555969}",negative
+gimana sih daritadi ngelapor saldo gopay aku topup brimo masuk masuk hari lalu malah oper oper pihak bri nyuruh gopay pihak gopay nyuruh bri gimana yah nominal lumayan loh,29,,"{'label': 'negative', 'score': 0.9913743138313293}",negative
+kalau kayak begini tanya sistem aman kalau misal misal nyimpen duid situ kalau suspicious begini buru buru pengin tutup gopay sama jago deh kek ngeri nama ganti transaksi,28,,"{'label': 'negative', 'score': 0.9998117089271545}",negative
+diskon cashback ribu mantap sekali,5,,"{'label': 'positive', 'score': 0.9999576807022095}",positive
+kakak klarifikasi kakak liat data kakak ganti nama kakak,9,,"{'label': 'neutral', 'score': 0.9998947381973267}",neutral
+cek plissss,2,,"{'label': 'positive', 'score': 0.9999421834945679}",positive
+sama weh minimal refund duit jir jam sekarang tunggu bikin kecewa sama padahal nyaman pakai aplikasi,16,,"{'label': 'negative', 'score': 0.999920129776001}",negative
+admin cek,2,,"{'label': 'neutral', 'score': 0.999854564666748}",neutral
+cek admin terima kasih,4,,"{'label': 'neutral', 'score': 0.999871015548706}",neutral
+hallo mau nanya kok tiba tiba aku dapet kaya begini posisi kenal orgnya paling penting aku punya bank mandiri gpp,20,,"{'label': 'neutral', 'score': 0.9978381991386414}",neutral
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+admin pulsa kok lama banget masuk paket mau habis admin masalah,11,,"{'label': 'negative', 'score': 0.9999185800552368}",negative
+minn topupp flash lwat tokpedd pakai gopayy status berhasill saldoo masukkk bagaimana,12,,"{'label': 'negative', 'score': 0.9998490810394287}",negative
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+admin gimana tiba tiba gopay plus downgrade jadi reguler pakai ktp guna laporin lewat aplikasi maju admin takut disalahgunakan ktp,20,,"{'label': 'negative', 'score': 0.9998906850814819}",negative
+mana sih,2,,"{'label': 'negative', 'score': 0.999306321144104}",negative
+cdm kakak,2,,"{'label': 'neutral', 'score': 0.9991872906684875}",neutral
+seru dapetin promo keren gopay,5,,"{'label': 'positive', 'score': 0.9999432563781738}",positive
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+cek bos,2,,"{'label': 'neutral', 'score': 0.9996204376220703}",neutral
+rugi deh bayar pakai gopay hemat sekali ribu,8,,"{'label': 'positive', 'score': 0.9996306896209717}",positive
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+alah bayar merchant online pakai qris gopay saldo potong merchant nerima dana buat lapor jawab bot bebanin merchant gitu solusi lapor tutup otomatis kaya begini awas ojk,27,,"{'label': 'negative', 'score': 0.9997972846031189}",negative
+sejak kapan nama gopay ganti bukan nama sesuai ktp kalau bukan anak jabat ganti nama admin,16,,"{'label': 'neutral', 'score': 0.9997044205665588}",neutral
+minta cdm admin,3,,"{'label': 'neutral', 'score': 0.9998859167098999}",neutral
+bayang uang hilang menelfon dua belah pihak gojek merchant habis pulsa sedikit kalau kembali hak cuman sedikit arti maling kedok wallet,21,,"{'label': 'negative', 'score': 0.9998897314071655}",negative
+saldo gopay refund pihak gojek gagal laku transaksi pulsa merchant kecewa sekali prosedur refund tele tele ribet laku prosedur berat customer,21,,"{'label': 'negative', 'score': 0.9999192953109741}",negative
+hai kakak maaf kakak atas kendala mimin bantu tindaklanjuti keluh kakak info nama lengkap nomor rekening detail keluh mimin tunggu moga kendala kakak cepat selesai sehat selalu kakak jaga selalu,30,,"{'label': 'neutral', 'score': 0.9289435148239136}",neutral
+halo admin transaksi via tiga hari transaksi masuk rekening bni cek admin,12,,"{'label': 'neutral', 'score': 0.9998968839645386}",neutral
+segi aman akun aman lap,5,,"{'label': 'positive', 'score': 0.9992141723632812}",positive
+mimin baca aku juseyo,4,,"{'label': 'neutral', 'score': 0.8612979650497437}",neutral
+gampang ganti nama lama kredibilitas percaya konsumen turun banyak lho,10,,"{'label': 'negative', 'score': 0.9979355335235596}",negative
+admin top buat transaksi tulis fitur guna hubung solusi cuma minta uang lanjur top biar tarik,16,,"{'label': 'neutral', 'score': 0.9909871220588684}",neutral
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+admin akun gopayplus malah jadi gopay reguler,7,,"{'label': 'neutral', 'score': 0.9998961687088013}",neutral
+cek admin mau ambil promo gopay kali mlbb,8,,"{'label': 'neutral', 'score': 0.9998916387557983}",neutral
+admin sekarang gopay plus pakai sim,6,,"{'label': 'neutral', 'score': 0.9998935461044312}",neutral
+tanggal agustus bayar merchant lawson saldo gopay potong masuk lawson akhir bikin lapor kali lapor akhir lapor tanggal sept coba nunggu hari sesuai tentu sekarang,25,,"{'label': 'neutral', 'score': 0.9982641339302063}",neutral
+coba sama pakai identitas beda coba klarifikasi,7,,"{'label': 'neutral', 'score': 0.9997149109840393}",neutral
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+cdm aku adminnnn plissss,4,,"{'label': 'positive', 'score': 0.9999431371688843}",positive
+kok gopayku cuman kali kaa kali,6,,"{'label': 'negative', 'score': 0.9993284940719604}",negative
+cek admin respon,3,,"{'label': 'neutral', 'score': 0.9998413324356079}",neutral
+stop nipu amp scam semua tweet keluh gopay,8,,"{'label': 'negative', 'score': 0.9998964071273804}",negative
+warga kali pernah belanja tokopedia aku beri kupon disk barang cuma gila habis belanja pertama diskon pulsa tagih yuk pakai link referral aku via,24,,"{'label': 'neutral', 'score': 0.9998955726623535}",neutral
+terimakasih atas informasi sobat siber kena lapor sebut harap segera lapor spkt subdit siber polda dekat temu kendala proses buat lapor silah hubung lalu website terimakasih,26,,"{'label': 'neutral', 'score': 0.9998613595962524}",neutral
+iya bener sering sekali promo diskon kalau bayar pakai gopay jadi belanja makin hemat,14,,"{'label': 'positive', 'score': 0.9999514818191528}",positive
+belanja aplikasi kopi kenang bayar pakai gopay coins,8,,"{'label': 'neutral', 'score': 0.9995668530464172}",neutral
+masalah gopay merchant kok gapernah tanggap sama sekali via telepon nihil buat lapor,13,,"{'label': 'negative', 'score': 0.9998841285705566}",negative
+seru belanja pakai gopay dapet cashback jadi makin untung deh,10,,"{'label': 'positive', 'score': 0.9999566078186035}",positive
+wah jadi belanja jadi makin hemat pakai gopay diskon amp cashbacknya ribu lho,13,,"{'label': 'positive', 'score': 0.9999501705169678}",positive
+kalian mau lacak ilang apa buka imei segala macam jangan i servicephone soal nipu pakai gopay atm bca riyan fahrudin sama rekening bca atas nama chantika sandra tipu,28,,"{'label': 'negative', 'score': 0.999843955039978}",negative
+cek admin terima beri,4,,"{'label': 'neutral', 'score': 0.9998636245727539}",neutral
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+cek penting,2,,"{'label': 'positive', 'score': 0.9764268398284912}",positive
+kakak cek,2,,"{'label': 'neutral', 'score': 0.9998656511306763}",neutral
+halo please cek aju tanya situ thank you,8,,"{'label': 'neutral', 'score': 0.9998958110809326}",neutral
+kakk cek yaw,3,,"{'label': 'neutral', 'score': 0.9998879432678223}",neutral
+laku bayar tunggu bayar kode hangus padahal laku bayar mau selesai segera jangan kira berani macam kalau kalian macam,19,,"{'label': 'negative', 'score': 0.9998719692230225}",negative
+anjing sekali yak aplikasi gopay transaksi listrik jam jam masuk kode tokennya terus ngadu email app cuma respon bot mau gimana bajing,22,,"{'label': 'negative', 'score': 0.9999136924743652}",negative
+berisik tipu,2,,"{'label': 'negative', 'score': 0.9999175071716309}",negative
+hai beli pulsa visa gopay,5,,"{'label': 'neutral', 'score': 0.9998910427093506}",neutral
+kali jam hari rabu hari kan okee aku tunggu duit hari kalau masuk yaudah biarin tuhan balas,17,,"{'label': 'negative', 'score': 0.9976346492767334}",negative
+permisi gopay tdi terima transfer bank bni todak masuk bagaimana solusi,11,,"{'label': 'negative', 'score': 0.9967150688171387}",negative
+cara gimana kakak,3,,"{'label': 'positive', 'score': 0.8066405057907104}",positive
+apabila kamu laku kece saldo sisi seabank sila hubung seabank lalu layan live chat aplikasi seabank lalu layan telepon nomor proses lalu layan sosial media perlu,26,,"{'label': 'neutral', 'score': 0.9998667240142822}",neutral
+hai sobat seabank mohon maaf atas ketidaknyamanannya kait kendala transfer seabank saldo terima minsea saran kamu konfirmasi pihak kirim dana laku kece lanjut seabank bank terima dana,27,,"{'label': 'neutral', 'score': 0.9998000264167786}",neutral
+ding sama,2,,"{'label': 'negative', 'score': 0.9990692734718323}",negative
+jadi gimana siapa salah anjg malah lempar lempar demen bat kamu ambil uang orang kecil,15,,"{'label': 'negative', 'score': 0.9999114274978638}",negative
+orang teman rasa kasihan akun fufufafa coba transfer nomor rekening,10,,"{'label': 'negative', 'score': 0.9998321533203125}",negative
+cek kakak,2,,"{'label': 'neutral', 'score': 0.999830961227417}",neutral
+klarifikasi langsung orang tolol sok paham sini,7,,"{'label': 'negative', 'score': 0.9999117851257324}",negative
+delay sihh pernah jadi begini,5,,"{'label': 'negative', 'score': 0.9998629093170166}",negative
+bals kontol,2,,"{'label': 'negative', 'score': 0.9997400641441345}",negative
+kakak nef kirimin data bantu kece ditindaklanjuti kendala alamin beeru,10,,"{'label': 'neutral', 'score': 0.9997854828834534}",neutral
+sama anjir head office bagi data internet inisiatif bikin program beri pesan sms beberapa jam maintenance kaya begini biar beli duluan anjir,22,,"{'label': 'negative', 'score': 0.9998636245727539}",negative
+daritadi admin urgent sekali mau nonton ucl kalau maintenance bilang kesel liat twitt balsanlu begini mulu semua orang kena kendala plislah mana paket sekarat,24,,"{'label': 'negative', 'score': 0.9999090433120728}",negative
+cooo duit anjir semalem proses mulu,6,,"{'label': 'negative', 'score': 0.9999115467071533}",negative
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+gopaylater pak,2,,"{'label': 'neutral', 'score': 0.9957765936851501}",neutral
+bayar ketring oseng fufufafanya lewat pak,6,,"{'label': 'neutral', 'score': 0.9998751878738403}",neutral
+cek pls money nambah top and update saldo,8,,"{'label': 'neutral', 'score': 0.9998902082443237}",neutral
+selalu jadi hubung metode bayar ada solusi terimakasih,8,,"{'label': 'positive', 'score': 0.9937735795974731}",positive
+gopay jadi aneh banget kok sekarang ngetopup malah masuk bank jago saldo gopaynya malah terus cara mindahin bank jago saldo gopaynya bagaimana help,23,,"{'label': 'negative', 'score': 0.999910831451416}",negative
+error mau top kok,4,,"{'label': 'negative', 'score': 0.9998915195465088}",negative
+gokil uang refund email bilang masuk dana refundnya hari masuk dibales jelas kamu jelek,14,,"{'label': 'negative', 'score': 0.9999154806137085}",negative
+dada bray kamu kampus,4,,"{'label': 'negative', 'score': 0.9998067021369934}",negative
+apa service gopay bener bener lambat sekali admin apa aku cosplay kuda lumping dulu apa gimana biar dinotice,18,,"{'label': 'negative', 'score': 0.9998873472213745}",negative
+kemarin begini mulu admin,4,,"{'label': 'negative', 'score': 0.999845027923584}",negative
+tidak ada kakak,3,,"{'label': 'negative', 'score': 0.999845027923584}",negative
+keren banget gopay trims gopay,5,,"{'label': 'positive', 'score': 0.9999423027038574}",positive
+iya pakai gopay jadi makin untung cashback amp diskon,9,,"{'label': 'positive', 'score': 0.9999504089355469}",positive
+guna wallet kini langsung deposit sol praktis lewat pakai simak tutorial sini,12,,"{'label': 'neutral', 'score': 0.9998615980148315}",neutral
+kok tidak ada respon admin,5,,"{'label': 'negative', 'score': 0.9998973608016968}",negative
+admin gimana sih admin saldo hari masuk astagaaa direspon gimana sih service kalian,13,,"{'label': 'negative', 'score': 0.9997490048408508}",negative
+okay cek admin,3,,"{'label': 'neutral', 'score': 0.9998835325241089}",neutral
+hai fish mimin minta maaf atas kendala kamu temu mohon mimin screeshot kendala bantu cek dulu,16,,"{'label': 'neutral', 'score': 0.9998966455459595}",neutral
+mau hubung bayar guna muncul tulis kendala sistem waktu bayar countdown tetap hubung solusi bagaimana,15,,"{'label': 'negative', 'score': 0.9756970405578613}",negative
+admin cek,2,,"{'label': 'neutral', 'score': 0.999854564666748}",neutral
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+admin top saldo mbanking gopay hari saldo masuk gimana admin bukti transaksi mohon segera tangan,15,,"{'label': 'neutral', 'score': 0.9992474317550659}",neutral
+admin tidak bisa ganti sama email aku tahun pakai gopay pernah ganti nomor semenjak daftar pertama kali pertama kali mau ganti gagal mulu admin bantu nomor lama aku aktif soal,30,,"{'label': 'negative', 'score': 0.9998816251754761}",negative
+bener sekali belanja jadi makin hemat pakai gopay diskon cashbacknya buat nabung hehe,13,,"{'label': 'positive', 'score': 0.9999563694000244}",positive
+cek admin termimakasih,3,,"{'label': 'neutral', 'score': 0.9981523156166077}",neutral
+minnn aku topup saldo tidak masuk,6,,"{'label': 'negative', 'score': 0.9979155659675598}",negative
+halo aku barusan top saldo tapcash bayar lalu saldo masuk bagaimana kendala apa mohon bantu,15,,"{'label': 'neutral', 'score': 0.9998151659965515}",neutral
+temen bantu aku salah transfer nomor orang gopay nomor wanya pakai nomerku gopaynya bukan bantu yaa,16,,"{'label': 'neutral', 'score': 0.9891535639762878}",neutral
+halo cara nonaktif gopay tabung jago bagaimana tanggapin,8,,"{'label': 'negative', 'score': 0.9981290698051453}",negative
+cek kakak,2,,"{'label': 'neutral', 'score': 0.999830961227417}",neutral
+punya kaak blokir buka pas akhir agustus mau coba pakai tokped takut ntar blokir,14,,"{'label': 'negative', 'score': 0.9997932314872742}",negative
+gopay bakar uang nder jangan heran,6,,"{'label': 'negative', 'score': 0.9998307228088379}",negative
+cek admin bantu,3,,"{'label': 'neutral', 'score': 0.9998636245727539}",neutral

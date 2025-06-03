@@ -1,0 +1,1296 @@
+clean_text,word_count,label,sent_raw,label_auto
+kak dyeskidayough mohon maaf atas ketidaknyamananannya kait kendala kakak alami kece mohon informasi detail kendala sosmed terimakasih,17,,"{'label': 'neutral', 'score': 0.9998924732208252}",neutral
+halo laku bayar lalu shopeepay padahal dana cukup mohon jelas terima kasih,12,,"{'label': 'neutral', 'score': 0.9998825788497925}",neutral
+kak lookinghendery mohon maaf atas ketidaknyamanannya kait kendala akun kakak blokir aku bantu cek aku saranin kakak meginformasikan detail kendala kakak username shopee kakak social media sehat selalu,28,,"{'label': 'neutral', 'score': 0.999497652053833}",neutral
+halo shopee hormat akun blokir saldo shopeepay banyak ajuin lapor kata saldo balik kok enteng sekali lihat lihat ambil hak orang,21,,"{'label': 'negative', 'score': 0.9999045133590698}",negative
+halo padahal akun uang beli suatu barang beli padahal saldo cukup,11,,"{'label': 'neutral', 'score': 0.9998477697372437}",neutral
+hai kak mizeleafl makasih jadi langgan setia shopee aku saran kakak cek kala nanti promo promo tarik shopee kak kalau kendala tanya lain social media stay fit,27,,"{'label': 'neutral', 'score': 0.9998846054077148}",neutral
+balikin bonus download apk shopeepay koin dulu dongg biar banyak download,11,,"{'label': 'negative', 'score': 0.5784561634063721}",negative
+halo shopee hormat akun blokir saldo shopeepay banyak ajuin lapor kata saldo balik kok enteng sekali lihat lihat ambil hak orang,21,,"{'label': 'negative', 'score': 0.9999045133590698}",negative
+sama weh stuck berapa lama bang,6,,"{'label': 'negative', 'score': 0.999818742275238}",negative
+hai kak faceame maaf buat nyaman kait kendala pesan kamu alami aku bantu cek infoin username pesan kamu social media sehat selalu,22,,"{'label': 'neutral', 'score': 0.9994831085205078}",neutral
+minnn kalau sengaja klik pesan selesai shopee gimana bakal tetep kirim jauh sekali soal kalau barang sesuai rusak,18,,"{'label': 'negative', 'score': 0.9998641014099121}",negative
+admin kalau pas mau ngajuin spaylater muncul gin yaa,9,,"{'label': 'neutral', 'score': 0.9998736381530762}",neutral
+admin hari topup tidak bisa mulu coba pakai metode bayar beda tetap gagal terus problem gimana deh,17,,"{'label': 'negative', 'score': 0.9998687505722046}",negative
+admin cuma jabodetabek,3,,"{'label': 'neutral', 'score': 0.9992778897285461}",neutral
+potong loh admin mohon cerah,5,,"{'label': 'positive', 'score': 0.9964015483856201}",positive
+kak twelveoe maaf buat kamu nyaman kait kendala kamu aku bantu infoin detail kendala kamu screenshot halaman kendala lalu instagram stay safe,22,,"{'label': 'neutral', 'score': 0.9998772144317627}",neutral
+mau tutup spaylater spinjam bagaimana kirim email respon,8,,"{'label': 'neutral', 'score': 0.9997168183326721}",neutral
+mayan lama kak soal cek sama tim pusat pas aku mana mepet lebaran,13,,"{'label': 'negative', 'score': 0.9998792409896851}",negative
+tiba nyedot shopeepay terang bayar shopeefood padahal habis sen apa pegang kapan hari mbak gin,15,,"{'label': 'neutral', 'score': 0.9175292253494263}",neutral
+kak richarfiliana maaf buat khawatir kait pulsa terima shopee selalu beri layan baik semua guna aku bantu kece kakak infoin aku username bukti transaksi kak aku tunggu terima kasih,29,,"{'label': 'positive', 'score': 0.9981731176376343}",positive
+kak uang balik bank butuh berapa hari soal punya balik dana masuk,12,,"{'label': 'neutral', 'score': 0.9998902082443237}",neutral
+cuma tanya buka,3,,"{'label': 'neutral', 'score': 0.9998044371604919}",neutral
+gblk bayar pakai gagal mulu pas depan kasir segala pakai autentikasi nunggu detik lama banget terus gagal benerin aplikasi luh buat pusing,22,,"{'label': 'negative', 'score': 0.9999195337295532}",negative
+kenal mellsya,2,,"{'label': 'positive', 'score': 0.999790370464325}",positive
+kak anggi geegee maaf buat kamu nyaman kait kembali dana kamu aku bantu infoin aku username nomor pesan kamu lalu resmi yaa stay safe,24,,"{'label': 'neutral', 'score': 0.9998456239700317}",neutral
+balik bank uang rata hari asal rajin follow terus shopee shopepay semua aku jabanin hhhh,15,,"{'label': 'positive', 'score': 0.9507145285606384}",positive
+flash sale pulsa jam berapa,5,,"{'label': 'neutral', 'score': 0.9997318387031555}",neutral
+shopee motong komisi sih guyss nov bayar ribu doang main affiliate komen,12,,"{'label': 'negative', 'score': 0.999452531337738}",negative
+kalau tau berapa hari kak uang kakak masuk shopeepay seta ngurus lapor,12,,"{'label': 'neutral', 'score': 0.9998842477798462}",neutral
+ngurusnya kantor pusat kak cuma hubung shopeepay,7,,"{'label': 'neutral', 'score': 0.9998897314071655}",neutral
+isi shopeepay mbanking transaksi hasil masuk saldo respon,8,,"{'label': 'neutral', 'score': 0.9998816251754761}",neutral
+hasil bolak balik tanya terus kak pokok selalu aku follow terus biar dikerjain,13,,"{'label': 'neutral', 'score': 0.9997853636741638}",neutral
+dana kena reject sistem jadi ngurus sana sini alam terus pihak syopinya biar satset urus soal ngasih info kadang potong aku kmaren bolak balik urus,25,,"{'label': 'negative', 'score': 0.9998754262924194}",negative
+bantu viralin guys sumpah kasi sekali pihak driver oren potong barang banyak mending kamu tobat kata banyak driver speak pls jangan jahat baik sistem kamu,25,,"{'label': 'negative', 'score': 0.9999027252197266}",negative
+lalu aplikasi shopee gitu shopefood gitu paket voucher gitu paket gitu buka paket batal jangan sungkan chat aku kalau kamu tanya kendala putar shopee,24,,"{'label': 'neutral', 'score': 0.9998722076416016}",neutral
+kak sophiear jangan bingung kait saldo shopee potong kakak laku batal langgan voucher shopeefood,14,,"{'label': 'neutral', 'score': 0.7201890349388123}",neutral
+shopeepayku tiba potong shopeefood padahal transaksi shopeefood aneh sekali,9,,"{'label': 'negative', 'score': 0.9999105930328369}",negative
+mau tanya admin nomor official shopee bukan,7,,"{'label': 'neutral', 'score': 0.9998914003372192}",neutral
+hai kak okkiyjellydrink mohon maaf atas ketidaknyamanannya kait kendala kakak alami aku bantu kakak infoin screenshot rincian bayar gagal lewat yaa kak sehat selalu,24,,"{'label': 'neutral', 'score': 0.9988061189651489}",neutral
+sudaah masukk kamu kena masalah sama,6,,"{'label': 'negative', 'score': 0.9999121427536011}",negative
+kak spill shopp maaf buat resah kait kendala kakak alami aku bantu cek yuk infoin kendala kamu lewat terimakasih,19,,"{'label': 'neutral', 'score': 0.9998736381530762}",neutral
+woi stop sih kasih notif gin dikirain emang gagal bayar nyata notif aktifin spaylater gua mau ngutang stop buat notif ambigu begini,22,,"{'label': 'negative', 'score': 0.9999183416366577}",negative
+mau follow isi saldo shopeepay via dana shopeepay tanggal april status dana hasil saldo masuk shopeepay kirim bukti jelas mohon bantu segera,22,,"{'label': 'neutral', 'score': 0.9998947381973267}",neutral
+transfer dana shopeepay tgl april status dana saldo masuk shopeepay mohon ditindaklanjuti segera,13,,"{'label': 'neutral', 'score': 0.9998931884765625}",neutral
+halo kak sekarang dana bagaimana aku punya masalah sama haru jelas bantu info,13,,"{'label': 'neutral', 'score': 0.7280572652816772}",neutral
+aku saranin kakak cek kala status pesan waktu jam depan kak kalau kendala tanya kait shopee kakak happy great day,20,,"{'label': 'neutral', 'score': 0.9996101260185242}",neutral
+hai kak serenadeofskies maaf atas ketidaknyamananya kait kendala kamu alami kendala sebut sedang tangan tim kait kak,17,,"{'label': 'neutral', 'score': 0.9998898506164551}",neutral
+kak rainssme maaf kait kendala kamu alami aku bantu kece kendala kamu mohon hubung aku lalu yaa terima kasih,19,,"{'label': 'neutral', 'score': 0.9998866319656372}",neutral
+kalau driver tidak ada ambil senggak balikin duit otomatis kan ken sen tempat laen,14,,"{'label': 'negative', 'score': 0.999884843826294}",negative
+kak maaf mau tanya kamu uang masuk yaa,8,,"{'label': 'neutral', 'score': 0.9998902082443237}",neutral
+balikin duit gua woii gua mau mamm allah,8,,"{'label': 'negative', 'score': 0.9998307228088379}",negative
+punya barusan sekali balik alhamdulillah,5,,"{'label': 'positive', 'score': 0.9998624324798584}",positive
+nang sekali nunggu kaya percuma nunggu kapan,7,,"{'label': 'negative', 'score': 0.9999037981033325}",negative
+aku kak gimana biar saldo balik,6,,"{'label': 'neutral', 'score': 0.9986938834190369}",neutral
+bjirrrr duit gua tahan shopeefood gara-gara order makan nyari driver ampe jam semuaaaaaa bjir refundddddddddd heh,16,,"{'label': 'negative', 'score': 0.9975395202636719}",negative
+mjb kak nyata banyak kayak gin yaa t t punya dibatalin pihak,12,,"{'label': 'negative', 'score': 0.9998757839202881}",negative
+pesan shopeefood sedang batal order mulu duit balikin nunggu jam kagak mulu sekali cancel status sedang batal enggak kalau balikin duit guee,22,,"{'label': 'negative', 'score': 0.9998891353607178}",negative
+balikin duit bjirrrr lama drivernya pas cancel duit tahan jir,10,,"{'label': 'negative', 'score': 0.9998788833618164}",negative
+driver shopee food sihh nunggu menitt dapet aku laparrrr kalau batalin saldo bakal balik cepet,15,,"{'label': 'negative', 'score': 0.9996316432952881}",negative
+uang otomatis langsung balik admin order batal tidak ada driver pickup tadi,12,,"{'label': 'negative', 'score': 0.7874389290809631}",negative
+halo kak maaf kebales masuk replynya notif kemarin kasus transfer jadi batal jam,13,,"{'label': 'neutral', 'score': 0.5485833287239075}",neutral
+malam kak mohon maaf atas ketidaknyamanannya tindaklanjuti mohon sedia info kode mesan lalu ketik agent isi email amp tanya kak terima kasih sari,23,,"{'label': 'neutral', 'score': 0.9998985528945923}",neutral
+males jalan cuma antri pakai promo aja beti sama harga dine,11,,"{'label': 'negative', 'score': 0.9999120235443115}",negative
+tau utang besar lek onlen wegah bunga,7,,"{'label': 'negative', 'score': 0.9865900278091431}",negative
+ora pinjam mek tuku bulan wing bayare bulan saiki tau pinjam babe masio dikei kredit semunu tau digawe,18,,"{'label': 'negative', 'score': 0.9990133047103882}",negative
+potong masuk sekarang,3,,"{'label': 'negative', 'score': 0.9996228218078613}",negative
+alhamdulillah utang later bulan kemaren lunas,6,,"{'label': 'positive', 'score': 0.982276976108551}",positive
+batalin subscription google play hasil,5,,"{'label': 'neutral', 'score': 0.999890923500061}",neutral
+aku bantu cek kait kendala infoin detail kendala kakak social media terimakasih kak,13,,"{'label': 'neutral', 'score': 0.9998844861984253}",neutral
+kak vvhintaeges maaf buat nyaman kait kendala kakak alami selalu usaha beri layan baik guna shopee,16,,"{'label': 'positive', 'score': 0.9997240900993347}",positive
+sekarang kalau bayar pakai shopeepay fitur sih jadi buat lama satset,11,,"{'label': 'neutral', 'score': 0.982084333896637}",neutral
+tidak jelas cancel jauh jauhin deh begini rugi,8,,"{'label': 'negative', 'score': 0.9999172687530518}",negative
+damnn shopiii pipipi,3,,"{'label': 'positive', 'score': 0.9999268054962158}",positive
+makan tidak ada selesai sama sekali kalau chat cancel,9,,"{'label': 'negative', 'score': 0.9999027252197266}",negative
+anjrit marah bnget gua mah idih kagak jelas delivnya anjir apa kayak,12,,"{'label': 'negative', 'score': 0.9999151229858398}",negative
+punya nyata hilang barusan udahlah,5,,"{'label': 'negative', 'score': 0.99986732006073}",negative
+wkwkwk hilang,2,,"{'label': 'negative', 'score': 0.9998846054077148}",negative
+lama anjir beneran nyampe,4,,"{'label': 'negative', 'score': 0.999908447265625}",negative
+satu komen ngaku shopee jangan ladenin skem soal,8,,"{'label': 'negative', 'score': 0.934360921382904}",negative
+kemarin waktu beli kak ken punya habis beneran kirim memang kirim shopee lamban sekali paham kerja makin bagus,18,,"{'label': 'negative', 'score': 0.9600357413291931}",negative
+bang gimane bang kirim sekarang tanggal april bom nyampe kali follow hasil sama sekali malah paket retur mohon kerja bener kalau mau kena cancel jamaah,25,,"{'label': 'negative', 'score': 0.9999037981033325}",negative
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+admin cek,2,,"{'label': 'neutral', 'score': 0.999854564666748}",neutral
+tanggung jawab jangan nama doang care,6,,"{'label': 'negative', 'score': 0.9998737573623657}",negative
+tanggung jawab admin punya hilanh pakai voc,7,,"{'label': 'negative', 'score': 0.9996738433837891}",negative
+shopeepay error top jam masuk masuk,6,,"{'label': 'negative', 'score': 0.9997264742851257}",negative
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+kak maaf buat risau soal kendala login shopee selalu beri layan baik semua guna aku bantu kakak infoin aku detail kak aku tunggu terima kasih,25,,"{'label': 'neutral', 'score': 0.9756105542182922}",neutral
+hai kak galmonin maaf yaa kait kendala kamu alami jangan khawatir yaa biar aku bantu lanjut infoin username detail kendala kamu aku lalu have nice day,26,,"{'label': 'neutral', 'score': 0.9834262132644653}",neutral
+topup shopeepay lewat mbanking kok masuk saldo jam masuk tanya kata suruh nunggu terus gimana woy,16,,"{'label': 'negative', 'score': 0.999855637550354}",negative
+admin aku habis kena tipu bayar shopeepay qris dana proses,10,,"{'label': 'negative', 'score': 0.9998878240585327}",negative
+tadi aku nemu komen kata shopeepay plus cuma kali kak,10,,"{'label': 'neutral', 'score': 0.9998905658721924}",neutral
+kasi admin kakak heheee,4,,"{'label': 'neutral', 'score': 0.9996781349182129}",neutral
+syarat penuh klaim shopeepay thr apa yaa,7,,"{'label': 'neutral', 'score': 0.9998691082000732}",neutral
+kak iinii budi maaf buat khawatir kait kendala kakak kece lanjut info detail kendala username kendala aku tunggu,18,,"{'label': 'neutral', 'score': 0.9998657703399658}",neutral
+kalau kendala kamu hubung aku lalu sosial media shopee kak kirim kendala stay safe,14,,"{'label': 'neutral', 'score': 0.9998719692230225}",neutral
+kak maaf kait kendala aplikasi kamu aku infoin pastiin jaring internet kamu stabil aplikasi shopee kamu versi baru kamu clear cache lalu logout login coba kala dlm jam,28,,"{'label': 'neutral', 'score': 0.9975700974464417}",neutral
+shopeepay aku buka pas buka link thr siang,8,,"{'label': 'neutral', 'score': 0.9998762607574463}",neutral
+shopeepayku error mulu plisss tidak bisa klik apa apaa tolongin,10,,"{'label': 'negative', 'score': 0.9999178647994995}",negative
+admin gimana solusi paket batal sistem sama pihak gara barang telat antar alamat,13,,"{'label': 'negative', 'score': 0.9999163150787354}",negative
+orang terima sisa orang terima total orang,7,,"{'label': 'neutral', 'score': 0.9995976090431213}",neutral
+kak baenilbee maaf buat khawatir aku balas satu per satu yaa mohon sedia kamu tunggu aku balas segera,18,,"{'label': 'neutral', 'score': 0.999833345413208}",neutral
+kak itsjustlany maaf buat kecewa shopee selalu beri layan baik semua guna aku bantu kendala kakak infoin aku username halaman spaylater kamu tunggu kak sehat selalu,26,,"{'label': 'positive', 'score': 0.9982459545135498}",positive
+mohon cek ditindaklanjuti,3,,"{'label': 'neutral', 'score': 0.999876856803894}",neutral
+kak ventchive maaf buat kecewa shopee selalu beri layan baik semua guna aku bantu kece kendala kakak infoin aku detail transaksi kendala tunggu kak stay healthy,26,,"{'label': 'positive', 'score': 0.9980850219726562}",positive
+mohon cek,2,,"{'label': 'neutral', 'score': 0.9998551607131958}",neutral
+halo laku top wallet dana shopeepay jam lalu sedang proses status mohon segera ditindaklanjuti,14,,"{'label': 'neutral', 'score': 0.9998999834060669}",neutral
+apabila kendala kakak beri review lalu sehat selalu,8,,"{'label': 'neutral', 'score': 0.9826611876487732}",neutral
+kak hendra balikin maaf kendala aku infoin kakak ikutin langkah ikut buat unlink vouchernya buka shopefood gitu klik paket voucher gitu pilih paket gitu buka paket batal,27,,"{'label': 'neutral', 'score': 0.9974420070648193}",neutral
+kak trash maaf buat kecewa shopee selalu beri layan baik semua guna aku bantu kece kendala kakak infoin aku detail transaksi kendala tunggu kak stay healthy,26,,"{'label': 'negative', 'score': 0.55839604139328}",negative
+admin mau tanya tiba potong shopee food padahal pesan apa,10,,"{'label': 'neutral', 'score': 0.9998816251754761}",neutral
+mau klaim thr shopeepay pas mencet layar putih doang padahal jaring bagus kentank,13,,"{'label': 'negative', 'score': 0.9502171277999878}",negative
+hai smktxs cikoet maaf buat kamu nyaman kait kirim pesan aku saranin kamu tunggu estimasi tiba lebih kece mohon informasi detail kendala via sosmed stay healthy,26,,"{'label': 'neutral', 'score': 0.9998588562011719}",neutral
+mau apasih admin kemarin sekarang tidak bisa,7,,"{'label': 'negative', 'score': 0.9998900890350342}",negative
+kak aku top mbca kali kok masuk yaa padahal mutasi potong bantu lumayan soal,14,,"{'label': 'negative', 'score': 0.9930652379989624}",negative
+kata cuma klaim sekali,4,,"{'label': 'negative', 'score': 0.9997995495796204}",negative
+samaaa,1,,"{'label': 'positive', 'score': 0.9998452663421631}",positive
+samaa ihh,2,,"{'label': 'negative', 'score': 0.9995095729827881}",negative
+cuma sekali klaim,3,,"{'label': 'neutral', 'score': 0.9889512658119202}",neutral
+aku tidak bisa klaim shopeepay thr gratis penuh syarat,9,,"{'label': 'neutral', 'score': 0.999798595905304}",neutral
+admin sopipay aku potong pesan bayar,6,,"{'label': 'negative', 'score': 0.9790953397750854}",negative
+sekarang cuma klaim shopeepay thr sekali doang,7,,"{'label': 'neutral', 'score': 0.99982088804245}",neutral
+sekarang shoopepay thr cuma klaim sekali doang dah gaseru,9,,"{'label': 'negative', 'score': 0.9998311996459961}",negative
+telat sekali,2,,"{'label': 'negative', 'score': 0.9999204874038696}",negative
+mau,1,,"{'label': 'positive', 'score': 0.9998701810836792}",positive
+terima kasih atas info,4,,"{'label': 'neutral', 'score': 0.9922530055046082}",neutral
+aku telat kayak wkwk,4,,"{'label': 'negative', 'score': 0.9998973608016968}",negative
+aku mau ding kaa,4,,"{'label': 'positive', 'score': 0.8231887817382812}",positive
+wow mauu dongg,3,,"{'label': 'negative', 'score': 0.9997678399085999}",negative
+aku mau ini,3,,"{'label': 'positive', 'score': 0.9987820982933044}",positive
+yah telat deh aku,4,,"{'label': 'negative', 'score': 0.9999182224273682}",negative
+mohh,1,,"{'label': 'negative', 'score': 0.994817316532135}",negative
+mau,1,,"{'label': 'positive', 'score': 0.9998701810836792}",positive
+seru sekali sih,3,,"{'label': 'positive', 'score': 0.9999569654464722}",positive
+yah tau tadi coba,4,,"{'label': 'neutral', 'score': 0.9965575933456421}",neutral
+chat kak aku dlu refund,5,,"{'label': 'neutral', 'score': 0.9998934268951416}",neutral
+allah kemarin ngewar tiket kai access udahlah timeout jadwal sedia sekarang malah saldo sedot payment gagal plss lahhh walo cuma batagor bungkus solusi deh admin,25,,"{'label': 'negative', 'score': 0.9995861649513245}",negative
+yah sayang sekali baru liat,5,,"{'label': 'negative', 'score': 0.9756010174751282}",negative
+terima kasih atas info,4,,"{'label': 'neutral', 'score': 0.9922530055046082}",neutral
+telat deh,2,,"{'label': 'negative', 'score': 0.9999169111251831}",negative
+otw jadi balap thr,4,,"{'label': 'neutral', 'score': 0.9998459815979004}",neutral
+wihh coba,2,,"{'label': 'positive', 'score': 0.9998899698257446}",positive
+aku mau donggg thr,4,,"{'label': 'positive', 'score': 0.9802181720733643}",positive
+waaa seger sekali thrnyaa,4,,"{'label': 'positive', 'score': 0.9999552965164185}",positive
+mau thr,2,,"{'label': 'negative', 'score': 0.9795241951942444}",negative
+limit kali kaa aku mulung shopeepay tidak bisa lagi,9,,"{'label': 'negative', 'score': 0.9998996257781982}",negative
+iyaaaa woi,2,,"{'label': 'negative', 'score': 0.9998941421508789}",negative
+sama,1,,"{'label': 'positive', 'score': 0.9995618462562561}",positive
+wah sih kak,3,,"{'label': 'negative', 'score': 0.9988458156585693}",negative
+wahh mau,2,,"{'label': 'positive', 'score': 0.9998562335968018}",positive
+tidak bisa kak akuu,4,,"{'label': 'negative', 'score': 0.9999033212661743}",negative
+yah aku shopeepay,3,,"{'label': 'neutral', 'score': 0.9998377561569214}",neutral
+aku mau bangttt,3,,"{'label': 'positive', 'score': 0.9999045133590698}",positive
+wahh mau kak hehehe,4,,"{'label': 'positive', 'score': 0.9904088973999023}",positive
+wihh kerenn sihh,3,,"{'label': 'positive', 'score': 0.9999473094940186}",positive
+yah,1,,"{'label': 'positive', 'score': 0.9927607774734497}",positive
+aku mau admin,3,,"{'label': 'neutral', 'score': 0.9991808533668518}",neutral
+aku mau sekali sihh,4,,"{'label': 'positive', 'score': 0.9997289776802063}",positive
+wah mau,2,,"{'label': 'positive', 'score': 0.9997445940971375}",positive
+iya benr bangett sih yaaa,5,,"{'label': 'negative', 'score': 0.9997746348381042}",negative
+wah mau aku kakkk,4,,"{'label': 'positive', 'score': 0.9994910955429077}",positive
+bagi sih,2,,"{'label': 'positive', 'score': 0.9619282484054565}",positive
+aku telat,2,,"{'label': 'negative', 'score': 0.9999154806137085}",negative
+iya bener sekali sih,4,,"{'label': 'positive', 'score': 0.9996066689491272}",positive
+nah seru sekali sih,4,,"{'label': 'positive', 'score': 0.9999555349349976}",positive
+wah lumayan banget nihh,4,,"{'label': 'positive', 'score': 0.999900221824646}",positive
+aku mau thr,3,,"{'label': 'neutral', 'score': 0.9995928406715393}",neutral
+wahh telatt banget aku,4,,"{'label': 'negative', 'score': 0.9999189376831055}",negative
+duhh aku telat,3,,"{'label': 'negative', 'score': 0.9999154806137085}",negative
+keduluan nii admin,3,,"{'label': 'negative', 'score': 0.9997523427009583}",negative
+wah mau,2,,"{'label': 'positive', 'score': 0.9997445940971375}",positive
+bentar kak,2,,"{'label': 'neutral', 'score': 0.8599294424057007}",neutral
+aku sih kak,3,,"{'label': 'positive', 'score': 0.9997676014900208}",positive
+wah,1,,"{'label': 'positive', 'score': 0.9997101426124573}",positive
+woahhh mau coba,3,,"{'label': 'negative', 'score': 0.8536972999572754}",negative
+sih aku kak,3,,"{'label': 'positive', 'score': 0.39313456416130066}",positive
+yudah telat banget aku,4,,"{'label': 'negative', 'score': 0.9999204874038696}",negative
+yah sayang sekali ush telatt,5,,"{'label': 'negative', 'score': 0.9999043941497803}",negative
+wah mantap aku mau,4,,"{'label': 'positive', 'score': 0.9999566078186035}",positive
+kak,1,,"{'label': 'positive', 'score': 0.9993162155151367}",positive
+deh mah,2,,"{'label': 'positive', 'score': 0.9996659755706787}",positive
+makasih kak,2,,"{'label': 'positive', 'score': 0.9999032020568848}",positive
+otw buru thr wkwk,4,,"{'label': 'neutral', 'score': 0.9995973706245422}",neutral
+aku mau sekali,3,,"{'label': 'positive', 'score': 0.9998883008956909}",positive
+nah bener tuh,3,,"{'label': 'positive', 'score': 0.9997513890266418}",positive
+makasih banyak kak info,4,,"{'label': 'neutral', 'score': 0.998907208442688}",neutral
+oke otw,2,,"{'label': 'positive', 'score': 0.6795592904090881}",positive
+yahh kalah gercep aku mbak,5,,"{'label': 'negative', 'score': 0.999875545501709}",negative
+aku mauuu thr,3,,"{'label': 'positive', 'score': 0.9996222257614136}",positive
+cba checkout toko kak bagi toko,6,,"{'label': 'neutral', 'score': 0.9998877048492432}",neutral
+kak aku kemarin claim apa kok dibatesin,7,,"{'label': 'negative', 'score': 0.996832549571991}",negative
+gaiss yaa pdhl akun hubung shopepay akun hapus permanen akun begini,11,,"{'label': 'negative', 'score': 0.999765932559967}",negative
+hai kak triwpt maaf buat kakak nyaman guna shopeepay laku isi saldo lalu virtual account beberapa bank kena biaya admin mulai potong langsung nominal total isi saldo sebut bijak,29,,"{'label': 'neutral', 'score': 0.9997537732124329}",neutral
+kak,1,,"{'label': 'positive', 'score': 0.9993162155151367}",positive
+mau donggg,2,,"{'label': 'positive', 'score': 0.9533752799034119}",positive
+langsung otw gwwww,3,,"{'label': 'neutral', 'score': 0.9998347759246826}",neutral
+tau banget thr,3,,"{'label': 'positive', 'score': 0.9997802376747131}",positive
+buat,1,,"{'label': 'positive', 'score': 0.9999134540557861}",positive
+tuju poll klu thr shopeepay guys mumpung mau lebaran buru kuyy gaspoll cos limited loh,15,,"{'label': 'neutral', 'score': 0.9998902082443237}",neutral
+gaisss mau thr yuk klaim sini,6,,"{'label': 'neutral', 'score': 0.9953095316886902}",neutral
+wewww sama kakkk,3,,"{'label': 'positive', 'score': 0.9994845390319824}",positive
+sama kakkk,2,,"{'label': 'positive', 'score': 0.9998264908790588}",positive
+sama kakkkk,2,,"{'label': 'positive', 'score': 0.9997368454933167}",positive
+yeyyyy sama kakk,3,,"{'label': 'positive', 'score': 0.9998026490211487}",positive
+senang bangetttt aku barusan kalian klik sih,7,,"{'label': 'positive', 'score': 0.9999459981918335}",positive
+yuk mau thr thr buat kalian segera klaim habis,9,,"{'label': 'neutral', 'score': 0.999893307685852}",neutral
+guys aku kasih tau shoppepay thr buat kamu nah klik buru jangan lewat,13,,"{'label': 'neutral', 'score': 0.9998911619186401}",neutral
+mau sekali thr gas,4,,"{'label': 'negative', 'score': 0.9989932179450989}",negative
+guys yuk ikut klaim thr sini yaa,7,,"{'label': 'neutral', 'score': 0.9998979568481445}",neutral
+ayo guys aku thrnya kalian ayo ikut,7,,"{'label': 'neutral', 'score': 0.999768078327179}",neutral
+asoyy aku bagi thr shopee pay makasii mimin,8,,"{'label': 'positive', 'score': 0.999879002571106}",positive
+alhamdulillah shopeepay thr mksih,4,,"{'label': 'positive', 'score': 0.9998822212219238}",positive
+habis apa shopeepay kurang,4,,"{'label': 'negative', 'score': 0.9998430013656616}",negative
+terimakasih kak shoopepay thr aku terima asikkk lumayan buat isi pulsa aku,12,,"{'label': 'positive', 'score': 0.999940037727356}",positive
+alhamdulillah aku lumayan trimakasih kak shopeepay thr,7,,"{'label': 'positive', 'score': 0.9995040893554688}",positive
+mantappp admin,2,,"{'label': 'positive', 'score': 0.9999575614929199}",positive
+alhamdulilah shopeepay thr mkasih,4,,"{'label': 'positive', 'score': 0.999923586845398}",positive
+yess shopeepay thr darat akun langsung pikir mau checkout wishlist lama nganggur,12,,"{'label': 'negative', 'score': 0.9599880576133728}",negative
+akuuu,1,,"{'label': 'positive', 'score': 0.9999521970748901}",positive
+aku mauuu,2,,"{'label': 'positive', 'score': 0.9999383687973022}",positive
+lumayan saldo buat jajan receh thank you kak,8,,"{'label': 'neutral', 'score': 0.999711811542511}",neutral
+yeyyy dapettt mayan buat beli cilok,6,,"{'label': 'positive', 'score': 0.9984514713287354}",positive
+kakk tuh buat baru install jam tadi yaa,8,,"{'label': 'neutral', 'score': 0.9998452663421631}",neutral
+kakk buat user baru donlot jam sore kaak,8,,"{'label': 'negative', 'score': 0.9990906715393066}",negative
+yeyyy alhamdulillah,2,,"{'label': 'positive', 'score': 0.9999494552612305}",positive
+alhamdulillah dapett lumayan,3,,"{'label': 'positive', 'score': 0.9999363422393799}",positive
+yah asik,2,,"{'label': 'positive', 'score': 0.9999595880508423}",positive
+yahh telat aku,3,,"{'label': 'negative', 'score': 0.9999079704284668}",negative
+aku mau kalau banyak,4,,"{'label': 'positive', 'score': 0.9995812773704529}",positive
+okee otww mbak,3,,"{'label': 'positive', 'score': 0.9991255402565002}",positive
+kakk aku liat cuma buat orang orang baru install yah,10,,"{'label': 'neutral', 'score': 0.9418875575065613}",neutral
+mau donggg mayan buat lebarannnn,5,,"{'label': 'positive', 'score': 0.7182233333587646}",positive
+aku mauuuu thr banyakkk,4,,"{'label': 'positive', 'score': 0.9982753992080688}",positive
+iya jelas banget anjir shopee kemaren,6,,"{'label': 'negative', 'score': 0.9996114373207092}",negative
+otw balap thrrrrr,3,,"{'label': 'negative', 'score': 0.9975833892822266}",negative
+mauuu otwwww,2,,"{'label': 'positive', 'score': 0.9884782433509827}",positive
+download dulu buruuu,3,,"{'label': 'negative', 'score': 0.9998866319656372}",negative
+wuiiiih akhirnyaaa tunggu tunggu,4,,"{'label': 'positive', 'score': 0.9998956918716431}",positive
+@intanorii @ShopeePay_ID Knp ini?,4,,"{'label': 'neutral', 'score': 0.8840481042861938}",neutral
+wahh dapettt alhamdulillah,3,,"{'label': 'positive', 'score': 0.9999402761459351}",positive
+kalau penuh syarat tuh,4,,"{'label': 'positive', 'score': 0.9790940880775452}",positive
+@ShopeePay_ID gak bisa,3,,"{'label': 'neutral', 'score': 0.968176543712616}",neutral
+kok tidak bisa klaim sih admin,6,,"{'label': 'negative', 'score': 0.99967360496521}",negative
+kak tidak ada,3,,"{'label': 'negative', 'score': 0.9998852014541626}",negative
+mumpung bentar lebaran rame gasiiii thr aku mau pakai shopeepay kejut nila total buat kalian semua mau langsung klik link yaaaa waktu batas,23,,"{'label': 'negative', 'score': 0.8469148874282837}",negative
+siapa mau thr mumpung bentar lebaran aku mau kejut shopeepay thr gratis tinggal klik link guys total buat kamu pastiin kalian punya aplikasi shopeepay yaa hihi good luck waktu batas,30,,"{'label': 'positive', 'score': 0.9994537234306335}",positive
+siapa mau thr gas merapattt aku mau saldo buat kalian untung klik link bawah yakk kejut shopeepay thr gratis total buat kamu pastiin kalian punya aplikasi shopeepay yah hihi buru klik waktu batas,33,,"{'label': 'positive', 'score': 0.999116837978363}",positive
+@aiursriees @ShopeePay_ID @ShopeeID eh knp si itu al,8,,"{'label': 'negative', 'score': 0.9982672929763794}",negative
+menit lalu,2,,"{'label': 'neutral', 'score': 0.9987687468528748}",neutral
+thr aku,2,,"{'label': 'negative', 'score': 0.9793565273284912}",negative
+dah nyimpen duit shopeepay,4,,"{'label': 'neutral', 'score': 0.9998695850372314}",neutral
+sumpah tidak jelas banget ajg kali tiba notif transaksi hasil sfood padahal gua ngapa mesen apa rebu paan sfood,19,,"{'label': 'negative', 'score': 0.999895453453064}",negative
+hari nyoba shopeefood sedang cari driver mulu jam jam gadapet jelek banget buset sistem kamu perbaikin dah cepat,18,,"{'label': 'negative', 'score': 0.9999147653579712}",negative
+admin kok punya aku gabisaa,5,,"{'label': 'negative', 'score': 0.9999006986618042}",negative
+orang cepat,2,,"{'label': 'positive', 'score': 0.9999059438705444}",positive
+klik url dapat thr gratis saldo total,7,,"{'label': 'neutral', 'score': 0.9998906850814819}",neutral
+iyaa sumpah kok claim cuma kuota banyak banget beneran budget shopee apa bagaimana,13,,"{'label': 'negative', 'score': 0.9993698000907898}",negative
+plis aku jugaaa kenapaa,4,,"{'label': 'negative', 'score': 0.9997987151145935}",negative
+kok aku tidak bisa klaim shopeepay thr gratis penuh syarat mulu,11,,"{'label': 'negative', 'score': 0.9998996257781982}",negative
+admin kok klaim thr thr shopeepay teman,7,,"{'label': 'neutral', 'score': 0.9998821020126343}",neutral
+klinik link baru mau ngecek shopeepay notif begituu,8,,"{'label': 'neutral', 'score': 0.9986750483512878}",neutral
+admin aku bingung,3,,"{'label': 'negative', 'score': 0.9999053478240967}",negative
+makas thr,2,,"{'label': 'negative', 'score': 0.9924811124801636}",negative
+coba pakai link gais,4,,"{'label': 'neutral', 'score': 0.9997619986534119}",neutral
+shopeepay dah error begini,4,,"{'label': 'negative', 'score': 0.9999138116836548}",negative
+thr shopeepay kok cuma sih seru,6,,"{'label': 'positive', 'score': 0.9998834133148193}",positive
+inituh cara ngatasin shopee pay thr kayak gin tidak bisa klaim gimana deh,13,,"{'label': 'negative', 'score': 0.9990636706352234}",negative
+shaoqi abdullah laku mesan tiket kai dna bayar lewat shopee pay transaksi kai acess kok mohon bantu terima kasih,19,,"{'label': 'neutral', 'score': 0.9998154044151306}",neutral
+selamat siap shopee pay shaoqi abdullah laku bayar tiket kai acess lalu shopee pey terapi transaksi kai acess kok,19,,"{'label': 'positive', 'score': 0.9997010231018066}",positive
+masuk gopay anjrit,3,,"{'label': 'negative', 'score': 0.9998879432678223}",negative
+duit balik,2,,"{'label': 'negative', 'score': 0.9998579025268555}",negative
+kak jawab temenku tiba transfer airpay,6,,"{'label': 'neutral', 'score': 0.9998962879180908}",neutral
+kak tiap mau top shopeepay tuh nomernya bener tidak bisa katany salah coba terus gagal,15,,"{'label': 'negative', 'score': 0.9996848106384277}",negative
+iyeeee cuekkkkk,2,,"{'label': 'negative', 'score': 0.9999037981033325}",negative
+kakkk sorry jbjb aku giniiii barusan sekali nggehnya,8,,"{'label': 'negative', 'score': 0.9998125433921814}",negative
+reject kaak punya bikin lapor sana sini huhu follow terus,10,,"{'label': 'negative', 'score': 0.9998831748962402}",negative
+buat lapor sana sini kak huhuh,6,,"{'label': 'negative', 'score': 0.9997826218605042}",negative
+jam transfer shopepay dana status sedang proses terus aneh banget gimana tolongin,12,,"{'label': 'negative', 'score': 0.999911904335022}",negative
+cek bos,2,,"{'label': 'neutral', 'score': 0.9996204376220703}",neutral
+kak laku transfer shopeepay rek bank jam masuk,8,,"{'label': 'neutral', 'score': 0.9998922348022461}",neutral
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+kak lafstchoice maaf buat kakak resah kait kendala akun kakak sebut karena sistem deteksi ada janggal aktivitas akun kamu kece lanjut info detail kendala kendala kakak sosmed,27,,"{'label': 'neutral', 'score': 0.9997681975364685}",neutral
+mitra saling untung,3,,"{'label': 'positive', 'score': 0.9999545812606812}",positive
+kak cek,2,,"{'label': 'neutral', 'score': 0.999864935874939}",neutral
+hae cek,2,,"{'label': 'negative', 'score': 0.9989620447158813}",negative
+padahal off lama kaget betul tiba saldo shopeepay lumayan buat nambahin service motor thanks sekali,15,,"{'label': 'negative', 'score': 0.9987322688102722}",negative
+woi jangan gin jangan enak kasih kerja orang bukan robot pikirin bensin driver sama cust nunggu pantes suka lama kalau nunggu shopeefood instan kirain drivernya eror trnyt sistem benerin,29,,"{'label': 'negative', 'score': 0.9999074935913086}",negative
+kakak bagaimana lanjut apa masuk,5,,"{'label': 'negative', 'score': 0.9092275500297546}",negative
+kalian benar terlalu,3,,"{'label': 'negative', 'score': 0.9999145269393921}",negative
+hari bayar pakai shopeepay sih muat fitur teruuuusss lanjur ngisi saldo pakai,12,,"{'label': 'positive', 'score': 0.9988896250724792}",positive
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+kak butuh jelas,3,,"{'label': 'neutral', 'score': 0.5926286578178406}",neutral
+admin cek terima kasih,4,,"{'label': 'neutral', 'score': 0.9998646974563599}",neutral
+gimana,1,,"{'label': 'negative', 'score': 0.996137797832489}",negative
+temen hari hampir tipu sekarang telpon sih sama tipu,9,,"{'label': 'negative', 'score': 0.9999133348464966}",negative
+kak vanvajar maaf buat kecewa shopee selalu beri layan baik semua guna aku bantu kece kendala kakak infoin aku username pesan tunggu kak sehat selalu,25,,"{'label': 'positive', 'score': 0.9986774325370789}",positive
+gimana shopee bom kena batas kayak gin apa emang perlu bantu baik sistem paket tahan hari semarang kira apa hilang paket,21,,"{'label': 'negative', 'score': 0.9998724460601807}",negative
+hai kak stroberikis maaf buat kamu nyaman kendala kamu alami biar aku bantu kece kamu infoin detail kendala kamu social media kak moga kendala kamu segera selesai yaa kak sehat selalu,31,,"{'label': 'positive', 'score': 0.5705515146255493}",positive
+hai kak chocoyeppeo maaf bikin kakak nyaman kait kendala kakak aku bantu infoin aku detail kendala kakak lalu sehat selalu,20,,"{'label': 'positive', 'score': 0.9974237680435181}",positive
+request sih skinnya,3,,"{'label': 'neutral', 'score': 0.9984930753707886}",neutral
+official,1,,"{'label': 'positive', 'score': 0.9998652935028076}",positive
+transaksi apa saldo selalu potong buat bayar shopeefood pernah order apa kamu mikirlah gila bayar apa shopeefood begini,18,,"{'label': 'negative', 'score': 0.9997766613960266}",negative
+aku bantu lanjut kait kndala kamu infoinn username detail kndala kamu via social media sehat selalu kak,17,,"{'label': 'neutral', 'score': 0.9910486936569214}",neutral
+kak maaf atas kendala mnggunakan metode bayar shopeepay aku saran saldo kamu penuh biaya lain harga normal barang,18,,"{'label': 'neutral', 'score': 0.9998914003372192}",neutral
+kece lanjut infoin username nomor pesan lalu sehat slalu,9,,"{'label': 'positive', 'score': 0.9260926842689514}",positive
+kak vanvajar mohon maaf kait pesan kamu mohon sedia tunggu lebih pesan kakak sesuai estimasi aplikasi kak,17,,"{'label': 'neutral', 'score': 0.9998999834060669}",neutral
+bawa ribet anying,3,,"{'label': 'negative', 'score': 0.9999080896377563}",negative
+shopee apa apa kayak gin paket hari semarang bner apa raib barang,12,,"{'label': 'negative', 'score': 0.9998995065689087}",negative
+punya tidak bisa,3,,"{'label': 'negative', 'score': 0.9998950958251953}",negative
+niat balik tampil admin,4,,"{'label': 'positive', 'score': 0.972569465637207}",positive
+apa apa shopeepay transfer hampir hari status proses terus,9,,"{'label': 'neutral', 'score': 0.9993124008178711}",neutral
+lalu layan live chat aplikasi seabank karena perlu verifikasi data laku lalu sosial media moga kendala kamu segera selesai terima kasih,21,,"{'label': 'neutral', 'score': 0.9998916387557983}",neutral
+hai sobat seabank mohon maaf atas ketidaknyamanannya kait kendala transaksi kamu alami minsea saran kamu hubung seabank lalu layan telepon,20,,"{'label': 'neutral', 'score': 0.999864935874939}",neutral
+tadi gagal terus bayar pesan metode bayar guna seabank yaa jadi pesan aku status tunggu bayar sayang sekali saldo seabank kalau gagal terus pas mau bayar pesanannyaa,27,,"{'label': 'negative', 'score': 0.9997696280479431}",negative
+fyi seller kamu banyak manipulasi berat sama ukur anjing tai jadi kamu percuma nyantumin embel embel bakal ngebatasin berat,19,,"{'label': 'negative', 'score': 0.999913215637207}",negative
+perhatiin mitra kamu jalan gimana susah bawa barang gimana terus kamu tambahin jadi gila sih kamu kata gua kira naik odong odong kali,23,,"{'label': 'negative', 'score': 0.9998972415924072}",negative
+kamu sinting bawa sameday max gabung ribetnya minta ampun terus sekarang kamu tambah jadi max gila kamu anjing kamu bego kamu,21,,"{'label': 'negative', 'score': 0.9999203681945801}",negative
+asli deh maintenance jam jam sahur,6,,"{'label': 'positive', 'score': 0.9974830746650696}",positive
+admin buat saur ettdahhh gimana cerita pakai,7,,"{'label': 'neutral', 'score': 0.767043948173523}",neutral
+tidak bisa buat beli saur pakai dah,7,,"{'label': 'negative', 'score': 0.9993768334388733}",negative
+error tidak bisa saur dah,5,,"{'label': 'negative', 'score': 0.9999017715454102}",negative
+admin cek,2,,"{'label': 'neutral', 'score': 0.999854564666748}",neutral
+kamu jelek banget pls mau beli sahur,7,,"{'label': 'negative', 'score': 0.9999220371246338}",negative
+bayar kak,2,,"{'label': 'positive', 'score': 0.997621476650238}",positive
+admin ganggu apa sii,4,,"{'label': 'negative', 'score': 0.9999170303344727}",negative
+iya tadi,2,,"{'label': 'neutral', 'score': 0.9079863429069519}",neutral
+bca ganggu apa bagaimana kok isi saldo shopee bca mobile kata kode usaha tak daftar apa shopee ganggu,18,,"{'label': 'negative', 'score': 0.9999008178710938}",negative
+halooo urgent masa isi shopeepay kali mana potong otomatis rupiah tiap ngisi jangan pelit,14,,"{'label': 'neutral', 'score': 0.987834095954895}",neutral
+kak maaf buat kendala kait saldo shopeepay kamu biar aku bantu infoin detail kendala kamu yaa terimakasih,17,,"{'label': 'neutral', 'score': 0.9998934268951416}",neutral
+saldo shopeepay selalu potong shopeefood padahal lama tidak ada transaksi shopeefood,11,,"{'label': 'neutral', 'score': 0.9994841814041138}",neutral
+kak jendeouki maaf buat kakak ganyaman kait kendala alami aku bantu lanjut kena kendala transaksi shopeepay kamu yuk infoin bukti transaksi username tunggu,23,,"{'label': 'neutral', 'score': 0.9998430013656616}",neutral
+capee sekali nungguin top hari buseet bolak balik kirim data sekarang ribet habis suruh nglampirin surat resmi pihak bank kalau hasil lepas dana buat top gmnaa sihh sbenernya uang kmana hasil top bilang dana masuk,35,,"{'label': 'negative', 'score': 0.9999072551727295}",negative
+donk gerak cepat bales hari nyoba masuk akun gua minta kode otp tadi siang teror telpon atas namakn pihak shopee bagaimana donk kamu kok bocor sih data diri gua aneh,30,,"{'label': 'negative', 'score': 0.9999164342880249}",negative
+belum aku balas aku terima kasih,6,,"{'label': 'positive', 'score': 0.9759875535964966}",positive
+cek ready keset diatomite kotak anti slip keset kamar mandi keset lantai serap air motif bunga keset kaki kamar mandi anti slip bau serap air harga dapat shopee sekarang,29,,"{'label': 'neutral', 'score': 0.9997351765632629}",neutral
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+admin aku mau topup shopeepay juta via brimo gagal terus aku angsur juta ribu baru ribu akhir tidak bisa admin,20,,"{'label': 'neutral', 'score': 0.9969402551651001}",neutral
+hai kak maaf atas ketidaknyamanannya kait kendala pesan kakak alami bantu cek kakak infoin username pesan social media stay safe,20,,"{'label': 'neutral', 'score': 0.9998711347579956}",neutral
+mantap sih kak,3,,"{'label': 'positive', 'score': 0.9999576807022095}",positive
+tracking masuk lokasi transit akhir malah updatenya kurir tugas seya jemput kantor malah alas masuk jadwal antar besok butuh cepat kok malah tolak,23,,"{'label': 'negative', 'score': 0.9999160766601562}",negative
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+kak togyame maaf buat kamu nyaman kait kendala kamu aku bantu infoin aku username akun shopee nomor pesan kamu melaui resmi yaa stay safe,24,,"{'label': 'neutral', 'score': 0.9998780488967896}",neutral
+kak cookie maaf buat kamu nyaman kait kendala kamu aku bantu infoin aku username nomor pesan kamu lalu resmi yaa stay safe,22,,"{'label': 'neutral', 'score': 0.9998722076416016}",neutral
+video lucu buat ngakakk,4,,"{'label': 'positive', 'score': 0.9999358654022217}",positive
+shopee error print woi,4,,"{'label': 'negative', 'score': 0.9999194145202637}",negative
+coba lihat produk,3,,"{'label': 'neutral', 'score': 0.9997127652168274}",neutral
+haloo admin semalem selasa pukul pending pagi masuk admin gimanaa yaaa,11,,"{'label': 'neutral', 'score': 0.9924023151397705}",neutral
+sepill vangkeee,2,,"{'label': 'negative', 'score': 0.9999057054519653}",negative
+iyaaa aku jugaaa yaaa isi kuota adek gagal,8,,"{'label': 'negative', 'score': 0.999906063079834}",negative
+nomer hati hati,3,,"{'label': 'positive', 'score': 0.9997653365135193}",positive
+kan walletnya dana bagaimana,4,,"{'label': 'negative', 'score': 0.9998319149017334}",negative
+banyak transaksi gagal bima padahal bayar pakai shopeepay hasil saldo langsung balik malah balik duit,15,,"{'label': 'negative', 'score': 0.9998911619186401}",negative
+iih baru taau,3,,"{'label': 'negative', 'score': 0.9998145699501038}",negative
+hai kakk squismhy maaf buat risau kait kendala pesan kakak aku bantu cek aku saranin kakak infoin nomor pesan username kakak social media sehat selalu,25,,"{'label': 'neutral', 'score': 0.9987693428993225}",neutral
+hai kak rappunzellav maaf buat kakak khawatir kena pesan terima aku bantu infoin username nomor pesan lalu social media terimakasih aku tunggu,22,,"{'label': 'neutral', 'score': 0.9998608827590942}",neutral
+stop masalah plis,3,,"{'label': 'negative', 'score': 0.9999022483825684}",negative
+buka shopeepay shopee kemarin begini terus sama,7,,"{'label': 'neutral', 'score': 0.9998904466629028}",neutral
+kak zoxar maaf buat resah kait shopeepay alami shopee selalu beri layan baik semua guna aku bantu kece kendala kakak infoin aku terima kasih,24,,"{'label': 'positive', 'score': 0.9991893172264099}",positive
+kak fortunec kiez maaf buat kakak resah kait kendala pesan kakak biar aku bantu infoin username nomor pesan kak aku tunggu,21,,"{'label': 'neutral', 'score': 0.9997547268867493}",neutral
+semangat kak kerja jangan nipu bulan puasa,7,,"{'label': 'negative', 'score': 0.9156978130340576}",negative
+gimana sen paket tgl ket antar kurir rumah loh malah kembali engken mksd,13,,"{'label': 'negative', 'score': 0.9991427659988403}",negative
+gimana sen paket tgl ket antar kurir rumah loh malah kembali engken mksd,13,,"{'label': 'negative', 'score': 0.9991427659988403}",negative
+spx gimana yaaa hari kirim terus malah balik,8,,"{'label': 'negative', 'score': 0.9998340606689453}",negative
+hai sobat seabank belum mohon maaf minsea info satu akun seabank hubung satu akun shopee cara hubung akun seabank akun shopee sila ikut langkah langkah sesuai link ikut,28,,"{'label': 'neutral', 'score': 0.9998928308486938}",neutral
+iya kak bca kamu aku jam malem kemarin sekarang nyangkut,10,,"{'label': 'neutral', 'score': 0.9925575256347656}",neutral
+sih semua paket tuh sunter dulu langsung rumahhh huee butuh sekali help using spx standard,15,,"{'label': 'neutral', 'score': 0.9880815744400024}",neutral
+koin ribu hilang usai gagal membeyar biaya gara app akun shopee dua kesal sekali hobi sulit semua shopeer balik koin shopee,21,,"{'label': 'negative', 'score': 0.9999169111251831}",negative
+amp,1,,"{'label': 'negative', 'score': 0.9955986738204956}",negative
+lama sekali soal jam,4,,"{'label': 'negative', 'score': 0.9999128580093384}",negative
+aku tadi hubung kata sistem error suruh nuggu besok,9,,"{'label': 'negative', 'score': 0.9997832179069519}",negative
+bener,1,,"{'label': 'positive', 'score': 0.9999542236328125}",positive
+aku jam wkwk,3,,"{'label': 'neutral', 'score': 0.9966716766357422}",neutral
+kamu nyangkut aku jam tulis masig proses,7,,"{'label': 'negative', 'score': 0.9998383522033691}",negative
+aku tanya kata eror bank,5,,"{'label': 'negative', 'score': 0.9999151229858398}",negative
+gimana narik uang jam masuk,5,,"{'label': 'negative', 'score': 0.9996557235717773}",negative
+aku sekarang masuk,3,,"{'label': 'neutral', 'score': 0.9997703433036804}",neutral
+hai kak dianaaggr maaf buat tunggu aku segera luncur kakak kak mohon sedia tunggu selamat aktivitas kak,17,,"{'label': 'neutral', 'score': 0.9998929500579834}",neutral
+aku sama kak kakak masuk,5,,"{'label': 'neutral', 'score': 0.999883770942688}",neutral
+kemarin alami buruk kecewa pihak jasa kirim shopee shopee express,10,,"{'label': 'negative', 'score': 0.9999158382415771}",negative
+paket nasib bagaimana kak,4,,"{'label': 'negative', 'score': 0.9991095662117004}",negative
+aku top shopeepay kok masuk yaaa admin lewat mbanking mandiri huhu minnn thank you,14,,"{'label': 'neutral', 'score': 0.9871912002563477}",neutral
+mjb kak jadi masik saldo,5,,"{'label': 'negative', 'score': 0.6371445059776306}",negative
+mjb kak jadi masuk saldo,5,,"{'label': 'neutral', 'score': 0.9998865127563477}",neutral
+hai kak maaf buat kendala mimin proses mohon infoin detail kendala lalu jaga selalu rahasia data pribadi kakak waspada info kontak mengatasnamakan bni website umum akun resmi twitter bni centang emas verified,32,,"{'label': 'neutral', 'score': 0.9998630285263062}",neutral
+hai kak maaf buat kendala mimin proses mohon infoin detail kendala lalu jaga selalu rahasia data pribadi kakak waspada info kontak mengatasnamakan bni website umum akun resmi twitter bni centang emas,31,,"{'label': 'neutral', 'score': 0.9998581409454346}",neutral
+isi saldo shopee pay lewat bni masuk saldo uang rekening kurang mohon bantu,13,,"{'label': 'neutral', 'score': 0.9998654127120972}",neutral
+iya barusan top gamasuk pakai bni mobile padahal bener nama shopeenya,11,,"{'label': 'neutral', 'score': 0.9992976188659668}",neutral
+malam kak tadi isi saldo shopeepay via bni mobile banking masuk shopeepaynya padahal bukti transaksi hasil solusi bagaimana,18,,"{'label': 'neutral', 'score': 0.9994045495986938}",neutral
+halo admin barusan top shopeepay bni mobile masuk pdhl saldo kurang mutasi bagaimana,13,,"{'label': 'neutral', 'score': 0.9992357492446899}",neutral
+kamu mau kasih nilai apa shopee duit balik hari malah minta nilai bisa kendala shopeepay error gagal kali saldo sedot balikin duit aku,23,,"{'label': 'negative', 'score': 0.9999024868011475}",negative
+isok shopeepay top pakai kode otp malesi,7,,"{'label': 'neutral', 'score': 0.9998767375946045}",neutral
+rugi sekali judi online,4,,"{'label': 'negative', 'score': 0.9999221563339233}",negative
+siap kak,2,,"{'label': 'positive', 'score': 0.9999549388885498}",positive
+fitur favorit qris perlu bawa uang cash transaksi jadi efektif efisien meminimalisir jadi tipu sekarang jaman cashless ikut yuk,19,,"{'label': 'positive', 'score': 0.9998888969421387}",positive
+responnya lama sekali astagaaa,4,,"{'label': 'negative', 'score': 0.9999128580093384}",negative
+fitur shopeepay favorit beli pulsa amp,6,,"{'label': 'neutral', 'score': 0.9998421669006348}",neutral
+wow selamat,2,,"{'label': 'positive', 'score': 0.9999459981918335}",positive
+samoe kapan dana gua tahan,5,,"{'label': 'negative', 'score': 0.47867080569267273}",negative
+kak maaf buat kakak nyaman kait kendala kembali dana aku bntu cek lanjut kamu info username nomor pesan lalu aku terimakasih hubung shopee sehat selalu,25,,"{'label': 'positive', 'score': 0.9991806149482727}",positive
+semenjak download shopeepay saldo suka ambil sendiri riwayat tulis bayar shopefood padahal tidak ada transaksi shopeefood sama sekali hari sama gimana admin mohon jelas,24,,"{'label': 'neutral', 'score': 0.9965159893035889}",neutral
+fitur favorit qris perlu bawa uang cash transaksi jadi efektif efisien meminimalisir jadi tipu sekarang jaman cashless ikut yuk,19,,"{'label': 'positive', 'score': 0.9998888969421387}",positive
+fitur shopeepay aku suka qris pakai banyak tempat warung kecil kafe hits tinggal scan perlu uang tunai proses cepet sekali cocok buat suka simple mau ribet,26,,"{'label': 'positive', 'score': 0.9999445676803589}",positive
+fitur favorit qris perlu bawa uang cash transaksi jadi efektif efisien meminimalisir jadi tipu sekarang jaman cashless ikut yuk,19,,"{'label': 'positive', 'score': 0.9998888969421387}",positive
+nama org sebut pas cek get kontak barangkali kenal,9,,"{'label': 'neutral', 'score': 0.9998747110366821}",neutral
+upaya segala cara bntuan shopee buat lapor kali kali ttep tidak ada solusi,13,,"{'label': 'negative', 'score': 0.9998440742492676}",negative
+oalahhh bijak baru soal kalau top bank shopee pay punya kena admin terus masuk shopeenya kena potong hikssss btw trimssss informasi yachhhh,22,,"{'label': 'positive', 'score': 0.6785818338394165}",positive
+gratis bulan kalau gretong,4,,"{'label': 'positive', 'score': 0.9951906204223633}",positive
+aku udahhh,2,,"{'label': 'positive', 'score': 0.9998985528945923}",positive
+gua beli barang gagal saldo tarik anjirrr,7,,"{'label': 'negative', 'score': 0.9999098777770996}",negative
+kok top shopeepay sekarang potong sih anjir harus malah jadi buset kata mulai nov gratis biaya admin isi saldo admin padahal aku ngisi wehhhh,24,,"{'label': 'negative', 'score': 0.9999098777770996}",negative
+mungkin sekali tangerang kota loh masa order shopeefood dibatalin terus gara driver masalah sama shopeefood,15,,"{'label': 'negative', 'score': 0.9998776912689209}",negative
+kak aku paham apa kamu alami kait topup shopeepay kamu aku bantu cek infoin detail kendala kamu lampir bukti screenshot hasil topup kamu kak sehat selalu kak,27,,"{'label': 'positive', 'score': 0.9997817873954773}",positive
+kak aku paham apa kamu alami kait pesan aku bantu cek infoin username nomor pesan kamu kak terimakasih sehat selalu kak,21,,"{'label': 'positive', 'score': 0.9941347241401672}",positive
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+fitur scan qris semua bayar jadi mudah mana amp,9,,"{'label': 'positive', 'score': 0.9990637898445129}",positive
+kak aku paham apa kamu alami kait biaya admin topup shopeepay kamu aku bantu cek infoin detail kendala kamu serta screenshot tunjuk kendala terimakasih sehat selalu kak,27,,"{'label': 'positive', 'score': 0.9981301426887512}",positive
+admin top kok potong admin kata kalau atas potong admin,10,,"{'label': 'negative', 'score': 0.9998915195465088}",negative
+btw kemarin estimasi tgl ubah enak ubah jadi,8,,"{'label': 'neutral', 'score': 0.9994943141937256}",neutral
+ege,1,,"{'label': 'positive', 'score': 0.9999411106109619}",positive
+sama biaya tangan ongkir admin tetap tidak bisa digunain,9,,"{'label': 'neutral', 'score': 0.9993891716003418}",neutral
+qris bayar simpel cepat,4,,"{'label': 'positive', 'score': 0.9999246597290039}",positive
+masuk kakk aku suruh nunggu jam kemarin sekarang barusan dilaporin malah baru mau urus,14,,"{'label': 'negative', 'score': 0.9996652603149414}",negative
+shopeepay apa banget masa iya saldo mau dihabisin buat beli barang harga gabisaaaa mau tuhhh apaaa kocakkkk,17,,"{'label': 'negative', 'score': 0.9994632601737976}",negative
+kak maaf buat khawatir kait driver kece lanjut info detail kendala username pesan tunggu,14,,"{'label': 'neutral', 'score': 0.9992609620094299}",neutral
+hai kak aku segera luncur mohon tunggu terimakasih,8,,"{'label': 'neutral', 'score': 0.9998592138290405}",neutral
+aku admin coba cek,4,,"{'label': 'neutral', 'score': 0.999889612197876}",neutral
+hai kakak maaf uda buat nyaman kait kendala top shopeepay masuk kamu alami aku bantu kece lanjut mohon hubung beri screenshot kendala lalu social media aku tunggu,27,,"{'label': 'neutral', 'score': 0.9998788833618164}",neutral
+hai kak bikin nyman kait kendala kakak alami per tanggal juni shopee tambah biaya tangan proses checkout pastiin saldo ckup lebih subtotal jmlah produk ongkir biaya layan amp,28,,"{'label': 'neutral', 'score': 0.9997373223304749}",neutral
+hai kak mohon maaf atas ketidaknyamanan kait kendala kakak alami aku bantu infoin username screenshot bukti sebut kak stay safe gitu,21,,"{'label': 'neutral', 'score': 0.9998766183853149}",neutral
+anjir topup sopipayku uda hasil status gamasuk saldo bagaimana,9,,"{'label': 'negative', 'score': 0.9998295307159424}",negative
+sebel deh shopeepay tidak bisa digunain padahal total bayar barang saldo tidak bisa woyy gimana,15,,"{'label': 'negative', 'score': 0.9999089241027832}",negative
+stop rugi,2,,"{'label': 'positive', 'score': 0.9842049479484558}",positive
+stop judol percaya main judi online bakal bandar,8,,"{'label': 'negative', 'score': 0.9997512698173523}",negative
+klo pas mau bayar pakai shoppepay resto masuk saldo potong gimana,11,,"{'label': 'neutral', 'score': 0.9992456436157227}",neutral
+admin maksud,2,,"{'label': 'neutral', 'score': 0.6751334071159363}",neutral
+banyak kali promonya,3,,"{'label': 'positive', 'score': 0.9987145662307739}",positive
+hai kak mohon maaf atas ketidaknyamanan kait kendala topup terima sedang kendala sistem shopee sedang baik tim kait mhon mnunggu jam sjak kendala kak lbh estimasi msi terima kakak hubung aku kmbali klo,33,,"{'label': 'neutral', 'score': 0.9997159838676453}",neutral
+hai kak maaf buat nyaman kait kendala shopeepay kamu alami aku bantu cek infoin detail kendala kamu social media sehat selalu,21,,"{'label': 'neutral', 'score': 0.9943394064903259}",neutral
+hati kalau barusan jam hampir tipu suruh login gopay akhir mau mindahin ngakunya shopee,14,,"{'label': 'negative', 'score': 0.9996854066848755}",negative
+sama kak case dana sumber konfirmasi app shopeenya kak konfirmasi gimana,11,,"{'label': 'neutral', 'score': 0.9997565150260925}",neutral
+aku tadi aman kak topup shopeepay bcabluu,7,,"{'label': 'neutral', 'score': 0.9993870258331299}",neutral
+aku hari flip sama seabank aman kak cust complain pending kayanyaa,11,,"{'label': 'neutral', 'score': 0.9998078942298889}",neutral
+gimana sih top shopeepay masuk tadi siang,7,,"{'label': 'neutral', 'score': 0.9221987128257751}",neutral
+tadi aku liat error kak transaksi tadi bgtt sih,9,,"{'label': 'negative', 'score': 0.9999024868011475}",negative
+konfirmasi kak punya transaksi gagal dana otomatis balik sumber konfirmasi manual aneh kan,13,,"{'label': 'negative', 'score': 0.999908447265625}",negative
+kak maaf buat risau kait kendala pesan kamu terima kece kamu lampir username lalu kak selamat malam,17,,"{'label': 'neutral', 'score': 0.9997645020484924}",neutral
+info transaksi gagal masuk shopeepay dana gantung konfirmasi manual kembali dana cara macam apa kalau konfirmasi brarti ilang dana aneh,20,,"{'label': 'negative', 'score': 0.9998891353607178}",negative
+oalahh error kak moga cepatt masuk saldo deg degan banget aku soal uang orangg,14,,"{'label': 'negative', 'score': 0.9999055862426758}",negative
+terima kasih infoo kak rey,5,,"{'label': 'positive', 'score': 0.999362051486969}",positive
+okee thank you info kakaa,5,,"{'label': 'neutral', 'score': 0.9998458623886108}",neutral
+@tiramisudilau @ShopeeCare @ShopeePay_ID blommm,4,,"{'label': 'neutral', 'score': 0.9998514652252197}",neutral
+paling favorit fitur transfer jadi mudah transfer bebas biaya admin siapa tau rezeki kan,14,,"{'label': 'positive', 'score': 0.9999474287033081}",positive
+paling sering pakai fitur transfer bebas biaya admin mudah hayu ikut kuis moga menang,14,,"{'label': 'neutral', 'score': 0.5947854518890381}",neutral
+suka pakai fitur transfer gratis biaya admin jadi mudah klo transfer yuk ikut kuis,14,,"{'label': 'positive', 'score': 0.9998266100883484}",positive
+aku masuk kak set siang,5,,"{'label': 'neutral', 'score': 0.9998899698257446}",neutral
+top shopeepay gua masuk admin saldo potong mohon solusi,9,,"{'label': 'neutral', 'score': 0.9998798370361328}",neutral
+kak aku siang topup bank pakai shopeepay masuk masuk sekarang saldo potong bakal balik tuh duit awas kalau tahan terus ilang,21,,"{'label': 'negative', 'score': 0.9990457892417908}",negative
+admin tarik dana shopeepay rekening kok masuk jam siang tadi,10,,"{'label': 'neutral', 'score': 0.999896764755249}",neutral
+siapa tau jadi menang kan,5,,"{'label': 'positive', 'score': 0.9998713731765747}",positive
+ken menang admin,3,,"{'label': 'positive', 'score': 0.9974157810211182}",positive
+bismillah moga menang,3,,"{'label': 'positive', 'score': 0.9998239874839783}",positive
+menang yuk admin,3,,"{'label': 'positive', 'score': 0.9958065748214722}",positive
+kalau jajan sering gunain fitur shopeepay qris cepet mudah aman yuk ikut,12,,"{'label': 'positive', 'score': 0.9996628761291504}",positive
+aku jam kali transaksi sopipay kakk hasil emg tahap hasil,10,,"{'label': 'neutral', 'score': 0.9998824596405029}",neutral
+tadi jam suruh ngecek bener malah lambat,7,,"{'label': 'negative', 'score': 0.9999090433120728}",negative
+hari kerja hari kerja kira orang butuh duit nyangkut apa,10,,"{'label': 'negative', 'score': 0.9970515966415405}",negative
+siapa tau menang,3,,"{'label': 'positive', 'score': 0.9999104738235474}",positive
+menang admin sekali kali,4,,"{'label': 'neutral', 'score': 0.8717475533485413}",neutral
+mudah menang kan admin,4,,"{'label': 'positive', 'score': 0.9999468326568604}",positive
+ayo ikut siapa tau untung menang,6,,"{'label': 'positive', 'score': 0.9997895359992981}",positive
+jangan lewat ikut giveaway seru,5,,"{'label': 'negative', 'score': 0.9959006905555725}",negative
+fitur bayar shopeepaylater minim bunga fitur sat set sekali kalau perlu cepat transaksi coba siapa tau untung,17,,"{'label': 'positive', 'score': 0.8137990236282349}",positive
+takut mau pakai shopeepay,4,,"{'label': 'negative', 'score': 0.9998719692230225}",negative
+masuk topup jam,3,,"{'label': 'neutral', 'score': 0.9876296520233154}",neutral
+kaa,1,,"{'label': 'positive', 'score': 0.9967659711837769}",positive
+polow amp,2,,"{'label': 'negative', 'score': 0.9988546371459961}",negative
+moga salah satu menang oke admin,6,,"{'label': 'positive', 'score': 0.993160605430603}",positive
+yuk yuk menang admin,4,,"{'label': 'neutral', 'score': 0.9982119798660278}",neutral
+siapa tau rezeki aamin,4,,"{'label': 'positive', 'score': 0.9967766404151917}",positive
+ken menang admin,3,,"{'label': 'positive', 'score': 0.9974157810211182}",positive
+suka fitur isi pulsa bayar tagih laku bagai bayar tagih isi token listrik bayar internet hayuk ikut giveawaynya,18,,"{'label': 'neutral', 'score': 0.81354159116745}",neutral
+hai kak maaf buat kakak resah kait top shopeepay aku infoin sedang dapat kembang sistem mohon tunggu cek kala jam depan sejak transaksi nanti update hubung sehat selalu kak,29,,"{'label': 'positive', 'score': 0.9990311861038208}",positive
+hai kak maaf bikin kakak nyaman kait kendala kakak aku bantu infoin aku detail kendala dana kendala kakak lalu sehat selalu,21,,"{'label': 'positive', 'score': 0.9973260164260864}",positive
+suka pakai fitur isi pulsa bayar tagih buat beliin pulsa keluarga bayar internet isi token listrik moga rezeki,18,,"{'label': 'positive', 'score': 0.9995542168617249}",positive
+hai kak maaf buat kakak resah kait transfer shopeepay aku infoin sedang dapat kembang sistem mohon tunggu cek kala jam depan sejak transaksi nanti update hubung sehat selalu kak,29,,"{'label': 'positive', 'score': 0.9991586208343506}",positive
+kendala lebih estimasi sebut kamu lampir username amp,8,,"{'label': 'neutral', 'score': 0.9998283386230469}",neutral
+harus pas topup tuh cegah biar tau kalau maintanence kasi topup banyak malah masuk suruh nunggu pilkada kocak emg,19,,"{'label': 'negative', 'score': 0.9998776912689209}",negative
+hai kak maaf kait kendala top shopeepay aku infoin sedang kembang sistem mohon tunggu kak lama jam depan cek kala kendala aku terimakasih sehat selalu kak,26,,"{'label': 'positive', 'score': 0.9992951154708862}",positive
+duh ribet kak tau gin aku biarin seabank saldo,9,,"{'label': 'negative', 'score': 0.9998648166656494}",negative
+bener kak,2,,"{'label': 'positive', 'score': 0.9999431371688843}",positive
+ikut sip admin,3,,"{'label': 'positive', 'score': 0.9999213218688965}",positive
+bismillah jadi salah satu menang admin,6,,"{'label': 'positive', 'score': 0.9998072981834412}",positive
+okeii admin aku hubungin lewat app shopee moga cepet proses admin soal uang customer aku,15,,"{'label': 'neutral', 'score': 0.9275890588760376}",neutral
+kak kabarin aku sekarang bom masuk,6,,"{'label': 'negative', 'score': 0.999896764755249}",negative
+aku mikir gin kak takut suruh jam tuh hari kerja pusing mana topup besar,14,,"{'label': 'negative', 'score': 0.9998383522033691}",negative
+fitur suka fitur shopeepay qris buat laku bayar hari mudah cepat aman moga rezeki,14,,"{'label': 'positive', 'score': 0.9998923540115356}",positive
+sering pakai fitur shopeepay qris mudah cepat aman perlu bawa banyak uang cash yuk ikut ganya,16,,"{'label': 'positive', 'score': 0.9993129968643188}",positive
+hai kak maaf yaa buat nyaman kait kendala kamu alami aku bantu cek infoin detail kendala kendala kakak lalu yaa sehat selalu,22,,"{'label': 'positive', 'score': 0.9574739336967468}",positive
+kak maaf kak buat kamu nyaman kait kendala transfer shopeepay kamu alami aku bantu cek lanjut mohon infoin detail kendala kamu lalu social media resmi shopee yaa kak stay safe,30,,"{'label': 'neutral', 'score': 0.9998633861541748}",neutral
+kak maaf buat khawatir mhn dian tunggu jam sejak laku top kalau lewat estimasi dana masuk silah hubung aku lalu stay safe,22,,"{'label': 'neutral', 'score': 0.9998435974121094}",neutral
+hai kak maaf buat kakak nyaman keluh kakak mimin laku kece mohon infoin detail transaksi lalu kak jaga selalu rahasia data pribadi kakak waspada info kontak mengatasnamakan bni website umum akun,31,,"{'label': 'neutral', 'score': 0.9997679591178894}",neutral
+kendala lebih estimasi sebut kamu lampir username amp,8,,"{'label': 'neutral', 'score': 0.9998283386230469}",neutral
+kak maaf kait kendala transfer shopeepay terima rekening bank aku infoin sedang jadi kendala sistem shopee aku saran kamu tunggu amp,21,,"{'label': 'neutral', 'score': 0.9997401833534241}",neutral
+hai kak maaf buat kakak nyaman keluh kakak mimin laku kece mohon infoin detail transaksi lalu kak jaga selalu rahasia data pribadi kakak waspada info kontak mengatasnamakan bni website umum akun,31,,"{'label': 'neutral', 'score': 0.9997679591178894}",neutral
+kak maaf kak buat kamu nyaman kait kendala top shopeepay kamu alami aku bantu cek lanjut mohon infoin detail kendala kamu lalu social media resmi shopee yaa kak stay safe,30,,"{'label': 'neutral', 'score': 0.9998654127120972}",neutral
+hai kak maaf bikin kakak nyaman kait kendala kakak aku bantu infoin aku detail kendala dana kendala kakak lalu sehat selalu,21,,"{'label': 'positive', 'score': 0.9973260164260864}",positive
+kak maaf kak buat kamu nyaman kait kendala shopeepay kamu alami aku bantu cek lanjut mohon infoin detail kendala kamu lalu social media resmi shopee yaa kak stay safe,29,,"{'label': 'neutral', 'score': 0.9998666048049927}",neutral
+hai kak maaf bikin kakak nyaman kait kendala kakak aku bantu infoin aku detail kendala dana kendala kakak lalu sehat selalu,21,,"{'label': 'positive', 'score': 0.9973260164260864}",positive
+aku kakkk,2,,"{'label': 'positive', 'score': 0.9999428987503052}",positive
+hai kak maaf buat resah kait top shopeepay aku infoin sedang dapat kembang sistem mohon tunggu cek kala jam depan sejak laku transaksi jam kendala aku yaa kakk sehat selalu,30,,"{'label': 'positive', 'score': 0.9995946288108826}",positive
+admin cek,2,,"{'label': 'neutral', 'score': 0.999854564666748}",neutral
+masuk aku njir jam,4,,"{'label': 'negative', 'score': 0.9999017715454102}",negative
+hai kak maaf kait kendala bayar shopeepay aku infoin sedang kembang sistem mohon tunggu kak lama jam depan cek kala kendala aku terimakasih sehat selalu kak,26,,"{'label': 'positive', 'score': 0.9994930028915405}",positive
+hai kak mohon maaf atas ketidaknyamanannya sedang kembang sistem mhn tunggu cek kala jam depan lewat jam kendala silah aku kak stay safe,23,,"{'label': 'neutral', 'score': 0.9998847246170044}",neutral
+stop nipu anjeng,3,,"{'label': 'negative', 'score': 0.999907374382019}",negative
+hai kak maaf bikin kakak nyaman kait kendala kakak aku bantu infoin aku detail kendala dana kendala kakak lalu sehat selalu,21,,"{'label': 'positive', 'score': 0.9973260164260864}",positive
+kendala lebih estimasi sebut kamu lampir username amp,8,,"{'label': 'neutral', 'score': 0.9998283386230469}",neutral
+kak maaf kait kendala top shopeepay terima aku infoin sedang jadi kendala sistem shopee aku saran kamu tunggu amp screenshot bukti transaksi lalu kak terimakasih,25,,"{'label': 'neutral', 'score': 0.9998577833175659}",neutral
+kak maaf kait kendala bayar gagal bantu kece kamu lampir data username amp,13,,"{'label': 'neutral', 'score': 0.9998142123222351}",neutral
+hai kak maaf buat kakak resah kait top shopeepay aku infoin sedang dapat kembang sistem mohon tunggu cek kala jam depan sejak transaksi nanti update hubung sehat selalu kak,29,,"{'label': 'positive', 'score': 0.9990311861038208}",positive
+iya masamaaa,2,,"{'label': 'negative', 'score': 0.9998831748962402}",negative
+jam saldo kakak terima kakak bantu infoin detail kendala aku kak stay safe,13,,"{'label': 'neutral', 'score': 0.9998728036880493}",neutral
+kak maaf atas kendala jadi kendala sistem sedang tangan tim kait aku mohon sedia kakak tunggu jam sejak kakak melakukakan top,21,,"{'label': 'neutral', 'score': 0.9998898506164551}",neutral
+klo jem balik nnti otomatis kerefund sih kata chat nantiii,10,,"{'label': 'neutral', 'score': 0.9771469235420227}",neutral
+busuk emang,2,,"{'label': 'negative', 'score': 0.9999200105667114}",negative
+punya kakak masuk kak,4,,"{'label': 'neutral', 'score': 0.9998843669891357}",neutral
+punya alhamdulillah nungguin jam tadi,5,,"{'label': 'neutral', 'score': 0.8978565335273743}",neutral
+punya kakak dana masuk,4,,"{'label': 'neutral', 'score': 0.9998828172683716}",neutral
+tunggu dulu soal tadi aku jam,6,,"{'label': 'neutral', 'score': 0.9998843669891357}",neutral
+anjennkkk,1,,"{'label': 'negative', 'score': 0.9998036026954651}",negative
+heh minn upload konten begini mending benerin dulu deh sistem indonesia urgent saldo mbanking potong tidak bisa masuk shopeepay loh,20,,"{'label': 'negative', 'score': 0.9991248250007629}",negative
+sama kaa punya aku pending shopeepay seabank seabank shopeepay,9,,"{'label': 'neutral', 'score': 0.8670766949653625}",neutral
+bisa orang urgent kamu malah manfaatin situasi,7,,"{'label': 'negative', 'score': 0.9998866319656372}",negative
+aku bom masukkaa shopeepay seabank,5,,"{'label': 'neutral', 'score': 0.9998921155929565}",neutral
+terus gimana kak dana masuk jadi shopeepay,7,,"{'label': 'neutral', 'score': 0.9998823404312134}",neutral
+wkwkk,1,,"{'label': 'negative', 'score': 0.9980796575546265}",negative
+bagaimana balasaanya kak jam nii,5,,"{'label': 'negative', 'score': 0.9982957243919373}",negative
+coba lapor dichat prioritas upload bukti bayar kak masuk kode referal duh mana aku sedkit top jam masuk,18,,"{'label': 'negative', 'score': 0.9988241791725159}",negative
+gatau kak susah dihubungin,4,,"{'label': 'negative', 'score': 0.9998953342437744}",negative
+gratisin top spaynya pakai kartu debit hiks,7,,"{'label': 'positive', 'score': 0.6410768628120422}",positive
+kak mjb punya dah masuk apa saldo soal aku tadi top shopeepay masuk sekarang,14,,"{'label': 'neutral', 'score': 0.9998821020126343}",neutral
+belomm kakk,2,,"{'label': 'negative', 'score': 0.999685525894165}",negative
+samaa banget weeh,3,,"{'label': 'positive', 'score': 0.9968486428260803}",positive
+aku sama kak sekarang kakak gimana saldo masuk,8,,"{'label': 'neutral', 'score': 0.9995145797729492}",neutral
+mun cek admin,3,,"{'label': 'neutral', 'score': 0.9998469352722168}",neutral
+entah lama banget shopee,4,,"{'label': 'negative', 'score': 0.9999091625213623}",negative
+bakal aman duit masuk masuk sekarang,6,,"{'label': 'positive', 'score': 0.9996378421783447}",positive
+masuk kak punya stuck,4,,"{'label': 'negative', 'score': 0.999775230884552}",negative
+tolonggggg donggggggggggggggg cepet proses jam bank masuk shopeepay masalahmya nominal gedeeeeeeeeee,11,,"{'label': 'negative', 'score': 0.9990131855010986}",negative
+bank apa kak aku nyangkut huhu,6,,"{'label': 'negative', 'score': 0.9998929500579834}",negative
+samaaa,1,,"{'label': 'positive', 'score': 0.9998452663421631}",positive
+jam kakk huhu sekarang,4,,"{'label': 'negative', 'score': 0.9998512268066406}",negative
+halo admin transfer bank jam terima padahal saldo potong,9,,"{'label': 'neutral', 'score': 0.9997479319572449}",neutral
+woy bener masa mau komplain top malah sedia balikin duit anjay,11,,"{'label': 'negative', 'score': 0.9999128580093384}",negative
+admin cek,2,,"{'label': 'neutral', 'score': 0.999854564666748}",neutral
+awas balik saldo gwa benerin woi shopeepay error gin awas kamu,11,,"{'label': 'negative', 'score': 0.9999094009399414}",negative
+kendala pemberitahuan alhasil transfer pending,5,,"{'label': 'negative', 'score': 0.9973723888397217}",negative
+kakk berapa lama aku sejamm proses,6,,"{'label': 'negative', 'score': 0.9157299399375916}",negative
+kata masuk,2,,"{'label': 'neutral', 'score': 0.9846906065940857}",neutral
+error admin seabank masuk saldo,5,,"{'label': 'negative', 'score': 0.9981057643890381}",negative
+masuk kak saldo punya jam set masuk,7,,"{'label': 'neutral', 'score': 0.9998950958251953}",neutral
+shopeepay cepat baik buat beli tiket pending terus,8,,"{'label': 'positive', 'score': 0.9999324083328247}",positive
+sama kak dah tunggu satu jam telfon admin jawab cuman ditinggu baik,12,,"{'label': 'neutral', 'score': 0.9962775111198425}",neutral
+aku tadi jam lebihh,4,,"{'label': 'neutral', 'score': 0.8727614879608154}",neutral
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+urgent nihh,2,,"{'label': 'negative', 'score': 0.9997777342796326}",negative
+update sistem mbok pas tengah malam pas orang tidur top jam masuk shopeepay pdhal nau pakai dana terus situ mau ganti rugi,22,,"{'label': 'negative', 'score': 0.9998103976249695}",negative
+masuk shopeepay,2,,"{'label': 'neutral', 'score': 0.9998639822006226}",neutral
+nunggu berapa lamaa kakk,4,,"{'label': 'negative', 'score': 0.9995947480201721}",negative
+yakan emang monyet banget gakbisa dihubungiiii bapuk,7,,"{'label': 'negative', 'score': 0.9999184608459473}",negative
+tumben sekali gin woii,4,,"{'label': 'negative', 'score': 0.999901533126831}",negative
+aku masuk barusan coba cek kala shopeepay sama seabanknya hehe,10,,"{'label': 'neutral', 'score': 0.9998941421508789}",neutral
+haloo kak saldo masuk yaa punya aku stuck huhu,9,,"{'label': 'negative', 'score': 0.996488094329834}",negative
+klo malah mau bayar pakai shoppepay potong resto masuk gimana,10,,"{'label': 'negative', 'score': 0.8559094071388245}",negative
+habis top shopee terus langsung check out bayar nyata gagal saldo potong gimana shopee jumlah sedikit,16,,"{'label': 'negative', 'score': 0.9965895414352417}",negative
+aku top kli masuk cumn,5,,"{'label': 'positive', 'score': 0.9999345541000366}",positive
+halo admin tadi mau mesen shopeefood dicancel sistem bayar gatau terus shopeepay balik transaksi dicancel bagaimana,16,,"{'label': 'negative', 'score': 0.6092780232429504}",negative
+top shopeepay bca gamasuk anj saldo dah potong gimana duit dikit,11,,"{'label': 'negative', 'score': 0.9997286200523376}",negative
+hai kak maaf buat khawatir aku bantu cek kendala kakak lbh lanjut infoin bukti top stay safe,17,,"{'label': 'neutral', 'score': 0.9998210072517395}",neutral
+aaa emg brrti error,4,,"{'label': 'negative', 'score': 0.9999164342880249}",negative
+hai kak maaf buat resah kait top shopeepay aku infoin sedang dapat kembang sistem mohon tunggu cek kala jam depan sejak laku transaksi jam kendala aku yaa kakk sehat selalu,30,,"{'label': 'positive', 'score': 0.9995946288108826}",positive
+nyata cuma sayah top shopeepay masuk cepet resin sistem dongggg,10,,"{'label': 'negative', 'score': 0.9994367957115173}",negative
+eror nunggu berapa lama saldo masuk,6,,"{'label': 'negative', 'score': 0.9999104738235474}",negative
+hai kak maaf buat khawatir aku bantu cek kendala kakak lbh lanjut infoin bukti top stay safe,17,,"{'label': 'neutral', 'score': 0.9998210072517395}",neutral
+hallo kak mau aju komplain kait dana shopeepay masuk top lalu banking bca cek yaa kendala,16,,"{'label': 'neutral', 'score': 0.9998806715011597}",neutral
+masuk sih cumn lama sekali ancrit aku top kali masuk baru,11,,"{'label': 'negative', 'score': 0.9998652935028076}",negative
+hai kak maaf buat kakak resah kait top shopeepay aku infoin sedang dapat kembang sistem mohon tunggu cek kala jam depan sejak transaksi nanti update hubung sehat selalu kak,29,,"{'label': 'positive', 'score': 0.9990311861038208}",positive
+hai kak maaf buat khawatir aku bantu cek kendala kakak lbh lanjut infoin detail kendala stay safe,17,,"{'label': 'neutral', 'score': 0.9998235106468201}",neutral
+kirain gua doang njir,4,,"{'label': 'negative', 'score': 0.9999094009399414}",negative
+baik cek,2,,"{'label': 'neutral', 'score': 0.9998699426651001}",neutral
+sama sekali njir gmna,4,,"{'label': 'negative', 'score': 0.9999086856842041}",negative
+samaaa,1,,"{'label': 'positive', 'score': 0.9998452663421631}",positive
+sama barusan sekali uang ilang tau dah,7,,"{'label': 'negative', 'score': 0.9999107122421265}",negative
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+top shopeepay jam masuk masuk,5,,"{'label': 'neutral', 'score': 0.9998846054077148}",neutral
+kocak saldo potong gagal transaksi mau makan pls laper,9,,"{'label': 'negative', 'score': 0.9998972415924072}",negative
+nyata fenomena alam ampe kapan inihhh pending haloo,8,,"{'label': 'negative', 'score': 0.9998968839645386}",negative
+saldo dana balik,3,,"{'label': 'neutral', 'score': 0.9949483871459961}",neutral
+halo admin saldo shopeepay potong padahal status bayar gagal,9,,"{'label': 'neutral', 'score': 0.7499890923500061}",neutral
+baik sahabat mohon maaf atas ketidaknyamanannya perihal sebut mohon kirim pesan kendala alami lalu laku kece sahabat mohon jaga rahasia data perban mudah,23,,"{'label': 'neutral', 'score': 0.9997645020484924}",neutral
+error kak suruh nunggu jam,5,,"{'label': 'negative', 'score': 0.9998884201049805}",negative
+top shopeepay mandiri masuk padahal saldo potong,7,,"{'label': 'neutral', 'score': 0.9998251795768738}",neutral
+sama kali top saldo potong bca shopeepay kagak,8,,"{'label': 'neutral', 'score': 0.9997431635856628}",neutral
+baik tadi chat kata kendala,5,,"{'label': 'neutral', 'score': 0.9052697420120239}",neutral
+sekarang,1,,"{'label': 'positive', 'score': 0.7163617610931396}",positive
+sekarang,1,,"{'label': 'positive', 'score': 0.7163617610931396}",positive
+terus lanjut bagaimana tuh masuk dana waktu pakai bca,9,,"{'label': 'neutral', 'score': 0.963542640209198}",neutral
+aku transaksi gagal saldo kurang,5,,"{'label': 'negative', 'score': 0.9998838901519775}",negative
+buru benerin kocak duit mau pakai,6,,"{'label': 'negative', 'score': 0.9998935461044312}",negative
+shopee gin mulu beberapa bulan lalu aku jadi dana nyangkut pakai bca malah nyalahin pihak bank nah siang top shopeepay nyangkut pakai bni,23,,"{'label': 'negative', 'score': 0.999811589717865}",negative
+sistem emang rese lama,4,,"{'label': 'negative', 'score': 0.9999020099639893}",negative
+kurang tau kak aku sekarang masuk,6,,"{'label': 'negative', 'score': 0.9978860020637512}",negative
+baah pantesan error banyak ngalamin masuk saldo,7,,"{'label': 'negative', 'score': 0.9999139308929443}",negative
+iya heu,2,,"{'label': 'negative', 'score': 0.9994288086891174}",negative
+wah nyata masuk,3,,"{'label': 'positive', 'score': 0.9989925026893616}",positive
+emg tolol anjing top masuk memek bales goblok,8,,"{'label': 'negative', 'score': 0.999919056892395}",negative
+sama kak masuk padahal saldo potong,6,,"{'label': 'negative', 'score': 0.6240530014038086}",negative
+top shopeepay kok masuk,4,,"{'label': 'neutral', 'score': 0.9997695088386536}",neutral
+wwooooiiiii uda topup bank kok saldo masuk sih csnya gbs hubung smua,12,,"{'label': 'negative', 'score': 0.9997251629829407}",negative
+halo kak cek,3,,"{'label': 'neutral', 'score': 0.9998929500579834}",neutral
+hallo kak saldo hasil masuk soal aku top masuk sekarang,10,,"{'label': 'neutral', 'score': 0.9998898506164551}",neutral
+plis kalau reply suruh hubung whatsapp jangan mau mending langsung resmi aplikasi meski lama aman hati soal kayak gin rawan banget sama tipu plis gausa gupuh,26,,"{'label': 'negative', 'score': 0.9998713731765747}",negative
+jangan deck mau nipu,4,,"{'label': 'negative', 'score': 0.9998936653137207}",negative
+shopeepay baik,2,,"{'label': 'positive', 'score': 0.9999241828918457}",positive
+ngisi sopipay lewat livin transaksi hasil saldo potong saldo nambah,10,,"{'label': 'neutral', 'score': 0.9998812675476074}",neutral
+mjb kak aku sama topup shopeepay gamasuk chat emang sistem down kata suruh tunggu ajaa,15,,"{'label': 'negative', 'score': 0.9991856217384338}",negative
+admin top saldo shopee hasil masuk akun cek,8,,"{'label': 'neutral', 'score': 0.9998887777328491}",neutral
+baik sistem,2,,"{'label': 'positive', 'score': 0.9952691197395325}",positive
+pantesan top masuk nyata banyak ngalamin,6,,"{'label': 'negative', 'score': 0.9986912608146667}",negative
+admin kok saldo shopeepaynya gamasuk padahal top bca hasil,9,,"{'label': 'negative', 'score': 0.9998353719711304}",negative
+duit masuk ajg,3,,"{'label': 'negative', 'score': 0.9987431168556213}",negative
+kata csnya error,3,,"{'label': 'negative', 'score': 0.9999195337295532}",negative
+sama kalau gitu,3,,"{'label': 'negative', 'score': 0.9955024123191833}",negative
+saldo dimbanking kurang kok masuk shopeepay admin,7,,"{'label': 'negative', 'score': 0.9998557567596436}",negative
+menit nunggu bom masuk,4,,"{'label': 'negative', 'score': 0.88262540102005}",negative
+topup shopeepay masuk siaaaaalll,4,,"{'label': 'positive', 'score': 0.9991514682769775}",positive
+mau transaksi apa gampang amp,5,,"{'label': 'negative', 'score': 0.9994617104530334}",negative
+kak masuk aku baru top shopeepay masuk masuk chat customer service antri,12,,"{'label': 'neutral', 'score': 0.999896764755249}",neutral
+diem diem bae admin error mulu aplikasi kamu,8,,"{'label': 'negative', 'score': 0.9999206066131592}",negative
+admin yaa barusan top shopeepay lewat mbanking kok masuk saldo help admin,12,,"{'label': 'neutral', 'score': 0.9998866319656372}",neutral
+halo kak mohon maaf top lalu virtual account bca masuk saldo gimana kak masalah urgent kak gimana,17,,"{'label': 'neutral', 'score': 0.9997075200080872}",neutral
+shopee pay error kocaaakk top masuk woi,7,,"{'label': 'negative', 'score': 0.9999136924743652}",negative
+enggaa transfer manual lewat atm tadi sekali bri soal makasih,10,,"{'label': 'neutral', 'score': 0.9998936653137207}",neutral
+admin barusan top shopeepay brimo saldo potong kok masuk shopeepay,10,,"{'label': 'neutral', 'score': 0.9998960494995117}",neutral
+mjb kak aku barusan uda lapor balesannya gin,8,,"{'label': 'neutral', 'score': 0.9997255206108093}",neutral
+mjb kak ngisinya pakai briva kalau briva sih harus saldo langsung masuk tuh shopay moga shopee segera ngasih tanggap urus cepet selesai kak,23,,"{'label': 'positive', 'score': 0.9996181726455688}",positive
+sama kak aku,3,,"{'label': 'neutral', 'score': 0.7372779250144958}",neutral
+dah shopee sama bca shopeepay uang masuk masuk saldo potong mayan men biasa langsung masuk saldo,16,,"{'label': 'neutral', 'score': 0.9998925924301147}",neutral
+jugaga masukk,2,,"{'label': 'positive', 'score': 0.6132853031158447}",positive
+duh sama padahal mutasi mbanking hasil,6,,"{'label': 'negative', 'score': 0.9998883008956909}",negative
+halo kak aku problem sama kira lapor,7,,"{'label': 'neutral', 'score': 0.9777880311012268}",neutral
+sama masuk topup,3,,"{'label': 'positive', 'score': 0.9882900714874268}",positive
+shopeepay eror pas laper wtf bagaimana topup kali gamasuk semua kamu duit akuuu,13,,"{'label': 'negative', 'score': 0.9999157190322876}",negative
+aku top bank mandiri shopeepay masuk saldo resi mandiri terang hasil saldo masuk shopeepay pls banget aku butuh buat bayar kas kejar kejar terus pls banget masuk saldo,28,,"{'label': 'negative', 'score': 0.9993404746055603}",negative
+aku antri,2,,"{'label': 'negative', 'score': 0.9892413020133972}",negative
+arti kendala shopee kali kak soal beda bank,8,,"{'label': 'neutral', 'score': 0.9998929500579834}",neutral
+topup saldo shopeepay bank mandiri kok masuk masuk yah,9,,"{'label': 'neutral', 'score': 0.9998562335968018}",neutral
+admin cek aku barusan topup shopeepay via livin mandiri status topup livin hasil sekarang saldo shopeepay nambah gimana admin,19,,"{'label': 'negative', 'score': 0.8610813617706299}",negative
+kok aku top bank mandiri shopeepay masuk yah saldonyaa resi mandiri terang hasil shopeepaynya masuk saldo plssss tlong banget aku top buat bayar kas kejar kejar teruss,27,,"{'label': 'positive', 'score': 0.9396492838859558}",positive
+sama transaksi masuk padahal urgen mana banyak lagi chat antre,10,,"{'label': 'negative', 'score': 0.99977046251297}",negative
+fitur favorit tarik tunai mungkin tarik uang tunai saldo shopeepay atm minimarket milik kartu debit bantu butuh uang tunai segera,20,,"{'label': 'neutral', 'score': 0.9998884201049805}",neutral
+fitur favorit transfer ewallet amp,5,,"{'label': 'neutral', 'score': 0.9998635053634644}",neutral
+qris merchant cair hari baru cair lapor terus shopee kali dana tahan kalau merchant lain selalu aman bayar tepat waktu hari cair kpd pihak,24,,"{'label': 'neutral', 'score': 0.999782145023346}",neutral
+kaaa balik pulih saldo,4,,"{'label': 'positive', 'score': 0.6757470965385437}",positive
+iklan kalian sering masuk beranda hape kurang kerja ganggu banget iklan kalian anjing,13,,"{'label': 'negative', 'score': 0.9999213218688965}",negative
+neh bantu list pak usaha jadi sakit masyarakat monggo klo mau nambahin biar bantu pak presiden sekian terima kasih,19,,"{'label': 'negative', 'score': 0.9998785257339478}",negative
+kak maaf kait kendala pesan kamu alami aku bantu kece kendala kamu mohon hubung aku lalu yaa terima kasih,19,,"{'label': 'neutral', 'score': 0.9998849630355835}",neutral
+hai kak jangan khawatir aku langsung luncur kamu nihh mohon sedia tunggu sehat selalu,14,,"{'label': 'neutral', 'score': 0.8334572315216064}",neutral
+aku top saldo shopeepay bank beberapa jam lalu masuk,9,,"{'label': 'neutral', 'score': 0.9998965263366699}",neutral
+hai kak maaf buat kamu nyaman kait kendala kamu alami aku bantu yuk infoin aku detail kendala kamu social media sehat selalu,22,,"{'label': 'neutral', 'score': 0.9991493225097656}",neutral
+kak maaf kait kendala pesan kamu alami aku bantu kece kendala kamu mohon hubung aku lalu yaa terima kasih,19,,"{'label': 'neutral', 'score': 0.9998849630355835}",neutral
+curi data darimana,3,,"{'label': 'negative', 'score': 0.9996947050094604}",negative
+stop spam telfon sangkut nyantumin nomor jadi kontak darurat jadi kalian nomor darimana,13,,"{'label': 'negative', 'score': 0.9998471736907959}",negative
+hai kak birth f venus jangan khawatir aku langsung luncur kamu nihh mohon sedia tunggu sehat selalu,17,,"{'label': 'positive', 'score': 0.8209349513053894}",positive
+malah jadi keinget top shopee pay sekarang isi pdhal tarik rekening lumayan sekali rebu mah jujur cape ngurus lewat apk kamu masalah malah saldo tilep,25,,"{'label': 'negative', 'score': 0.9999040365219116}",negative
+laku buat top lewat idm kok tdi aku tetap kena biaya admin,12,,"{'label': 'negative', 'score': 0.9093996286392212}",negative
+fitur transfer antar bank guna sekali kali mau kirim uang sama ibu perlu antri atm dekat,16,,"{'label': 'neutral', 'score': 0.9998873472213745}",neutral
+shopee sekarang banyak tekan seller mulai biaya admin tinggi amp,10,,"{'label': 'neutral', 'score': 0.6088786721229553}",neutral
+fitur favorit shopeepay qris fitur sering aku pakai sekarang butuh bayar aku milih pakai uang tunai pakai qris praktis tingkat aman jamin,22,,"{'label': 'positive', 'score': 0.9998877048492432}",positive
+fitur top pulsa data internet amp,6,,"{'label': 'neutral', 'score': 0.9998680353164673}",neutral
+cek apa apa minimal biaya admin,6,,"{'label': 'neutral', 'score': 0.999889612197876}",neutral
+fitur favorit qris manfaat sekali hari kalau mau beli makan apapaun tiap merchant jadi mudah praktis cepat andal sekali emang shopeepay,21,,"{'label': 'positive', 'score': 0.9999486207962036}",positive
+hai kak maaf banget buat nyaman kait guna metode bayar spaylater aku infoin pasti kakak selalu bayar tagih tepat waktu aku bantu kece detail kendala lalu sosial media tunggu,29,,"{'label': 'neutral', 'score': 0.9997820258140564}",neutral
+fitur qris favorite sih mudah banget kalau pas keluar bawa uang cash bayar jadi cepat tinggal scan ajah langsung beres tambah sekarang tarik tunai indomaret makin keren ajah,28,,"{'label': 'positive', 'score': 0.9999549388885498}",positive
+fitur qris favorite sih mudah banget kalau pas keluar bawa uang cash bayar jadi cepat tinggal scan ajah langsung beres tambah sekarang tarik tunai indomaret makin keren,27,,"{'label': 'positive', 'score': 0.9999567270278931}",positive
+fitur qris favorite sih mudah banget kalau pas keluar bawa uang cash bayar jadi cepat tinggal scan ajah langsung beres tambah sekarang tarik tunai indomaret makin keren ajah,28,,"{'label': 'positive', 'score': 0.9999549388885498}",positive
+bismillah moga rejeki,3,,"{'label': 'positive', 'score': 0.9998403787612915}",positive
+fitur favorit aku pasti qris metode bayar mudah cepat pokok satset sekali deh terdebest sih,15,,"{'label': 'positive', 'score': 0.9999278783798218}",positive
+toko sering pasang promo barang pernah kirim selalu cancel baik tutup lama buat orang malas belanja kalau promo barang pernah kirim,21,,"{'label': 'negative', 'score': 0.999841570854187}",negative
+qris manfaat mudah transaksi aman,5,,"{'label': 'positive', 'score': 0.9998730421066284}",positive
+fitur scan qris aplikasi shopeepay kali transaksi merchant pilih cashback hari ayo ikut,13,,"{'label': 'neutral', 'score': 0.9998914003372192}",neutral
+minn yaa transfer payment,4,,"{'label': 'neutral', 'score': 0.9997461438179016}",neutral
+tadi laku isi saldo shopeepay via transfer bank gopay transfer hasil sisi gopay saldo masuk shopeepay nyata penuh minimal transfer saldo,21,,"{'label': 'neutral', 'score': 0.9998947381973267}",neutral
+fitur qris jauh gampang efisien perlu bawa uang cash mana,10,,"{'label': 'positive', 'score': 0.9999121427536011}",positive
+fitur shopeepay favorit qris sih soal mau bayar apa tinggal sat set pakai ribet aman kalau promonya makin mantap betul deh,21,,"{'label': 'positive', 'score': 0.9999527931213379}",positive
+gampang kalau mau jajan tinggal qris transfer uang biaya tambah banyak promo guna shopeepay shopee yuk ikut,17,,"{'label': 'neutral', 'score': 0.9994338154792786}",neutral
+pilih shopeepay alat bayar dapat cashback upa koin dapat voucher promo seller,12,,"{'label': 'neutral', 'score': 0.9998799562454224}",neutral
+aku suka jajan fitur favorit shopeefood semua jajan promo shopeepay tuh manfaat banyak bnget buat transaksi transfer beli pulsa token pasti buat cekout shopee,24,,"{'label': 'positive', 'score': 0.9999532699584961}",positive
+fitur qris paling favorit sih qris aku rasa mudah transaksi ribet jadi makin cepet efisien yuk ikut guys,18,,"{'label': 'positive', 'score': 0.9999480247497559}",positive
+fitur qris paling favorit sih qris aku rasa mudah transaksi ribet jadi makin cepet efisien yuk ikut guys,18,,"{'label': 'positive', 'score': 0.9999480247497559}",positive
+fitur isi pulsa bayar tagih bantu buat aku mageran mau konter merchant bayar tagih sat set ribet drama satu aplikasi langsung beres yuk pakai,24,,"{'label': 'negative', 'score': 0.9994127750396729}",negative
+fitur favorit bayar pakai qris jadi mudah banyak promonya,9,,"{'label': 'positive', 'score': 0.9999123811721802}",positive
+fitur qris jadi favorit praktis serba buat transaksi hari efisien cukup scan amp atur tele tak ayal tak pungkiri seller nyaman commerce,22,,"{'label': 'positive', 'score': 0.9997445940971375}",positive
+fitur gratis transfer bank praktis bebas biaya admin sat set,10,,"{'label': 'neutral', 'score': 0.9963490962982178}",neutral
+fitur shopeepay favorit scan qris buat aku mudah laku bayar,10,,"{'label': 'positive', 'score': 0.9998798370361328}",positive
+diem kamu tipu,3,,"{'label': 'negative', 'score': 0.9999170303344727}",negative
+kak maaf buat kamu nyaman kait kendala kamu alami aku bantu lanjut infoin detail kendala halaman kendala lalu aku tunggu kak,21,,"{'label': 'neutral', 'score': 0.9998891353607178}",neutral
+aku paling suka fitur qris admin mudah sekali mau bayar apa tinggal scan mantap sekali dah,16,,"{'label': 'positive', 'score': 0.9999529123306274}",positive
+fitur bayar shopeepaylater pakai shopeepay minim bunga fitur sat set sekali yuk ikut kembang pesat,15,,"{'label': 'neutral', 'score': 0.8516913652420044}",neutral
+fitur favorite aku shopeepay transfer bank gratis manfaat sekali aku selalu laku bayar apa via transfer biaya admin hemat waktu hashtag,21,,"{'label': 'positive', 'score': 0.9999133348464966}",positive
+fitur top pulsa amp,4,,"{'label': 'neutral', 'score': 0.9997503161430359}",neutral
+woi gimana sih kocak muat fitur mulu gilir top shopeepay gilir mau pakai tarik atm muat fitur jam jelek banget sistem perbaikinlah mau ngadu muat fitur kamu gamau pakai apa gimana sih emosi,33,,"{'label': 'negative', 'score': 0.9999125003814697}",negative
+hai kak jeajaudah kendala kakak tangan lanjut kakak sila hubung chat maya aplikasi myxl livechat web terima kasih hubung twitter myxlcare,21,,"{'label': 'neutral', 'score': 0.999901294708252}",neutral
+saldo shopeepay deteksi aplikasi myxl huhu,6,,"{'label': 'negative', 'score': 0.9995794892311096}",negative
+sama biaya tangan kak kemarin malem aku pakai nominal pas kok,11,,"{'label': 'neutral', 'score': 0.9997830986976624}",neutral
+fitur shope pay favorit transfer bank amp,7,,"{'label': 'neutral', 'score': 0.9998658895492554}",neutral
+fitur transfer bank sama guna shopeepay kena biaya admin proses cepat mudah salah isi data rekening proses transfer otomatis batal,20,,"{'label': 'negative', 'score': 0.9874409437179565}",negative
+fitur favorit alias sering aku gunain scan qris sendiri buat payment merchant online offline makin satset aman pasti ohiya satu suka banyak promo jugaa,24,,"{'label': 'positive', 'score': 0.9999417066574097}",positive
+fitur gratis transfer bank bantu sekali fitur hemat dikenain biaya admin suka promonya,13,,"{'label': 'positive', 'score': 0.9996304512023926}",positive
+beli voucher beli makan minum fitur shopeepay sekitar lalu aplikasi shopee bayar kasir merchant redeem vouchernya amp,17,,"{'label': 'neutral', 'score': 0.9998946189880371}",neutral
+oke kak jangan khawatir aku cek kakak satu per satu tunggu yaa stay healthy,14,,"{'label': 'neutral', 'score': 0.9998579025268555}",neutral
+transfer ewallet amp,3,,"{'label': 'neutral', 'score': 0.9950453042984009}",neutral
+gimana deh padahal saldo kok cukup,6,,"{'label': 'negative', 'score': 0.9997568726539612}",negative
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+fitur pulsa tagih amp,4,,"{'label': 'negative', 'score': 0.9997989535331726}",negative
+qris praktis banyak promonya mudah,5,,"{'label': 'positive', 'score': 0.9999368190765381}",positive
+sukses selalu,2,,"{'label': 'positive', 'score': 0.9999552965164185}",positive
+fitur gratis transfer bank buat aku selalu simpan uang shopeepay fitur manfaat mau transfer bank biaya adminya bantu kurang keluar,20,,"{'label': 'neutral', 'score': 0.99957674741745}",neutral
+fitur gratis transfer bank buat aku selalu simpan uang shopeepay fitur manfaat mau transfer bank biaya adminya bantu kurang keluar,20,,"{'label': 'neutral', 'score': 0.99957674741745}",neutral
+fitur favorit qris yuk,4,,"{'label': 'neutral', 'score': 0.6837390065193176}",neutral
+kak,1,,"{'label': 'positive', 'score': 0.9993162155151367}",positive
+hai kak maaf buat nyaman kait kendala kamu alami aku bantu cek infoin detail kendala kamu social media aku tunggu,20,,"{'label': 'neutral', 'score': 0.9998958110809326}",neutral
+bayar lalu code mudah aku guna laku bayar pindai code bagai toko maupun mall merchant mudah aman amp,18,,"{'label': 'positive', 'score': 0.9998289346694946}",positive
+fitur favorit qris transfer gratis bank mudah cepat aman transaksi hari jalan lancar,13,,"{'label': 'positive', 'score': 0.9999154806137085}",positive
+atas shopeepay anna federika lacak gaya habis laku tipu,9,,"{'label': 'negative', 'score': 0.9998076558113098}",negative
+paling suka fitur transfer ewallet transfer mana praktis cukup klik langsung kirim ikut yuk,14,,"{'label': 'neutral', 'score': 0.8049670457839966}",neutral
+ikut yukk teman teman,4,,"{'label': 'neutral', 'score': 0.9995562434196472}",neutral
+fitur transfer soal mau mana free jujur aku dulu tiap transaksi shopeepay aku senang sekali manfaat banyak sekali bantu transaksi,20,,"{'label': 'positive', 'score': 0.999930739402771}",positive
+fitur transfer jadi favorit buat transaksi antar teman amp,9,,"{'label': 'positive', 'score': 0.9106948375701904}",positive
+fitur transfer jadi favorit buat transaksi antar teman amp,9,,"{'label': 'positive', 'score': 0.9106948375701904}",positive
+qris mudah cepat aman,4,,"{'label': 'positive', 'score': 0.9999330043792725}",positive
+qris transaksi jadi mudah cepat,5,,"{'label': 'positive', 'score': 0.9999457597732544}",positive
+fitur shopeepay favorit transfer bank fitur aku transfer uang rekening bank mana biaya admin cepet aman satsetsatset,17,,"{'label': 'positive', 'score': 0.9942203760147095}",positive
+done moga untung,3,,"{'label': 'positive', 'score': 0.9999377727508545}",positive
+fitur shopeepay favorit transfer bank fitur aku transfer uang rekening bank mana biaya admin uwu jadi hemat praktis kirim uang jajan adek ibuk hasil jual aku,26,,"{'label': 'positive', 'score': 0.9999351501464844}",positive
+fitur favorit transfer wallet bebas transfer perlu ribet,8,,"{'label': 'neutral', 'score': 0.9902408123016357}",neutral
+transfer bank jadi fav makin kembang jadi aplikasi hari mudah buah duren beku beri cokelat sedap makan like komen laku moga hadiah dapat,23,,"{'label': 'positive', 'score': 0.6869276762008667}",positive
+tarik tunai transfer isi saldo jadi mudah praktis pakai shopeepay yuk ikut kak done all steps,16,,"{'label': 'positive', 'score': 0.9995941519737244}",positive
+shopeepay buat cekout buat isi pulsa buat bayar shopeefood buat token listrik hemat aman,14,,"{'label': 'positive', 'score': 0.9996122717857361}",positive
+favorit fitur pulsa amp,4,,"{'label': 'neutral', 'score': 0.9993157386779785}",neutral
+favorit qris transfer tarik tunai semua sat set set bget cepat kilat transfer gratis pokok pkae shopee pay guntung yuk pkae shopee pay semua mudah guntung,26,,"{'label': 'positive', 'score': 0.9987309575080872}",positive
+paling suka fitur shopeepay later checkout barang lebih bayar kemudian hari banyak promo amp pasti buat repot nngu kembali,19,,"{'label': 'positive', 'score': 0.9999257326126099}",positive
+fitur transfer favorit gratis bank mana perlu mikirin biaya admin,10,,"{'label': 'neutral', 'score': 0.9989593029022217}",neutral
+fitur transfer favorit gratis bank mana perlu mikirin biaya admin,10,,"{'label': 'neutral', 'score': 0.9989593029022217}",neutral
+fitur aplikasi beli pulsa paket data tagih internet mudah habis pulsa tinggal buka aplikasi shopeepay perlu warung,17,,"{'label': 'neutral', 'score': 0.9997702240943909}",neutral
+sukaaaa semua tapi ajar sihg qris sekarang kantin aku pakai qris jadi mudah qris,14,,"{'label': 'positive', 'score': 0.9997634291648865}",positive
+fitur top tarik dana manfaat buat mudah isi saldo transaksi tarik dana rekening bank guna kelola uang hari hari perlu guna uang tunai,23,,"{'label': 'neutral', 'score': 0.997149646282196}",neutral
+hai paling favorit fitur aplikasi transfer ewallet sama seabank mudah aku sekali mentranfer uang jajan sama arisan terus kalau pakai seabank belanja shopee hemat,24,,"{'label': 'positive', 'score': 0.9999408721923828}",positive
+hai paling favorit fitur aplikasi transfer ewallet sama seabank mudah aku sekali mentranfer uang jajan sama arisan terus kalau pakai seabank belanja shopee hemat,24,,"{'label': 'positive', 'score': 0.9999408721923828}",positive
+semua sukaaaa mau belanja online gampang mau jajan offline gampang qris,11,,"{'label': 'positive', 'score': 0.9999315738677979}",positive
+fitur favorite aku shopeepay transfer bank gratis benar benar bantu aku sering tarik saldo bank fitur transfer guna hari aku sering transfer,22,,"{'label': 'positive', 'score': 0.9998669624328613}",positive
+fitur qris cepat mudah aman,5,,"{'label': 'positive', 'score': 0.9999184608459473}",positive
+qris cepat,2,,"{'label': 'positive', 'score': 0.9999294281005859}",positive
+fitur favorit qris transfer gratis bank mudah cepat aman,9,,"{'label': 'positive', 'score': 0.9998210072517395}",positive
+fitur shopeepay favorit qris sih soal mau bayar apa cepat mudah ribet aman,13,,"{'label': 'positive', 'score': 0.9916478395462036}",positive
+fitur shopeepay favorit qris sih soal mau bayar apa cepat mudah ribet aman,13,,"{'label': 'positive', 'score': 0.9916478395462036}",positive
+fitur shopeepay favorit qris sih soal mau bayar apa cepat mudah ribet aman,13,,"{'label': 'positive', 'score': 0.9916478395462036}",positive
+fitur shopeepay favorit qris sih soal mau bayar apa cepat mudah ribet aman,13,,"{'label': 'positive', 'score': 0.9916478395462036}",positive
+fitur shopeepay favorit qris sih soal mau bayar apa cepat mudah ribet aman,13,,"{'label': 'positive', 'score': 0.9916478395462036}",positive
+fitur shopeepay favorit qris sih soal mau bayar apa cepat mudah ribet aman,13,,"{'label': 'positive', 'score': 0.9916478395462036}",positive
+fitur favorit aku bayar pakai qris mudah bayar satset gaperlu ribet ikut,12,,"{'label': 'neutral', 'score': 0.9504955410957336}",neutral
+mudah rezeki buat,3,,"{'label': 'positive', 'score': 0.9999567270278931}",positive
+memang buat serba satset sih banyak fitur tarik mudah beli pulsa topup shoopepay bayar tagih fitur favorit qris praktis aman amp,21,,"{'label': 'positive', 'score': 0.9998064637184143}",positive
+fitur qris aku suka mau ribet pegang uang cash kembali apalgi sekarang serba canggih mau beli sayur qris aplikasi shopeepaynya satset lot,22,,"{'label': 'positive', 'score': 0.9999364614486694}",positive
+qris mudah aman fleksibel tinggal promonya,6,,"{'label': 'positive', 'score': 0.9999078512191772}",positive
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+saldo shopee pay kok gamasuk anj top ovo potong hasil coy besar banget nom fak,15,,"{'label': 'negative', 'score': 0.9999032020568848}",negative
+commerce indonesia kerja bener apa utama shopee tuh,8,,"{'label': 'positive', 'score': 0.9997691512107849}",positive
+mana,1,,"{'label': 'negative', 'score': 0.9978275895118713}",negative
+iyaa soal aku mau pakai shopeepay aneh banget sumpah saldo cukup padahal total napa,14,,"{'label': 'negative', 'score': 0.9998946189880371}",negative
+admin spaylater gua transaksi scam kayak hack akun shopee gua,10,,"{'label': 'negative', 'score': 0.9998812675476074}",negative
+ihhh kak ngeselin banget sumpah sini aku bantu tag biar cepet tindak lanjut weh gimana shopee tanggung jawab,18,,"{'label': 'negative', 'score': 0.9999130964279175}",negative
+hai kak maaf kak buat nyaman kait beli token guna voucher cashback koin masuk mimin bantu cek lanjut infoin username shopee kendala kakak social media mimin tunggu,27,,"{'label': 'neutral', 'score': 0.9998972415924072}",neutral
+jelek kamu,2,,"{'label': 'negative', 'score': 0.9999198913574219}",negative
+sama terus,2,,"{'label': 'negative', 'score': 0.9447202086448669}",negative
+kok allah kamu posisi seller,5,,"{'label': 'positive', 'score': 0.49059003591537476}",positive
+gaji seru,2,,"{'label': 'positive', 'score': 0.9999557733535767}",positive
+topup shopee masuk,3,,"{'label': 'neutral', 'score': 0.999803364276886}",neutral
+kak mjb kakak solusi gimana tetep masuk saldo,8,,"{'label': 'neutral', 'score': 0.9933451414108276}",neutral
+yoii mulu gua shopee wkwk,5,,"{'label': 'negative', 'score': 0.6122105121612549}",negative
+rumah kelomang,2,,"{'label': 'negative', 'score': 0.7164725661277771}",negative
+punya kulkas rmh buat apaa malah rmh sempitt wkwkw,9,,"{'label': 'negative', 'score': 0.9999150037765503}",negative
+kalau kirim koin aku kasihh buat kamu ituu gimana shopee dah tidak bisa kirim koin temen,16,,"{'label': 'negative', 'score': 0.9983306527137756}",negative
+bisa,1,,"{'label': 'positive', 'score': 0.9999442100524902}",positive
+tidak jelas kamu,3,,"{'label': 'negative', 'score': 0.9999210834503174}",negative
+gimana cara koin shopee banyak biar diruker shopee pay admin,10,,"{'label': 'neutral', 'score': 0.9417608976364136}",neutral
+kak maaf sekali bantu cek top paket mohon hubung lalu whatsapp ketik ngobrol klik agent care kemudian pilih lain thanks kai,21,,"{'label': 'neutral', 'score': 0.9998934268951416}",neutral
+admin kok aku topup shopeepay delay yaa brimo pas akun shopeepay engga,12,,"{'label': 'negative', 'score': 0.9042463898658752}",negative
+kak dont worry kait kndla mau bayar loading terus aku saranin baru applikasi shopee pastiin jaring internet stabil clear cache log out log amp,24,,"{'label': 'neutral', 'score': 0.9948746562004089}",neutral
+mantap,1,,"{'label': 'positive', 'score': 0.9999573230743408}",positive
+kacau sistem kalian barang stuck hari lebih batas maksimal estimasi barang nyampe kalau komplen bakal tindak emang sistem kalian ngedetect otomatis masalah kirim,23,,"{'label': 'negative', 'score': 0.9999207258224487}",negative
+film cuma bioskop online btw mau nonton langsung aplikasi pakai cashback khusus guna baru tanggal juli yuk cek link ikut,20,,"{'label': 'neutral', 'score': 0.999894380569458}",neutral
+halo kerja,2,,"{'label': 'neutral', 'score': 0.9998365640640259}",neutral
+gimana solusi,2,,"{'label': 'negative', 'score': 0.9592688083648682}",negative
+kenapaa paket henti tidak ada progres apa admin,8,,"{'label': 'negative', 'score': 0.999900221824646}",negative
+ntar blokir jemaah seller pindah platform kamu repot yuk akun preman gni ditindaak tegassss yuk yuk,16,,"{'label': 'negative', 'score': 0.9998666048049927}",negative
+bagaimana admin uda jam,4,,"{'label': 'negative', 'score': 0.9935205578804016}",negative
+biaya pinta parkir,3,,"{'label': 'negative', 'score': 0.8660663962364197}",negative
+besok banyak pol duit kayak transparan gamau kasih shopeepay apa,10,,"{'label': 'negative', 'score': 0.6645190119743347}",negative
+status hasil saldo tapcash bni nambah gimana sekarang masuk saldo,10,,"{'label': 'neutral', 'score': 0.9987205266952515}",neutral
+kak maaf buat kakak risau kakak unlink akun shopeepay kakak dulu cara buka atur shopeepay amp,16,,"{'label': 'neutral', 'score': 0.9991078972816467}",neutral
+hai kak mohon maaf kait kendala bayar shopeepay mohon pasti saldo shopeepay kakak milik cukup subtotal jumlah produk ongkos kirim biaya layan biaya tangan kak moga bantu,27,,"{'label': 'neutral', 'score': 0.9998586177825928}",neutral
+berapa lama cancel,3,,"{'label': 'negative', 'score': 0.9980353713035583}",negative
+admin mana cashback koin shopeepay aku lumayan admin koin lho mau tiga hari lho admin,15,,"{'label': 'neutral', 'score': 0.9998388290405273}",neutral
+kak mau turunin limit spaylater,5,,"{'label': 'neutral', 'score': 0.6526186466217041}",neutral
+cek lgi admin,3,,"{'label': 'neutral', 'score': 0.9998618364334106}",neutral
+makasih info,2,,"{'label': 'positive', 'score': 0.9996931552886963}",positive
+pasti sobat bri hubung nomor layan resmi contact bri sabrina whatsapp akun resmi media sosial bri verifikasi tks chesy,19,,"{'label': 'neutral', 'score': 0.9999006986618042}",neutral
+sobat bri mohon selalu jaga rahasia data perban pin username password otp cvv cvc qlola token jangan memberitahukan data sebut pihak mana masuk tugas bri,25,,"{'label': 'neutral', 'score': 0.9994945526123047}",neutral
+hai sobat bri mohon maaf atas kendala transaksi alami kait kode tampil lebih batas limit hari beri sedia layan sila konfirmasi pihak merchant sedia layan kece,26,,"{'label': 'neutral', 'score': 0.998363196849823}",neutral
+halo coba topup transfer shopeepay brimo kali gagal kendala jadi,10,,"{'label': 'neutral', 'score': 0.9998015761375427}",neutral
+plis pocer gratis ongkirnya mah bukan gratis diskon doang apa ongkir rebu mau beli rebu doang pakai pocer tetep ongkir bukan gratis plis diskon ongkir ganti nama plis,28,,"{'label': 'negative', 'score': 0.9997969269752502}",negative
+kak mohon maaf kait shopeepay potong otomatis mimin bantu kece infoin detail kendala kakak stay safe,16,,"{'label': 'neutral', 'score': 0.9998847246170044}",neutral
+dihubungin kak tanya dulu,4,,"{'label': 'neutral', 'score': 0.9998457431793213}",neutral
+alhamdulillah kalau salah nomor virtual mungkin balik yah kak,9,,"{'label': 'neutral', 'score': 0.9998795986175537}",neutral
+aku masuk kak nyata rekening barusan cek rekening nyata,9,,"{'label': 'neutral', 'score': 0.9998962879180908}",neutral
+kalau salah nomor virtual akun kira kira bantu yah kak sama,11,,"{'label': 'neutral', 'score': 0.9998910427093506}",neutral
+bank btn kak hubungin bank btn suruh nunggu hari menangyss mana dikit jumlah,13,,"{'label': 'neutral', 'score': 0.999725878238678}",neutral
+iyaa kak aku jdnya gagal,5,,"{'label': 'negative', 'score': 0.9999158382415771}",negative
+kakak transfer mana kak coba hubungin kakak,7,,"{'label': 'neutral', 'score': 0.9998936653137207}",neutral
+kak aku masuk shopeepay maupun rekening yallah suruh nunggu hari capek sekali,12,,"{'label': 'negative', 'score': 0.999907374382019}",negative
+semangat sukses selalu,3,,"{'label': 'positive', 'score': 0.9999570846557617}",positive
+arti gagal yahhh kak,4,,"{'label': 'negative', 'score': 0.9998799562454224}",negative
+mana kata iphone,3,,"{'label': 'negative', 'score': 0.9911952018737793}",negative
+mana kata check out pakai shopeepay bakal iphone,8,,"{'label': 'neutral', 'score': 0.9998973608016968}",neutral
+kak aku jadi dikembaliin saldo dana baru masuk,8,,"{'label': 'neutral', 'score': 0.9996827840805054}",neutral
+admin cek,2,,"{'label': 'neutral', 'score': 0.999854564666748}",neutral
+huhu makasiii yaaa kak,4,,"{'label': 'neutral', 'score': 0.8812118172645569}",neutral
+waduh berat email kamu subscribe paling telepon sopi minta cancel kalau misal auto payment kalau twitter ngeri banyak bot gaje,20,,"{'label': 'negative', 'score': 0.999915361404419}",negative
+gmail kamu biasa masuk notif purchase successful liat beli apaa,10,,"{'label': 'neutral', 'score': 0.9998075366020203}",neutral
+biasa kalau kamu langgan gdrive all kamu langgan gdrive,9,,"{'label': 'negative', 'score': 0.9997873902320862}",negative
+terimakasih banyak,2,,"{'label': 'positive', 'score': 0.9990652203559875}",positive
+iyaa kak aku infoin,4,,"{'label': 'neutral', 'score': 0.9998693466186523}",neutral
+siap kak aku infoin,4,,"{'label': 'neutral', 'score': 0.7441769242286682}",neutral
+kakkk kalau masuk saldo minta infoin gakk soalnyaa aku jarang pakai akun shopeenyaaa,13,,"{'label': 'neutral', 'score': 0.9998352527618408}",neutral
+iya betul suruh tunggu maksimal jam panik soal aku top lumayan,11,,"{'label': 'neutral', 'score': 0.9998639822006226}",neutral
+seriuss kak aku top jam lewat sekarang dana aku potong sppay tidak ada,13,,"{'label': 'negative', 'score': 0.9998798370361328}",negative
+iyaa yaa tunggu jam masa,5,,"{'label': 'neutral', 'score': 0.9936354160308838}",neutral
+huwaaa sama aku top masuk,5,,"{'label': 'positive', 'score': 0.9999443292617798}",positive
+kak serius aku kaget banget topup gamasuk,7,,"{'label': 'negative', 'score': 0.9999009370803833}",negative
+huft sebal nunggu saldo jam shopeepay lamaa sekali,8,,"{'label': 'negative', 'score': 0.9999147653579712}",negative
+baik sama sama,3,,"{'label': 'positive', 'score': 0.7487607002258301}",positive
+hai semua kampanye akhir terima kasih banyak semua bantu sebar berita distribusi hadiah akhir bulan tinjau semua komentar retweet tweet lama akhir pekan,23,,"{'label': 'neutral', 'score': 0.9998958110809326}",neutral
+hai kak maaf atas kendala biaya tangan shopeepay terap biaya tangan kembang inovasi teknologi layan amp,16,,"{'label': 'neutral', 'score': 0.9998968839645386}",neutral
+lama banget,2,,"{'label': 'negative', 'score': 0.9999171495437622}",negative
+mohon duit segera proses hampir jam lalu status proses terus cepat,11,,"{'label': 'neutral', 'score': 0.9954113364219666}",neutral
+duit proses mulu jam jam lalu hubung lewat apk malah balas template jam operasional bank sudh tutup apa coba,19,,"{'label': 'negative', 'score': 0.9999097585678101}",negative
+halo guna kalau top maksimal sekali transaksi biaya kalah jauh kelas,11,,"{'label': 'negative', 'score': 0.9829241633415222}",negative
+kak maaf atas kendala alami kait kendala beli token sila laku clear cache amp,14,,"{'label': 'neutral', 'score': 0.9998781681060791}",neutral
+jelass tiba notif email akun batas lapor kata akun pulih pas coba pakai pakai beli tidak bisa upload shopee video tidak bisa aku bahkan beberapa bulan belanja woyy apasih jelass,30,,"{'label': 'negative', 'score': 0.9998860359191895}",negative
+cek admin,2,,"{'label': 'neutral', 'score': 0.9998553991317749}",neutral
+orang indonesia sekarang beli apa beberapa detik kini hadir indonesia mudah beli jual crypto,14,,"{'label': 'positive', 'score': 0.9476874470710754}",positive
+kapan proses aju kembali dana proses,6,,"{'label': 'neutral', 'score': 0.9998713731765747}",neutral
+kapan dah lama banget hampir jam,6,,"{'label': 'negative', 'score': 0.9999122619628906}",negative
+cek baru helm alv ultron pro ori paket ganteng harga dapat shopee sekarang,13,,"{'label': 'neutral', 'score': 0.9998878240585327}",neutral
+iya mbak buat modal nikah,5,,"{'label': 'neutral', 'score': 0.9998632669448853}",neutral
+viral kini,2,,"{'label': 'negative', 'score': 0.9998941421508789}",negative
+hai kak gaonme maaf buat kakak nyaman aku bantu cek kendala kakak lbh lanjut infoin detail kendala kak stay safe,20,,"{'label': 'neutral', 'score': 0.999879002571106}",neutral
+hai kak userthv maaf buat risau kait kendala shopeepay potong prioritas kece infoin kendala kamu lalu media sosial kak stay safe,21,,"{'label': 'neutral', 'score': 0.9976255297660828}",neutral
+iya kak tidak bisa aku minggu hari tidak bisa buat shopee akun,12,,"{'label': 'neutral', 'score': 0.9991900324821472}",neutral
+sekarang kak punya aku jadi aku lewat amun shopee mama,10,,"{'label': 'neutral', 'score': 0.9998816251754761}",neutral
+iklan aplikasi menggangu buat resah,5,,"{'label': 'negative', 'score': 0.9999189376831055}",negative
+bener anjir banyak komplen noh kagak sengaja sekali,8,,"{'label': 'negative', 'score': 0.9998999834060669}",negative
+kamu nama fajrul malu gua obrak abrik kantor kamu anjing,10,,"{'label': 'negative', 'score': 0.9999182224273682}",negative
+kak ahasa maaf buat kendala kait beli atribut kamu biar aku bantu infoin detail kendala driver kamu yaa terimakasih,19,,"{'label': 'neutral', 'score': 0.9998862743377686}",neutral
+admin tadi kan bayar pdam app shopeepay hasil kok cek banyak app tagih lunas dah jadi bayar,17,,"{'label': 'neutral', 'score': 0.9212834239006042}",neutral
+kakak ustad,2,,"{'label': 'negative', 'score': 0.9992210865020752}",negative
+kak dwiky alf mohon maaf atas ketidaknyamanannya aku bantu cek infoin detail kendala kendala kakak lalu social media stay safe,20,,"{'label': 'neutral', 'score': 0.999889612197876}",neutral
+admin promonya apa,3,,"{'label': 'negative', 'score': 0.9732900857925415}",negative
+ngerti tulis gratis biaya admin minimal isi saldo bawah biaya admin tulis top saldo transfer bank gratis saldo masuk jangan main aku paman,23,,"{'label': 'negative', 'score': 0.9996151924133301}",negative
+optimalisasi fitur beri layan baik kalau tanya info via stay safe,11,,"{'label': 'neutral', 'score': 0.9793079495429993}",neutral
+kompak sekali semua bayar tagih pdam,6,,"{'label': 'negative', 'score': 0.9882156848907471}",negative
+viral vior ngemut panjang vincent,5,,"{'label': 'neutral', 'score': 0.9996705055236816}",neutral
+beneran langsung tarik tunai kasir kan pakai kios soal dulu mau isi shopeepay suruh pakai kios dulu bodoh tanya kasir ajarin jadi males isi shopeepay sama cara setor tunai lewat indomaret,31,,"{'label': 'negative', 'score': 0.9999111890792847}",negative
+habis belanja enak makan bakmie sini,6,,"{'label': 'positive', 'score': 0.9999549388885498}",positive
+admin pesan bayar indosat hifi kemaren kok masuk pihak indosat hifi padahal bayar kemarin lewat aplikasi shoope akhir wifi blokir,20,,"{'label': 'neutral', 'score': 0.9809503555297852}",neutral
+bacot doang,2,,"{'label': 'negative', 'score': 0.9999154806137085}",negative
+hai kak hercessra maaf yaa buat nyaman kait kendala kakak alami aku bantu cek infoin username transaksi kakak lalu via live chat sosmed have nice day,26,,"{'label': 'neutral', 'score': 0.9998773336410522}",neutral
+topup topup nyaaa,3,,"{'label': 'positive', 'score': 0.9999488592147827}",positive
+topup shopeepay bank btn kok masuk bank btnnya catat kirim,10,,"{'label': 'neutral', 'score': 0.9998970031738281}",neutral
+kampret banget shopee oke kak terima kasih banyak atas informasi,10,,"{'label': 'negative', 'score': 0.9998600482940674}",negative
+tips kata kalau mau bener langgan shopee plus akal biar langgan shopeeplus ogah banget mending aku pakai akun ortu aku biar didiemin dulu akun aku wkwkwk,26,,"{'label': 'negative', 'score': 0.9997765421867371}",negative
+maju jawab sama alias template banget,6,,"{'label': 'positive', 'score': 0.9387499094009399}",positive
+mana platinum sering belanja kena allah gimana nasib gold ang ang ang,12,,"{'label': 'negative', 'score': 0.9984103441238403}",negative
+ampunkamu minggu tindak shopee aku baru hari misuh tidak bisa belanja tidak jelas shopee emang padahal akun nyalahin siapa,19,,"{'label': 'negative', 'score': 0.9999001026153564}",negative
+shopee lama tidak jelas akun platinum kena kegajelasan shopee kesel,10,,"{'label': 'negative', 'score': 0.9999197721481323}",negative
+sumpah aku jiga begini mulu padahal dah minggu transaksi apa masa duga menyalahgunakan akun tuh apasih maksud,17,,"{'label': 'negative', 'score': 0.9999065399169922}",negative
+cek hampers gift box kado oatmeal cookies jar free greeting card pita bubble wrap luckybite harga dapat shopee sekarang highly rekomen hampers packaging baguss banget rasa enak,27,,"{'label': 'positive', 'score': 0.9999521970748901}",positive
+dua deket,2,,"{'label': 'positive', 'score': 0.9999103546142578}",positive
+viral tiktok baru,3,,"{'label': 'negative', 'score': 0.9999010562896729}",negative
+happyyyy pagi pagi jajanin,4,,"{'label': 'positive', 'score': 0.9990444779396057}",positive
+kalau aku tidak bisa laku bayar kak hari,8,,"{'label': 'negative', 'score': 0.9999028444290161}",negative
+spesial kecil dapat setel koko kurta anak usia tahun desain cantik nyaman pakai harga promo batas beli sekarang nikmat diskon besar gratis ongkir link toko shopee,26,,"{'label': 'positive', 'score': 0.9998289346694946}",positive
+kalau aku gin terus kaa kaya emang eror shopee,9,,"{'label': 'negative', 'score': 0.9998658895492554}",negative
+mlm minggu dsni,3,,"{'label': 'neutral', 'score': 0.9991745352745056}",neutral
+moots mau tanya kalian pernah alamin shopee gin btw shopee aku hari tidak bisa buat apa terus admin tanggap sama sekali sama kasus aku,24,,"{'label': 'negative', 'score': 0.9948070645332336}",negative
+hai kak lizinpixel maaf buat kamu nyaman kait kendala alami aku bantu cek lanjut diinfoin detail kendala lalu aku tunggu,20,,"{'label': 'neutral', 'score': 0.9998955726623535}",neutral
+nentuin jarak ongkir antar mitra driver jarak tempuh rute tempuh mitra driver shopee,13,,"{'label': 'positive', 'score': 0.9970843195915222}",positive
+kak ruthaps maaf buat kamu khawatir kait kendala kakka alami aku bantu infoin aku detail kendala kamu sreenshot kendala kamu aku lalu resmi yaa stay safe,26,,"{'label': 'neutral', 'score': 0.9998519420623779}",neutral
+kak sjdkdsy maaf buat kamu khawatir kait kendala kakka alami aku bantu infoin aku detail kendala kamu sreenshot kendala kamu aku lalu resmi yaa stay safe,26,,"{'label': 'neutral', 'score': 0.9998244643211365}",neutral
+panjang lebar jawab copas malesin ahhhhh,6,,"{'label': 'negative', 'score': 0.999915599822998}",negative
+aplikasi shopeepay aku buat scan,5,,"{'label': 'neutral', 'score': 0.9998881816864014}",neutral
+nikmat promo jangan lupa cek dapat rewards bandwidth internet pakai jaring desentralisasi transparan,13,,"{'label': 'neutral', 'score': 0.9998605251312256}",neutral
+kak deniyati maaf buat kamu khawatir kait kendala kakka alami aku bantu infoin aku detail kendala kamu sreenshot kendala kamu aku lalu resmi yaa stay safe,26,,"{'label': 'neutral', 'score': 0.999854326248169}",neutral
+kelantjutan nyo rajo hambar kan,5,,"{'label': 'negative', 'score': 0.9999159574508667}",negative
+jakarta kena wabah zombie buah karya anak bangsa gokiiilll,9,,"{'label': 'negative', 'score': 0.9997656941413879}",negative
+kalau malang mampir warles yogyakarta lembah dieng,7,,"{'label': 'positive', 'score': 0.5278415083885193}",positive
+cari second murah,3,,"{'label': 'positive', 'score': 0.9999500513076782}",positive
+jam nunggu masuk hello mana percaya kalau kejadianya kayak gin ayo butuh nominal kecil kok jangan sedot,17,,"{'label': 'negative', 'score': 0.9998080134391785}",negative
+ayo ngadu masa ditanggepin,4,,"{'label': 'negative', 'score': 0.9997844099998474}",negative
+bantu nunggu berapa jam biar uang masuk rekening asa masalah samsek terus kalau mau cancel sekali nunggu berapa hari biar uang balik,22,,"{'label': 'negative', 'score': 0.9996947050094604}",negative
+bank raya transaksi masalah tuh kok duit masuk shopeepay,9,,"{'label': 'negative', 'score': 0.9998843669891357}",negative
+jawab apa kok lama sekali transaksi,6,,"{'label': 'negative', 'score': 0.9999167919158936}",negative
+shopeepay gimana transaksi jam sekarang masuk sih tahan duit orang kecewa sekali bijak apa nahan transaksi estimasi masuk jam masuk suruh nunggu berapa lama,24,,"{'label': 'negative', 'score': 0.9999159574508667}",negative
+coba kemeja basic wanita oversize link shopeenya sini,8,,"{'label': 'neutral', 'score': 0.9998829364776611}",neutral
+halo sahabat mohon maaf atas ketidaknyamanannya apabila bank mandiri terima dana terima dana transfer bank mandiri pihak sifat pasif tunggu dana terima kemudian kredit rekening,25,,"{'label': 'neutral', 'score': 0.9998676776885986}",neutral
+halo bpk ibu mohon tunggu pesan segera balas akun resmi bank mandiri dapat centang emas verified letak belah kanan nama akun jangan beri data rahasia pin angka cvv belakang kartu mpin password otp pihak,34,,"{'label': 'neutral', 'score': 0.9998692274093628}",neutral
+halo baru laku transfer bank mandiri malah nyangkut kendala mandiri apa shopeepay mohon bantu butuh cepat,16,,"{'label': 'negative', 'score': 0.9955182671546936}",negative
+kenya tiket konser gratis,4,,"{'label': 'neutral', 'score': 0.9981834292411804}",neutral
+hai sobat seabank kamu jangan khawatir kamu sedang antre minsea segera balas kamu mohon sedia tunggu laku kece kala moga informasi bantu,22,,"{'label': 'neutral', 'score': 0.9561794400215149}",neutral
+maksimal efisiensi apbn dukung ekonomi lanjut adil,7,,"{'label': 'positive', 'score': 0.9998341798782349}",positive
+kaget banget baru kali koin gin makas,7,,"{'label': 'negative', 'score': 0.9999086856842041}",negative
+mkan alternatif,2,,"{'label': 'positive', 'score': 0.9997832179069519}",positive
+viral baru,2,,"{'label': 'negative', 'score': 0.9999067783355713}",negative
+untung adaaa tweet kamu kaa aku lega nyari google gatau keywordnya,11,,"{'label': 'positive', 'score': 0.981654167175293}",positive
+samaa baru ngeuh ngebentak suruh baca lantang surat ingat tau langsung aku matiin dehh,14,,"{'label': 'negative', 'score': 0.9999040365219116}",negative
+bedaa kaa wkwk modus sama banget wkwkwk,7,,"{'label': 'negative', 'score': 0.9999016523361206}",negative
+baru banget aku,3,,"{'label': 'negative', 'score': 0.9997082352638245}",negative
+sepatu pdl agumy boots tactical predator cream kerja lapang pdl satpol polri,12,,"{'label': 'neutral', 'score': 0.9998855590820312}",neutral
+kak ddiinnyy diny maaf buat resah kait dana terima aku bantu blh infoin bukti detail kndl username terima kasih stay safe,21,,"{'label': 'negative', 'score': 0.620539128780365}",negative
+admin cdm,2,,"{'label': 'neutral', 'score': 0.9996474981307983}",neutral
+tipu,1,,"{'label': 'negative', 'score': 0.9999172687530518}",negative
+hai kak maaf buat kakak cemas kait kendala kakak yuk segera infoin aku username shopee pesan kakak aku tunggu,19,,"{'label': 'neutral', 'score': 0.9998440742492676}",neutral
+kalau seprti siapa rugi jual terima salah kan sama kurir jadj retak drone jual barang sini mulus sana retak sblm kirim vidio call sama beli,25,,"{'label': 'negative', 'score': 0.9999083280563354}",negative
+install app shopeepay cuss install masukin kode pas registrasi buat bonus koin kode,13,,"{'label': 'neutral', 'score': 0.9998924732208252}",neutral
+kamen bal jadi songket bordir tawar kombinasi sempurna motif bordir tradisional gaya boho modern,14,,"{'label': 'neutral', 'score': 0.5731719136238098}",neutral
+layan makin buruk pee jangan malas baca,7,,"{'label': 'negative', 'score': 0.9998942613601685}",negative
+tipu blok,2,,"{'label': 'negative', 'score': 0.9999161958694458}",negative
+hoak teh,2,,"{'label': 'negative', 'score': 0.9999072551727295}",negative
+nipu atuh,2,,"{'label': 'negative', 'score': 0.9999088048934937}",negative
+yuk mau daget banyak grup tele aku banyak sekali daget game kuis tebak gambar untung kalau mau join tipu mulu sama modus bilang mau ngasih banyak padahal zonk mending buru daget,31,,"{'label': 'negative', 'score': 0.9999145269393921}",negative
+bantu umkm mula,3,,"{'label': 'positive', 'score': 0.9999008178710938}",positive
+coklat kakak,2,,"{'label': 'positive', 'score': 0.6083083748817444}",positive
+masuk salur biar dapetin diskon tambah belanja shopee viral sleman ayam,11,,"{'label': 'neutral', 'score': 0.9995112419128418}",neutral
+viral janda binal full ikut linknya,6,,"{'label': 'neutral', 'score': 0.9981377124786377}",neutral
+terus aplikasi shopee mohon jangan lag terus terimakasih,8,,"{'label': 'neutral', 'score': 0.9703177809715271}",neutral
+transfer,1,,"{'label': 'negative', 'score': 0.9659758806228638}",negative
+mantap,1,,"{'label': 'positive', 'score': 0.9999573230743408}",positive
+cabe hasil kebun sendiri harga sahabat,6,,"{'label': 'neutral', 'score': 0.8675290942192078}",neutral
+cek sellene perfume yasmine extrait parfum harga dapat shopee sekarang,10,,"{'label': 'neutral', 'score': 0.9998936653137207}",neutral
+kak turut senang atas saldo kakak hasil masuk terus tingkat layan kakak nyaman amp,14,,"{'label': 'positive', 'score': 0.9999308586120605}",positive
+kak dumpssnha maaf buat nyaman kait kendala kembali dana kakak aku bantu kece infoin username shopee nomor pesan lewat yaa kak sehat selalu,23,,"{'label': 'positive', 'score': 0.9968208074569702}",positive
+yuliari fauzan izulhaq orang sinting,5,,"{'label': 'negative', 'score': 0.9998821020126343}",negative
+yuliari fauzan ilham punya sakit odgj,6,,"{'label': 'neutral', 'score': 0.9998944997787476}",neutral
+yuliari fauzan izzulhaq orang sinting,5,,"{'label': 'negative', 'score': 0.999893307685852}",negative
+yuliari fauzan idulhaq orang waras,5,,"{'label': 'negative', 'score': 0.9997943043708801}",negative
+yuliari fauzan izuhaq orang gila,5,,"{'label': 'negative', 'score': 0.9999085664749146}",negative
+yuliari fauzan izulhaq manusia babi,5,,"{'label': 'negative', 'score': 0.9998608827590942}",negative
+yuliari fauzan izulhaq manusia jahanam,5,,"{'label': 'negative', 'score': 0.9998711347579956}",negative
+yuliari fauzan izulhaq manusia biadab,5,,"{'label': 'negative', 'score': 0.9998986721038818}",negative
+harga murah klik link,4,,"{'label': 'positive', 'score': 0.9991281628608704}",positive
+tablet anak,2,,"{'label': 'neutral', 'score': 0.9951334595680237}",neutral
+permisi admin admin mau refund saldo shopeepay nomer order uwse ojz mmknfsyrdw banyak karena kirim saldo nomor aktif,18,,"{'label': 'neutral', 'score': 0.9998902082443237}",neutral
+rak troli plastik rak toilet rak kamar mandi rak dapur serbaguna roda rak bumbu rak susun kosmetik harga dapat shopee sekarang,21,,"{'label': 'neutral', 'score': 0.9998353719711304}",neutral
+viral baru menit,3,,"{'label': 'negative', 'score': 0.9997273087501526}",negative
+moga beli,2,,"{'label': 'positive', 'score': 0.9998834133148193}",positive
+kak maaf buat kamu khawatir kait kendala kamu mimin bantu infoin aku detail kendala kamu sreenshot kendala kamu mimin lalu resmi yaa stay safe,24,,"{'label': 'neutral', 'score': 0.9998315572738647}",neutral
+video viral bulan sutena klik link sekarang,7,,"{'label': 'neutral', 'score': 0.9998904466629028}",neutral
+kak maaf buat kamu khawatir kait kendala log kamu mimin bantu infoin aku detail kendala kamu sreenshot kendala kamu mimin lalu resmi yaa stay safe,25,,"{'label': 'neutral', 'score': 0.9998037219047546}",neutral
+kak maaf buat kamu khawatir kait kendala pesnaan kamu mimin bantu infoin aku detail kendala kamu sreenshot kendala kamu mimin lalu resmi yaa stay safe,25,,"{'label': 'neutral', 'score': 0.9998321533203125}",neutral
+jngan manja sama negara makanya anyink manja sama tuhan,9,,"{'label': 'negative', 'score': 0.9998471736907959}",negative
+hari hari kena scam goblog untung pakai nomor anon,9,,"{'label': 'negative', 'score': 0.9999035596847534}",negative
+telpon polis,2,,"{'label': 'neutral', 'score': 0.9787495732307434}",neutral
+beres,1,,"{'label': 'positive', 'score': 0.9999547004699707}",positive
+tas bekel lucu,3,,"{'label': 'positive', 'score': 0.9999547004699707}",positive
+admin gimana admin aku mau mindahin akun lama baru tidak bisa soal suruh verifikasi wajah terus pas verifikasi selalu wajah nali,21,,"{'label': 'negative', 'score': 0.9984320998191833}",negative
+anak bawah umur perkosa brutal kejut jadi baru baru,9,,"{'label': 'negative', 'score': 0.9999070167541504}",negative
+daftar affiliator shope kaya hasil affiliate,6,,"{'label': 'neutral', 'score': 0.9924443364143372}",neutral
+hai kak maaf yaa buat nyaman kait kendala kamu alami system normal mohon coba kak aku bantu cek infoin detail kendala kendala kakak lalu sehat selalu,26,,"{'label': 'positive', 'score': 0.9895771741867065}",positive
+kak mohon maaf kait kendala jadi belum system normal mohon coba kak jadi kendala kakak terima kasih,17,,"{'label': 'neutral', 'score': 0.9998304843902588}",neutral
+kak mohon maaf kait kendala jadi belum jadi ganggu sistem system normal kakak coba jadi kendala kakak sehat selalu kak,20,,"{'label': 'neutral', 'score': 0.9814755916595459}",neutral
+kak maaf buat risau kait kendala kakak kece lanjut info detail kendala username terima kasih aku tunggu,17,,"{'label': 'neutral', 'score': 0.9996650218963623}",neutral
+resign kerja after nikah,4,,"{'label': 'neutral', 'score': 0.9982790946960449}",neutral
+promo laku admin,3,,"{'label': 'positive', 'score': 0.9998099207878113}",positive
+deh case segera diselesain tau kalian mau untung kalau fair gapapa fair sekali kudu tetep bayar transaksi hotel tidak bisa pakai atas salah kalian,24,,"{'label': 'positive', 'score': 0.9949905276298523}",positive
+kak mohon maaf kait kendala jadi belum system normal mohon coba kak jadi kendala kakak terima kasih,17,,"{'label': 'neutral', 'score': 0.9998304843902588}",neutral
+mjb kak pernah ambil bulan januari,6,,"{'label': 'neutral', 'score': 0.9998915195465088}",neutral
+shipping fee jam bayar gimana,5,,"{'label': 'negative', 'score': 0.9997280240058899}",negative
+hai kak maaf yaa buat nyaman kait kendala kamu alami aku bantu cek infoin detail kendala kendala kakak lalu sehat selalu,21,,"{'label': 'neutral', 'score': 0.5485430359840393}",neutral
+kak mohon maaf atas ketidaknyamanannya kait kendala kakak aku bantu lanjut social media kirim detail kendala kak terimakasih sehat selalu kak,21,,"{'label': 'neutral', 'score': 0.9998291730880737}",neutral
+asik nomer tipu selidik,4,,"{'label': 'negative', 'score': 0.9998899698257446}",negative
+wah baik biaya layan naik jadi,6,,"{'label': 'positive', 'score': 0.9993979930877686}",positive
+nsfpnya gimanaaaa kan backdate duh pusing aku mau sekali balik sistem lama pikirin soal nsfp,15,,"{'label': 'negative', 'score': 0.9999051094055176}",negative
+siap admin,2,,"{'label': 'positive', 'score': 0.9999493360519409}",positive
+aku top nambah saldo sekarang bagaimana,6,,"{'label': 'negative', 'score': 0.9998118281364441}",negative
+bahasa alusnya kakkk kalau maintanance mesti jadwal kalau tengah tengah error mendadakkk,12,,"{'label': 'negative', 'score': 0.9997027516365051}",negative
+kapan bener nyaaa gua top transaksi hasil saldo shopee ganambahhhhh,10,,"{'label': 'negative', 'score': 0.5576665997505188}",negative
+belumm kaakk status proses terus,5,,"{'label': 'negative', 'score': 0.9998063445091248}",negative
+cepetan admin mau bahan buat tugas,6,,"{'label': 'negative', 'score': 0.7885767221450806}",negative
+maksud tdi error nyantumin biaya tangan makin mahal yee pdhal pakai sopeepay mending cash,14,,"{'label': 'negative', 'score': 0.9999110698699951}",negative
+allaah keburuu abiss barang aku mauuu,6,,"{'label': 'negative', 'score': 0.9993739724159241}",negative
+jangan lama pls aku mau barangaksjsjak,6,,"{'label': 'negative', 'score': 0.9999045133590698}",negative
+pntesan dah panik duluan,4,,"{'label': 'negative', 'score': 0.9999203681945801}",negative
+admin laperrr aku admin mau sen sopiputt,7,,"{'label': 'negative', 'score': 0.9998977184295654}",negative
+admin kapan aku mau bayar tagih tax aku,8,,"{'label': 'neutral', 'score': 0.9997604489326477}",neutral
+cek please,2,,"{'label': 'neutral', 'score': 0.9994176626205444}",neutral
+normal yaaa,2,,"{'label': 'negative', 'score': 0.9985798597335815}",negative
+cepetan gakkkkk gua mau instant maksimal jam,7,,"{'label': 'positive', 'score': 0.7162426710128784}",positive
+error,1,,"{'label': 'negative', 'score': 0.9999186992645264}",negative
+okee makas info kaa,4,,"{'label': 'neutral', 'score': 0.9600023627281189}",neutral
+@aproudit @ShopeePay_ID masih belum bro?,5,,"{'label': 'neutral', 'score': 0.9998816251754761}",neutral
+normal kapan jir mau pakai,5,,"{'label': 'neutral', 'score': 0.9998447895050049}",neutral
+duhh lama banget duit pending padahal mau buat penting admin,10,,"{'label': 'negative', 'score': 0.9999212026596069}",negative
+shopee makin lama makin bobrok admin seller besar sekali sekarang kalau mau pakai gratis ongkir shopeeplus bayar sekarang pelihara sistem siang bolonggg jam sibuk,24,,"{'label': 'negative', 'score': 0.99991774559021}",negative
+apalu akun nipu,3,,"{'label': 'negative', 'score': 0.9999105930328369}",negative
+guys,1,,"{'label': 'positive', 'score': 0.9996592998504639}",positive
+minnn cepet minnn,3,,"{'label': 'positive', 'score': 0.998267412185669}",positive
+kapan admin,2,,"{'label': 'neutral', 'score': 0.9965788722038269}",neutral
+sampek kapan admin yaampun takiro uang gkbisa transfer,8,,"{'label': 'negative', 'score': 0.9984631538391113}",negative
+malu minn belanja dagang tidak bisa bayar bawa saldo shopeepay doang,11,,"{'label': 'negative', 'score': 0.9999023675918579}",negative
+cetak resiii gimana wehhhh,4,,"{'label': 'negative', 'score': 0.9982426166534424}",negative
+admin kapan iniii mau beliiiii kuotaaaa,6,,"{'label': 'neutral', 'score': 0.9998289346694946}",neutral
+admin aku lapar bayar anjerr,5,,"{'label': 'negative', 'score': 0.9997898936271667}",negative
+beneran eror dah panik tadiiiiii,5,,"{'label': 'negative', 'score': 0.999923586845398}",negative
+nyusahin sekali jam gin pelihara sistem orang urgent,8,,"{'label': 'negative', 'score': 0.999913215637207}",negative
+laper admin kirimin gua makan tanggung jawab,7,,"{'label': 'negative', 'score': 0.9999141693115234}",negative
+pantes iiiiii aku beli makan tidak bisa bayar benci bgtttttttt aku malu sama layan arghhhhhh aku marahhhh,17,,"{'label': 'negative', 'score': 0.9999194145202637}",negative
+ideee siapa ngadain pelihara sistem jam seginiii coba gua tanyaaaaaaa astaaagaaaa,11,,"{'label': 'neutral', 'score': 0.5599421858787537}",neutral
+hiks laperrrr drtadi mau sopifud bayar lewat shopeepay tidak bisa mana tidak ada uang cash kalau bayar cod,18,,"{'label': 'negative', 'score': 0.9999071359634399}",negative
+mau keburu habis dah shopee error,6,,"{'label': 'negative', 'score': 0.9999222755432129}",negative
+kapan ini,2,,"{'label': 'negative', 'score': 0.8930245041847229}",negative
+iya aku mau top tiba jaring eror pdhl sinyal bagus,10,,"{'label': 'negative', 'score': 0.9999152421951294}",negative
+admin aku laper mau sopifud bagaimana bayar pakai seabank gbs top shopeepay gbs,13,,"{'label': 'negative', 'score': 0.9996975660324097}",negative
+dritadi panik banget tidak bisa transaksi tidak bisa masuk akun shopee,11,,"{'label': 'negative', 'score': 0.9999034404754639}",negative
+admin moga saldo ilang yaa,5,,"{'label': 'negative', 'score': 0.9997467398643494}",negative
+plis woi diri tengah jem indomaret mau top tidak jadi jadi tau maintenance mana jam jam sibuk gin bjir,19,,"{'label': 'negative', 'score': 0.9999039173126221}",negative
+berapa lama admin dah beres bom,6,,"{'label': 'negative', 'score': 0.9998242259025574}",negative
+pelihara sistem siang begini kocak,5,,"{'label': 'positive', 'score': 0.9989010095596313}",positive
+admin aku tidak bisa reedem promo serba ribu masa kemarin tidak bisa,12,,"{'label': 'negative', 'score': 0.9994908571243286}",negative
+oalah pantes mau sen makan opsi shopeepay,7,,"{'label': 'negative', 'score': 0.998982846736908}",negative
+segera dibenerin mau bayar tiket kereta takut habis,8,,"{'label': 'negative', 'score': 0.9999173879623413}",negative
+aku laper,2,,"{'label': 'negative', 'score': 0.9999159574508667}",negative
+kacau pantesan top masuk jangan lama admin pelihara sistem,9,,"{'label': 'negative', 'score': 0.9999033212661743}",negative
+niat banget kamu tolol nipunya semua orang reply,8,,"{'label': 'negative', 'score': 0.9999170303344727}",negative
+pakai mbanking gabisaaa masa,4,,"{'label': 'negative', 'score': 0.9834035038948059}",negative
+serius jam sibuk malah maintenance woyy malu bayar iniii ditungguin kasirr nyesel masukin saldo shopee semua,16,,"{'label': 'negative', 'score': 0.99991774559021}",negative
+minimal kalau mau pelihara tuh start tengah malam kayak nyusahin tau jam gin malah pelihara panik bahkan layan hilang livin mandiri kasih tau jam berapa,25,,"{'label': 'negative', 'score': 0.9998983144760132}",negative
+mesti kokk shopee sama seabank pelihara sistem mah tengah malem bukan jam sibuk begini elah capek sama sopi,18,,"{'label': 'negative', 'score': 0.9998984336853027}",negative
+buru benerin banget iniii elah siang begini mana tidak ada pemberitahuan belum,12,,"{'label': 'negative', 'score': 0.9999098777770996}",negative
+pantesan admin mau bayar kok terang connection timeout core terus jadi bayar admin,13,,"{'label': 'negative', 'score': 0.9974549412727356}",negative
+jam gin sih pelihara sistem begini,6,,"{'label': 'neutral', 'score': 0.6421635150909424}",neutral
+buru benerin laper,3,,"{'label': 'negative', 'score': 0.9999203681945801}",negative
+shopee pay doang ngaruh resi ngeprint tdi,7,,"{'label': 'negative', 'score': 0.9942816495895386}",negative
+cepetin orang mau bayar spinjam spaylater niat sekali kamu buat lambat biar kena denda,14,,"{'label': 'negative', 'score': 0.999901533126831}",negative
+kapan estimasi kasih tau admin klo mau live jadi bingung,10,,"{'label': 'negative', 'score': 0.9998145699501038}",negative
+otak dodol sih gin pas butuh malah pelihara pecat orang oon mutusin pelihara jam gin jam sibuk malah pakai,19,,"{'label': 'negative', 'score': 0.9999115467071533}",negative
+please shopee barang rufund acc sama punya saldo masuk notif tak sama sekali mana halaman kembali error mulu duit woiiii,20,,"{'label': 'negative', 'score': 0.9999167919158936}",negative
+yaampun buru deh benernya mau cekout instan seburu toko tutup hadehhhhhhhh,11,,"{'label': 'negative', 'score': 0.9998897314071655}",negative
+admin jangan lama lama aku makan hari,7,,"{'label': 'negative', 'score': 0.9998772144317627}",negative
+admin aku laper,3,,"{'label': 'negative', 'score': 0.9999173879623413}",negative
+sama plis dah panik,4,,"{'label': 'negative', 'score': 0.9999204874038696}",negative
+pelihara sistem harus malem admin bukan pas jam sibuk gin hari senen,12,,"{'label': 'negative', 'score': 0.5658748745918274}",negative
+jam berapa minn,3,,"{'label': 'negative', 'score': 0.9916627407073975}",negative
+klik link,2,,"{'label': 'neutral', 'score': 0.999825656414032}",neutral
+panik sekali  pelihara sistem tuh tengah malem admin jangan siang bolong gin,12,,"{'label': 'negative', 'score': 0.9998618364334106}",negative
+maaf admin mau pakai gofood keburu laper,7,,"{'label': 'negative', 'score': 0.9994828701019287}",negative
+oalaah makanya bayar,3,,"{'label': 'negative', 'score': 0.9988516569137573}",negative
+mau nang,2,,"{'label': 'negative', 'score': 0.9868713617324829}",negative
+kocak,1,,"{'label': 'positive', 'score': 0.9999539852142334}",positive
+panik mana,2,,"{'label': 'negative', 'score': 0.9999129772186279}",negative
+jangan lama minn aku mau,5,,"{'label': 'negative', 'score': 0.999737560749054}",negative
+kirain akun gua suspend,4,,"{'label': 'negative', 'score': 0.9998778104782104}",negative
+jam jam gin jirrr,4,,"{'label': 'negative', 'score': 0.9997710585594177}",negative
+lama admin aku mau album kpop,6,,"{'label': 'neutral', 'score': 0.9724383354187012}",neutral
+pelihara sistem harus dinihari pas orang banyak pakai bukan malah jam sekarang mana orang banyak pakai kocak bner dah kamu,20,,"{'label': 'negative', 'score': 0.9998632669448853}",negative
+ditungguin,1,,"{'label': 'negative', 'score': 0.9975693821907043}",negative
+gawat apps error aman admin,5,,"{'label': 'negative', 'score': 0.999904990196228}",negative
+iyaa barusan aku cari search bar keburu panik kira punya doang,11,,"{'label': 'negative', 'score': 0.9998583793640137}",negative
+buru benerin plis,3,,"{'label': 'negative', 'score': 0.9999182224273682}",negative
+oalaaa panteess mau jajan tidak bisa bayarr,7,,"{'label': 'negative', 'score': 0.9998014569282532}",negative
+plisss aku mau beli makan weee,6,,"{'label': 'positive', 'score': 0.9989663362503052}",positive
+woiiii nangisss saldooo aku disituuuuuu,5,,"{'label': 'negative', 'score': 0.9998762607574463}",negative
+brarti emg error kakk,4,,"{'label': 'negative', 'score': 0.9999134540557861}",negative
+owalahh,1,,"{'label': 'negative', 'score': 0.9996764659881592}",negative
+pantes tadi mau barang muncul spaynyaa kapan admin gin,9,,"{'label': 'negative', 'score': 0.991763710975647}",negative
+jam berapa,2,,"{'label': 'neutral', 'score': 0.9840826392173767}",neutral
+piye awan kok pelihara,4,,"{'label': 'negative', 'score': 0.9998564720153809}",negative
+aku habis seabank dana shopee seabank masuk,7,,"{'label': 'neutral', 'score': 0.9998893737792969}",neutral
+pantess mau lewat shopeepay status sedang proses,7,,"{'label': 'neutral', 'score': 0.8700326681137085}",neutral
+jam berapa admin mau cari maem shopeepay tidak bisa admin,10,,"{'label': 'neutral', 'score': 0.9989883303642273}",neutral
+mana chat sama telpon gabisaa bjir laah mau nanges,9,,"{'label': 'negative', 'score': 0.9998964071273804}",negative
+kenape,1,,"{'label': 'negative', 'score': 0.8080049753189087}",negative
+kak shopeepay error aku mau metode bayar shopeepay terus aku download appnya kata salah sistem gabsa link,17,,"{'label': 'negative', 'score': 0.997077465057373}",negative
+gatau kak huhu aku mau jajan pakai shupi pay tiba ilang tuh fitur luuukkhh,14,,"{'label': 'negative', 'score': 0.9998041987419128}",negative
+shopeepay ganggu mulu kapan selesai,5,,"{'label': 'negative', 'score': 0.9999171495437622}",negative
+admin kalau barang batal jual bayar virtual account tuh duit masuk,11,,"{'label': 'neutral', 'score': 0.749988317489624}",neutral
+admin cepet baik banyak perlu,5,,"{'label': 'positive', 'score': 0.9996238946914673}",positive
+adaa opsi bayar shopeepay nyaa tidak bisa wallet bank,9,,"{'label': 'neutral', 'score': 0.9998787641525269}",neutral
+iya sama kirain aku doang,5,,"{'label': 'negative', 'score': 0.9997944235801697}",negative
+eror betulin buru butuh,4,,"{'label': 'negative', 'score': 0.9999197721481323}",negative
+shopee yaa payment pakai shopeepay error,6,,"{'label': 'negative', 'score': 0.9998853206634521}",negative
+buru guys hott guru murid,5,,"{'label': 'negative', 'score': 0.9999014139175415}",negative
+error kak,2,,"{'label': 'negative', 'score': 0.9999185800552368}",negative
+benerin shopeepay anjrirrr error,4,,"{'label': 'negative', 'score': 0.9999206066131592}",negative
+gimana proses doang saldo potong gimana,6,,"{'label': 'negative', 'score': 0.9998656511306763}",negative
+jawaaaaaaaaappppppp,1,,"{'label': 'positive', 'score': 0.999790370464325}",positive
+siang admin izin tanya shopeepay error,6,,"{'label': 'negative', 'score': 0.99225252866745}",negative
+hai kak maaf sekali buat alam yuk info nomor waktu jadi nama paket harga paket channel beli metode bayar capture transaksi lalu kak mimin tunggu konfirmasi salam manis tiya,29,,"{'label': 'neutral', 'score': 0.9998972415924072}",neutral
+kak jadi masuk aku baru ngalamin,6,,"{'label': 'negative', 'score': 0.9968549013137817}",negative
+bagaimana mint tiba kok direfund dana refundnya masuk,8,,"{'label': 'negative', 'score': 0.9823894500732422}",negative
+admin aku top shopeepay mbanking success saldo nambah yah,9,,"{'label': 'neutral', 'score': 0.9998486042022705}",neutral
+mint aku beli kuota via shopeepay bayar dah hasil kuota bom masuk,12,,"{'label': 'neutral', 'score': 0.994719386100769}",neutral
+batas max,2,,"{'label': 'negative', 'score': 0.8055920004844666}",negative
+guys akun tidak bisa reedem promo shopeepay serba ribu masa,10,,"{'label': 'neutral', 'score': 0.9922903180122375}",neutral
+klo pasar modern kan langsung datengin toko flownya beda nah klo mau kayak cukup belanja pasar tradisional klo belanja online bayar dulu baru buka buka sesuai silah aju refund sering kayak uang balik aman,34,,"{'label': 'positive', 'score': 0.999855637550354}",positive
+bang poin coffee khusus varian ice palm arti,8,,"{'label': 'neutral', 'score': 0.999785840511322}",neutral
+aku begini terus,3,,"{'label': 'positive', 'score': 0.8527434468269348}",positive
+haloo aku kemaren hari sihh gagal akhir saldo balik,9,,"{'label': 'negative', 'score': 0.7020106315612793}",negative
+spaylater kok total belanja tagih padahal cicil beda lumayan,9,,"{'label': 'negative', 'score': 0.995877742767334}",negative
+emang apa,2,,"{'label': 'negative', 'score': 0.9435930252075195}",negative
+habis shopeepay gopay wajar apa engga proses tadi dongg masuk masuk pernah begini,13,,"{'label': 'negative', 'score': 0.9992617964744568}",negative
+haloo mau nanyaa gimana yaa soal aku begini mana langsung gopay nominal besar gaa ngecek dulu proses bepa lama,19,,"{'label': 'neutral', 'score': 0.9972367286682129}",neutral
+kak izin promote,3,,"{'label': 'neutral', 'score': 0.9998134970664978}",neutral
+brengsek iklan,2,,"{'label': 'negative', 'score': 0.9999191761016846}",negative
+kak maaf buat resah kait kendala kakak alami aku bantu cek lanjut infoin transaksi username shopee lewat sosmed yaa terimakasih,20,,"{'label': 'neutral', 'score': 0.9997197985649109}",neutral
+minta bantu ngetrack transaksi merchant payment lewat,7,,"{'label': 'neutral', 'score': 0.9998942613601685}",neutral
+begini langsung disable layan pilih cod sebut biar belanja sistem cod situ ribet investigasi buat ngembaliin uang kurir,18,,"{'label': 'negative', 'score': 0.9998726844787598}",negative
+tuju,1,,"{'label': 'positive', 'score': 0.99978107213974}",positive
+hai kak mohon maaf atas ketidaknyamanannya kait kendala kakak alami cek lanjut mohon info detail kendala lalu media sosial tunggu,20,,"{'label': 'neutral', 'score': 0.9998916387557983}",neutral
+bls admin,2,,"{'label': 'negative', 'score': 0.9998224377632141}",negative
+admin cara transfer saldo shopeepay indo shopeepay malaysia gimana,9,,"{'label': 'neutral', 'score': 0.997730553150177}",neutral
+admin baca,2,,"{'label': 'neutral', 'score': 0.9056766629219055}",neutral
+viral,1,,"{'label': 'negative', 'score': 0.9999027252197266}",negative
+kak akun buat kak,4,,"{'label': 'neutral', 'score': 0.9998651742935181}",neutral
+lucu imut,2,,"{'label': 'positive', 'score': 0.9999580383300781}",positive
+shopee gold malah ubah turun silver,6,,"{'label': 'neutral', 'score': 0.9997636675834656}",neutral
+transfer gopay kok bom masuk masuk lama cek inbox kirim kode transaksi,12,,"{'label': 'negative', 'score': 0.9997144341468811}",negative
+joan ikut neng kalau bayar tagih makasih yaa kak pakai indihome joan,12,,"{'label': 'neutral', 'score': 0.9998574256896973}",neutral
+dah admin jadi bayar lewat shopeepay thanks,7,,"{'label': 'neutral', 'score': 0.9998831748962402}",neutral
+iyaa kudu wajib suspend biar korban,6,,"{'label': 'negative', 'score': 0.9985896944999695}",negative
+hai kak maaf buat kakak nyaman aku bantu infoin detail kendala kendala kakak stay safe kak,16,,"{'label': 'neutral', 'score': 0.9998917579650879}",neutral
+update temen temen spam monyet langsung block nomer ngeblock cuma nomer pribadi nomor nomor buat nipu block kakak suspend acc,20,,"{'label': 'negative', 'score': 0.9999122619628906}",negative
+hai kak maaf buat kendala yuk sampai detail data transaksi lalu keluh kakak sebut mimin bantu terusin kak selalu waspada kak akun resmi twitter bni centang emas verified belah nama akun bukan photo profile,34,,"{'label': 'neutral', 'score': 0.9991167187690735}",neutral
+akun spotify canva pro lain ready murmerr kuy,8,,"{'label': 'neutral', 'score': 0.9998766183853149}",neutral
+hai kak maaf buat kamu nyaman kait kendala bayar kakak proses aku bantu cek infoin aku bukti bayar lalu terima kasih hubung shopee sehat selalu,25,,"{'label': 'positive', 'score': 0.9979168772697449}",positive
+halo admin kemarin laku transaksi lewat shopepay bri bayar sekolah anak sekarang proses sedang proses terus admin buat bayar sekolah gimana admin solusi,23,,"{'label': 'negative', 'score': 0.9978959560394287}",negative
+cara dapat vocher shopeepay,4,,"{'label': 'neutral', 'score': 0.9998149275779724}",neutral
+cara dapatin uang sedikit penting konsisten,6,,"{'label': 'neutral', 'score': 0.8427751660346985}",neutral
+mending asli dah gercep balesnya banding lama betttt dibales bizi sekali kek,12,,"{'label': 'negative', 'score': 0.999908447265625}",negative
+surabaya gitu,2,,"{'label': 'negative', 'score': 0.996357262134552}",negative
+via sosial media kak sehat selalu,6,,"{'label': 'neutral', 'score': 0.9997908473014832}",neutral
+hai kak maaf buat kamu risau kait kendala bayar shopeepay verifikasi aku bantu kece lanjut infoin screenshot detail transaksi username nomor pesan kakak,23,,"{'label': 'neutral', 'score': 0.99988853931427}",neutral
+anak orang boneka gemoy,4,,"{'label': 'negative', 'score': 0.9998083710670471}",negative
+kak maaf buat kakak nyaman sama kendala kakak alami aku cek lanjut yuk infoin username kamu sehat selalu,18,,"{'label': 'neutral', 'score': 0.7821935415267944}",neutral
+kak mohon maaf atas ketidaknyamanannya kait kendala langgan voucher shopefood aku bantu cek aku saranin kakak meginformasikan detail kendala kakak social media sehat selalu,24,,"{'label': 'neutral', 'score': 0.9991649389266968}",neutral
+kak maaf buat kamu khawatir kait kendala kakak alami aku bantu infoin aku detail kendala kamu sreenshot kendala kamu aku lalu resmi yaa stay safe,25,,"{'label': 'neutral', 'score': 0.9997904896736145}",neutral
+kan sempat voucher belanja shopeepay link,6,,"{'label': 'neutral', 'score': 0.9998884201049805}",neutral
+gagal top transaksi laku tgl januari sekarang jelas uang masuk gopay balas customer,13,,"{'label': 'negative', 'score': 0.9656561613082886}",negative
+admin spinjam error gimana mau bayar,6,,"{'label': 'negative', 'score': 0.9999152421951294}",negative
+cowonya menang banyak viral trending,5,,"{'label': 'negative', 'score': 0.9971300959587097}",negative
+anyway tadi sempet makan waroenk salemba wuihh enak habis tadi hehehe kamu bayangin nyasar ampe salemba sehat sehat org galak kamu bayangin deh abang chill gin sukses deh punya cowo sabar,31,,"{'label': 'positive', 'score': 0.9998760223388672}",positive
+bang nyuruh sabar kalau ikutin emosi dah ken banget teriakin kalau mau duit sana kerja tolol dah sekian guys muak banget sama org tolol mohon perhati,26,,"{'label': 'negative', 'score': 0.9999016523361206}",negative
+kak verifikasi shopeepay berapa lama kak,6,,"{'label': 'neutral', 'score': 0.9998049139976501}",neutral
+hai kak maaf buat kendala kak kakak kirim kait keluh kakak kakak mimin balas mohon tunggu lebih kak waspada info kontak mengatasnamakan bni website umum akun resmi twitter bni,29,,"{'label': 'neutral', 'score': 0.9998916387557983}",neutral
+apa sulit sih kasih tahu terima alloh alloh mumet,9,,"{'label': 'negative', 'score': 0.9999101161956787}",negative
+hai kak mohon maaf atas ketidaknyamanannya kait kendala kamu aku bantu kece lanjut infoin aku username detail kendala lalu terima kasih,21,,"{'label': 'neutral', 'score': 0.9998867511749268}",neutral
+hai kak baik kak perlu khawatir kakak mimin balas kak mohon tunggu selalu jaga rahasia data pribadi kakak hati hati info kontak mengatasnamakan bni website umum twitter resmi bni centang emas verified,32,,"{'label': 'neutral', 'score': 0.9997619986534119}",neutral
+saldo tahan lumayan banyak kalau gin rugi cust,8,,"{'label': 'positive', 'score': 0.999725878238678}",positive
+halo admin bagaimana saldo satu masuk bagaiman pertanggungjawaban thanks,9,,"{'label': 'neutral', 'score': 0.9998675584793091}",neutral
+yuk gabung grup tele racun shopee,6,,"{'label': 'neutral', 'score': 0.9998892545700073}",neutral
+ngebug parah mungkin tim developer butuh bonus libur total checkout buat bayar disable,13,,"{'label': 'negative', 'score': 0.9998941421508789}",negative
+viral baru link bawah,4,,"{'label': 'negative', 'score': 0.9977401494979858}",negative
+kak maaf sekali buat kamu nyaman kait kendala kamu aku infoin kamu chat aku lalu social media lampir detail kronologi username sehat selalu,23,,"{'label': 'neutral', 'score': 0.9984501600265503}",neutral
+lihat langkap,2,,"{'label': 'negative', 'score': 0.9998101592063904}",negative
+cek sandal jepit pria triglav sandal gunung pria triglav original,10,,"{'label': 'neutral', 'score': 0.9997077584266663}",neutral
+hai kak baik kak tunggu kakak mimin respon jaga selalu rahasia data pribadi kakak waspada info kontak mengatasnamakan bni website umum akun resmi twitter bni centang emas verified belah nama akun bukan photo,33,,"{'label': 'neutral', 'score': 0.9998594522476196}",neutral
+kalian punya team berantas tipu sih,6,,"{'label': 'negative', 'score': 0.9999126195907593}",negative
+admin hari tagih paylater aku jatuh tempo duit nyangkut solusi gimana aku respon padahal kemarin selisih jam dibales pihak solusi gimana,21,,"{'label': 'negative', 'score': 0.9998189806938171}",negative
+oke kak jangan khawatir aku cek kakak satu per satu tunggu yaa sehat selalu,14,,"{'label': 'positive', 'score': 0.9909352660179138}",positive
+halo admin cek terima kasih,5,,"{'label': 'neutral', 'score': 0.9998923540115356}",neutral
+ikut yuk,2,,"{'label': 'positive', 'score': 0.8687132596969604}",positive
+admin cek,2,,"{'label': 'neutral', 'score': 0.999854564666748}",neutral
+top gopay lewat masuk yaa ganggu kahhh,7,,"{'label': 'negative', 'score': 0.9998261332511902}",negative
+hai kak maaf buat nyaman kait kendala kamu alami aku bantu cek infoin detail kendala pesan danusername kamu social media aku tunggu,22,,"{'label': 'neutral', 'score': 0.9998797178268433}",neutral
+hai kak maaf buat nyaman kait kendala kamu alami aku bantu cek infoin detail kendala kamu social media aku tunggu,20,,"{'label': 'neutral', 'score': 0.9998958110809326}",neutral
+heyy apa maksudnu nahh padahal cukup lohh saldo woii,9,,"{'label': 'negative', 'score': 0.9998688697814941}",negative
+admin spaylater kapan bekuin padahal tidak ada tagih,8,,"{'label': 'negative', 'score': 0.9998059868812561}",negative
+ribet deh tinggal download aplikasi shopeepay langsung bayar qris serba ribu hemat sekali buat belanja merchant sayang,17,,"{'label': 'positive', 'score': 0.999935507774353}",positive
+minta admin bayar ukt segera kalau urus krs,8,,"{'label': 'neutral', 'score': 0.9998912811279297}",neutral
+hai kak maaf atas ketidaknyamanannya kait kendala transfer kakak alami bantu cek kakak infoin detail social media stay safe,19,,"{'label': 'neutral', 'score': 0.9998891353607178}",neutral
+hai kak maaf atas kendala kak keluh kakak alami mimin tindaklankjuti sila kakak informasi data lali mimin jaga selalu rahasia data pribadi kakak jangan infoin password banking klik link email dokumen,31,,"{'label': 'neutral', 'score': 0.997289776802063}",neutral
+hari gigi kemarin ompong,4,,"{'label': 'negative', 'score': 0.9998770952224731}",negative
+jadi gimana solusi,3,,"{'label': 'negative', 'score': 0.9558237195014954}",negative
+mau kamar aesthetic rekomen lampu awan his,7,,"{'label': 'neutral', 'score': 0.9996438026428223}",neutral
+kak shopeepay masalah mau top muncul tulis kalau nomerku daftar padahal bias kak,13,,"{'label': 'neutral', 'score': 0.9997904896736145}",neutral
+mantap serba ribu,3,,"{'label': 'positive', 'score': 0.999954104423523}",positive
+kak mohon maaf kait kendala kirim pesan kamu bantu kece lbh lanjut kamu lampir username serta nomor pesan lalu terimakasih,20,,"{'label': 'neutral', 'score': 0.9998916387557983}",neutral
+admin info aplikasi shopee suka ngilangin barang kalau lapor malah case close janji mau ngeinfo bantuin malah kabur email eeeehhh tutupin case hobi banget aplikasi ngilangin barang,27,,"{'label': 'negative', 'score': 0.9999085664749146}",negative
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+bales chatku kalian,3,,"{'label': 'negative', 'score': 0.9997146725654602}",negative
+kak lanjut gimana aku tadi ngisi saldo via mbanking isi spaynyaa,11,,"{'label': 'neutral', 'score': 0.9998950958251953}",neutral
+cek,1,,"{'label': 'neutral', 'score': 0.9423424601554871}",neutral
+cara menang ibu ibu,4,,"{'label': 'positive', 'score': 0.9999114274978638}",positive
+masa lapor tgl sekarang hasil,5,,"{'label': 'neutral', 'score': 0.9997493624687195}",neutral
+jangan klik,2,,"{'label': 'negative', 'score': 0.9996663331985474}",negative
+kak mohom maaf kait kendala tari dana blu terima bantu kendala kamu mohon infoin screenshot transaksi aku tunggu,18,,"{'label': 'neutral', 'score': 0.999859094619751}",neutral
+fresh mau komen,3,,"{'label': 'neutral', 'score': 0.9401333928108215}",neutral
+barusan saldo app shopeepay kok masuk saldo potong bantu,9,,"{'label': 'neutral', 'score': 0.9998902082443237}",neutral
+kowk gtuuh,2,,"{'label': 'negative', 'score': 0.999911904335022}",negative
+hmmmch bikel kufolbake,3,,"{'label': 'negative', 'score': 0.9992959499359131}",negative
+followb cckk akkw plzz akks udhhjhh spaammm likee jari ftus,10,,"{'label': 'negative', 'score': 0.9993026256561279}",negative
+demmmm tnyt luuuuu,3,,"{'label': 'negative', 'score': 0.9993249177932739}",negative
+engg ini,2,,"{'label': 'negative', 'score': 0.9994833469390869}",negative
+owh noo bliau sdhh keluar sifat sli,7,,"{'label': 'negative', 'score': 0.9998579025268555}",negative
+ubur ubur ikan lele,4,,"{'label': 'negative', 'score': 0.9965457320213318}",negative
+kata lele kelas sama kamu,5,,"{'label': 'negative', 'score': 0.7184849381446838}",negative
+gua kelas lele,3,,"{'label': 'negative', 'score': 0.9996815919876099}",negative
+elu kelas kelas kakap,4,,"{'label': 'negative', 'score': 0.9998729228973389}",negative
+jangan ditag gitu guys kelas bukan endorse syopi,8,,"{'label': 'negative', 'score': 0.9998754262924194}",negative
+admin cek plis,3,,"{'label': 'negative', 'score': 0.9998916387557983}",negative
+promonya habis pakai pas tanggal kembar jelasin,7,,"{'label': 'negative', 'score': 0.9992749094963074}",negative
+gtau,1,,"{'label': 'negative', 'score': 0.9998993873596191}",negative
+emg sekarang tuh kalau sama shopeepay klik link dlu terima,10,,"{'label': 'neutral', 'score': 0.9998879432678223}",neutral
+lihat sini,2,,"{'label': 'neutral', 'score': 0.9975419044494629}",neutral
+kok aku mau scan tidak bisa error tidak sih,9,,"{'label': 'negative', 'score': 0.9934091567993164}",negative
+hai kak maaf buat kamu nyaman kait kendala kamu alami aku bantu yuk infoin aku detail kendala kamu social media sehat selalu,22,,"{'label': 'neutral', 'score': 0.9991493225097656}",neutral
+shopeepay error admin masa aku shopeepay gopay tulis proses mulu jam sekarang urgent banget admin buat bayar kostt donggg,19,,"{'label': 'negative', 'score': 0.999916672706604}",negative
+video lucu sekali,3,,"{'label': 'positive', 'score': 0.9999502897262573}",positive
+dibales bales,2,,"{'label': 'negative', 'score': 0.9999061822891235}",negative
+kak mohon maaf buat kakak nyaman kait kendala kamu alami aku bantu kakak infoin detail kendala kirim lewat yaa kak sehat selalu,22,,"{'label': 'positive', 'score': 0.5342949628829956}",positive
+diamond murah,2,,"{'label': 'positive', 'score': 0.9999548196792603}",positive
+tuju support terus,3,,"{'label': 'positive', 'score': 0.9993520379066467}",positive
+wkwk serius duit ditilep bener admin duit lumayan balesannya gin nunggunya dah kerja bener perlu laporin pihak wajib,18,,"{'label': 'negative', 'score': 0.9998447895050049}",negative
+kak goodriddamnce maaf buat bingung sama kendala kamu aku infoin hubung akun seabank shopee laku satu akun kak klo tanya kait shopee jangan sungkan aku sehat selalu,27,,"{'label': 'positive', 'score': 0.9997069239616394}",positive
+mau tanya kalau misal mau ganti akun shopee buat nyambungin seabank seabank sama terus kalau akun shopeee sblmnya disambungin akun seabank,21,,"{'label': 'neutral', 'score': 0.9998849630355835}",neutral
+gram efektif tingkat sehat dukung usaha kecil,7,,"{'label': 'positive', 'score': 0.9991573095321655}",positive
+pihak sama sekali tidak ada bantu benar benar cuma suruh nunggu tidak ada pasti nunggu jam tetap masuk saldo segera balikin dana entah,23,,"{'label': 'negative', 'score': 0.9998832941055298}",negative
+kak maaf buat kamu nyaman kait kendala transfer ewallet kamu aku bantu cek lanjut kakak aku lampir bukti transfer aku kak aku tunggu terimakasih,24,,"{'label': 'neutral', 'score': 0.9998923540115356}",neutral
+tgl sekarang transfer ewallet shopeepay gopay masuk chat suruh nunggu mulu hdh,12,,"{'label': 'neutral', 'score': 0.9995090961456299}",neutral
+aku kasih bocor biar harga murah,6,,"{'label': 'positive', 'score': 0.9995706677436829}",positive
+syukur jangan sungkan konfirmasi kalau apa apa sama telkomselnya selalu siap bantu rai,13,,"{'label': 'neutral', 'score': 0.9998472929000854}",neutral
+kontra kosong pintu masing lebar meter meter tiap kamar sekat fasilitas kamar mandi dalam lingkung bersih insyaallah aman air pdam lancar listrik watt lokasi sangiang belakang tangerang kota masuk listrik air,31,,"{'label': 'positive', 'score': 0.9994255304336548}",positive
+mudah cuan rumah,3,,"{'label': 'positive', 'score': 0.9999476671218872}",positive
+refund thanks,2,,"{'label': 'positive', 'score': 0.9911168813705444}",positive
+okai admin mohon liat ignya,5,,"{'label': 'neutral', 'score': 0.9998687505722046}",neutral
+refund transaksi kak maaf cboa deh infoin nomernya biar bantu cek lanjut jovan,13,,"{'label': 'neutral', 'score': 0.9998874664306641}",neutral
+admin cara cek akun shopeepay kira hubung sama subscription gimana yaa,11,,"{'label': 'neutral', 'score': 0.999809205532074}",neutral
+kak maaf buat kamu nyaman kait kendala kamu aku bantu infoin detail kendala kamu sreenshot bukti top shopeepay lalu instagram stay safe,22,,"{'label': 'neutral', 'score': 0.999859094619751}",neutral
+mantap,1,,"{'label': 'positive', 'score': 0.9999573230743408}",positive
+bohong program penuh manipulasi,4,,"{'label': 'negative', 'score': 0.9999198913574219}",negative
+tambah spayku padahal topup mau barang weh masalah topupnya nominal besar,11,,"{'label': 'negative', 'score': 0.9967297315597534}",negative
+link viral shopee baru,4,,"{'label': 'neutral', 'score': 0.9993563294410706}",neutral
+silah cek,2,,"{'label': 'neutral', 'score': 0.999722421169281}",neutral
+kak maaf buat kamu khawatir kait kendala pesan kamu aku bantu infoin aku detail kendala kamu sreenshot kendala kamu aku lalu resmi stay safe,24,,"{'label': 'neutral', 'score': 0.9997468590736389}",neutral
+viral janda binal full ikut link,6,,"{'label': 'neutral', 'score': 0.9978534579277039}",neutral
+kak maaf sekali buat kamu nyaman kait kendala top kamu alami aku bantu cek lanjut mohon infoin detail kendala kamu lalu social media resmi shopee yaa kak stay safe,29,,"{'label': 'neutral', 'score': 0.9997729659080505}",neutral
+difollow terus admin hari pls sejak januari kemarin chat suruh nunggu terus chat gopay malah jawab template bantu sama sekali,20,,"{'label': 'negative', 'score': 0.6113259792327881}",negative
+transfer shopeepay sedang proses terus saldo potong minta kembali,9,,"{'label': 'neutral', 'score': 0.9998993873596191}",neutral
+kak maaf atas ketidaknyamanannya aku bantu lanjut infoin username shopee kamu bukti transaksi detail lalu social media kak sehat selalu terimakasih hubung shopee,23,,"{'label': 'neutral', 'score': 0.9998477697372437}",neutral
+siap,1,,"{'label': 'positive', 'score': 0.9999575614929199}",positive
+hai kak maaf buat kamu resah kait kendala kamu alami aku bantu cek mohon infoin detail kendala media sosial shopee,20,,"{'label': 'neutral', 'score': 0.9997135996818542}",neutral
+moga cepat offair dmalng lgi,5,,"{'label': 'neutral', 'score': 0.9903483390808105}",neutral
+support terus,2,,"{'label': 'positive', 'score': 0.9999443292617798}",positive
+salah apaya saldo tunda terus kalau kalian,7,,"{'label': 'negative', 'score': 0.999897837638855}",negative
+janda pns viral fuul ikut linknya,6,,"{'label': 'neutral', 'score': 0.8527323007583618}",neutral
+kak maaf sekali buat kakak nyaman kait kendala transfer shopeepay rekening kakak alami aku infoin kakak chat aku beri username bukti transaksimelalui social media stay healthy,26,,"{'label': 'neutral', 'score': 0.9997572302818298}",neutral
+maaf admin transfer shopeepay bca masuk masuk kapan tau terus hari apk shopee bca bca saldo cuma tuh error shopee apa bca banget ini,24,,"{'label': 'negative', 'score': 0.9998375177383423}",negative
+hai kak maaf yaa kait kendala kamu alami jangan khawatir yaa biar aku bantu lanjut infoin detail kendala kamu aku lalu have nice day,24,,"{'label': 'neutral', 'score': 0.9995056390762329}",neutral
+jam tangan original,3,,"{'label': 'positive', 'score': 0.9996623992919922}",positive
+karyawan baleendah bandung mau layan beli qris niat mau beli pakai promo shopeepay serba ribu pertama kali beli pakai promo kasir bilang pakai promo alas dapat ijin managernya,28,,"{'label': 'neutral', 'score': 0.9996966123580933}",neutral
+tau kurang kali padahal laku tramsaksi apa nyoba lapor tpi relevan tolonggg,12,,"{'label': 'negative', 'score': 0.9997270703315735}",negative
+plisss video lucu bangetttini link,5,,"{'label': 'positive', 'score': 0.9998952150344849}",positive
+gimana admin bca sukses masuk saldo shopeepay,7,,"{'label': 'neutral', 'score': 0.9998689889907837}",neutral
+hubung sekarang tetap mana pertanggungjawabannya,5,,"{'label': 'positive', 'score': 0.9996700286865234}",positive
+abowo lindung negeri tegas kuat hukum koruptor jaga hutan,9,,"{'label': 'neutral', 'score': 0.9997277855873108}",neutral
+terus coba tidak bisa nunggu gin lama sekali apa masalah sistem gimana,12,,"{'label': 'negative', 'score': 0.9998770952224731}",negative
+coba bantu kemarin malam nyoba isi tap cash tidak bisa gin terus sekarang,13,,"{'label': 'neutral', 'score': 0.9997674822807312}",neutral
+halo kak aku mau tanya kalau misal via shopeepay terus nomor daftar shopeepay karena typo tulis nomor uang kirim,19,,"{'label': 'neutral', 'score': 0.9998890161514282}",neutral
+gong cai angpao lai angpao voucher admin buat aku kan admin,11,,"{'label': 'neutral', 'score': 0.9945835471153259}",neutral
+selalu error dehhh masalah jaring inilahhh sumpah yaaa padahall jaring baik baik liat oke oke tiap mau selalu gin,19,,"{'label': 'negative', 'score': 0.9999005794525146}",negative
+kak maaf sekali buat nyaman kait kendala kakak kece lanjut mohon info username kendala detail kendala aku tunggu yaa,19,,"{'label': 'neutral', 'score': 0.9998465776443481}",neutral
+kenapasih sih,2,,"{'label': 'negative', 'score': 0.9997466206550598}",negative
+makanya admin,2,,"{'label': 'neutral', 'score': 0.8085057139396667}",neutral
+huehue,1,,"{'label': 'negative', 'score': 0.7320407629013062}",negative
+bagi admin,2,,"{'label': 'positive', 'score': 0.9796015024185181}",positive

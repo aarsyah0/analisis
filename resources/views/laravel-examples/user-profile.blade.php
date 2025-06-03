@@ -8,17 +8,17 @@
                 // Define CSV files and their identifiers (from public/storage folder)
                 $datasets = [
                     'dana' => [
-                        'path' => public_path('storage/data_labeled.csv'),
+                        'path' => base_path('resources/views/data/data_labeled.csv'),
                         'title' => 'Dana',
                         'anchor' => 'dana',
                     ],
                     'gopay' => [
-                        'path' => public_path('storage/data_labeledgopay.csv'),
+                        'path' => base_path('resources/views/data/data_labeledgopay.csv'),
                         'title' => 'GoPay',
                         'anchor' => 'gopay',
                     ],
                     'shopee' => [
-                        'path' => public_path('storage/data_labeledshopee.csv'),
+                        'path' => base_path('resources/views/data/data_labeledshopee.csv'),
                         'title' => 'ShopeePay',
                         'anchor' => 'shopeepay',
                     ],
